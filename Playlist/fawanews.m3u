@@ -1,6 +1,6 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 20, 2026 at 04:00 PM EST
-# Total categories: 14
+#PLAYLIST: The TV App - June 20, 2026 at 06:00 PM EST
+# Total categories: 13
 # Total events: 32
 # Working streams: 30
 
@@ -18,9 +18,12 @@ http://193.47.62.42/hls/RRRRXQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Boxing___Garner_vs_Magnesi" tvg-name="Boxing : Garner vs Magnesi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Garner vs Magnesi [TBD]
 http://193.47.62.42/hls/FMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Cricket T20 World Cup
-#EXTINF:-1 tvg-id="England_W_vs_Scotland_W" tvg-name="England W vs Scotland W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket T20 World Cup",England W vs Scotland W [2:30 PM ET]
-http://193.47.62.41/hls/KDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Vila_Nova_FC_vs_Nautico" tvg-name="Vila Nova FC vs Nautico" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Vila Nova FC vs Nautico [7:00 PM ET]
+http://193.47.62.42/hls/GDDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ceara_vs_Botafogo_SP" tvg-name="Ceara vs Botafogo SP" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Ceara vs Botafogo SP [7:00 PM ET]
+http://193.47.62.42/hls/GDDDDQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Darts
 #EXTINF:-1 tvg-id="Darts_European_Tour_9" tvg-name="Darts European Tour 9" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts European Tour 9 [2:00 PM ET]
@@ -31,14 +34,17 @@ http://193.47.62.42/hls/KDDDSSSSSQ.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.42/hls/HAAAZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
+#EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___ENG_HD" tvg-name="Germany vs Ivory Coast - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - ENG HD [5:00 PM ET]
+http://193.47.62.47/hls/dXVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___ENG" tvg-name="Germany vs Ivory Coast - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - ENG [5:00 PM ET]
 http://193.47.62.47/hls/dXFPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___HD_1" tvg-name="Germany vs Ivory Coast - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - HD 1 [5:00 PM ET]
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___ENG_HD" tvg-name="Germany vs Ivory Coast - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - ENG HD [5:00 PM ET]
-http://193.47.62.47/hls/dXVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___FR" tvg-name="Germany vs Ivory Coast - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - FR [5:00 PM ET]
+http://193.47.62.47/hls/dXZRRRZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___SWE_HD" tvg-name="Germany vs Ivory Coast - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - SWE HD [5:00 PM ET]
 http://193.47.62.47/hls/dXVVVVZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -46,8 +52,8 @@ http://193.47.62.47/hls/dXVVVVZ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___SWE" tvg-name="Germany vs Ivory Coast - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - SWE [5:00 PM ET]
 http://193.47.62.47/hls/dXFPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___FR" tvg-name="Germany vs Ivory Coast - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - FR [5:00 PM ET]
-http://193.47.62.47/hls/dXZRRRZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___FR_HD" tvg-name="Germany vs Ivory Coast - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - FR HD [5:00 PM ET]
+https://pul-tenm.nbs3g.com/live/hd-en-1-4460915.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___NL" tvg-name="Germany vs Ivory Coast - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - NL [5:00 PM ET]
 http://193.47.62.47/hls/dXZRRRZa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -61,18 +67,11 @@ https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|refe
 #EXTINF:-1 tvg-id="Germany_vs_Ivory_Coast___CN_HD" tvg-name="Germany vs Ivory Coast - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Germany vs Ivory Coast - CN HD [5:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Faroe Islands Premier League
-#EXTINF:-1 tvg-id="NSI_Runavik_vs_Toftir" tvg-name="NSI Runavik vs Toftir" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",NSI Runavik vs Toftir [3:00 PM ET]
-http://193.47.62.42/hls/HAAAZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_US_Open" tvg-name="Golf US Open" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf US Open [11:00 AM ET]
 http://193.47.62.59/hls/FOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="New_York_Yankees_vs_Cincinnati_Reds" tvg-name="New York Yankees vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Yankees vs Cincinnati Reds [2:35 PM ET]
-http://193.47.62.42/hls/HAAAZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Chicago_Cubs_vs_Toronto_Blue_Jays" tvg-name="Chicago Cubs vs Toronto Blue Jays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs Toronto Blue Jays [3:20 PM ET]
 http://193.47.62.42/hls/HAAAZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -99,13 +98,13 @@ http://193.47.62.42/hls/RRRRXQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Montpellier_vs_Stade_Francais_Paris" tvg-name="Montpellier vs Stade Francais Paris" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="Rugby Top 14",Montpellier vs Stade Francais Paris [4:05 PM ET]
 http://193.47.62.42/hls/GDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Spain Basketball ACB
-#EXTINF:-1 tvg-id="Valencia_vs_Barcelona" tvg-name="Valencia vs Barcelona" tvg-logo="https://pbs.twimg.com/profile_images/2067250528262705153/aIkSlctR_400x400.jpg" group-title="Spain Basketball ACB",Valencia vs Barcelona [3:00 PM ET]
-http://193.47.62.42/hls/HAAAZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Spanish Segunda Liga
 #EXTINF:-1 tvg-id="Almeria_vs_Malaga" tvg-name="Almeria vs Malaga" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Almeria vs Malaga [4:00 PM ET]
 http://193.47.62.42/hls/HAAAZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:UFC Fight Night
+#EXTINF:-1 tvg-id="UFC_Fight_Night___Kape_vs_Horiguchi" tvg-name="UFC Fight Night : Kape vs Horiguchi" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night",UFC Fight Night : Kape vs Horiguchi [7:00 PM ET]
+http://193.47.62.42/hls/JJJJd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
 #EXTINF:-1 tvg-id="Phoenix_Mercury_W_vs_Seattle_Storm_W" tvg-name="Phoenix Mercury W vs Seattle Storm W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Phoenix Mercury W vs Seattle Storm W [4:00 PM ET]
