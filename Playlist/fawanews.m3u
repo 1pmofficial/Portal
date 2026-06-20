@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 20, 2026 at 08:00 AM EST
-# Total categories: 17
-# Total events: 28
-# Working streams: 28
+#PLAYLIST: The TV App - June 20, 2026 at 10:00 AM EST
+# Total categories: 18
+# Total events: 24
+# Working streams: 24
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Collingwood_Magpies_vs_Port_Adelaide_Power" tvg-name="Collingwood Magpies vs Port Adelaide Power" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Collingwood Magpies vs Port Adelaide Power [6:35 AM ET]
-http://193.47.62.41/hls/KDDDS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Belarus Vysshaya Liga
 #EXTINF:-1 tvg-id="Belshina_vs_Zhodino" tvg-name="Belshina vs Zhodino" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png" group-title="Belarus Vysshaya Liga",Belshina vs Zhodino [8:30 AM ET]
@@ -17,6 +13,10 @@ http://193.47.62.41/hls/beeeqq.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Slavia_Mozyr_vs_Isloch" tvg-name="Slavia Mozyr vs Isloch" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png" group-title="Belarus Vysshaya Liga",Slavia Mozyr vs Isloch [10:30 AM ET]
 http://193.47.62.41/hls/FHHHZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Londrina_vs_Athletic_Club" tvg-name="Londrina vs Athletic Club" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Londrina vs Athletic Club [11:00 AM ET]
+http://193.47.62.59/hls/VAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="India_vs_Afghanistan" tvg-name="India vs Afghanistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",India vs Afghanistan [5:00 AM ET]
@@ -26,9 +26,6 @@ http://193.47.62.41/hls/eeeeD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket T20 World Cup
-#EXTINF:-1 tvg-id="Australia_W_vs_Netherlands_W" tvg-name="Australia W vs Netherlands W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket T20 World Cup",Australia W vs Netherlands W [6:30 AM ET]
-http://193.47.62.41/hls/KDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Pakistan_W_vs_Bangladesh_W" tvg-name="Pakistan W vs Bangladesh W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket T20 World Cup",Pakistan W vs Bangladesh W [10:30 AM ET]
 http://193.47.62.41/hls/KDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -36,8 +33,16 @@ http://193.47.62.41/hls/KDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Darts_European_Tour_9" tvg-name="Darts European Tour 9" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts European Tour 9 [8:00 AM ET]
 http://193.47.62.41/hls/KDDDSSSSSQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:English Premiership Rugby
+#EXTINF:-1 tvg-id="Northampton_Saints_vs_Exeter_Chiefs" tvg-name="Northampton Saints vs Exeter Chiefs" tvg-logo="https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg" group-title="English Premiership Rugby",Northampton Saints vs Exeter Chiefs [11:00 AM ET]
+http://193.47.62.59/hls/VAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English Rugby Super League
+#EXTINF:-1 tvg-id="York_RLFC_vs_Wigan_Warriors" tvg-name="York RLFC vs Wigan Warriors" tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="English Rugby Super League",York RLFC vs Wigan Warriors [11:00 AM ET]
+http://193.47.62.59/hls/VAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
-#EXTINF:-1 tvg-id="Golf_US_Open" tvg-name="Golf US Open" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf US Open [8:30 AM ET]
+#EXTINF:-1 tvg-id="Golf_US_Open" tvg-name="Golf US Open" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf US Open [11:00 AM ET]
 http://193.47.62.59/hls/FOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
@@ -48,10 +53,7 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Kazakhstan Premier League
-#EXTINF:-1 tvg-id="Altai_vs_Zhetysu_Taldykorgan" tvg-name="Altai vs Zhetysu Taldykorgan" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei.jpg" group-title="Kazakhstan Premier League",Altai vs Zhetysu Taldykorgan [8:00 AM ET]
-http://193.47.62.41/hls/beee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Zhenis_vs_Ertis_Pavlodar" tvg-name="Zhenis vs Ertis Pavlodar" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="Kazakhstan Premier League",Zhenis vs Ertis Pavlodar [10:00 AM ET]
+#EXTINF:-1 tvg-id="Zhenis_vs_Ertis_Pavlodar" tvg-name="Zhenis vs Ertis Pavlodar" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei.jpg" group-title="Kazakhstan Premier League",Zhenis vs Ertis Pavlodar [10:00 AM ET]
 http://193.47.62.41/hls/FHHH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Latvia Virsliga
@@ -66,16 +68,9 @@ http://193.47.62.41/hls/eaeaeaZZ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="UCI_Mountain_Bike_World_Series" tvg-name="UCI Mountain Bike World Series" tvg-logo="https://pbs.twimg.com/profile_images/1759893549946994688/fvIisRQd_400x400.jpg" group-title="Mountain Bike",UCI Mountain Bike World Series [7:30 AM ET]
 http://193.47.62.41/hls/KDDDSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Canterbury_Bulldogs_vs_Manly_Sea_Eagles" tvg-name="Canterbury Bulldogs vs Manly Sea Eagles" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canterbury Bulldogs vs Manly Sea Eagles [6:35 AM ET]
-http://193.47.62.41/hls/KDDDSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Rugby Friendly
-#EXTINF:-1 tvg-id="South_Africa_A_vs_Zimbabwe" tvg-name="South Africa A vs Zimbabwe" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",South Africa A vs Zimbabwe [7:00 AM ET]
-http://193.47.62.55/hls/KDDDSSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="South_Africa_vs_Barbarians" tvg-name="South Africa vs Barbarians" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",South Africa vs Barbarians [10:00 AM ET]
-http://193.47.62.44/hls/FHHHZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/FHHHZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Federation Cup
 #EXTINF:-1 tvg-id="Simba_vs_Coastal_Union" tvg-name="Simba vs Coastal Union" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Federation Cup",Simba vs Coastal Union [9:30 AM ET]
@@ -93,12 +88,6 @@ http://193.47.62.41/hls/NNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.42/hls/GAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Volleyball Nations League
-#EXTINF:-1 tvg-id="USA_W_vs_Italy_W" tvg-name="USA W vs Italy W" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",USA W vs Italy W [5:00 AM ET]
-http://193.47.62.41/hls/eeeeDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Netherlands_W_vs_Poland_W" tvg-name="Netherlands W vs Poland W" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Netherlands W vs Poland W [7:00 AM ET]
-http://193.47.62.41/hls/KDDDSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Japan_W_vs_Dominican_Republic_W" tvg-name="Japan W vs Dominican Republic W" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Japan W vs Dominican Republic W [9:00 AM ET]
 http://193.47.62.41/hls/beeeqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
