@@ -1,48 +1,49 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 19, 2026 at 10:00 PM EST
-# Total categories: 8
+#PLAYLIST: The TV App - June 20, 2026 at 12:00 AM EST
+# Total categories: 9
 # Total events: 33
 # Working streams: 33
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Adelaide_Crows_vs_Melbourne_Demons" tvg-name="Adelaide Crows vs Melbourne Demons" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Adelaide Crows vs Melbourne Demons [12:15 AM ET]
+http://193.47.62.41/hls/aggg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Boxing
 #EXTINF:-1 tvg-id="Boxing___Sylve_vs_Diaz" tvg-name="Boxing : Sylve vs Diaz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing",Boxing : Sylve vs Diaz [9:00 PM ET]
 http://193.47.62.41/hls/HMMMQQQQqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___ENG_HD" tvg-name="Brazil vs Haiti - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - ENG HD [9:30 PM ET]
-http://193.47.62.47/hls/XVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___HD_1" tvg-name="Brazil vs Haiti - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - HD 1 [9:30 PM ET]
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___ENG" tvg-name="Brazil vs Haiti - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - ENG [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ENG" tvg-name="Turkey vs Paraguay - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ENG [12:00 AM ET]
 http://193.47.62.47/hls/XFPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___PT" tvg-name="Brazil vs Haiti - PT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - PT [9:30 PM ET]
-http://193.47.62.47/hls/YYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___HD_1" tvg-name="Turkey vs Paraguay - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - HD 1 [12:00 AM ET]
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___SWE" tvg-name="Brazil vs Haiti - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - SWE [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ENG_HD" tvg-name="Turkey vs Paraguay - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ENG HD [12:00 AM ET]
+http://193.47.62.47/hls/XVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___SWE" tvg-name="Turkey vs Paraguay - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - SWE [12:00 AM ET]
 http://193.47.62.47/hls/XFPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___SWE_HD" tvg-name="Brazil vs Haiti - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - SWE HD [9:30 PM ET]
-http://193.47.62.47/hls/XVVVVZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___FR" tvg-name="Brazil vs Haiti - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - FR [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___FR" tvg-name="Turkey vs Paraguay - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - FR [12:00 AM ET]
 http://193.47.62.47/hls/XZRRRZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___NL" tvg-name="Brazil vs Haiti - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - NL [9:30 PM ET]
-http://193.47.62.47/hls/XZRRRZa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___SWE_HD" tvg-name="Turkey vs Paraguay - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - SWE HD [12:00 AM ET]
+http://193.47.62.47/hls/XVVVVZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___ES" tvg-name="Brazil vs Haiti - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - ES [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ES" tvg-name="Turkey vs Paraguay - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ES [12:00 AM ET]
 http://193.47.62.47/hls/XZRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___VT" tvg-name="Brazil vs Haiti - VT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - VT [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___VT" tvg-name="Turkey vs Paraguay - VT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - VT [12:00 AM ET]
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Brazil_vs_Haiti___CN_HD" tvg-name="Brazil vs Haiti - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Haiti - CN HD [9:30 PM ET]
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___NL" tvg-name="Turkey vs Paraguay - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - NL [12:00 AM ET]
+http://193.47.62.47/hls/XZRRRZa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___CN_HD" tvg-name="Turkey vs Paraguay - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - CN HD [12:00 AM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
