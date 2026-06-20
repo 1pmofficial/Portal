@@ -1,14 +1,17 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 20, 2026 at 12:00 AM EST
-# Total categories: 9
-# Total events: 33
-# Working streams: 33
+#PLAYLIST: The TV App - June 20, 2026 at 02:00 AM EST
+# Total categories: 11
+# Total events: 37
+# Working streams: 37
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:AFL Aussie Rules
 #EXTINF:-1 tvg-id="Adelaide_Crows_vs_Melbourne_Demons" tvg-name="Adelaide Crows vs Melbourne Demons" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Adelaide Crows vs Melbourne Demons [12:15 AM ET]
+http://193.47.62.41/hls/aggg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="GWS_Giants_vs_Carlton_Blues" tvg-name="GWS Giants vs Carlton Blues" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",GWS Giants vs Carlton Blues [3:15 AM ET]
 http://193.47.62.41/hls/aggg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Boxing
@@ -19,29 +22,29 @@ http://193.47.62.41/hls/HMMMQQQQqq.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ENG" tvg-name="Turkey vs Paraguay - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ENG [12:00 AM ET]
 http://193.47.62.47/hls/XFPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___HD_1" tvg-name="Turkey vs Paraguay - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - HD 1 [12:00 AM ET]
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ENG_HD" tvg-name="Turkey vs Paraguay - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ENG HD [12:00 AM ET]
 http://193.47.62.47/hls/XVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___HD_1" tvg-name="Turkey vs Paraguay - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - HD 1 [12:00 AM ET]
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___SWE" tvg-name="Turkey vs Paraguay - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - SWE [12:00 AM ET]
 http://193.47.62.47/hls/XFPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___FR" tvg-name="Turkey vs Paraguay - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - FR [12:00 AM ET]
-http://193.47.62.47/hls/XZRRRZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___SWE_HD" tvg-name="Turkey vs Paraguay - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - SWE HD [12:00 AM ET]
 http://193.47.62.47/hls/XVVVVZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___NL" tvg-name="Turkey vs Paraguay - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - NL [12:00 AM ET]
+http://193.47.62.47/hls/XZRRRZa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___FR" tvg-name="Turkey vs Paraguay - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - FR [12:00 AM ET]
+http://193.47.62.47/hls/XZRRRZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___ES" tvg-name="Turkey vs Paraguay - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - ES [12:00 AM ET]
 http://193.47.62.47/hls/XZRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___VT" tvg-name="Turkey vs Paraguay - VT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - VT [12:00 AM ET]
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Turkey_vs_Paraguay___NL" tvg-name="Turkey vs Paraguay - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - NL [12:00 AM ET]
-http://193.47.62.47/hls/XZRRRZa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Turkey_vs_Paraguay___CN_HD" tvg-name="Turkey vs Paraguay - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Turkey vs Paraguay - CN HD [12:00 AM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -94,9 +97,20 @@ http://193.47.62.41/hls/SSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="MMA_LFA_235___Stewart_vs_Havene" tvg-name="MMA LFA 235 : Stewart vs Havene" tvg-logo="https://pbs.twimg.com/profile_images/1587458834984890369/SO7m3mRI_400x400.jpg" group-title="MMA LFA",MMA LFA 235 : Stewart vs Havene [9:00 PM ET]
 http://193.47.62.41/hls/HMMMQQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Wests_Tigers_vs_Dolphins" tvg-name="Wests Tigers vs Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Wests Tigers vs Dolphins [2:00 AM ET]
+http://193.47.62.41/hls/agggq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gold_Coast_Titans_vs_Penrith_Panthers" tvg-name="Gold Coast Titans vs Penrith Panthers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Gold Coast Titans vs Penrith Panthers [4:30 AM ET]
+http://193.47.62.41/hls/agggq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Nascar
 #EXTINF:-1 tvg-id="Nascar_Truck_Series_Navy_250" tvg-name="Nascar Truck Series Navy 250" tvg-logo="https://pbs.twimg.com/profile_images/2066509661478539264/XTDH8ZU8_400x400.jpg" group-title="Nascar",Nascar Truck Series Navy 250 [8:00 PM ET]
 http://193.47.62.41/hls/HMMMQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Super Rugby
+#EXTINF:-1 tvg-id="Hurricanes_vs_Chiefs" tvg-name="Hurricanes vs Chiefs" tvg-logo="https://pbs.twimg.com/profile_images/2061613597822980096/KRZfGqQP.jpg" group-title="Super Rugby",Hurricanes vs Chiefs [4:05 AM ET]
+http://193.47.62.41/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
 #EXTINF:-1 tvg-id="New_York_Liberty_W_vs_Washington_Mystics_W" tvg-name="New York Liberty W vs Washington Mystics W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",New York Liberty W vs Washington Mystics W [8:30 PM ET]
