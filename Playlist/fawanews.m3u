@@ -1,16 +1,17 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 21, 2026 at 04:00 PM EST
+#PLAYLIST: The TV App - June 21, 2026 at 06:00 PM EST
 # Total categories: 9
-# Total events: 39
-# Working streams: 39
+# Total events: 25
+# Working streams: 25
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Brazil Serie B
-#EXTINF:-1 tvg-id="CRB_vs_Fortaleza" tvg-name="CRB vs Fortaleza" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",CRB vs Fortaleza [4:00 PM ET]
-http://193.47.62.42/hls/TAAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Boxing
+#EXTINF:-1 tvg-id="Boxing___Lorusso_vs_Santiago" tvg-name="Boxing : Lorusso vs Santiago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing",Boxing : Lorusso vs Santiago [5:30 PM ET]
+http://193.47.62.42/hls/eeeeeeqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Brazil Serie B
 #EXTINF:-1 tvg-id="Sao_Bernardo_vs_Juventude" tvg-name="Sao Bernardo vs Juventude" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sao Bernardo vs Juventude [5:00 PM ET]
 http://193.47.62.42/hls/YAAAZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -18,54 +19,44 @@ http://193.47.62.42/hls/YAAAZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.42/hls/YAAAZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Chile Copa
-#EXTINF:-1 tvg-id="Deportes_Temuco_vs_D_Concepcion" tvg-name="Deportes Temuco vs D Concepcion" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Deportes Temuco vs D Concepcion [4:00 PM ET]
-http://193.47.62.42/hls/NQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Curico_Unido_vs_Nublense" tvg-name="Curico Unido vs Nublense" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Curico Unido vs Nublense [5:00 PM ET]
-http://193.47.62.42/hls/NQQQQZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="U_De_Chile_vs_S_Wanderers" tvg-name="U De Chile vs S Wanderers" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",U De Chile vs S Wanderers [6:30 PM ET]
 http://193.47.62.42/hls/YAAAZQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Darts
-#EXTINF:-1 tvg-id="Darts_European_Tour_9" tvg-name="Darts European Tour 9" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts European Tour 9 [2:00 PM ET]
-http://193.47.62.42/hls/KDDDSSSSSQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___ENG" tvg-name="Belgium vs Iran - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - ENG [4:00 PM ET]
-http://193.47.62.47/hls/Xrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___HD_1" tvg-name="Belgium vs Iran - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - HD 1 [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___HD_1" tvg-name="Uruguay vs Cape Verde - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - HD 1 [7:00 PM ET]
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___ENG_HD" tvg-name="Belgium vs Iran - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - ENG HD [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___ENG_HD" tvg-name="Uruguay vs Cape Verde - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - ENG HD [7:00 PM ET]
 http://193.47.62.47/hls/Xrttttx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___NL" tvg-name="Belgium vs Iran - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - NL [4:00 PM ET]
-http://193.47.62.47/hls/Xlplplp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___ENG" tvg-name="Uruguay vs Cape Verde - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - ENG [7:00 PM ET]
+http://193.47.62.47/hls/Xrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___IR" tvg-name="Belgium vs Iran - IR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - IR [4:00 PM ET]
-http://193.47.62.47/hls/XlplplpA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___SWE" tvg-name="Belgium vs Iran - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - SWE [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___SWE" tvg-name="Uruguay vs Cape Verde - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - SWE [7:00 PM ET]
 http://193.47.62.47/hls/Xlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___FR_HD" tvg-name="Belgium vs Iran - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - FR HD [4:00 PM ET]
-https://pul-tenm.nbs3g.com/live/hd-en-1-4460921.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___SWE_HD" tvg-name="Belgium vs Iran - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - SWE HD [4:00 PM ET]
-http://193.47.62.47/hls/Xlplplpqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___FR" tvg-name="Belgium vs Iran - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - FR [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___FR" tvg-name="Uruguay vs Cape Verde - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - FR [7:00 PM ET]
 http://193.47.62.47/hls/Xlplplpqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___CN_HD_2" tvg-name="Belgium vs Iran - CN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - CN HD 2 [4:00 PM ET]
-https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___SWE_HD" tvg-name="Uruguay vs Cape Verde - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - SWE HD [7:00 PM ET]
+http://193.47.62.47/hls/Xlplplpqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___ES" tvg-name="Belgium vs Iran - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - ES [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___FR_HD" tvg-name="Uruguay vs Cape Verde - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - FR HD [7:00 PM ET]
+https://pul-tenm.nbs3g.com/live/hd-en-1-4460965.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___NL" tvg-name="Uruguay vs Cape Verde - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - NL [7:00 PM ET]
+http://193.47.62.47/hls/Xlplplp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___ES" tvg-name="Uruguay vs Cape Verde - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - ES [7:00 PM ET]
 http://193.47.62.47/hls/Xlplplpq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Iran___CN_HD" tvg-name="Belgium vs Iran - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Iran - CN HD [4:00 PM ET]
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___AR" tvg-name="Uruguay vs Cape Verde - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - AR [7:00 PM ET]
+http://193.47.62.47/hls/XlplplpA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___CN_HD_2" tvg-name="Uruguay vs Cape Verde - CN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - CN HD 2 [7:00 PM ET]
+https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___CN_HD" tvg-name="Uruguay vs Cape Verde - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - CN HD [7:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
@@ -73,52 +64,12 @@ https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawan
 http://193.47.62.59/hls/FOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Iceland League
-#EXTINF:-1 tvg-id="Vestmannaeyjar_vs_Stjarnan" tvg-name="Vestmannaeyjar vs Stjarnan" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Vestmannaeyjar vs Stjarnan [3:00 PM ET]
-http://193.47.62.42/hls/TAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Valur_vs_Keflavik" tvg-name="Valur vs Keflavik" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Valur vs Keflavik [3:00 PM ET]
-http://193.47.62.42/hls/TAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Hafnarfjordur_vs_Thor_Akureyri" tvg-name="Hafnarfjordur vs Thor Akureyri" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Hafnarfjordur vs Thor Akureyri [3:00 PM ET]
-http://193.47.62.42/hls/ROOOZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Breidablik_vs_KA_Akureyri" tvg-name="Breidablik vs KA Akureyri" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Breidablik vs KA Akureyri [3:00 PM ET]
-http://193.47.62.42/hls/ROOOZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Fram_vs_Vikingur_Reykjavik" tvg-name="Fram vs Vikingur Reykjavik" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Fram vs Vikingur Reykjavik [5:15 PM ET]
 http://193.47.62.42/hls/YAAAZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:IndyCar
-#EXTINF:-1 tvg-id="Indycar_XPEL_Grand_Prix" tvg-name="Indycar XPEL Grand Prix" tvg-logo="https://pbs.twimg.com/profile_images/2066275043680641024/kn1GK_zO_400x400.jpg" group-title="IndyCar",Indycar XPEL Grand Prix [3:00 PM ET]
-http://193.47.62.42/hls/ZAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="New_York_Yankees_vs_Cincinnati_Reds" tvg-name="New York Yankees vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Yankees vs Cincinnati Reds [2:35 PM ET]
-http://193.47.62.42/hls/ROOOZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Atlanta_Braves_vs_Milwaukee_Brewers" tvg-name="Atlanta Braves vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Atlanta Braves vs Milwaukee Brewers [2:35 PM ET]
-http://193.47.62.42/hls/ROOOZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Washington_Nationals" tvg-name="Tampa Bay Rays vs Washington Nationals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Washington Nationals [2:40 PM ET]
-http://193.47.62.42/hls/ROOOZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Detroit_Tigers_vs_Chicago_White_Sox" tvg-name="Detroit Tigers vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs Chicago White Sox [2:40 PM ET]
-http://193.47.62.42/hls/ROOOZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Kansas_City_Royals_vs_St_Louis_Cardinals" tvg-name="Kansas City Royals vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Kansas City Royals vs St Louis Cardinals [3:10 PM ET]
-http://193.47.62.42/hls/TAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Houston_Astros_vs_Cleveland_Guardians" tvg-name="Houston Astros vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Houston Astros vs Cleveland Guardians [3:10 PM ET]
-http://193.47.62.42/hls/TAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Texas_Rangers_vs_San_Diego_Padres" tvg-name="Texas Rangers vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Texas Rangers vs San Diego Padres [3:35 PM ET]
-http://193.47.62.42/hls/TAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Colorado_Rockies_vs_Pittsburgh_Pirates" tvg-name="Colorado Rockies vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Pittsburgh Pirates [4:10 PM ET]
 http://193.47.62.42/hls/YAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Arizona_Diamondbacks_vs_Minnesota_Twins" tvg-name="Arizona Diamondbacks vs Minnesota Twins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Arizona Diamondbacks vs Minnesota Twins [4:15 PM ET]
-http://193.47.62.42/hls/YAAAZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Athletics_vs_Los_Angeles_Angels" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Athletics vs Los Angeles Angels [5:05 PM ET]
 http://193.47.62.42/hls/YAAAZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -132,3 +83,10 @@ http://193.47.62.42/hls/YAAAZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Nascar
 #EXTINF:-1 tvg-id="Nascar_Cup_Series_Anduril_250" tvg-name="Nascar Cup Series Anduril 250" tvg-logo="https://pbs.twimg.com/profile_images/2066509661478539264/XTDH8ZU8.jpg" group-title="Nascar",Nascar Cup Series Anduril 250 [5:00 PM ET]
 http://193.47.62.42/hls/NQQQQZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WNBA Basketball
+#EXTINF:-1 tvg-id="Las_Vegas_Aces_W_vs_Golden_State_Valkyries_W" tvg-name="Las Vegas Aces W vs Golden State Valkyries W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Las Vegas Aces W vs Golden State Valkyries W [5:00 PM ET]
+http://193.47.62.42/hls/eeeeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Washington_Mystics_W" tvg-name="Minnesota Lynx W vs Washington Mystics W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Washington Mystics W [7:00 PM ET]
+http://193.47.62.42/hls/eeeeeeq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
