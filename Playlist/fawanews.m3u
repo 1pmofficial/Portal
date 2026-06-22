@@ -1,26 +1,22 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 21, 2026 at 06:00 PM EST
-# Total categories: 9
-# Total events: 25
-# Working streams: 25
+#PLAYLIST: The TV App - June 21, 2026 at 08:00 PM EST
+# Total categories: 7
+# Total events: 20
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Boxing
-#EXTINF:-1 tvg-id="Boxing___Lorusso_vs_Santiago" tvg-name="Boxing : Lorusso vs Santiago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing",Boxing : Lorusso vs Santiago [5:30 PM ET]
-http://193.47.62.42/hls/eeeeeeqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Brazil Serie B
-#EXTINF:-1 tvg-id="Sao_Bernardo_vs_Juventude" tvg-name="Sao Bernardo vs Juventude" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sao Bernardo vs Juventude [5:00 PM ET]
-http://193.47.62.42/hls/YAAAZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Goias_vs_Operario_PR" tvg-name="Goias vs Operario-PR" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Goias vs Operario-PR [6:30 PM ET]
-http://193.47.62.42/hls/YAAAZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Chile Copa
-#EXTINF:-1 tvg-id="U_De_Chile_vs_S_Wanderers" tvg-name="U De Chile vs S Wanderers" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",U De Chile vs S Wanderers [6:30 PM ET]
-http://193.47.62.42/hls/YAAAZQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="O_Higgins_vs_U_Espanola" tvg-name="O Higgins vs U Espanola" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",O Higgins vs U Espanola [9:00 PM ET]
+http://193.47.62.42/hls/KKKKAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket MLC
+#EXTINF:-1 tvg-id="Texas_Super_Kings_vs_MI_New_York" tvg-name="Texas Super Kings vs MI New York" tvg-logo="https://pbs.twimg.com/profile_images/1795269942063108096/J6NAZH8s.jpg" group-title="Cricket MLC",Texas Super Kings vs MI New York [9:30 PM ET]
+http://193.47.62.42/hls/KKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Knight_Riders_vs_Seattle_Orcas" tvg-name="Los Angeles Knight Riders vs Seattle Orcas" tvg-logo="https://pbs.twimg.com/profile_images/1795269942063108096/J6NAZH8s.jpg" group-title="Cricket MLC",Los Angeles Knight Riders vs Seattle Orcas [7:00 PM ET]
+http://193.47.62.42/hls/KKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
 #EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___HD_1" tvg-name="Uruguay vs Cape Verde - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - HD 1 [7:00 PM ET]
@@ -32,11 +28,11 @@ http://193.47.62.47/hls/Xrttttx.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___ENG" tvg-name="Uruguay vs Cape Verde - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - ENG [7:00 PM ET]
 http://193.47.62.47/hls/Xrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___SWE" tvg-name="Uruguay vs Cape Verde - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - SWE [7:00 PM ET]
-http://193.47.62.47/hls/Xlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___FR" tvg-name="Uruguay vs Cape Verde - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - FR [7:00 PM ET]
 http://193.47.62.47/hls/Xlplplpqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___SWE" tvg-name="Uruguay vs Cape Verde - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - SWE [7:00 PM ET]
+http://193.47.62.47/hls/Xlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Uruguay_vs_Cape_Verde___SWE_HD" tvg-name="Uruguay vs Cape Verde - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Uruguay vs Cape Verde - SWE HD [7:00 PM ET]
 http://193.47.62.47/hls/Xlplplpqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -63,30 +59,17 @@ https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawan
 #EXTINF:-1 tvg-id="Golf_US_Open" tvg-name="Golf US Open" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf US Open [9:30 AM ET]
 http://193.47.62.59/hls/FOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Iceland League
-#EXTINF:-1 tvg-id="Fram_vs_Vikingur_Reykjavik" tvg-name="Fram vs Vikingur Reykjavik" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Fram vs Vikingur Reykjavik [5:15 PM ET]
-http://193.47.62.42/hls/YAAAZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Colorado_Rockies_vs_Pittsburgh_Pirates" tvg-name="Colorado Rockies vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Pittsburgh Pirates [4:10 PM ET]
-http://193.47.62.42/hls/YAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Athletics_vs_Los_Angeles_Angels" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Athletics vs Los Angeles Angels [5:05 PM ET]
-http://193.47.62.42/hls/YAAAZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Seattle_Mariners_vs_Boston_Red_Sox" tvg-name="Seattle Mariners vs Boston Red Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Seattle Mariners vs Boston Red Sox [5:10 PM ET]
-http://193.47.62.42/hls/YAAAZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Los_Angeles_Dodgers_vs_Baltimore_Orioles" tvg-name="Los Angeles Dodgers vs Baltimore Orioles" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Dodgers vs Baltimore Orioles [5:10 PM ET]
-http://193.47.62.42/hls/YAAAZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Philadelphia_Phillies_vs_New_York_Mets" tvg-name="Philadelphia Phillies vs New York Mets" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs New York Mets [8:20 PM ET]
+http://193.47.62.42/hls/KKKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Nascar
 #EXTINF:-1 tvg-id="Nascar_Cup_Series_Anduril_250" tvg-name="Nascar Cup Series Anduril 250" tvg-logo="https://pbs.twimg.com/profile_images/2066509661478539264/XTDH8ZU8.jpg" group-title="Nascar",Nascar Cup Series Anduril 250 [5:00 PM ET]
 http://193.47.62.42/hls/NQQQQZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Las_Vegas_Aces_W_vs_Golden_State_Valkyries_W" tvg-name="Las Vegas Aces W vs Golden State Valkyries W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Las Vegas Aces W vs Golden State Valkyries W [5:00 PM ET]
-http://193.47.62.42/hls/eeeeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Los_Angeles_Sparks_W_vs_New_York_Liberty_W" tvg-name="Los Angeles Sparks W vs New York Liberty W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Los Angeles Sparks W vs New York Liberty W [9:00 PM ET]
+http://193.47.62.42/hls/KKKKAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Washington_Mystics_W" tvg-name="Minnesota Lynx W vs Washington Mystics W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Washington Mystics W [7:00 PM ET]
 http://193.47.62.42/hls/eeeeeeq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
