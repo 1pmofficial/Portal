@@ -1,21 +1,24 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 22, 2026 at 12:00 PM EST
+#PLAYLIST: The TV App - June 22, 2026 at 02:00 PM EST
 # Total categories: 12
-# Total events: 30
-# Working streams: 30
+# Total events: 31
+# Working streams: 31
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:FIFA World Cup
+#EXTINF:-1 tvg-id="Argentina_vs_Austria___FR_HD" tvg-name="Argentina vs Austria - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - FR HD [2:00 PM ET]
+https://pul-tenm.nbs3g.com/live/hd-en-1-4460930.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Austria___ENG" tvg-name="Argentina vs Austria - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - ENG [2:00 PM ET]
+http://193.47.62.47/hls/SXrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___ENG_HD" tvg-name="Argentina vs Austria - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - ENG HD [2:00 PM ET]
 http://193.47.62.47/hls/SXrttttx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___HD_1" tvg-name="Argentina vs Austria - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - HD 1 [2:00 PM ET]
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Argentina_vs_Austria___ENG" tvg-name="Argentina vs Austria - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - ENG [2:00 PM ET]
-http://193.47.62.47/hls/SXrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___SWE" tvg-name="Argentina vs Austria - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - SWE [2:00 PM ET]
 http://193.47.62.47/hls/SXlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -32,19 +35,19 @@ http://193.47.62.47/hls/SXlplplp.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___ES" tvg-name="Argentina vs Austria - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - ES [2:00 PM ET]
 http://193.47.62.47/hls/SXlplplpq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Argentina_vs_Austria___AR" tvg-name="Argentina vs Austria - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - AR [2:00 PM ET]
-http://193.47.62.47/hls/SXlplplpA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Argentina_vs_Austria___JP_HD" tvg-name="Argentina vs Austria - JP HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - JP HD [2:00 PM ET]
+https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___CN_HD_2" tvg-name="Argentina vs Austria - CN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - CN HD 2 [2:00 PM ET]
 https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Austria___AR" tvg-name="Argentina vs Austria - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - AR [2:00 PM ET]
+http://193.47.62.47/hls/SXlplplpA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Argentina_vs_Austria___CN_HD" tvg-name="Argentina vs Austria - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Austria - CN HD [2:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Georgia League
-#EXTINF:-1 tvg-id="Dila_Gori_vs_Rustavi" tvg-name="Dila Gori vs Rustavi" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Dila Gori vs Rustavi [12:00 PM ET]
-http://193.47.62.42/hls/UFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Torpedo_Kutaisi_vs_Spaeri" tvg-name="Torpedo Kutaisi vs Spaeri" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Torpedo Kutaisi vs Spaeri [2:00 PM ET]
 http://193.47.62.42/hls/UFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -66,10 +69,6 @@ http://193.47.62.42/hls/DHHHQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Derry_City" tvg-name="Shamrock Rovers vs Derry City" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shamrock Rovers vs Derry City [4:00 PM ET]
 http://193.47.62.42/hls/DHHHQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Latvia Virsliga
-#EXTINF:-1 tvg-id="RFS_vs_Ogre_United" tvg-name="RFS vs Ogre United" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",RFS vs Ogre United [12:00 PM ET]
-http://193.47.62.42/hls/UFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Peru Copa
 #EXTINF:-1 tvg-id="Binacional_vs_Cusco" tvg-name="Binacional vs Cusco" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",Binacional vs Cusco [3:00 PM ET]
 http://193.47.62.42/hls/DHHHQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -77,23 +76,20 @@ http://193.47.62.42/hls/DHHHQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Grau_vs_Pirata" tvg-name="Grau vs Pirata" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",Grau vs Pirata [5:15 PM ET]
 http://193.47.62.42/hls/DHHHQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_Championship_League___Table_1" tvg-name="Snooker Championship League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 1 [7:00 AM ET]
+#EXTGRP:Snooker --:--
+#EXTINF:-1 tvg-id="Snooker_Championship_League" tvg-name="Snooker Championship League" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Championship League [TBD]
 http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Snooker_Championship_League___Table_2" tvg-name="Snooker Championship League - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 2 [7:00 AM ET]
-http://193.47.62.59/hls/brrrQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spain Basketball ACB
 #EXTINF:-1 tvg-id="Barcelona_vs_Valencia" tvg-name="Barcelona vs Valencia" tvg-logo="https://pbs.twimg.com/profile_images/2067250528262705153/aIkSlctR_400x400.jpg" group-title="Spain Basketball ACB",Barcelona vs Valencia [3:00 PM ET]
 http://193.47.62.42/hls/DHHH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Superettan
-#EXTINF:-1 tvg-id="Oddevold_vs_Ljungskile" tvg-name="Oddevold vs Ljungskile" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Oddevold vs Ljungskile [2:00 PM ET]
-http://193.47.62.42/hls/UFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Varberg_vs_Landskrona" tvg-name="Varberg vs Landskrona" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Varberg vs Landskrona [2:00 PM ET]
 http://193.47.62.42/hls/UFFFQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Oddevold_vs_Ljungskile" tvg-name="Oddevold vs Ljungskile" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Oddevold vs Ljungskile [2:00 PM ET]
+http://193.47.62.42/hls/UFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Orebro_vs_Sandviken" tvg-name="Orebro vs Sandviken" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Orebro vs Sandviken [2:05 PM ET]
 http://193.47.62.42/hls/UFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -108,3 +104,10 @@ http://193.47.62.42/hls/ayyyyQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Eastbourne_Bad_Homburg" tvg-name="Tennis WTA Eastbourne/Bad Homburg" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Eastbourne/Bad Homburg [7:00 AM ET]
 http://193.47.62.42/hls/ayyyy.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WWE Wrestling
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___CH_1" tvg-name="WWE Monday Night RAW - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - CH 1 [3:00 PM ET]
+http://193.47.62.42/hls/ZTTTQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___CH_2_HD" tvg-name="WWE Monday Night RAW - CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - CH 2 HD [3:00 PM ET]
+https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
