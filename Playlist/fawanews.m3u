@@ -1,11 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 22, 2026 at 08:00 AM EST
-# Total categories: 4
-# Total events: 7
-# Working streams: 7
+#PLAYLIST: The TV App - June 22, 2026 at 10:00 AM EST
+# Total categories: 5
+# Total events: 9
+# Working streams: 9
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="AIK_vs_Kalmar" tvg-name="AIK vs Kalmar" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",AIK vs Kalmar [10:00 AM ET]
+http://193.47.62.59/hls/EFFFQQQQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="AIK_vs_Kalmar___HD" tvg-name="AIK vs Kalmar - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",AIK vs Kalmar - HD [10:00 AM ET]
+https://pul-tenm.nbs3g.com/live/sd-1-4554425.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
