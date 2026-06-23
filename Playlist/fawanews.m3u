@@ -1,36 +1,52 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 22, 2026 at 06:00 PM EST
-# Total categories: 9
-# Total events: 30
-# Working streams: 28
+#PLAYLIST: The TV App - June 22, 2026 at 08:00 PM EST
+# Total categories: 4
+# Total events: 33
+# Working streams: 31
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Ponte_Preta_vs_Novorizontino" tvg-name="Ponte Preta vs Novorizontino" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Ponte Preta vs Novorizontino [8:00 PM ET]
+http://193.47.62.42/hls/qqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:FIFA World Cup
+#EXTINF:-1 tvg-id="Norway_vs_Senegal___HD_1" tvg-name="Norway vs Senegal - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Norway vs Senegal - HD 1 [9:00 PM ET]
+https://live01-cn-ali.kbazwa.com/live/22539477.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Norway_vs_Senegal___ENG" tvg-name="Norway vs Senegal - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Norway vs Senegal - ENG [9:00 PM ET]
+http://193.47.62.47/hls/pSXrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Norway_vs_Senegal___ENG_HD" tvg-name="Norway vs Senegal - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Norway vs Senegal - ENG HD [9:00 PM ET]
+http://193.47.62.47/hls/pSXrttttx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Norway_vs_Senegal___FR" tvg-name="Norway vs Senegal - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Norway vs Senegal - FR [9:00 PM ET]
+http://193.47.62.47/hls/pSXlplplpqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="France_vs_Iraq___ENG_HD" tvg-name="France vs Iraq - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - ENG HD [6:00 PM ET]
 http://193.47.62.47/hls/SXrttttx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="France_vs_Iraq___ENG" tvg-name="France vs Iraq - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - ENG [6:00 PM ET]
 http://193.47.62.47/hls/SXrtttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Iraq___FR" tvg-name="France vs Iraq - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - FR [6:00 PM ET]
-http://193.47.62.47/hls/SXlplplpqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="France_vs_Iraq___FR_HD" tvg-name="France vs Iraq - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - FR HD [6:00 PM ET]
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460927.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Iraq___HD_1" tvg-name="France vs Iraq - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - HD 1 [6:00 PM ET]
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_vs_Iraq___FR" tvg-name="France vs Iraq - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - FR [6:00 PM ET]
+http://193.47.62.47/hls/SXlplplpqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Iraq___SWE" tvg-name="France vs Iraq - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - SWE [6:00 PM ET]
-http://193.47.62.47/hls/SXlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_vs_Iraq___HD_1" tvg-name="France vs Iraq - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - HD 1 [6:00 PM ET]
+https://live01-cn-ali.kbazwa.com/live/20233432.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_vs_Iraq___NL" tvg-name="France vs Iraq - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - NL [6:00 PM ET]
+http://193.47.62.47/hls/SXlplplp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="France_vs_Iraq___SWE_HD" tvg-name="France vs Iraq - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - SWE HD [6:00 PM ET]
 http://193.47.62.47/hls/SXlplplpqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Iraq___NL" tvg-name="France vs Iraq - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - NL [6:00 PM ET]
-http://193.47.62.47/hls/SXlplplp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_vs_Iraq___SWE" tvg-name="France vs Iraq - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - SWE [6:00 PM ET]
+http://193.47.62.47/hls/SXlplplpqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="France_vs_Iraq___ES" tvg-name="France vs Iraq - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - ES [6:00 PM ET]
 http://193.47.62.47/hls/SXlplplpq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -38,64 +54,52 @@ http://193.47.62.47/hls/SXlplplpq.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="France_vs_Iraq___AR" tvg-name="France vs Iraq - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - AR [6:00 PM ET]
 http://193.47.62.47/hls/SXlplplpA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Iraq___JP_HD" tvg-name="France vs Iraq - JP HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - JP HD [6:00 PM ET]
-https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="France_vs_Iraq___CN_HD_2" tvg-name="France vs Iraq - CN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - CN HD 2 [6:00 PM ET]
-https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="France_vs_Iraq___CN_HD" tvg-name="France vs Iraq - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Iraq - CN HD [6:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Iceland League
-#EXTINF:-1 tvg-id="KR_Reykjavik_vs_Akranes___CH_1" tvg-name="KR Reykjavik vs Akranes - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",KR Reykjavik vs Akranes - CH 1 [4:15 PM ET]
-http://193.47.62.42/hls/DHHHQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="KR_Reykjavik_vs_Akranes___CH_2" tvg-name="KR Reykjavik vs Akranes - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",KR Reykjavik vs Akranes - CH 2 [4:15 PM ET]
-https://pul-tenm.nbs3g.com/live/sd-1-4480124.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Ireland Premier Division
-#EXTINF:-1 tvg-id="Shelbourne_vs_Bohemians___CH_2" tvg-name="Shelbourne vs Bohemians - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shelbourne vs Bohemians - CH 2 [3:45 PM ET]
-https://pul-tenm.nbs3g.com/live/sd-1-4469074.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Shelbourne_vs_Bohemians___CH_1" tvg-name="Shelbourne vs Bohemians - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shelbourne vs Bohemians - CH 1 [3:45 PM ET]
-http://193.47.62.42/hls/DHHHQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Derry_City___CH_1" tvg-name="Shamrock Rovers vs Derry City - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shamrock Rovers vs Derry City - CH 1 [4:00 PM ET]
-http://193.47.62.42/hls/DHHHQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Derry_City___CH_2" tvg-name="Shamrock Rovers vs Derry City - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shamrock Rovers vs Derry City - CH 2 [4:00 PM ET]
-https://pul-tenm.nbs3g.com/live/sd-1-4469075.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:MLB Baseball
+#EXTINF:-1 tvg-id="Toronto_Blue_Jays_vs_Houston_Astros" tvg-name="Toronto Blue Jays vs Houston Astros" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Toronto Blue Jays vs Houston Astros [8:07 PM ET]
+http://193.47.62.42/hls/ZIIIQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_York_Mets_vs_Chicago_Cubs" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Chicago Cubs [8:10 PM ET]
+http://193.47.62.42/hls/ZIIIQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cincinnati_Reds_vs_Milwaukee_Brewers" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cincinnati Reds vs Milwaukee Brewers [8:10 PM ET]
+http://193.47.62.42/hls/ZIIIQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Minnesota_Twins_vs_Los_Angeles_Dodgers" tvg-name="Minnesota Twins vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Los Angeles Dodgers [8:40 PM ET]
+http://193.47.62.42/hls/SIIIQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Cleveland_Guardians" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Cleveland Guardians [8:40 PM ET]
+http://193.47.62.42/hls/SIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="St_Louis_Cardinals_vs_Arizona_Diamondbacks" tvg-name="St Louis Cardinals vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",St Louis Cardinals vs Arizona Diamondbacks [8:45 PM ET]
+http://193.47.62.42/hls/SIIIQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colorado_Rockies_vs_Boston_Red_Sox" tvg-name="Colorado Rockies vs Boston Red Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Boston Red Sox [9:40 PM ET]
+http://193.47.62.42/hls/SIIIQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Angels_vs_Baltimore_Orioles" tvg-name="Los Angeles Angels vs Baltimore Orioles" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Angels vs Baltimore Orioles [10:38 PM ET]
+http://193.47.62.42/hls/SIIIQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Diego_Padres_vs_Atlanta_Braves" tvg-name="San Diego Padres vs Atlanta Braves" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Diego Padres vs Atlanta Braves [11:10 PM ET]
+http://193.47.62.42/hls/SIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Detroit_Tigers_vs_New_York_Yankees" tvg-name="Detroit Tigers vs New York Yankees" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs New York Yankees [7:10 PM ET]
 http://193.47.62.42/hls/ZTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Miami_Marlins_vs_Texas_Rangers" tvg-name="Miami Marlins vs Texas Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Miami Marlins vs Texas Rangers [7:40 PM ET]
 http://193.47.62.42/hls/ZTTTQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Peru Copa
-#EXTINF:-1 tvg-id="Binacional_vs_Cusco" tvg-name="Binacional vs Cusco" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",Binacional vs Cusco [3:00 PM ET]
-http://193.47.62.42/hls/DHHHQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:WNBA Basketball
+#EXTINF:-1 tvg-id="Connecticut_Sun_W_vs_Chicago_Sky_W" tvg-name="Connecticut Sun W vs Chicago Sky W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Connecticut Sun W vs Chicago Sky W [8:00 PM ET]
+http://193.47.62.42/hls/ZIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Grau_vs_Pirata" tvg-name="Grau vs Pirata" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",Grau vs Pirata [5:15 PM ET]
-http://193.47.62.42/hls/DHHHQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Atlanta_Dream_W_vs_Toronto_Tempo_W" tvg-name="Atlanta Dream W vs Toronto Tempo W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Atlanta Dream W vs Toronto Tempo W [8:30 PM ET]
+http://193.47.62.42/hls/ZIIIQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Snooker --:--
-#EXTINF:-1 tvg-id="Snooker_Championship_League" tvg-name="Snooker Championship League" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Championship League [TBD]
-http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Phoenix_Mercury_W" tvg-name="Indiana Fever W vs Phoenix Mercury W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Phoenix Mercury W [9:00 PM ET]
+http://193.47.62.42/hls/ZIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Spain Basketball ACB
-#EXTINF:-1 tvg-id="Barcelona_vs_Valencia" tvg-name="Barcelona vs Valencia" tvg-logo="https://pbs.twimg.com/profile_images/2067250528262705153/aIkSlctR_400x400.jpg" group-title="Spain Basketball ACB",Barcelona vs Valencia [3:00 PM ET]
-http://193.47.62.42/hls/DHHH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tennis WTA
-#EXTINF:-1 tvg-id="Tennis_WTA_Eastbourne_Bad_Homburg" tvg-name="Tennis WTA Eastbourne/Bad Homburg" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Eastbourne/Bad Homburg [7:00 AM ET]
-http://193.47.62.42/hls/ayyyy.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:WWE Wrestling
-#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___CH_1" tvg-name="WWE Monday Night RAW - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - CH 1 [3:00 PM ET]
-http://193.47.62.42/hls/ZTTTQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___CH_2_HD" tvg-name="WWE Monday Night RAW - CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - CH 2 HD [3:00 PM ET]
-https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Seattle_Storm_W_vs_Dallas_Wings_W" tvg-name="Seattle Storm W vs Dallas Wings W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Seattle Storm W vs Dallas Wings W [11:00 PM ET]
+http://193.47.62.42/hls/ZIIIQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
