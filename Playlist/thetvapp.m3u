@@ -1,18 +1,20 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 23, 2026 at 04:30 PM EST
+#PLAYLIST: The TV App - June 23, 2026 at 05:00 PM EST
 # Total categories: 4
 # Total events: 19
-# Working streams: 2
+# Working streams: 3
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 
 # CATEGORY: FIFA World Cup (1 streams)
-#EXTINF:-1 group-title="FIFA World Cup",[HD] England vs Ghana (1st half)
+#EXTINF:-1 group-title="FIFA World Cup",[HD] England vs Ghana (Halftime)
 https://chatgpt.hereisman.net/playlist/52417/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52417|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-# CATEGORY: NBA (0 streams)
+# CATEGORY: NBA (1 streams)
+#EXTINF:-1 group-title="NBA",[HD] 2026 NBA Draft (8:00 PM ET)
+https://chatgpt.hereisman.net/playlist/52420/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52420|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 # CATEGORY: MLB (1 streams)
 #EXTINF:-1 group-title="MLB",[HD] Toronto Blue Jays vs Houston Astros (In Progress)
@@ -20,4 +22,4 @@ https://chatgpt.hereisman.net/playlist/52415/load-playlist|referer=https://gooz.
 
 # CATEGORY: WNBA (0 streams)
 
-# Total streams: 2
+# Total streams: 3
