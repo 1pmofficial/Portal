@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 23, 2026 at 10:00 AM EST
-# Total categories: 7
-# Total events: 10
-# Working streams: 10
+#PLAYLIST: The TV App - June 23, 2026 at 12:00 PM EST
+# Total categories: 10
+# Total events: 19
+# Working streams: 19
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -15,12 +15,42 @@ http://193.47.62.42/hls/qqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Pakistan_vs_India" tvg-name="Pakistan vs India" tvg-logo="https://pbs.twimg.com/profile_images/1743234619581853696/qbUTZpwc_400x400.jpg" group-title="Field Hockey Pro League",Pakistan vs India [10:30 AM ET]
 http://193.47.62.42/hls/qqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Australia_vs_Netherlands" tvg-name="Australia vs Netherlands" tvg-logo="https://pbs.twimg.com/profile_images/1743234619581853696/qbUTZpwc_400x400.jpg" group-title="Field Hockey Pro League",Australia vs Netherlands [1:00 PM ET]
+http://193.47.62.42/hls/qqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Finland Veikkausliiga
+#EXTINF:-1 tvg-id="VPS_vs_AC_Oulu" tvg-name="VPS vs AC Oulu" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",VPS vs AC Oulu [12:00 PM ET]
+http://193.47.62.42/hls/LEEEQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Lahti_vs_TPS" tvg-name="Lahti vs TPS" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Lahti vs TPS [12:00 PM ET]
+http://193.47.62.42/hls/LEEEQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="KuPS_vs_Ilves" tvg-name="KuPS vs Ilves" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",KuPS vs Ilves [12:00 PM ET]
+http://193.47.62.42/hls/LEEEQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Inter_Turku_vs_SJK" tvg-name="Inter Turku vs SJK" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Inter Turku vs SJK [1:00 PM ET]
+http://193.47.62.42/hls/LIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jaro_vs_Gnistan" tvg-name="Jaro vs Gnistan" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Jaro vs Gnistan [1:00 PM ET]
+http://193.47.62.42/hls/LIIIZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Georgia League
+#EXTINF:-1 tvg-id="Iberia_1999_vs_Meshakhte_Tkibuli" tvg-name="Iberia 1999 vs Meshakhte Tkibuli" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Iberia 1999 vs Meshakhte Tkibuli [12:00 PM ET]
+http://193.47.62.42/hls/LEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Lithuania Toplyga
+#EXTINF:-1 tvg-id="BFA_Vilnius_vs_Kauno_Zalgiris" tvg-name="BFA Vilnius vs Kauno Zalgiris" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",BFA Vilnius vs Kauno Zalgiris [12:00 PM ET]
+http://193.47.62.42/hls/LEEEQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FK_Minija_vs_FK_Panevezys" tvg-name="FK Minija vs FK Panevezys" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",FK Minija vs FK Panevezys [12:30 PM ET]
+http://193.47.62.42/hls/LEEEQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_Championship_League___Table_1" tvg-name="Snooker Championship League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 1 [7:00 AM ET]
