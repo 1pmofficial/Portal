@@ -1,15 +1,75 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 24, 2026 at 12:00 PM EST
-# Total categories: 11
-# Total events: 23
-# Working streams: 23
+#PLAYLIST: The TV App - June 24, 2026 at 02:00 PM EST
+# Total categories: 15
+# Total events: 45
+# Working streams: 45
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:Cricket T20 World Cup
+#EXTINF:-1 tvg-id="England_W_vs_West_Indies_W" tvg-name="England W vs West Indies W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket T20 World Cup",England W vs West Indies W [2:30 PM ET]
+http://193.47.62.42/hls/YOOOZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:FIFA World Cup
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___ENG" tvg-name="Bosnia-Herzegovina vs Qatar - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - ENG [4:00 PM ET]
+http://193.47.62.47/hls/SKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___ENG" tvg-name="Switzerland vs Canada - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - ENG [4:00 PM ET]
+http://193.47.62.47/hls/XSKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___ENG_HD" tvg-name="Switzerland vs Canada - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - ENG HD [4:00 PM ET]
+http://193.47.62.47/hls/XSKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___ENG_HD" tvg-name="Bosnia-Herzegovina vs Qatar - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - ENG HD [4:00 PM ET]
+http://193.47.62.47/hls/SKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___HD_1" tvg-name="Switzerland vs Canada - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - HD 1 [4:00 PM ET]
+https://live13a.jynrrs.com/live/20233432.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___HD_1" tvg-name="Bosnia-Herzegovina vs Qatar - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - HD 1 [4:00 PM ET]
+https://live13a.jynrrs.com/live/79635460.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___SWAHILI" tvg-name="Bosnia-Herzegovina vs Qatar - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - SWAHILI [4:00 PM ET]
+http://193.47.62.47/hls/GGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___FR" tvg-name="Bosnia-Herzegovina vs Qatar - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - FR [4:00 PM ET]
+http://193.47.62.47/hls/EKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___FR" tvg-name="Switzerland vs Canada - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - FR [4:00 PM ET]
+http://193.47.62.47/hls/XEKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___SWE" tvg-name="Switzerland vs Canada - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - SWE [4:00 PM ET]
+http://193.47.62.47/hls/XEKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___AR" tvg-name="Bosnia-Herzegovina vs Qatar - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - AR [4:00 PM ET]
+http://193.47.62.47/hls/EKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___ES" tvg-name="Switzerland vs Canada - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - ES [4:00 PM ET]
+http://193.47.62.47/hls/XEKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Switzerland_vs_Canada___CN_HD" tvg-name="Switzerland vs Canada - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Switzerland vs Canada - CN HD [4:00 PM ET]
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___ES" tvg-name="Bosnia-Herzegovina vs Qatar - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - ES [4:00 PM ET]
+http://193.47.62.47/hls/EKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bosnia_Herzegovina_vs_Qatar___CN_HD" tvg-name="Bosnia-Herzegovina vs Qatar - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Bosnia-Herzegovina vs Qatar - CN HD [4:00 PM ET]
+https://pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Faroe Islands Premier League
+#EXTINF:-1 tvg-id="NSI_Runavik_vs_Klaksvik" tvg-name="NSI Runavik vs Klaksvik" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",NSI Runavik vs Klaksvik [2:30 PM ET]
+http://193.47.62.42/hls/YOOOZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Friendly Match
 #EXTINF:-1 tvg-id="Dynamo_Kyiv_vs_Zilina" tvg-name="Dynamo Kyiv vs Zilina" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Dynamo Kyiv vs Zilina [12:00 PM ET]
 http://193.47.62.42/hls/STTTTQQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="CSKA_Sofia_vs_Polissya_Zhytomyr" tvg-name="CSKA Sofia vs Polissya Zhytomyr" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",CSKA Sofia vs Polissya Zhytomyr [1:00 PM ET]
+http://193.47.62.42/hls/NNNNA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vojvodina_vs_Gyor" tvg-name="Vojvodina vs Gyor" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Vojvodina vs Gyor [1:30 PM ET]
+http://193.47.62.42/hls/ZLLLQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Georgia League
 #EXTINF:-1 tvg-id="Gagra_vs_Samgurali" tvg-name="Gagra vs Samgurali" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Gagra vs Samgurali [1:00 PM ET]
@@ -36,6 +96,9 @@ http://193.47.62.42/hls/dbbbqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="New_York_Mets_vs_Chicago_Cubs" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Chicago Cubs [2:10 PM ET]
 http://193.47.62.42/hls/YOOOZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Cleveland_Guardians" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Cleveland Guardians [3:10 PM ET]
+http://193.47.62.42/hls/YOOOZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [7:00 AM ET]
 http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -43,25 +106,29 @@ http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [7:00 AM ET]
 http://193.47.62.59/hls/brrrQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Spain Basketball ACB
+#EXTINF:-1 tvg-id="Barcelona_vs_Valencia" tvg-name="Barcelona vs Valencia" tvg-logo="https://pbs.twimg.com/profile_images/2067250528262705153/aIkSlctR_400x400.jpg" group-title="Spain Basketball ACB",Barcelona vs Valencia [3:00 PM ET]
+http://193.47.62.42/hls/YOOOZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Sweden Division 1
 #EXTINF:-1 tvg-id="Karlbergs_vs_Pitea" tvg-name="Karlbergs vs Pitea" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Karlbergs vs Pitea [2:00 PM ET]
 http://193.47.62.42/hls/YOOOZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Women Allsvenskan
-#EXTINF:-1 tvg-id="AIK_W_vs_Eskilstuna_Utd_W" tvg-name="AIK W vs Eskilstuna Utd W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",AIK W vs Eskilstuna Utd W [1:00 PM ET]
-http://193.47.62.42/hls/dbbbqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Uppsala_W_vs_Hacken_W" tvg-name="Uppsala W vs Hacken W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Uppsala W vs Hacken W [1:00 PM ET]
 http://193.47.62.42/hls/dbbbqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Rosengard_W_vs_Djurgarden_W" tvg-name="Rosengard W vs Djurgarden W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Rosengard W vs Djurgarden W [1:00 PM ET]
 http://193.47.62.42/hls/dbbbqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Norrkoping_W_vs_Vittsjo_W" tvg-name="Norrkoping W vs Vittsjo W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Norrkoping W vs Vittsjo W [2:00 PM ET]
+http://193.47.62.42/hls/dbbbqqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Vaxjo_DFF_W_vs_IF_Brommapojkarna_W" tvg-name="Vaxjo DFF W vs IF Brommapojkarna W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Vaxjo DFF W vs IF Brommapojkarna W [2:00 PM ET]
 http://193.47.62.42/hls/YOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Norrkoping_W_vs_Vittsjo_W" tvg-name="Norrkoping W vs Vittsjo W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Norrkoping W vs Vittsjo W [2:00 PM ET]
-http://193.47.62.42/hls/dbbbqqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="AIK_W_vs_Eskilstuna_Utd_W" tvg-name="AIK W vs Eskilstuna Utd W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",AIK W vs Eskilstuna Utd W [2:00 PM ET]
+http://193.47.62.42/hls/dbbbqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_ATP_Hurlingham" tvg-name="Tennis ATP Hurlingham" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Hurlingham [6:00 AM ET]
@@ -86,3 +153,6 @@ http://193.47.62.42/hls/STTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Cuba_vs_USA" tvg-name="Cuba vs USA" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Cuba vs USA [12:00 PM ET]
 http://193.47.62.42/hls/STTTTQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Poland_vs_Belgium" tvg-name="Poland vs Belgium" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Poland vs Belgium [3:00 PM ET]
+http://193.47.62.42/hls/YOOOZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
