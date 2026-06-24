@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 23, 2026 at 10:00 PM EST
-# Total categories: 6
-# Total events: 32
-# Working streams: 32
+#PLAYLIST: The TV App - June 24, 2026 at 12:00 AM EST
+# Total categories: 5
+# Total events: 23
+# Working streams: 23
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:Brazil Serie B
-#EXTINF:-1 tvg-id="America_MG_vs_Criciuma" tvg-name="America MG vs Criciuma" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",America MG vs Criciuma [8:00 PM ET]
-http://193.47.62.42/hls/UUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Chile Copa
 #EXTINF:-1 tvg-id="Palestino_vs_Audax_Italiano" tvg-name="Palestino vs Audax Italiano" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Palestino vs Audax Italiano [9:30 PM ET]
@@ -22,11 +18,11 @@ http://193.47.62.42/hls/LLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___FR_HD" tvg-name="Colombia vs DR Congo - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - FR HD [11:00 PM ET]
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460974.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___ENG_HD" tvg-name="Colombia vs DR Congo - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - ENG HD [11:00 PM ET]
-http://193.47.62.47/hls/XFOFOFO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___ENG" tvg-name="Colombia vs DR Congo - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - ENG [11:00 PM ET]
 http://193.47.62.47/hls/XZAZAZAZA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___ENG_HD" tvg-name="Colombia vs DR Congo - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - ENG HD [11:00 PM ET]
+http://193.47.62.47/hls/XFOFOFO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___HD_1" tvg-name="Colombia vs DR Congo - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - HD 1 [11:00 PM ET]
 https://live13a.jynrrs.com/live/34364125.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -37,14 +33,14 @@ http://193.47.62.47/hls/XJUJUJU.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___SWE_HD" tvg-name="Colombia vs DR Congo - SWE HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - SWE HD [11:00 PM ET]
 http://193.47.62.47/hls/XZAZAZAZAS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___FR" tvg-name="Colombia vs DR Congo - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - FR [11:00 PM ET]
-http://193.47.62.47/hls/XJUJUJUSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___SWAHILI" tvg-name="Colombia vs DR Congo - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - SWAHILI [11:00 PM ET]
 http://193.47.62.47/hls/XDPDPDPAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___NL" tvg-name="Colombia vs DR Congo - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - NL [11:00 PM ET]
 http://193.47.62.47/hls/XTATATA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___FR" tvg-name="Colombia vs DR Congo - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - FR [11:00 PM ET]
+http://193.47.62.47/hls/XJUJUJUSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___ES" tvg-name="Colombia vs DR Congo - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - ES [11:00 PM ET]
 http://193.47.62.47/hls/XJUJUJUS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -53,17 +49,11 @@ http://193.47.62.47/hls/XJUJUJUS.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.47/hls/XDPDPDP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Colombia_vs_DR_Congo___CN_HD" tvg-name="Colombia vs DR Congo - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Colombia vs DR Congo - CN HD [11:00 PM ET]
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live13a.jynrrs.com/live/80427327.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="New_York_Mets_vs_Chicago_Cubs" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Chicago Cubs [8:10 PM ET]
 http://193.47.62.42/hls/UUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Cincinnati_Reds_vs_Milwaukee_Brewers" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cincinnati Reds vs Milwaukee Brewers [8:10 PM ET]
-http://193.47.62.42/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Cleveland_Guardians" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Cleveland Guardians [8:40 PM ET]
-http://193.47.62.42/hls/UUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Minnesota_Twins_vs_Los_Angeles_Dodgers" tvg-name="Minnesota Twins vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Los Angeles Dodgers [8:40 PM ET]
 http://193.47.62.42/hls/UUUUQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -82,24 +72,6 @@ http://193.47.62.42/hls/LLLLQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 
 #EXTINF:-1 tvg-id="San_Francisco_Giants_vs_Athletics" tvg-name="San Francisco Giants vs Athletics" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs Athletics [10:45 PM ET]
 http://193.47.62.42/hls/LLLLQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Toronto_Blue_Jays_vs_Houston_Astros" tvg-name="Toronto Blue Jays vs Houston Astros" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Toronto Blue Jays vs Houston Astros [5:07 PM ET]
-http://193.47.62.42/hls/rrrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Kansas_City_Royals" tvg-name="Tampa Bay Rays vs Kansas City Royals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Kansas City Royals [7:40 PM ET]
-http://193.47.62.42/hls/rrrrQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Pittsburgh_Pirates_vs_Seattle_Mariners" tvg-name="Pittsburgh Pirates vs Seattle Mariners" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Pittsburgh Pirates vs Seattle Mariners [7:40 PM ET]
-http://193.47.62.42/hls/rrrrQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Miami_Marlins_vs_Texas_Rangers" tvg-name="Miami Marlins vs Texas Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Miami Marlins vs Texas Rangers [7:40 PM ET]
-http://193.47.62.42/hls/rrrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Detroit_Tigers_vs_New_York_Yankees" tvg-name="Detroit Tigers vs New York Yankees" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs New York Yankees [7:40 PM ET]
-http://193.47.62.42/hls/rrrrQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Washington_Nationals_vs_Philadelphia_Phillies" tvg-name="Washington Nationals vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Washington Nationals vs Philadelphia Phillies [7:45 PM ET]
-http://193.47.62.42/hls/rrrrQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NBA Basketball
 #EXTINF:-1 tvg-id="NBA_Draft_2026" tvg-name="NBA Draft 2026" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",NBA Draft 2026 [9:00 PM ET]
