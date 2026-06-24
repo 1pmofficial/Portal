@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 24, 2026 at 12:00 PM EST
+#PLAYLIST: The TV App - June 24, 2026 at 12:30 PM EST
 # Total categories: 4
 # Total events: 23
-# Working streams: 1
+# Working streams: 2
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -12,10 +12,12 @@ http://1pixmedia.better-than.tv/video.mp4
 
 # CATEGORY: NBA (0 streams)
 
-# CATEGORY: MLB (1 streams)
-#EXTINF:-1 group-title="MLB",[HD] Miami Marlins vs Texas Rangers (12:09 PM ET)
+# CATEGORY: MLB (2 streams)
+#EXTINF:-1 group-title="MLB",[HD] Miami Marlins vs Texas Rangers (In Progress)
 https://chatgpt.hereisman.net/playlist/52462/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52462|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 group-title="MLB",[HD] New York Mets vs Chicago Cubs (1:09 PM ET)
+https://chatgpt.hereisman.net/playlist/52465/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52465|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 # CATEGORY: WNBA (0 streams)
 
-# Total streams: 1
+# Total streams: 2
