@@ -1,104 +1,53 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 25, 2026 at 04:00 AM EST
-# Total categories: 6
-# Total events: 30
-# Working streams: 30
+#PLAYLIST: The TV App - June 25, 2026 at 06:00 AM EST
+# Total categories: 9
+# Total events: 12
+# Working streams: 12
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:AEW Wrestling
-#EXTINF:-1 tvg-id="AEW_Dynamite" tvg-name="AEW Dynamite" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="AEW Wrestling",AEW Dynamite [9:00 PM ET]
-http://193.47.62.42/hls/ssss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Brisbane_Lions_vs_Sydney_Swans" tvg-name="Brisbane Lions vs Sydney Swans" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Brisbane Lions vs Sydney Swans [6:30 AM ET]
+http://193.47.62.42/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Chile Copa
-#EXTINF:-1 tvg-id="Union_La_Calera_vs_U_De_Chile" tvg-name="Union La Calera vs U De Chile" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Union La Calera vs U De Chile [8:30 PM ET]
-http://193.47.62.42/hls/OFFFQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Cricket Test Series
+#EXTINF:-1 tvg-id="England_vs_New_Zealand" tvg-name="England vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket Test Series",England vs New Zealand [7:00 AM ET]
+http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="D_Concepcion_vs_Huachipato" tvg-name="D Concepcion vs Huachipato" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",D Concepcion vs Huachipato [8:30 PM ET]
-http://193.47.62.42/hls/OFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Open_d_Italia" tvg-name="Golf Open d'Italia" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf Open d'Italia [8:30 AM ET]
+http://193.47.62.42/hls/bbbbZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___ENG" tvg-name="South Africa vs South Korea - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - ENG [10:00 PM ET]
-http://193.47.62.47/hls/VXSKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Golf PGA
+#EXTINF:-1 tvg-id="Golf_PGA_Travelers_Championship" tvg-name="Golf PGA Travelers Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Travelers Championship [8:45 AM ET]
+http://193.47.62.42/hls/bbbbZQqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___ENG_HD" tvg-name="South Africa vs South Korea - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - ENG HD [10:00 PM ET]
-http://193.47.62.47/hls/VXSKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___ENG" tvg-name="Czech Republic vs Mexico - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - ENG [10:00 PM ET]
-http://193.47.62.47/hls/VSKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___ENG_HD" tvg-name="Czech Republic vs Mexico - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - ENG HD [10:00 PM ET]
-http://193.47.62.47/hls/VSKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Parramatta_Eels_vs_South_Sydney_Rabbitohs" tvg-name="Parramatta Eels vs South Sydney Rabbitohs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Parramatta Eels vs South Sydney Rabbitohs [6:50 AM ET]
+http://193.47.62.42/hls/bbbbZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___FR_HD" tvg-name="South Africa vs South Korea - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - FR HD [10:00 PM ET]
-https://pul-tenm.nbs3g.com/live/hd-en-1-4460940.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [7:00 AM ET]
+http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___FR_HD" tvg-name="Czech Republic vs Mexico - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - FR HD [10:00 PM ET]
-https://pul-tenm.nbs3g.com/live/hd-en-1-4459823.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [7:00 AM ET]
+http://193.47.62.59/hls/brrrQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___HD_1" tvg-name="South Africa vs South Korea - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - HD 1 [10:00 PM ET]
-https://live13a.jynrrs.com/live/20233432.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Tennis ATP
+#EXTINF:-1 tvg-id="Tennis_ATP_Mallorca" tvg-name="Tennis ATP Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Mallorca [6:00 AM ET]
+http://193.47.62.42/hls/ayyyyQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___HD_1" tvg-name="Czech Republic vs Mexico - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - HD 1 [10:00 PM ET]
-https://live13a.jynrrs.com/live/79635460.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_ATP_Eastbourne" tvg-name="Tennis ATP Eastbourne" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Eastbourne [7:00 AM ET]
+http://193.47.62.42/hls/ayyyyQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___FR" tvg-name="South Africa vs South Korea - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - FR [10:00 PM ET]
-http://193.47.62.47/hls/VXEKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___FR" tvg-name="Czech Republic vs Mexico - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - FR [10:00 PM ET]
-http://193.47.62.47/hls/VEKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___SWE" tvg-name="South Africa vs South Korea - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - SWE [10:00 PM ET]
-http://193.47.62.47/hls/VXEKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___SWE" tvg-name="Czech Republic vs Mexico - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - SWE [10:00 PM ET]
-http://193.47.62.47/hls/VEKKKQQQF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___ES" tvg-name="South Africa vs South Korea - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - ES [10:00 PM ET]
-http://193.47.62.47/hls/VXEKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___ES" tvg-name="Czech Republic vs Mexico - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - ES [10:00 PM ET]
-http://193.47.62.47/hls/VEKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="South_Africa_vs_South_Korea___CN_HD" tvg-name="South Africa vs South Korea - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",South Africa vs South Korea - CN HD [10:00 PM ET]
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Czech_Republic_vs_Mexico___CN_HD" tvg-name="Czech Republic vs Mexico - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Czech Republic vs Mexico - CN HD [10:00 PM ET]
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Cincinnati_Reds_vs_Milwaukee_Brewers" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cincinnati Reds vs Milwaukee Brewers [8:10 PM ET]
-http://193.47.62.42/hls/OFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="New_York_Mets_vs_Chicago_Cubs" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Chicago Cubs [8:10 PM ET]
-http://193.47.62.42/hls/OFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Minnesota_Twins_vs_Los_Angeles_Dodgers" tvg-name="Minnesota Twins vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Los Angeles Dodgers [8:40 PM ET]
-http://193.47.62.42/hls/OOKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="St_Louis_Cardinals_vs_Arizona_Diamondbacks" tvg-name="St Louis Cardinals vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",St Louis Cardinals vs Arizona Diamondbacks [8:45 PM ET]
-http://193.47.62.42/hls/OOKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="San_Diego_Padres_vs_Atlanta_Braves" tvg-name="San Diego Padres vs Atlanta Braves" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Diego Padres vs Atlanta Braves [9:40 PM ET]
-http://193.47.62.42/hls/OOKKKQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="San_Francisco_Giants_vs_Athletics" tvg-name="San Francisco Giants vs Athletics" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs Athletics [10:45 PM ET]
-http://193.47.62.42/hls/OOKKKQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NBA Basketball --:--
-#EXTINF:-1 tvg-id="NBA_Draft_2026" tvg-name="NBA Draft 2026" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball --:--",NBA Draft 2026 [TBD]
-http://193.47.62.42/hls/MMMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Washington_Mystics_W_vs_Minnesota_Lynx_W" tvg-name="Washington Mystics W vs Minnesota Lynx W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Washington Mystics W vs Minnesota Lynx W [8:30 PM ET]
-http://193.47.62.42/hls/OOKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Phoenix_Mercury_W" tvg-name="Indiana Fever W vs Phoenix Mercury W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Phoenix Mercury W [8:30 PM ET]
-http://193.47.62.42/hls/OFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Chicago_Sky_W_vs_Portland_Fire_W" tvg-name="Chicago Sky W vs Portland Fire W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Chicago Sky W vs Portland Fire W [9:00 PM ET]
-http://193.47.62.42/hls/OOKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Golden_State_Valkyries_W_vs_Atlanta_Dream_W" tvg-name="Golden State Valkyries W vs Atlanta Dream W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Golden State Valkyries W vs Atlanta Dream W [11:00 PM ET]
-http://193.47.62.42/hls/OOKKKQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Tennis WTA
+#EXTINF:-1 tvg-id="Tennis_WTA_Eastbourne_Bad_Homburg" tvg-name="Tennis WTA Eastbourne/Bad Homburg" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Eastbourne/Bad Homburg [7:00 AM ET]
+http://193.47.62.42/hls/ayyyy.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
