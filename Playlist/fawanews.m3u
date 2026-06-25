@@ -1,30 +1,37 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 24, 2026 at 06:00 PM EST
-# Total categories: 2
-# Total events: 25
-# Working streams: 25
+#PLAYLIST: The TV App - June 24, 2026 at 08:00 PM EST
+# Total categories: 5
+# Total events: 37
+# Working streams: 37
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Chile Copa
+#EXTINF:-1 tvg-id="Union_La_Calera_vs_U_De_Chile" tvg-name="Union La Calera vs U De Chile" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Union La Calera vs U De Chile [8:30 PM ET]
+http://193.47.62.42/hls/OFFFQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="D_Concepcion_vs_Huachipato" tvg-name="D Concepcion vs Huachipato" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",D Concepcion vs Huachipato [8:30 PM ET]
+http://193.47.62.42/hls/OFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
 #EXTINF:-1 tvg-id="Morocco_vs_Haiti___ENG" tvg-name="Morocco vs Haiti - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - ENG [7:00 PM ET]
 http://193.47.62.47/hls/SKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Scotland_vs_Brazil___ENG" tvg-name="Scotland vs Brazil - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - ENG [7:00 PM ET]
-http://193.47.62.47/hls/XSKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Scotland_vs_Brazil___ENG_HD" tvg-name="Scotland vs Brazil - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - ENG HD [7:00 PM ET]
 http://193.47.62.47/hls/XSKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Scotland_vs_Brazil___ENG" tvg-name="Scotland vs Brazil - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - ENG [7:00 PM ET]
+http://193.47.62.47/hls/XSKKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Morocco_vs_Haiti___ENG_HD" tvg-name="Morocco vs Haiti - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - ENG HD [7:00 PM ET]
 http://193.47.62.47/hls/SKKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Morocco_vs_Haiti___HD_1" tvg-name="Morocco vs Haiti - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - HD 1 [7:00 PM ET]
-https://live13a.jynrrs.com/live/79635460.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Scotland_vs_Brazil___HD_1" tvg-name="Scotland vs Brazil - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - HD 1 [7:00 PM ET]
 https://live13a.jynrrs.com/live/20233432.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Morocco_vs_Haiti___HD_1" tvg-name="Morocco vs Haiti - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - HD 1 [7:00 PM ET]
+https://live13a.jynrrs.com/live/79635460.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Scotland_vs_Brazil___FR" tvg-name="Scotland vs Brazil - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - FR [7:00 PM ET]
 http://193.47.62.47/hls/XEKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -35,20 +42,20 @@ https://pul-tenm.nbs3g.com/live/hd-en-1-4460912.m3u8|referer=http://www.fawanews
 #EXTINF:-1 tvg-id="Morocco_vs_Haiti___FR" tvg-name="Morocco vs Haiti - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - FR [7:00 PM ET]
 http://193.47.62.47/hls/EKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Scotland_vs_Brazil___SWE" tvg-name="Scotland vs Brazil - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - SWE [7:00 PM ET]
-http://193.47.62.47/hls/XEKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Morocco_vs_Haiti___FR_HD" tvg-name="Morocco vs Haiti - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - FR HD [7:00 PM ET]
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460946.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Scotland_vs_Brazil___SWE" tvg-name="Scotland vs Brazil - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - SWE [7:00 PM ET]
+http://193.47.62.47/hls/XEKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Scotland_vs_Brazil___PT" tvg-name="Scotland vs Brazil - PT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - PT [7:00 PM ET]
 http://193.47.62.47/hls/EKKKQQQF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Morocco_vs_Haiti___AR" tvg-name="Morocco vs Haiti - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - AR [7:00 PM ET]
-http://193.47.62.47/hls/EKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Morocco_vs_Haiti___SWAHILI" tvg-name="Morocco vs Haiti - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - SWAHILI [7:00 PM ET]
 http://193.47.62.47/hls/GGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Morocco_vs_Haiti___AR" tvg-name="Morocco vs Haiti - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Morocco vs Haiti - AR [7:00 PM ET]
+http://193.47.62.47/hls/EKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Scotland_vs_Brazil___ES" tvg-name="Scotland vs Brazil - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Scotland vs Brazil - ES [7:00 PM ET]
 http://193.47.62.47/hls/XEKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -63,14 +70,29 @@ https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawan
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
+#EXTINF:-1 tvg-id="Toronto_Blue_Jays_vs_Houston_Astros" tvg-name="Toronto Blue Jays vs Houston Astros" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Toronto Blue Jays vs Houston Astros [8:07 PM ET]
+http://193.47.62.42/hls/OFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_York_Mets_vs_Chicago_Cubs" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Chicago Cubs [8:10 PM ET]
+http://193.47.62.42/hls/OFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cincinnati_Reds_vs_Milwaukee_Brewers" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cincinnati Reds vs Milwaukee Brewers [8:10 PM ET]
+http://193.47.62.42/hls/OFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Minnesota_Twins_vs_Los_Angeles_Dodgers" tvg-name="Minnesota Twins vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Los Angeles Dodgers [8:40 PM ET]
+http://193.47.62.42/hls/OOKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="St_Louis_Cardinals_vs_Arizona_Diamondbacks" tvg-name="St Louis Cardinals vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",St Louis Cardinals vs Arizona Diamondbacks [8:45 PM ET]
+http://193.47.62.42/hls/OOKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Diego_Padres_vs_Atlanta_Braves" tvg-name="San Diego Padres vs Atlanta Braves" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Diego Padres vs Atlanta Braves [9:40 PM ET]
+http://193.47.62.42/hls/OOKKKQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Francisco_Giants_vs_Athletics" tvg-name="San Francisco Giants vs Athletics" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs Athletics [10:45 PM ET]
+http://193.47.62.42/hls/OOKKKQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Cleveland_Guardians" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Cleveland Guardians [3:10 PM ET]
 http://193.47.62.42/hls/YOOOZQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Colorado_Rockies_vs_Boston_Red_Sox" tvg-name="Colorado Rockies vs Boston Red Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Boston Red Sox [4:10 PM ET]
-http://193.47.62.42/hls/UOOOZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Los_Angeles_Angels_vs_Baltimore_Orioles" tvg-name="Los Angeles Angels vs Baltimore Orioles" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Angels vs Baltimore Orioles [5:07 PM ET]
-http://193.47.62.42/hls/UOOOZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Kansas_City_Royals" tvg-name="Tampa Bay Rays vs Kansas City Royals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Kansas City Royals [7:40 PM ET]
 http://193.47.62.42/hls/ZLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -83,3 +105,20 @@ http://193.47.62.42/hls/UOOOZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Washington_Nationals_vs_Philadelphia_Phillies" tvg-name="Washington Nationals vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Washington Nationals vs Philadelphia Phillies [7:45 PM ET]
 http://193.47.62.42/hls/ZLLLQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NBA Basketball --:--
+#EXTINF:-1 tvg-id="NBA_Draft_2026" tvg-name="NBA Draft 2026" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball --:--",NBA Draft 2026 [TBD]
+http://193.47.62.42/hls/MMMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WNBA Basketball
+#EXTINF:-1 tvg-id="Washington_Mystics_W_vs_Minnesota_Lynx_W" tvg-name="Washington Mystics W vs Minnesota Lynx W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Washington Mystics W vs Minnesota Lynx W [8:30 PM ET]
+http://193.47.62.42/hls/OOKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Phoenix_Mercury_W" tvg-name="Indiana Fever W vs Phoenix Mercury W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Phoenix Mercury W [8:30 PM ET]
+http://193.47.62.42/hls/OFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chicago_Sky_W_vs_Portland_Fire_W" tvg-name="Chicago Sky W vs Portland Fire W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Chicago Sky W vs Portland Fire W [9:00 PM ET]
+http://193.47.62.42/hls/OOKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Golden_State_Valkyries_W_vs_Atlanta_Dream_W" tvg-name="Golden State Valkyries W vs Atlanta Dream W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Golden State Valkyries W vs Atlanta Dream W [11:00 PM ET]
+http://193.47.62.42/hls/OOKKKQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
