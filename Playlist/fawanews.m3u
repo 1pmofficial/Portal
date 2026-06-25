@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 25, 2026 at 06:00 AM EST
+#PLAYLIST: The TV App - June 25, 2026 at 08:00 AM EST
 # Total categories: 9
 # Total events: 12
 # Working streams: 12
@@ -24,22 +24,22 @@ http://193.47.62.42/hls/bbbbZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.42/hls/bbbbZQqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
-http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Parramatta_Eels_vs_South_Sydney_Rabbitohs" tvg-name="Parramatta Eels vs South Sydney Rabbitohs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Parramatta Eels vs South Sydney Rabbitohs [6:50 AM ET]
 http://193.47.62.42/hls/bbbbZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [7:00 AM ET]
-http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [7:00 AM ET]
 http://193.47.62.59/hls/brrrQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [7:00 AM ET]
+http://193.47.62.59/hls/brrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_ATP_Mallorca" tvg-name="Tennis ATP Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Mallorca [6:00 AM ET]
