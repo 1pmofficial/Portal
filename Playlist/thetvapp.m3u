@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 27, 2026 at 12:00 PM EST
+#PLAYLIST: The TV App - June 27, 2026 at 12:30 PM EST
 # Total categories: 6
 # Total events: 23
-# Working streams: 2
+# Working streams: 4
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -20,8 +20,12 @@ https://chatgpt.hereisman.net/playlist/52603/load-playlist|referer=https://gooz.
 
 # CATEGORY: FIFA World Cup (0 streams)
 
-# CATEGORY: MLB (0 streams)
+# CATEGORY: MLB (2 streams)
+#EXTINF:-1 group-title="MLB",[HD] Boston Red Sox vs New York Yankees (1:09 PM ET)
+https://chatgpt.hereisman.net/playlist/52606/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52606|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 group-title="MLB",[HD] Detroit Tigers vs Houston Astros (1:09 PM ET)
+https://chatgpt.hereisman.net/playlist/52609/load-playlist|referer=https://gooz.aapmains.net/new-stream-embed/52609|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 # CATEGORY: WNBA (0 streams)
 
-# Total streams: 2
+# Total streams: 4
