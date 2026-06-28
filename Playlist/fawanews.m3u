@@ -1,45 +1,42 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 28, 2026 at 04:00 AM EST
+#PLAYLIST: The TV App - June 28, 2026 at 06:00 AM EST
 # Total categories: 8
-# Total events: 11
-# Working streams: 11
+# Total events: 10
+# Working streams: 10
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="North_Melbourne_vs_Essendon_Bombers" tvg-name="North Melbourne vs Essendon Bombers" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",North Melbourne vs Essendon Bombers [2:15 AM ET]
-http://193.47.62.59/hls/XAXAXAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Gold_Coast_Suns" tvg-name="Fremantle Dockers vs Gold Coast Suns" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Gold Coast Suns [4:10 AM ET]
 http://193.47.62.59/hls/XAXAXAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Boxing___Zayas_vs_Ennis" tvg-name="Boxing : Zayas vs Ennis" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Zayas vs Ennis [TBD]
-http://193.47.62.42/hls/ZZZZQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:China Super League
+#EXTINF:-1 tvg-id="Qingdao_West_Coast_vs_Zhejiang_Professional" tvg-name="Qingdao West Coast vs Zhejiang Professional" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Qingdao West Coast vs Zhejiang Professional [7:00 AM ET]
+http://193.47.62.42/hls/AAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dalian_Yingbo_vs_Shanghai_Shenhua" tvg-name="Dalian Yingbo vs Shanghai Shenhua" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Dalian Yingbo vs Shanghai Shenhua [8:00 AM ET]
+http://193.47.62.42/hls/AAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket T20 World Cup
+#EXTINF:-1 tvg-id="South_Africa_W_vs_Bangladesh_W" tvg-name="South Africa W vs Bangladesh W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket T20 World Cup",South Africa W vs Bangladesh W [6:30 AM ET]
+http://193.47.62.42/hls/AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket Test Series
+#EXTINF:-1 tvg-id="England_vs_New_Zealand" tvg-name="England vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket Test Series",England vs New Zealand [7:00 AM ET]
+http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIA Formula 2
 #EXTINF:-1 tvg-id="FIA_Formula_2_Austria" tvg-name="FIA Formula 2 Austria" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Austria [5:00 AM ET]
 http://193.47.62.59/hls/zlllQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:FIA Formula 3
-#EXTINF:-1 tvg-id="FIA_Formula_3_Austria" tvg-name="FIA Formula 3 Austria" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Austria [3:30 AM ET]
-http://193.47.62.59/hls/zlllQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Los_Angeles_Angels_vs_Athletics" tvg-name="Los Angeles Angels vs Athletics" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Angels vs Athletics [10:38 PM ET]
-http://193.47.62.42/hls/ZZZZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Open_d_Italia" tvg-name="Golf Open d'Italia" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf Open d'Italia [7:00 AM ET]
+http://193.47.62.42/hls/bbbbZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MotoGP
 #EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Netherlands" tvg-name="MotoGP Grand Prix of Netherlands" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Netherlands [4:30 AM ET]
 http://193.47.62.55/hls/zlllQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Canberra_Raiders_vs_St_George_Illawarra_Dragons" tvg-name="Canberra Raiders vs St George Illawarra Dragons" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canberra Raiders vs St George Illawarra Dragons [1:00 AM ET]
-http://193.47.62.59/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Newcastle_Knights_vs_Wests_Tigers" tvg-name="Newcastle Knights vs Wests Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Newcastle Knights vs Wests Tigers [3:05 AM ET]
-http://193.47.62.59/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:World Rally
 #EXTINF:-1 tvg-id="World_Rally_Championship_Greece___SD" tvg-name="World Rally Championship Greece - SD" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="World Rally",World Rally Championship Greece - SD [2:00 AM ET]
