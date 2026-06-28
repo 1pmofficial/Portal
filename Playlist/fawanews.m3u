@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 27, 2026 at 10:00 PM EST
-# Total categories: 6
-# Total events: 27
-# Working streams: 27
+#PLAYLIST: The TV App - June 28, 2026 at 12:00 AM EST
+# Total categories: 9
+# Total events: 31
+# Working streams: 30
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Gold_Coast_Suns" tvg-name="Fremantle Dockers vs Gold Coast Suns" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Gold Coast Suns [4:10 AM ET]
+http://193.47.62.59/hls/XAXAXAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Boxing --:--
 #EXTINF:-1 tvg-id="Boxing___Zayas_vs_Ennis" tvg-name="Boxing : Zayas vs Ennis" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Zayas vs Ennis [TBD]
@@ -19,17 +23,17 @@ http://193.47.62.42/hls/ZUIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Jordan_vs_Argentina___ENG" tvg-name="Jordan vs Argentina - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - ENG [11:00 PM ET]
 http://193.47.62.47/hls/fllll.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Algeria_vs_Austria___ENG" tvg-name="Algeria vs Austria - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - ENG [11:00 PM ET]
-http://193.47.62.47/hls/DIIIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Jordan_vs_Argentina___ENG_HD" tvg-name="Jordan vs Argentina - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - ENG HD [11:00 PM ET]
 http://193.47.62.47/hls/JCCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Jordan_vs_Argentina___FR_HD" tvg-name="Jordan vs Argentina - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - FR HD [11:00 PM ET]
-https://pul-tenm.nbs3g.com/live/hd-en-1-4460931.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Algeria_vs_Austria___ENG" tvg-name="Algeria vs Austria - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - ENG [11:00 PM ET]
+http://193.47.62.47/hls/DIIIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Algeria_vs_Austria___ENG_HD" tvg-name="Algeria vs Austria - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - ENG HD [11:00 PM ET]
 http://193.47.62.47/hls/KRRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jordan_vs_Argentina___FR_HD" tvg-name="Jordan vs Argentina - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - FR HD [11:00 PM ET]
+https://pul-tenm.nbs3g.com/live/hd-en-1-4460931.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Algeria_vs_Austria___FR_HD" tvg-name="Algeria vs Austria - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - FR HD [11:00 PM ET]
 https://pul-tenm.nbs3g.com/live/hd-en-1-4460972.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -52,14 +56,14 @@ http://193.47.62.47/hls/CMMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Algeria_vs_Austria___SWAHILI" tvg-name="Algeria vs Austria - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - SWAHILI [11:00 PM ET]
 http://193.47.62.47/hls/skkkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Jordan_vs_Argentina___CN_HD" tvg-name="Jordan vs Argentina - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - CN HD [11:00 PM ET]
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Jordan_vs_Argentina___SWE" tvg-name="Jordan vs Argentina - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - SWE [11:00 PM ET]
 http://193.47.62.47/hls/skkkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Jordan_vs_Argentina___ES" tvg-name="Jordan vs Argentina - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - ES [11:00 PM ET]
 http://193.47.62.47/hls/skkkkqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jordan_vs_Argentina___CN_HD" tvg-name="Jordan vs Argentina - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Jordan vs Argentina - CN HD [11:00 PM ET]
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Algeria_vs_Austria___CN_HD" tvg-name="Algeria vs Austria - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Algeria vs Austria - CN HD [11:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -70,9 +74,6 @@ http://193.47.62.42/hls/ZOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 
 #EXTINF:-1 tvg-id="Minnesota_Twins_vs_Colorado_Rockies" tvg-name="Minnesota Twins vs Colorado Rockies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Colorado Rockies [8:10 PM ET]
 http://193.47.62.42/hls/ZOOOQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="St_Louis_Cardinals_vs_Miami_Marlins" tvg-name="St Louis Cardinals vs Miami Marlins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",St Louis Cardinals vs Miami Marlins [8:15 PM ET]
-http://193.47.62.42/hls/ZOOOQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="San_Diego_Padres_vs_Los_Angeles_Dodgers" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Diego Padres vs Los Angeles Dodgers [9:40 PM ET]
 http://193.47.62.42/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -86,6 +87,17 @@ http://193.47.62.42/hls/ZZZZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:MMA PFL
 #EXTINF:-1 tvg-id="MMA_PFL___McKee_vs_Isbulaev" tvg-name="MMA PFL : McKee vs Isbulaev" tvg-logo="https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg" group-title="MMA PFL",MMA PFL : McKee vs Isbulaev [10:00 PM ET]
 http://193.47.62.42/hls/ZUIIIQqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Netherlands" tvg-name="MotoGP Grand Prix of Netherlands" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Netherlands [4:30 AM ET]
+http://193.47.62.55/hls/zlllQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Canberra_Raiders_vs_St_George_Illawarra_Dragons" tvg-name="Canberra Raiders vs St George Illawarra Dragons" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canberra Raiders vs St George Illawarra Dragons [1:00 AM ET]
+http://193.47.62.59/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Newcastle_Knights_vs_Wests_Tigers" tvg-name="Newcastle Knights vs Wests Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Newcastle Knights vs Wests Tigers [3:05 AM ET]
+http://193.47.62.59/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
 #EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Los_Angeles_Sparks_W" tvg-name="Indiana Fever W vs Los Angeles Sparks W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Los Angeles Sparks W [9:00 PM ET]
