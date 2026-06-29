@@ -1,22 +1,101 @@
 #EXTM3U
-#PLAYLIST: The TV App - June 29, 2026 at 10:00 AM EST
-# Total categories: 4
-# Total events: 17
-# Working streams: 17
+#PLAYLIST: The TV App - June 29, 2026 at 12:00 PM EST
+# Total categories: 11
+# Total events: 41
+# Working streams: 41
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Cricket Test Series
-#EXTINF:-1 tvg-id="England_vs_New_Zealand" tvg-name="England vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket Test Series",England vs New Zealand [7:00 AM ET]
-http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Euro U19
+#EXTINF:-1 tvg-id="Italy_U19_vs_Serbia_U19" tvg-name="Italy U19 vs Serbia U19" tvg-logo="https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg" group-title="Euro U19",Italy U19 vs Serbia U19 [12:00 PM ET]
+http://193.47.62.42/hls/IDDDDQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Croatia_U19_vs_Ukraine_U19" tvg-name="Croatia U19 vs Ukraine U19" tvg-logo="https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg" group-title="Euro U19",Croatia U19 vs Ukraine U19 [4:00 PM ET]
+http://193.47.62.42/hls/EOOOQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:FIFA World Cup
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___ENG" tvg-name="Brazil vs Japan - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - ENG [2:00 PM ET]
+http://193.47.62.47/hls/Zzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___HD_1" tvg-name="Brazil vs Japan - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - HD 1 [2:00 PM ET]
+https://play.gzxdby.com/live/183334344568_2547627555.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___ENG_HD" tvg-name="Brazil vs Japan - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - ENG HD [2:00 PM ET]
+http://193.47.62.47/hls/ZzsssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___SWAHILI" tvg-name="Brazil vs Japan - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - SWAHILI [2:00 PM ET]
+http://193.47.62.47/hls/Zckkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___FR" tvg-name="Brazil vs Japan - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - FR [2:00 PM ET]
+http://193.47.62.47/hls/Zckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___PT" tvg-name="Brazil vs Japan - PT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - PT [2:00 PM ET]
+http://193.47.62.47/hls/ZckkkqqX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___SWE" tvg-name="Brazil vs Japan - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - SWE [2:00 PM ET]
+http://193.47.62.47/hls/Zckkkqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___NL" tvg-name="Brazil vs Japan - NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - NL [2:00 PM ET]
+http://193.47.62.47/hls/Zckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___PT" tvg-name="Brazil vs Japan - PT" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - PT [2:00 PM ET]
+http://193.47.62.47/hls/ZckkkqqX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___ES" tvg-name="Brazil vs Japan - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - ES [2:00 PM ET]
+http://193.47.62.47/hls/Zckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Brazil_vs_Japan___CN_HD" tvg-name="Brazil vs Japan - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Brazil vs Japan - CN HD [2:00 PM ET]
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Faroe Islands Premier League
+#EXTINF:-1 tvg-id="Toftir_vs_AB_Argir" tvg-name="Toftir vs AB Argir" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",Toftir vs AB Argir [2:30 PM ET]
+http://193.47.62.42/hls/EOOOQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vikingur_vs_NSI_Runavik" tvg-name="Vikingur vs NSI Runavik" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",Vikingur vs NSI Runavik [2:30 PM ET]
+http://193.47.62.42/hls/EOOOQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="HB_Torshavn_vs_Skala_Itrottarfelag" tvg-name="HB Torshavn vs Skala Itrottarfelag" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",HB Torshavn vs Skala Itrottarfelag [2:30 PM ET]
+http://193.47.62.42/hls/EOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Crvena_zvezda_vs_Slovan_Bratislava" tvg-name="Crvena zvezda vs Slovan Bratislava" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Crvena zvezda vs Slovan Bratislava [1:00 PM ET]
+http://193.47.62.42/hls/IDDDDQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="CSKA_1948_Sofia_vs_Partizan" tvg-name="CSKA 1948 Sofia vs Partizan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",CSKA 1948 Sofia vs Partizan [1:00 PM ET]
+http://193.47.62.42/hls/IDDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Iceland League
+#EXTINF:-1 tvg-id="Akranes_vs_Fram" tvg-name="Akranes vs Fram" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Akranes vs Fram [4:15 PM ET]
+http://193.47.62.42/hls/EOOOQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Latvia Virsliga
+#EXTINF:-1 tvg-id="Jelgava_vs_Grobina" tvg-name="Jelgava vs Grobina" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Jelgava vs Grobina [12:00 PM ET]
+http://193.47.62.42/hls/IDDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Auda_vs_Riga_FC" tvg-name="Auda vs Riga FC" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Auda vs Riga FC [12:00 PM ET]
+http://193.47.62.42/hls/IDDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Lithuania Toplyga
+#EXTINF:-1 tvg-id="FA_Siauliai_vs_Transinvest" tvg-name="FA Siauliai vs Transinvest" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",FA Siauliai vs Transinvest [12:30 PM ET]
+http://193.47.62.42/hls/IDDDDQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FK_Panevezys_vs_Suduva" tvg-name="FK Panevezys vs Suduva" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",FK Panevezys vs Suduva [12:45 PM ET]
+http://193.47.62.42/hls/IDDDDQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Peru Copa
+#EXTINF:-1 tvg-id="FBC_Melgar_vs_Moquegua" tvg-name="FBC Melgar vs Moquegua" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",FBC Melgar vs Moquegua [3:00 PM ET]
+http://193.47.62.42/hls/EOOOQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Deportivo_Garcilaso_vs_Binacional" tvg-name="Deportivo Garcilaso vs Binacional" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Copa",Deportivo Garcilaso vs Binacional [5:15 PM ET]
+http://193.47.62.42/hls/EOOOQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_Champions_League___Table_1" tvg-name="Snooker Champions League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 1 [7:00 AM ET]
