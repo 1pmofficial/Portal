@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 01, 2026 at 04:00 PM EST
-# Total categories: 5
-# Total events: 23
-# Working streams: 22
+#PLAYLIST: The TV App - July 01, 2026 at 06:00 PM EST
+# Total categories: 6
+# Total events: 19
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,25 +11,36 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="HFX_Wanderers_vs_Atl_Ottawa" tvg-name="HFX Wanderers vs Atl Ottawa" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",HFX Wanderers vs Atl Ottawa [5:00 PM ET]
 http://193.47.62.42/hls/HAAAQQqQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Chile Copa
+#EXTINF:-1 tvg-id="Cobresal_vs_La_Serena" tvg-name="Cobresal vs La Serena" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Cobresal vs La Serena [7:00 PM ET]
+http://193.47.62.42/hls/ipppq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="U_De_Concepcion_vs_Nublense" tvg-name="U De Concepcion vs Nublense" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",U De Concepcion vs Nublense [7:00 PM ET]
+http://193.47.62.42/hls/ippp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ecuador Liga Pro
+#EXTINF:-1 tvg-id="LDU_Quito_vs_Orense" tvg-name="LDU Quito vs Orense" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",LDU Quito vs Orense [7:00 PM ET]
+http://193.47.62.42/hls/ipppqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Euro U19
 #EXTINF:-1 tvg-id="Wales_U19_vs_Germany_U19" tvg-name="Wales U19 vs Germany U19" tvg-logo="https://pbs.twimg.com/profile_images/2058864755708739584/6a33PC_Q_400x400.jpg" group-title="Euro U19",Wales U19 vs Germany U19 [4:00 PM ET]
 http://193.47.62.42/hls/HAAAQQqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="Belgium_vs_Senegal___ENG" tvg-name="Belgium vs Senegal - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - ENG [5:00 PM ET]
-http://193.47.62.47/hls/HXCZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___ENG_HD" tvg-name="Belgium vs Senegal - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - ENG HD [5:00 PM ET]
 http://193.47.62.47/hls/HXCZzsssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___FR_HD" tvg-name="Belgium vs Senegal - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - FR HD [5:00 PM ET]
 https://pul-tenm.gkykp.com/live/hd-en-1-4459726.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Senegal___FR" tvg-name="Belgium vs Senegal - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - FR [5:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Belgium_vs_Senegal___ENG" tvg-name="Belgium vs Senegal - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - ENG [5:00 PM ET]
+http://193.47.62.47/hls/HXCZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___HD_1" tvg-name="Belgium vs Senegal - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - HD 1 [5:00 PM ET]
-https://www.rtmpcdn.com/live/cctv5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://play.ntcwix.com/rrty/hd-zh-1-4459726_gqzm.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Belgium_vs_Senegal___FR" tvg-name="Belgium vs Senegal - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - FR [5:00 PM ET]
+http://193.47.62.47/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___NL_BE" tvg-name="Belgium vs Senegal - NL BE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - NL BE [5:00 PM ET]
 http://193.47.62.47/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -37,43 +48,21 @@ http://193.47.62.47/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-a
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___SWAHILI" tvg-name="Belgium vs Senegal - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - SWAHILI [5:00 PM ET]
 http://193.47.62.47/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Senegal___ES" tvg-name="Belgium vs Senegal - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - ES [5:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___SWE" tvg-name="Belgium vs Senegal - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - SWE [5:00 PM ET]
 http://193.47.62.47/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Belgium_vs_Senegal___ES" tvg-name="Belgium vs Senegal - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - ES [5:00 PM ET]
+http://193.47.62.47/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Belgium_vs_Senegal___AR" tvg-name="Belgium vs Senegal - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - AR [5:00 PM ET]
 http://193.47.62.47/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Belgium_vs_Senegal___IR" tvg-name="Belgium vs Senegal - IR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Belgium vs Senegal - IR [5:00 PM ET]
-https://cp11.adabmedia.com/hls2/sport.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Cleveland_Guardians_vs_Texas_Rangers" tvg-name="Cleveland Guardians vs Texas Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cleveland Guardians vs Texas Rangers [2:10 PM ET]
-http://193.47.62.42/hls/RAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="New_York_Yankees_vs_Detroit_Tigers" tvg-name="New York Yankees vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Yankees vs Detroit Tigers [2:35 PM ET]
-http://193.47.62.42/hls/RAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Boston_Red_Sox_vs_Washington_Nationals" tvg-name="Boston Red Sox vs Washington Nationals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Boston Red Sox vs Washington Nationals [2:35 PM ET]
-http://193.47.62.42/hls/RAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Chicago_Cubs_vs_San_Diego_Padres" tvg-name="Chicago Cubs vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs San Diego Padres [3:20 PM ET]
 http://193.47.62.42/hls/HAAAQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Toronto_Blue_Jays_vs_New_York_Mets" tvg-name="Toronto Blue Jays vs New York Mets" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Toronto Blue Jays vs New York Mets [4:07 PM ET]
 http://193.47.62.42/hls/HAAAQQqQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Tennis Masters
-#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_1" tvg-name="Tennis Wimbledon - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 1 [7:00 AM ET]
-http://193.47.62.42/hls/EGRGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_2" tvg-name="Tennis Wimbledon - Court 2" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 2 [7:00 AM ET]
-http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_12" tvg-name="Tennis Wimbledon - Court 12" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 12 [7:00 AM ET]
-http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_Wimbledon___Center_Court" tvg-name="Tennis Wimbledon - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Center Court [9:00 AM ET]
-http://193.47.62.42/hls/EGRGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Philadelphia_Phillies_vs_Pittsburgh_Pirates" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs Pittsburgh Pirates [7:40 PM ET]
+http://193.47.62.42/hls/ipppqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
