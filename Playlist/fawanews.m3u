@@ -1,76 +1,90 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 02, 2026 at 04:00 AM EST
-# Total categories: 5
-# Total events: 21
-# Working streams: 21
+#PLAYLIST: The TV App - July 02, 2026 at 06:00 AM EST
+# Total categories: 7
+# Total events: 25
+# Working streams: 25
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:AEW Wrestling
-#EXTINF:-1 tvg-id="AEW_Dynamite" tvg-name="AEW Dynamite" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="AEW Wrestling",AEW Dynamite [9:00 PM ET]
-http://193.47.62.42/hls/QGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Geelong_Cats_vs_Brisbane_Lions" tvg-name="Geelong Cats vs Brisbane Lions" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Geelong Cats vs Brisbane Lions [6:30 AM ET]
+http://193.47.62.42/hls/ZPPPQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Chile Copa
-#EXTINF:-1 tvg-id="U_De_Chile_vs_Union_La_Calera" tvg-name="U De Chile vs Union La Calera" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",U De Chile vs Union La Calera [9:30 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_BMW_International_Open" tvg-name="Golf BMW International Open" tvg-logo="https://pbs.twimg.com/profile_images/2016027627778383872/KrzKijtT_400x400.jpg" group-title="Golf",Golf BMW International Open [7:30 AM ET]
+http://193.47.62.42/hls/ZPPPQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Cricket MLC
-#EXTINF:-1 tvg-id="Los_Angeles_Knight_Riders_vs_Washington_Freedom" tvg-name="Los Angeles Knight Riders vs Washington Freedom" tvg-logo="https://pbs.twimg.com/profile_images/1795269942063108096/J6NAZH8s_400x400.jpg" group-title="Cricket MLC",Los Angeles Knight Riders vs Washington Freedom [10:30 PM ET]
-http://193.47.62.42/hls/QGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___FR_HD" tvg-name="USA vs Bosnia-Herzegovina - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - FR HD [9:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-1-4459725.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___ENG" tvg-name="USA vs Bosnia-Herzegovina - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - ENG [9:00 PM ET]
-http://193.47.62.47/hls/HXCZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Cronulla_Sharks_W_vs_Newcastle_Knights_W" tvg-name="Cronulla Sharks W vs Newcastle Knights W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Cronulla Sharks W vs Newcastle Knights W [6:45 AM ET]
+http://193.47.62.42/hls/ZPPPQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___ENG_HD" tvg-name="USA vs Bosnia-Herzegovina - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - ENG HD [9:00 PM ET]
-http://193.47.62.47/hls/HXCZzsssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Rugby World Championship
+#EXTINF:-1 tvg-id="Wales_U20_vs_Uruguay_U20" tvg-name="Wales U20 vs Uruguay U20" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby World Championship",Wales U20 vs Uruguay U20 [6:00 AM ET]
+http://193.47.62.42/hls/ZPPPQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___FR" tvg-name="USA vs Bosnia-Herzegovina - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - FR [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_U20_vs_Spain_U20" tvg-name="France U20 vs Spain U20" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby World Championship",France U20 vs Spain U20 [6:00 AM ET]
+http://193.47.62.42/hls/ZPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___SWAHILI" tvg-name="USA vs Bosnia-Herzegovina - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - SWAHILI [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Argentina_U20_vs_Ireland_U20" tvg-name="Argentina U20 vs Ireland U20" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby World Championship",Argentina U20 vs Ireland U20 [8:30 AM ET]
+http://193.47.62.42/hls/ZPPPQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___SWE" tvg-name="USA vs Bosnia-Herzegovina - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - SWE [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Australia_U20_vs_Fiji_U20" tvg-name="Australia U20 vs Fiji U20" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby World Championship",Australia U20 vs Fiji U20 [8:30 AM ET]
+http://193.47.62.42/hls/ZPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___NL_BE" tvg-name="USA vs Bosnia-Herzegovina - NL BE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - NL BE [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_1" tvg-name="Snooker Champions League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 1 [7:00 AM ET]
+http://193.47.62.42/hls/taaaQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___ES" tvg-name="USA vs Bosnia-Herzegovina - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - ES [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_2" tvg-name="Snooker Champions League - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 2 [7:00 AM ET]
+http://193.47.62.42/hls/taaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___AR" tvg-name="USA vs Bosnia-Herzegovina - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - AR [9:00 PM ET]
-http://193.47.62.47/hls/HXCZckkkqr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Tennis Masters
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_1" tvg-name="Tennis Wimbledon - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 1 [7:00 AM ET]
+http://193.47.62.42/hls/EGRGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Bosnia_Herzegovina___CN_HD" tvg-name="USA vs Bosnia-Herzegovina - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",USA vs Bosnia-Herzegovina - CN HD [9:00 PM ET]
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_2" tvg-name="Tennis Wimbledon - Court 2" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 2 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Atlanta_Braves_vs_St_Louis_Cardinals" tvg-name="Atlanta Braves vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Atlanta Braves vs St Louis Cardinals [8:15 PM ET]
-http://193.47.62.42/hls/ZAZAZA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_3" tvg-name="Tennis Wimbledon - Court 3" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 3 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Kansas_City_Royals_vs_Tampa_Bay_Rays" tvg-name="Kansas City Royals vs Tampa Bay Rays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Kansas City Royals vs Tampa Bay Rays [8:40 PM ET]
-http://193.47.62.42/hls/ZAZAZAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_12" tvg-name="Tennis Wimbledon - Court 12" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 12 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_Cincinnati_Reds" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs Cincinnati Reds [9:10 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_18" tvg-name="Tennis Wimbledon - Court 18" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 18 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Houston_Astros_vs_Minnesota_Twins" tvg-name="Houston Astros vs Minnesota Twins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Houston Astros vs Minnesota Twins [9:10 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_4" tvg-name="Tennis Wimbledon - Court 4" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 4 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Colorado_Rockies_vs_Miami_Marlins" tvg-name="Colorado Rockies vs Miami Marlins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Miami Marlins [9:40 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_5" tvg-name="Tennis Wimbledon - Court 5" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 5 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Athletics_vs_Los_Angeles_Dodgers" tvg-name="Athletics vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Athletics vs Los Angeles Dodgers [10:40 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_6" tvg-name="Tennis Wimbledon - Court 6" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 6 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Arizona_Diamondbacks_vs_San_Francisco_Giants" tvg-name="Arizona Diamondbacks vs San Francisco Giants" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Arizona Diamondbacks vs San Francisco Giants [10:40 PM ET]
-http://193.47.62.42/hls/ZAZAZAQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_8" tvg-name="Tennis Wimbledon - Court 8" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 8 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Philadelphia_Phillies_vs_Pittsburgh_Pirates" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs Pittsburgh Pirates [7:40 PM ET]
-http://193.47.62.42/hls/ipppqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_14" tvg-name="Tennis Wimbledon - Court 14" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 14 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_16" tvg-name="Tennis Wimbledon - Court 16" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 16 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_15" tvg-name="Tennis Wimbledon - Court 15" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 15 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_17" tvg-name="Tennis Wimbledon - Court 17" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 17 [7:00 AM ET]
+http://193.47.62.42/hls/FQQQXX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Center_Court" tvg-name="Tennis Wimbledon - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Center Court [9:00 AM ET]
+http://193.47.62.42/hls/EGRGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
