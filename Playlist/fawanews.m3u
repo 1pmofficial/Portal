@@ -1,19 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 05, 2026 at 06:00 AM EST
-# Total categories: 15
-# Total events: 23
-# Working streams: 22
+#PLAYLIST: The TV App - July 05, 2026 at 08:00 AM EST
+# Total categories: 13
+# Total events: 31
+# Working streams: 24
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Port_Adelaide_Power_vs_North_Melbourne" tvg-name="Port Adelaide Power vs North Melbourne" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Port Adelaide Power vs North Melbourne [3:40 AM ET]
-http://193.47.62.59/hls/RPPPQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Basketball WC Qualifs
-#EXTINF:-1 tvg-id="Rwanda_vs_Nigeria" tvg-name="Rwanda vs Nigeria" tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP_400x400.jpg" group-title="Basketball WC Qualifs",Rwanda vs Nigeria [6:00 AM ET]
-https://pul-tenm.gkykp.com/live/sd-2-3887743.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:China Super League
 #EXTINF:-1 tvg-id="Qingdao_Hainiu_vs_Chengdu_Rongcheng" tvg-name="Qingdao Hainiu vs Chengdu Rongcheng" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Qingdao Hainiu vs Chengdu Rongcheng [8:00 AM ET]
@@ -30,9 +22,15 @@ http://193.47.62.41/hls/rarararaQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user
 #EXTINF:-1 tvg-id="Wakefield_vs_Castleford" tvg-name="Wakefield vs Castleford" tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="English Rugby Super League",Wakefield vs Castleford [8:30 AM ET]
 http://193.47.62.41/hls/YFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:FIA Formula 2
-#EXTINF:-1 tvg-id="FIA_Formula_2_Great_Britain" tvg-name="FIA Formula 2 Great Britain" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Great Britain [7:10 AM ET]
-http://193.47.62.41/hls/rararara.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Formula 1 GP
+#EXTINF:-1 tvg-id="Formula_1_GP_Great_Britain___ENG_SD" tvg-name="Formula 1 GP Great Britain - ENG SD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Great Britain - ENG SD [10:00 AM ET]
+http://193.47.62.49/hls/ZZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Formula_1_GP_Great_Britain___RU_HD" tvg-name="Formula 1 GP Great Britain - RU HD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Great Britain - RU HD [10:00 AM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ced6f357-74b6-4ec8-809e-528429c195a7/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Formula_1_GP_Great_Britain___ENG_HD" tvg-name="Formula 1 GP Great Britain - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Great Britain - ENG HD [10:00 AM ET]
+http://193.47.62.49/hls/ZZZZZX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_BMW_International_Open" tvg-name="Golf BMW International Open" tvg-logo="https://pbs.twimg.com/profile_images/1934409407993139200/EnyJX2wL_400x400.jpg" group-title="Golf",Golf BMW International Open [5:00 AM ET]
@@ -43,15 +41,19 @@ http://193.47.62.42/hls/ZPPPQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.41/hls/YFFFQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Motocross
 #EXTINF:-1 tvg-id="Motocross_World_Championship" tvg-name="Motocross World Championship" tvg-logo="https://pbs.twimg.com/profile_images/1616795081851142145/mh30rVXi_400x400.jpg" group-title="Motocross",Motocross World Championship [6:00 AM ET]
 http://193.47.62.59/hls/VAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Mountain Bike
+#EXTINF:-1 tvg-id="UCI_Mountain_Bike_World_Series" tvg-name="UCI Mountain Bike World Series" tvg-logo="https://pbs.twimg.com/profile_images/1759893549946994688/fvIisRQd_400x400.jpg" group-title="Mountain Bike",UCI Mountain Bike World Series [8:00 AM ET]
+http://193.47.62.41/hls/HBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
 #EXTINF:-1 tvg-id="Gwangju_FC_vs_Ulsan_HD" tvg-name="Gwangju FC vs Ulsan HD" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gwangju FC vs Ulsan HD [7:30 AM ET]
@@ -64,25 +66,27 @@ http://193.47.62.41/hls/rarararaQQ.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.41/hls/rarararaQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Allsvenskan
-#EXTINF:-1 tvg-id="Goteborg_vs_AIK" tvg-name="Goteborg vs AIK" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Goteborg vs AIK [9:00 AM ET]
+#EXTINF:-1 tvg-id="Goteborg_vs_AIK___HD" tvg-name="Goteborg vs AIK - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Goteborg vs AIK - HD [9:00 AM ET]
+http://193.47.62.58/hls/YFFFQQQqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Goteborg_vs_AIK___SD" tvg-name="Goteborg vs AIK - SD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Goteborg vs AIK - SD [9:00 AM ET]
 http://193.47.62.45/hls/YFFFQQQqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Kalmar_vs_Orgryte" tvg-name="Kalmar vs Orgryte" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Kalmar vs Orgryte [9:00 AM ET]
+#EXTINF:-1 tvg-id="Kalmar_vs_Orgryte___SD" tvg-name="Kalmar vs Orgryte - SD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Kalmar vs Orgryte - SD [9:00 AM ET]
 http://193.47.62.45/hls/YFFFQQQqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Tanzania Championship
-#EXTINF:-1 tvg-id="Simba_SC_Championship_Celebration" tvg-name="Simba SC Championship Celebration" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Championship",Simba SC Championship Celebration [6:00 AM ET]
-http://193.47.62.42/hls/HCCCZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Kalmar_vs_Orgryte___HD" tvg-name="Kalmar vs Orgryte - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Kalmar vs Orgryte - HD [9:00 AM ET]
+http://193.47.62.58/hls/YFFFQQQqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Center_Court" tvg-name="Tennis Wimbledon - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Center Court [8:30 AM ET]
+http://193.47.62.41/hls/YFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_1" tvg-name="Tennis Wimbledon - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 1 [8:30 AM ET]
 http://193.47.62.41/hls/YFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_2" tvg-name="Tennis Wimbledon - Court 2" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 2 [8:30 AM ET]
 http://193.47.62.41/hls/YFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_Wimbledon___Center_Court" tvg-name="Tennis Wimbledon - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Center Court [9:00 AM ET]
-http://193.47.62.41/hls/YFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:World Superbikes
 #EXTINF:-1 tvg-id="British_Superbikes" tvg-name="British Superbikes" tvg-logo="https://pbs.twimg.com/profile_images/1486618439510806530/0sditKjT_400x400.jpg" group-title="World Superbikes",British Superbikes [9:00 AM ET]
