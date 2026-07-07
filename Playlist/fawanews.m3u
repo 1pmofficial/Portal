@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 07, 2026 at 08:00 AM EST
+#PLAYLIST: The TV App - July 07, 2026 at 10:00 AM EST
 # Total categories: 8
-# Total events: 15
-# Working streams: 15
+# Total events: 20
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -21,6 +21,22 @@ http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Darts
 #EXTINF:-1 tvg-id="Darts_Players_Championship_24" tvg-name="Darts Players Championship 24" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts Players Championship 24 [9:00 AM ET]
 http://193.47.62.42/hls/AUUUQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Hannover_96_vs_Phonix_Lubeck" tvg-name="Hannover 96 vs Phonix Lubeck" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Hannover 96 vs Phonix Lubeck [9:00 AM ET]
+http://193.47.62.42/hls/tiiiD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Utrecht_vs_Apollon" tvg-name="Utrecht vs Apollon" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Utrecht vs Apollon [11:00 AM ET]
+http://193.47.62.42/hls/yooo.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Pogon_Grodzisk_vs_Trencin" tvg-name="Pogon Grodzisk vs Trencin" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Pogon Grodzisk vs Trencin [11:00 AM ET]
+http://193.47.62.42/hls/tiiiDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Septemvri_Sofia_vs_FC_Hebar" tvg-name="Septemvri Sofia vs FC Hebar" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Septemvri Sofia vs FC Hebar [12:30 PM ET]
+http://193.47.62.42/hls/tiiiDDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Radnicki_Nis_vs_FK_Pribram" tvg-name="Radnicki Nis vs FK Pribram" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Radnicki Nis vs FK Pribram [12:30 PM ET]
+http://193.47.62.42/hls/tiiiDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -43,15 +59,11 @@ http://193.47.62.42/hls/FEEEEFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.42/hls/FEEEEFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_Championship_League___Table_1" tvg-name="Snooker Championship League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 1 [7:00 AM ET]
-http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Snooker_Championship_League___Table_2" tvg-name="Snooker Championship League - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 2 [7:00 AM ET]
 http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Hwacheon_W_vs_Suwon_FC_W" tvg-name="Hwacheon W vs Suwon FC W" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Hwacheon W vs Suwon FC W [7:00 AM ET]
-http://193.47.62.42/hls/AUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Championship_League___Table_1" tvg-name="Snooker Championship League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Championship League - Table 1 [7:00 AM ET]
+http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
 #EXTINF:-1 tvg-id="Tennis_Wimbledon___Center_Court" tvg-name="Tennis Wimbledon - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Center Court [9:00 AM ET]
@@ -59,3 +71,6 @@ http://193.47.62.42/hls/FEEEEFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 
 #EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_1" tvg-name="Tennis Wimbledon - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 1 [9:00 AM ET]
 http://193.47.62.42/hls/FEEEEF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Wimbledon___Court_2" tvg-name="Tennis Wimbledon - Court 2" tvg-logo="https://pbs.twimg.com/profile_images/1572292709833916420/HvsoSR3y_400x400.jpg" group-title="Tennis Masters",Tennis Wimbledon - Court 2 [10:15 AM ET]
+http://193.47.62.42/hls/FEEEEFXX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
