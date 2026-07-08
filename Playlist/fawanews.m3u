@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 08, 2026 at 08:00 AM EST
+#PLAYLIST: The TV App - July 08, 2026 at 10:00 AM EST
 # Total categories: 7
 # Total events: 16
 # Working streams: 14
@@ -19,18 +19,18 @@ http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.42/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL State of Origin
-#EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales___SD" tvg-name="Queensland vs New South Wales - SD" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales - SD [7:05 AM ET]
-http://193.47.62.42/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:NRL State of Origin
 #EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales___HD" tvg-name="Queensland vs New South Wales - HD" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales - HD [7:05 AM ET]
 http://193.47.62.55/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales___SD" tvg-name="Queensland vs New South Wales - SD" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales - SD [7:05 AM ET]
+http://193.47.62.42/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Ligi Kuu Bara
 #EXTINF:-1 tvg-id="Tanzania_Prisons_vs_Mbeya_City" tvg-name="Tanzania Prisons vs Mbeya City" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Tanzania Prisons vs Mbeya City [10:00 AM ET]
