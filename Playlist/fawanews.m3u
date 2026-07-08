@@ -1,18 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 08, 2026 at 06:00 AM EST
+#PLAYLIST: The TV App - July 08, 2026 at 08:00 AM EST
 # Total categories: 7
-# Total events: 15
-# Working streams: 13
+# Total events: 16
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:Cycling
-#EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [8:00 AM ET]
-http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [8:00 AM ET]
 http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [8:00 AM ET]
+http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Euro U19
 #EXTINF:-1 tvg-id="Denmark_U19_vs_Italy_U19" tvg-name="Denmark U19 vs Italy U19" tvg-logo="https://pbs.twimg.com/profile_images/2070179683623153665/J3LUoSoi_400x400.jpg" group-title="Euro U19",Denmark U19 vs Italy U19 [10:00 AM ET]
@@ -26,8 +26,11 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL State of Origin
-#EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales" tvg-name="Queensland vs New South Wales" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales [7:05 AM ET]
+#EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales___SD" tvg-name="Queensland vs New South Wales - SD" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales - SD [7:05 AM ET]
 http://193.47.62.42/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Queensland_vs_New_South_Wales___HD" tvg-name="Queensland vs New South Wales - HD" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL State of Origin",Queensland vs New South Wales - HD [7:05 AM ET]
+http://193.47.62.55/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Ligi Kuu Bara
 #EXTINF:-1 tvg-id="Tanzania_Prisons_vs_Mbeya_City" tvg-name="Tanzania Prisons vs Mbeya City" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Tanzania Prisons vs Mbeya City [10:00 AM ET]
