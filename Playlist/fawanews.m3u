@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 10, 2026 at 04:00 AM EST
-# Total categories: 7
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - July 10, 2026 at 06:00 AM EST
+# Total categories: 11
+# Total events: 14
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -10,6 +10,10 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTGRP:AFL Aussie Rules
 #EXTINF:-1 tvg-id="Collingwood_Magpies_vs_North_Melbourne" tvg-name="Collingwood Magpies vs North Melbourne" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Collingwood Magpies vs North Melbourne [6:40 AM ET]
 http://193.47.62.41/hls/MMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Boxing --:--
+#EXTINF:-1 tvg-id="Boxing_Tasman_Fighters" tvg-name="Boxing Tasman Fighters" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing Tasman Fighters [TBD]
+http://193.47.62.59/hls/ooooD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="England_W_vs_India_W" tvg-name="England W vs India W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England W vs India W [7:00 AM ET]
@@ -26,9 +30,24 @@ http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="Darts_European_Tour_10" tvg-name="Darts European Tour 10" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts European Tour 10 [8:00 AM ET]
 http://193.47.62.41/hls/MMMMQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Ludogorets_vs_Septemvri_Sofia" tvg-name="Ludogorets vs Septemvri Sofia" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Ludogorets vs Septemvri Sofia [5:40 AM ET]
+http://193.47.62.41/hls/oooo.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Slaven_Belupo_vs_Debrecen" tvg-name="Slaven Belupo vs Debrecen" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Slaven Belupo vs Debrecen [6:30 AM ET]
+http://193.47.62.41/hls/ooooDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Genesis_Scottish_Open" tvg-name="Golf Genesis Scottish Open" tvg-logo="https://pbs.twimg.com/profile_images/1520076091972636672/dngA6hyw_400x400.jpg" group-title="Golf",Golf Genesis Scottish Open [4:30 AM ET]
 http://193.47.62.42/hls/TGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf LPGA
+#EXTINF:-1 tvg-id="Golf_LPGA_Amundi_Evian_Championship" tvg-name="Golf LPGA Amundi Evian Championship" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf LPGA Amundi Evian Championship [7:00 AM ET]
+http://193.47.62.42/hls/TGGGQQqXQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Germany" tvg-name="MotoGP Grand Prix of Germany" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Germany [5:00 AM ET]
+http://193.47.62.41/hls/MMMMQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Wests_Tigers_vs_New_Zealand_Warriors" tvg-name="Wests Tigers vs New Zealand Warriors" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Wests Tigers vs New Zealand Warriors [7:00 AM ET]
