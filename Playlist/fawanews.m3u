@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 10, 2026 at 10:00 PM EST
-# Total categories: 9
-# Total events: 46
-# Working streams: 46
+#PLAYLIST: The TV App - July 11, 2026 at 12:00 AM EST
+# Total categories: 10
+# Total events: 47
+# Working streams: 47
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="St_Kilda_Saints_vs_Port_Adelaide_Power" tvg-name="St Kilda Saints vs Port Adelaide Power" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",St Kilda Saints vs Port Adelaide Power [12:15 AM ET]
+http://193.47.62.41/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie B
 #EXTINF:-1 tvg-id="Sport_Recife_vs_Botafogo_SP" tvg-name="Sport Recife vs Botafogo SP" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sport Recife vs Botafogo SP [8:00 PM ET]
@@ -65,11 +69,11 @@ http://193.47.62.41/hls/LUUUQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="San_Francisco_Giants_vs_Colorado_Rockies" tvg-name="San Francisco Giants vs Colorado Rockies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs Colorado Rockies [11:15 PM ET]
 http://193.47.62.41/hls/KIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Detroit_Tigers_vs_Philadelphia_Phillies" tvg-name="Detroit Tigers vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs Philadelphia Phillies [7:40 PM ET]
-http://193.47.62.41/hls/LOOOQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Pittsburgh_Pirates_vs_Milwaukee_Brewers" tvg-name="Pittsburgh Pirates vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Pittsburgh Pirates vs Milwaukee Brewers [7:40 PM ET]
 http://193.47.62.41/hls/LOOOQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Detroit_Tigers_vs_Philadelphia_Phillies" tvg-name="Detroit Tigers vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs Philadelphia Phillies [7:40 PM ET]
+http://193.47.62.41/hls/LOOOQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Washington_Nationals_vs_New_York_Yankees" tvg-name="Washington Nationals vs New York Yankees" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Washington Nationals vs New York Yankees [7:45 PM ET]
 http://193.47.62.41/hls/frrrQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
