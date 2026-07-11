@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 11, 2026 at 12:00 AM EST
-# Total categories: 10
-# Total events: 47
-# Working streams: 47
+#PLAYLIST: The TV App - July 11, 2026 at 02:00 AM EST
+# Total categories: 12
+# Total events: 51
+# Working streams: 51
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -10,6 +10,9 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTGRP:AFL Aussie Rules
 #EXTINF:-1 tvg-id="St_Kilda_Saints_vs_Port_Adelaide_Power" tvg-name="St Kilda Saints vs Port Adelaide Power" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",St Kilda Saints vs Port Adelaide Power [12:15 AM ET]
 http://193.47.62.41/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="GWS_Giants_vs_Geelong_Cats" tvg-name="GWS Giants vs Geelong Cats" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",GWS Giants vs Geelong Cats [3:15 AM ET]
+http://193.47.62.41/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie B
 #EXTINF:-1 tvg-id="Sport_Recife_vs_Botafogo_SP" tvg-name="Sport Recife vs Botafogo SP" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sport Recife vs Botafogo SP [8:00 PM ET]
@@ -114,6 +117,17 @@ http://193.47.62.41/hls/LOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 
 #EXTINF:-1 tvg-id="Denver_Nuggets_vs_Houston_Rockets___HD" tvg-name="Denver Nuggets vs Houston Rockets - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Denver Nuggets vs Houston Rockets - HD [7:30 PM ET]
 https://pul-tenm.gkykp.com/live/hd-en-2-3923428.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Dolphins_vs_Cronulla_Sharks" tvg-name="Dolphins vs Cronulla Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Dolphins vs Cronulla Sharks [2:00 AM ET]
+http://193.47.62.41/hls/bbbbq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Rugby Nations Championship
+#EXTINF:-1 tvg-id="New_Zealand_vs_Italy" tvg-name="New Zealand vs Italy" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Nations Championship",New Zealand vs Italy [2:10 AM ET]
+http://193.47.62.59/hls/bbbbqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Australia_vs_France" tvg-name="Australia vs France" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Nations Championship",Australia vs France [4:40 AM ET]
+http://193.47.62.59/hls/bbbbqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
 #EXTINF:-1 tvg-id="Racing_Louisville_W_vs_Bay_FC_W" tvg-name="Racing Louisville W vs Bay FC W" tvg-logo="https://pbs.twimg.com/profile_images/2061470087283191808/0sOpTiuI_400x400.jpg" group-title="USA NWSL Women",Racing Louisville W vs Bay FC W [9:00 PM ET]
