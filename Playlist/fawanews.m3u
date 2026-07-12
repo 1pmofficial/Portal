@@ -1,11 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 11, 2026 at 08:00 PM EST
-# Total categories: 10
-# Total events: 36
-# Working streams: 35
+#PLAYLIST: The TV App - July 11, 2026 at 10:00 PM EST
+# Total categories: 11
+# Total events: 44
+# Working streams: 44
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:AEW Wrestling
+#EXTINF:-1 tvg-id="AEW_Collision" tvg-name="AEW Collision" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="AEW Wrestling",AEW Collision [9:00 PM ET]
+http://193.47.62.41/hls/ssss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="AEW_Collision___HD" tvg-name="AEW Collision - HD" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="AEW Wrestling",AEW Collision - HD [9:00 PM ET]
+https://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/15.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Chile Copa
 #EXTINF:-1 tvg-id="San_Luis_vs_U_Catolica" tvg-name="San Luis vs U Catolica" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",San Luis vs U Catolica [6:30 PM ET]
@@ -20,11 +27,23 @@ http://193.47.62.41/hls/tatataqQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-a
 http://193.47.62.41/hls/LPLPLP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___FR_HD_2" tvg-name="Argentina vs Switzerland - FR HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - FR HD 2 [10:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-1-4459811.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Argentina_vs_Switzerland___ENG" tvg-name="Argentina vs Switzerland - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - ENG [10:00 PM ET]
 http://193.47.62.47/hls/yyyyCZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___ENG_HD" tvg-name="Argentina vs Switzerland - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - ENG HD [10:00 PM ET]
+https://a51.azplay43.me/hls/streama262962/index.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___HD_Sat_Feed" tvg-name="Argentina vs Switzerland - HD Sat Feed" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - HD Sat Feed [10:00 PM ET]
+https://live2.jxa76.com/live/sd-6MvYMRTGw9LWq4XQBd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___ENG_HD" tvg-name="Argentina vs Switzerland - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - ENG HD [10:00 PM ET]
+https://a51.azplay43.me/hls/streama262962/index.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___FR_HD_1" tvg-name="Argentina vs Switzerland - FR HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - FR HD 1 [10:00 PM ET]
+https://live2.jxa76.com/live/hd-en-6MvYMRTGw9LWq4XQBd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___FR_HD_2" tvg-name="Argentina vs Switzerland - FR HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - FR HD 2 [10:00 PM ET]
+https://pul-tenm.gkykp.com/live/hd-en-1-4459811.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Argentina_vs_Switzerland___FR" tvg-name="Argentina vs Switzerland - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - FR [10:00 PM ET]
 http://193.47.62.47/hls/yyyyCZckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -43,6 +62,9 @@ http://193.47.62.47/hls/yyyyCZckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-
 
 #EXTINF:-1 tvg-id="Argentina_vs_Switzerland___AR" tvg-name="Argentina vs Switzerland - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - AR [10:00 PM ET]
 http://193.47.62.47/hls/VVVFEREHTRHF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Switzerland___CN_HD" tvg-name="Argentina vs Switzerland - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",Argentina vs Switzerland - CN HD [10:00 PM ET]
+https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf PGA
 #EXTINF:-1 tvg-id="Golf_PGA_ISCO_Championship" tvg-name="Golf PGA ISCO Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA ISCO Championship [5:00 PM ET]
@@ -86,8 +108,14 @@ https://pul-tenm.gkykp.com/live/sd-2-3923450.m3u8|referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-id="Toronto_Raptors_vs_Houston_Rockets" tvg-name="Toronto Raptors vs Houston Rockets" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs Houston Rockets [10:30 PM ET]
 http://193.47.62.41/hls/YUYUYUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Toronto_Raptors_vs_Houston_Rockets___HD" tvg-name="Toronto Raptors vs Houston Rockets - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs Houston Rockets - HD [10:30 PM ET]
+https://pul-tenm.gkykp.com/live/sd-2-3923453.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Los_Angeles_Lakers" tvg-name="Dallas Mavericks vs Los Angeles Lakers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Los Angeles Lakers [11:00 PM ET]
 http://193.47.62.41/hls/YUYUYUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Los_Angeles_Lakers___HD" tvg-name="Dallas Mavericks vs Los Angeles Lakers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Los Angeles Lakers - HD [11:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-2-3923455.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Philadelphia_76ers_vs_Indiana_Pacers" tvg-name="Philadelphia 76ers vs Indiana Pacers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Philadelphia 76ers vs Indiana Pacers [6:30 PM ET]
 http://193.47.62.41/hls/GAGAGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -101,11 +129,11 @@ http://193.47.62.41/hls/GAGAGAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="San_Antonio_Spurs_vs_New_York_Knicks___HD" tvg-name="San Antonio Spurs vs New York Knicks - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",San Antonio Spurs vs New York Knicks - HD [7:00 PM ET]
 https://pul-tenm.gkykp.com/live/hd-en-2-3923446.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:UFC Fight Night
-#EXTINF:-1 tvg-id="UFC_329___McGregor_vs_Holloway" tvg-name="UFC 329 : McGregor vs Holloway" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night",UFC 329 : McGregor vs Holloway [8:00 PM ET]
+#EXTGRP:UFC Fight Night --:--
+#EXTINF:-1 tvg-id="UFC_329___McGregor_vs_Holloway" tvg-name="UFC 329 : McGregor vs Holloway" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 329 : McGregor vs Holloway [TBD]
 http://193.47.62.41/hls/TBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="UFC_329___McGregor_vs_Holloway___HD" tvg-name="UFC 329 : McGregor vs Holloway - HD" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night",UFC 329 : McGregor vs Holloway - HD [8:00 PM ET]
+#EXTINF:-1 tvg-id="UFC_329___McGregor_vs_Holloway___HD_1" tvg-name="UFC 329 : McGregor vs Holloway - HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 329 : McGregor vs Holloway - HD 1 [TBD]
 https://trophystream.com/cors-proxy/https/ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
