@@ -1,134 +1,68 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 14, 2026 at 02:00 PM EST
-# Total categories: 10
-# Total events: 45
-# Working streams: 44
+#PLAYLIST: The TV App - July 14, 2026 at 04:00 PM EST
+# Total categories: 6
+# Total events: 25
+# Working streams: 25
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Cricket
-#EXTINF:-1 tvg-id="England_vs_India" tvg-name="England vs India" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs India [7:00 AM ET]
-http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Cycling
-#EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [7:30 AM ET]
-http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [7:30 AM ET]
-http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:FIFA World Cup
-#EXTINF:-1 tvg-id="France_vs_Spain___FR_HD" tvg-name="France vs Spain - FR HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - FR HD [5:00 PM ET]
+#EXTINF:-1 tvg-id="France_vs_Spain___FR_HD_1" tvg-name="France vs Spain - FR HD 1" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - FR HD 1 [4:00 PM ET]
+https://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_vs_Spain___SAT_Feed_HD" tvg-name="France vs Spain - SAT Feed HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - SAT Feed HD [4:00 PM ET]
+https://live2.jxa76.com/live/sd-6MvYMRTGwFvxSW19eK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_vs_Spain___FR_HD_2" tvg-name="France vs Spain - FR HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - FR HD 2 [4:00 PM ET]
 https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___ENG" tvg-name="France vs Spain - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - ENG [5:00 PM ET]
-http://193.47.62.47/hls/ECZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_vs_Spain___HD_2" tvg-name="France vs Spain - HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - HD 2 [4:00 PM ET]
+https://hls.live123.fans/live/4459812.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___SWAHILI" tvg-name="France vs Spain - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - SWAHILI [5:00 PM ET]
-http://193.47.62.47/hls/EVVVFEREHTRH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="France_vs_Spain___FR" tvg-name="France vs Spain - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - FR [5:00 PM ET]
+#EXTINF:-1 tvg-id="France_vs_Spain___FR" tvg-name="France vs Spain - FR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - FR [4:00 PM ET]
 http://193.47.62.47/hls/ECZckkkq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___AR" tvg-name="France vs Spain - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - AR [5:00 PM ET]
-http://193.47.62.47/hls/EVVVFEREHTRHF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="France_vs_Spain___ENG" tvg-name="France vs Spain - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - ENG [4:00 PM ET]
+http://193.47.62.47/hls/ECZzsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___BE_NL" tvg-name="France vs Spain - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - BE NL [5:00 PM ET]
-http://193.47.62.47/hls/ECZckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="France_vs_Spain___SWE" tvg-name="France vs Spain - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - SWE [5:00 PM ET]
+#EXTINF:-1 tvg-id="France_vs_Spain___SWE" tvg-name="France vs Spain - SWE" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - SWE [4:00 PM ET]
 http://193.47.62.47/hls/ECZckkkqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___ES" tvg-name="France vs Spain - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - ES [5:00 PM ET]
+#EXTINF:-1 tvg-id="France_vs_Spain___ES" tvg-name="France vs Spain - ES" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - ES [4:00 PM ET]
 http://193.47.62.47/hls/ECZckkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="France_vs_Spain___CN_HD" tvg-name="France vs Spain - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - CN HD [5:00 PM ET]
+#EXTINF:-1 tvg-id="France_vs_Spain___BE_NL" tvg-name="France vs Spain - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - BE NL [4:00 PM ET]
+http://193.47.62.47/hls/ECZckkkqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_vs_Spain___SWAHILI" tvg-name="France vs Spain - SWAHILI" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - SWAHILI [4:00 PM ET]
+http://193.47.62.47/hls/EVVVFEREHTRH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_vs_Spain___CN_HD" tvg-name="France vs Spain - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - CN HD [4:00 PM ET]
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="France_vs_Spain___AR" tvg-name="France vs Spain - AR" tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="FIFA World Cup",France vs Spain - AR [4:00 PM ET]
+http://193.47.62.47/hls/EVVVFEREHTRHF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Celtic" tvg-name="Sporting Lisbon vs Celtic" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Celtic [1:30 PM ET]
-http://193.47.62.59/hls/YLLLQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Celtic___HD" tvg-name="Sporting Lisbon vs Celtic - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Celtic - HD [1:30 PM ET]
-http://193.47.62.50/hls/YLLLQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Celtic___SD_ENG" tvg-name="Sporting Lisbon vs Celtic - SD ENG" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Celtic - SD ENG [1:30 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4579557.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="NEC_Nijmegen_vs_V_Varen_Nagasaki" tvg-name="NEC Nijmegen vs V-Varen Nagasaki" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",NEC Nijmegen vs V-Varen Nagasaki [2:00 PM ET]
-http://193.47.62.41/hls/rrrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="LASK_vs_Fenerbahce" tvg-name="LASK vs Fenerbahce" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",LASK vs Fenerbahce [2:30 PM ET]
-http://193.47.62.41/hls/yyyyqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Bristol_Rovers_vs_Leicester_City" tvg-name="Bristol Rovers vs Leicester City" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Bristol Rovers vs Leicester City [3:00 PM ET]
-http://193.47.62.41/hls/yyyyqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.44/hls/yyyyqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [6:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:NBA Basketball
+#EXTINF:-1 tvg-id="Houston_Rockets_vs_Philadelphia_76ers" tvg-name="Houston Rockets vs Philadelphia 76ers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Houston Rockets vs Philadelphia 76ers [5:00 PM ET]
+http://193.47.62.41/hls/FFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [6:00 AM ET]
-http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Houston_Rockets_vs_Philadelphia_76ers___HD" tvg-name="Houston Rockets vs Philadelphia 76ers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Houston Rockets vs Philadelphia 76ers - HD [5:00 PM ET]
+https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_1" tvg-name="Snooker Champions League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 1 [7:00 AM ET]
-http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Scottish Cup
+#EXTINF:-1 tvg-id="Montrose_vs_Dundee_Utd" tvg-name="Montrose vs Dundee Utd" tvg-logo="https://pbs.twimg.com/profile_images/1844269988401598485/BhkjwgKk_400x400.jpg" group-title="Scottish Cup",Montrose vs Dundee Utd [3:45 PM ET]
+http://193.47.62.41/hls/dddddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_2" tvg-name="Snooker Champions League - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 2 [7:00 AM ET]
-http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tennis ATP
-#EXTINF:-1 tvg-id="Tennis_ATP_Bastad" tvg-name="Tennis ATP Bastad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Bastad [6:00 AM ET]
-http://193.47.62.44/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_ATP_Gstaad" tvg-name="Tennis ATP Gstaad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Gstaad [6:00 AM ET]
-http://193.47.62.44/hls/YDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Brora_Rangers_vs_Aberdeen" tvg-name="Brora Rangers vs Aberdeen" tvg-logo="https://pbs.twimg.com/profile_images/1844269988401598485/BhkjwgKk_400x400.jpg" group-title="Scottish Cup",Brora Rangers vs Aberdeen [3:45 PM ET]
+http://193.47.62.41/hls/ddddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Champions League
-#EXTINF:-1 tvg-id="KuPS_vs_Vardar___CH_1" tvg-name="KuPS vs Vardar - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",KuPS vs Vardar - CH 1 [12:00 PM ET]
-http://193.47.62.41/hls/TOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="KuPS_vs_Vardar___CH_2" tvg-name="KuPS vs Vardar - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",KuPS vs Vardar - CH 2 [12:00 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556523.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Inter_Escaldes_vs_Lincoln_Red_Imps" tvg-name="Inter Escaldes vs Lincoln Red Imps" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Inter Escaldes vs Lincoln Red Imps [1:00 PM ET]
-http://193.47.62.41/hls/YLLLQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Inter_Escaldes_vs_Lincoln_Red_Imps___HD" tvg-name="Inter Escaldes vs Lincoln Red Imps - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Inter Escaldes vs Lincoln Red Imps - HD [1:00 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556513.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Iberia_1999_vs_Flora" tvg-name="Iberia 1999 vs Flora" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Iberia 1999 vs Flora [1:00 PM ET]
-http://193.47.62.41/hls/YLLLQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Iberia_1999_vs_Flora___HD" tvg-name="Iberia 1999 vs Flora - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Iberia 1999 vs Flora - HD [1:00 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556503.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Riga_FC_vs_Ararat_Armenia___HD" tvg-name="Riga FC vs Ararat-Armenia - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Riga FC vs Ararat-Armenia - HD [2:00 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556499.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Riga_FC_vs_Ararat_Armenia" tvg-name="Riga FC vs Ararat-Armenia" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Riga FC vs Ararat-Armenia [2:00 PM ET]
-http://193.47.62.41/hls/yyyyq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Gyor_vs_Vikingur_Reykjavik" tvg-name="Gyor vs Vikingur Reykjavik" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Gyor vs Vikingur Reykjavik [2:00 PM ET]
-http://193.47.62.41/hls/yyyy.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Gyor_vs_Vikingur_Reykjavik___HD" tvg-name="Gyor vs Vikingur Reykjavik - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Gyor vs Vikingur Reykjavik - HD [2:00 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556525.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="TNS_vs_Sabah_Baku" tvg-name="TNS vs Sabah Baku" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",TNS vs Sabah Baku [2:30 PM ET]
-http://193.47.62.41/hls/fsssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="TNS_vs_Sabah_Baku___HD" tvg-name="TNS vs Sabah Baku - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",TNS vs Sabah Baku - HD [2:30 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556519.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Levski_Sofia_vs_Borac_Banja_Luka" tvg-name="Levski Sofia vs Borac Banja Luka" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Levski Sofia vs Borac Banja Luka [2:30 PM ET]
-http://193.47.62.41/hls/fsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Levski_Sofia_vs_Borac_Banja_Luka___HD" tvg-name="Levski Sofia vs Borac Banja Luka - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Levski Sofia vs Borac Banja Luka - HD [2:30 PM ET]
-https://pul-tenm.gkykp.com/live/sd-1-4556501.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Drita_vs_Kauno_Zalgiris" tvg-name="Drita vs Kauno Zalgiris" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Drita vs Kauno Zalgiris [3:00 PM ET]
 http://193.47.62.41/hls/fsssQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -138,13 +72,18 @@ https://pul-tenm.gkykp.com/live/sd-1-4556509.m3u8|referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Floriana" tvg-name="Shamrock Rovers vs Floriana" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Shamrock Rovers vs Floriana [4:00 PM ET]
 http://193.47.62.41/hls/FGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Floriana___HD" tvg-name="Shamrock Rovers vs Floriana - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Shamrock Rovers vs Floriana - HD [4:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4556505.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Larne_vs_Tre_Fiori" tvg-name="Larne vs Tre Fiori" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Larne vs Tre Fiori [4:00 PM ET]
 http://193.47.62.41/hls/FGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Larne_vs_Tre_Fiori___HD" tvg-name="Larne vs Tre Fiori - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Larne vs Tre Fiori - HD [4:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4556521.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Conference League
 #EXTINF:-1 tvg-id="La_Fiorita_vs_UNA_Strassen" tvg-name="La Fiorita vs UNA Strassen" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",La Fiorita vs UNA Strassen [4:00 PM ET]
 http://193.47.62.41/hls/FGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Connecticut_Sun_W_vs_Portland_Fire_W" tvg-name="Connecticut Sun W vs Portland Fire W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Connecticut Sun W vs Portland Fire W [12:00 PM ET]
-http://193.47.62.41/hls/TOOOQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="La_Fiorita_vs_UNA_Strassen___HD" tvg-name="La Fiorita vs UNA Strassen - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",La Fiorita vs UNA Strassen - HD [4:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4556577.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
