@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 13, 2026 at 10:00 PM EST
+#PLAYLIST: The TV App - July 14, 2026 at 12:00 AM EST
 # Total categories: 6
 # Total events: 20
 # Working streams: 20
@@ -16,11 +16,11 @@ http://193.47.62.41/hls/GBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.41/hls/GBBBQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="MLB_Home_Run_Derby___SD" tvg-name="MLB Home Run Derby - SD" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",MLB Home Run Derby - SD [9:00 PM ET]
-http://193.47.62.44/hls/R999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="MLB_Home_Run_Derby___HD" tvg-name="MLB Home Run Derby - HD" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",MLB Home Run Derby - HD [9:00 PM ET]
 http://193.47.62.55/hls/R999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="MLB_Home_Run_Derby___SD" tvg-name="MLB Home Run Derby - SD" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",MLB Home Run Derby - SD [9:00 PM ET]
+http://193.47.62.44/hls/R999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NBA Basketball
 #EXTINF:-1 tvg-id="Memphis_Grizzlies_vs_Dallas_Mavericks" tvg-name="Memphis Grizzlies vs Dallas Mavericks" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Memphis Grizzlies vs Dallas Mavericks [8:00 PM ET]
@@ -41,11 +41,11 @@ http://193.47.62.44/hls/IFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Utah_Jazz_vs_Chicago_Bulls___HD" tvg-name="Utah Jazz vs Chicago Bulls - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Utah Jazz vs Chicago Bulls - HD [10:00 PM ET]
 https://pul-tenm.gkykp.com/live/hd-en-2-3923445.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Phoenix_Suns___HD" tvg-name="Milwaukee Bucks vs Phoenix Suns - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Phoenix Suns - HD [11:00 PM ET]
-https://hls.live123.fans/live/3923441.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Phoenix_Suns" tvg-name="Milwaukee Bucks vs Phoenix Suns" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Phoenix Suns [11:00 PM ET]
 http://193.47.62.41/hls/GBBBQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Phoenix_Suns___HD" tvg-name="Milwaukee Bucks vs Phoenix Suns - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Phoenix Suns - HD [11:00 PM ET]
+https://hls.live123.fans/live/3923441.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Portland_Trail_Blazers_vs_Minnesota_Timberwolves" tvg-name="Portland Trail Blazers vs Minnesota Timberwolves" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Portland Trail Blazers vs Minnesota Timberwolves [12:00 AM ET]
 http://193.47.62.44/hls/IFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -54,17 +54,17 @@ http://193.47.62.44/hls/IFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 https://hls.live123.fans/live/3923440.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Atlanta_Dream_W_vs_Los_Angeles_Sparks_W___HD" tvg-name="Atlanta Dream W vs Los Angeles Sparks W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Atlanta Dream W vs Los Angeles Sparks W - HD [8:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-2-3909256.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Atlanta_Dream_W_vs_Los_Angeles_Sparks_W" tvg-name="Atlanta Dream W vs Los Angeles Sparks W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Atlanta Dream W vs Los Angeles Sparks W [8:00 PM ET]
 http://193.47.62.44/hls/R999.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Phoenix_Mercury_W___HD" tvg-name="Minnesota Lynx W vs Phoenix Mercury W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Phoenix Mercury W - HD [10:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-2-3909156.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Atlanta_Dream_W_vs_Los_Angeles_Sparks_W___HD" tvg-name="Atlanta Dream W vs Los Angeles Sparks W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Atlanta Dream W vs Los Angeles Sparks W - HD [8:00 PM ET]
+https://pul-tenm.gkykp.com/live/hd-en-2-3909256.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Phoenix_Mercury_W" tvg-name="Minnesota Lynx W vs Phoenix Mercury W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Phoenix Mercury W [10:00 PM ET]
 http://193.47.62.44/hls/R999Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Phoenix_Mercury_W___HD" tvg-name="Minnesota Lynx W vs Phoenix Mercury W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Phoenix Mercury W - HD [10:00 PM ET]
+https://pul-tenm.gkykp.com/live/hd-en-2-3909156.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WWE Wrestling
 #EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___CH_1" tvg-name="WWE Monday Night RAW - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - CH 1 [9:00 PM ET]
