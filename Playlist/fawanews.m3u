@@ -1,59 +1,40 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 15, 2026 at 04:00 AM EST
-# Total categories: 6
-# Total events: 15
-# Working streams: 15
+#PLAYLIST: The TV App - July 15, 2026 at 06:00 AM EST
+# Total categories: 5
+# Total events: 9
+# Working streams: 9
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Bolivia Division Profesional
-#EXTINF:-1 tvg-id="Blooming_vs_GV_San_Jose" tvg-name="Blooming vs GV San Jose" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Blooming vs GV San Jose [9:00 PM ET]
-http://193.47.62.41/hls/GBBBQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [8:00 AM ET]
+http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Ecuador Liga Pro
-#EXTINF:-1 tvg-id="Manta_vs_Delfin" tvg-name="Manta vs Delfin" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Manta vs Delfin [9:00 PM ET]
-http://193.47.62.41/hls/GBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [8:00 AM ET]
+http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="National_League_vs_American_League" tvg-name="National League vs American League" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",National League vs American League [9:00 PM ET]
-http://193.47.62.41/hls/GBBBQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NBA Basketball
-#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Memphis_Grizzlies" tvg-name="Golden State Warriors vs Memphis Grizzlies" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Memphis Grizzlies [8:00 PM ET]
-http://193.47.62.41/hls/LLLLQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Memphis_Grizzlies___HD" tvg-name="Golden State Warriors vs Memphis Grizzlies - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Memphis Grizzlies - HD [8:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-2-3923433.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:MMA Brawling
+#EXTINF:-1 tvg-id="MMA_IBC04_Brawling_Championship" tvg-name="MMA IBC04 Brawling Championship" tvg-logo="https://images.tapology.com/logos/6342/profile/International_Brawling_Championship-logo.jpg?1756272954" group-title="MMA Brawling",MMA IBC04 Brawling Championship [6:00 AM ET]
+http://193.47.62.41/hls/KIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Chicago_Bulls_vs_Washington_Wizards" tvg-name="Chicago Bulls vs Washington Wizards" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Chicago Bulls vs Washington Wizards [9:00 PM ET]
-http://193.47.62.41/hls/GBBBQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_1" tvg-name="Snooker Champions League - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 1 [7:00 AM ET]
+http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Chicago_Bulls_vs_Washington_Wizards___HD" tvg-name="Chicago Bulls vs Washington Wizards - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Chicago Bulls vs Washington Wizards - HD [9:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-2-3923431.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Champions_League___Table_2" tvg-name="Snooker Champions League - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League - Table 2 [7:00 AM ET]
+http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Oklahoma_City_Thunder_vs_Denver_Nuggets" tvg-name="Oklahoma City Thunder vs Denver Nuggets" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Oklahoma City Thunder vs Denver Nuggets [10:00 PM ET]
-http://193.47.62.41/hls/GBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Tennis ATP
+#EXTINF:-1 tvg-id="Tennis_ATP_Bastad" tvg-name="Tennis ATP Bastad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Bastad [6:00 AM ET]
+http://193.47.62.44/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Oklahoma_City_Thunder_vs_Denver_Nuggets___HD" tvg-name="Oklahoma City Thunder vs Denver Nuggets - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Oklahoma City Thunder vs Denver Nuggets - HD [10:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-en-2-3923429.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Los_Angeles_Clippers___HD" tvg-name="Los Angeles Lakers vs Los Angeles Clippers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Los Angeles Clippers - HD [11:00 PM ET]
-https://hls.live123.fans/live/3923427.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Los_Angeles_Clippers" tvg-name="Los Angeles Lakers vs Los Angeles Clippers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Los Angeles Clippers [11:00 PM ET]
-http://193.47.62.41/hls/GBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Toronto_Tempo_W_vs_Washington_Mystics_W" tvg-name="Toronto Tempo W vs Washington Mystics W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Toronto Tempo W vs Washington Mystics W [8:00 PM ET]
-http://193.47.62.41/hls/LLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Toronto_Tempo_W_vs_Washington_Mystics_W___HD" tvg-name="Toronto Tempo W vs Washington Mystics W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Toronto Tempo W vs Washington Mystics W - HD [8:00 PM ET]
-https://pul-tenm.gkykp.com/live/hd-zh-2-3909089.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:WWE Wrestling
-#EXTINF:-1 tvg-id="WWE_NXT___CH_2_HD" tvg-name="WWE NXT - CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE NXT - CH 2 HD [9:00 PM ET]
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="WWE_NXT___CH_1" tvg-name="WWE NXT - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE NXT - CH 1 [9:00 PM ET]
-http://193.47.62.41/hls/GBBBQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_ATP_Gstaad" tvg-name="Tennis ATP Gstaad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Gstaad [6:00 AM ET]
+http://193.47.62.44/hls/YDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
