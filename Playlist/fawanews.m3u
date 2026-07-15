@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 15, 2026 at 10:00 AM EST
-# Total categories: 7
-# Total events: 12
-# Working streams: 12
+#PLAYLIST: The TV App - July 15, 2026 at 12:00 PM EST
+# Total categories: 11
+# Total events: 21
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Cricket Vitality Blast
+#EXTINF:-1 tvg-id="Yorkshire_vs_Somerset" tvg-name="Yorkshire vs Somerset" tvg-logo="https://pbs.twimg.com/profile_images/1572134193521360896/daDaZqiT_400x400.jpg" group-title="Cricket Vitality Blast",Yorkshire vs Somerset [12:30 PM ET]
+http://193.47.62.41/hls/AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cycling
 #EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [8:00 AM ET]
@@ -13,6 +17,26 @@ http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [8:00 AM ET]
 http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Finland Ykkosliiga
+#EXTINF:-1 tvg-id="Jippo_vs_Mikkeli" tvg-name="Jippo vs Mikkeli" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Ykkosliiga",Jippo vs Mikkeli [12:30 PM ET]
+http://193.47.62.41/hls/tatataQqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Ajax_vs_Bochum" tvg-name="Ajax vs Bochum" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Ajax vs Bochum [12:00 PM ET]
+http://193.47.62.41/hls/tatataQqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FK_Baumit_Jablonec_vs_FC_Kharkiv" tvg-name="FK Baumit Jablonec vs FC Kharkiv" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",FK Baumit Jablonec vs FC Kharkiv [12:00 PM ET]
+http://193.47.62.41/hls/tatata.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="SK_Rapid_vs_Panathinaikos" tvg-name="SK Rapid vs Panathinaikos" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",SK Rapid vs Panathinaikos [1:00 PM ET]
+http://193.47.62.41/hls/AAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Polonia_Warszawa_vs_FC_Zlin" tvg-name="Polonia Warszawa vs FC Zlin" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Polonia Warszawa vs FC Zlin [1:00 PM ET]
+http://193.47.62.41/hls/tatataQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Energie_Cottbus_vs_FK_Mlada_Boleslav" tvg-name="Energie Cottbus vs FK Mlada Boleslav" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Energie Cottbus vs FK Mlada Boleslav [1:00 PM ET]
+http://193.47.62.41/hls/tatataQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_The_Open" tvg-name="Golf The Open" tvg-logo="https://pbs.twimg.com/profile_images/1796101365007044610/uNsrOE0V_400x400.jpg" group-title="Golf",Golf The Open [7:00 AM ET]
@@ -33,11 +57,11 @@ http://193.47.62.42/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.42/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
-#EXTINF:-1 tvg-id="Tennis_ATP_Gstaad" tvg-name="Tennis ATP Gstaad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Gstaad [6:00 AM ET]
-http://193.47.62.44/hls/YDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_ATP_Bastad" tvg-name="Tennis ATP Bastad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Bastad [6:00 AM ET]
 http://193.47.62.44/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_ATP_Gstaad" tvg-name="Tennis ATP Gstaad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Gstaad [6:00 AM ET]
+http://193.47.62.44/hls/YDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Conference League
 #EXTINF:-1 tvg-id="Malisheva_vs_Vllaznia" tvg-name="Malisheva vs Vllaznia" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Malisheva vs Vllaznia [11:30 AM ET]
@@ -49,3 +73,10 @@ http://193.47.62.41/hls/KIIIqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 
 #EXTINF:-1 tvg-id="Ukraine_vs_Iran" tvg-name="Ukraine vs Iran" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Ukraine vs Iran [11:30 AM ET]
 http://193.47.62.41/hls/LIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WNBA Basketball
+#EXTINF:-1 tvg-id="Chicago_Sky_W_vs_Seattle_Storm_W" tvg-name="Chicago Sky W vs Seattle Storm W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Chicago Sky W vs Seattle Storm W [1:00 PM ET]
+http://193.47.62.41/hls/AAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Los_Angeles_Sparks_W" tvg-name="Minnesota Lynx W vs Los Angeles Sparks W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Los Angeles Sparks W [2:00 PM ET]
+http://193.47.62.41/hls/AAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
