@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 17, 2026 at 08:00 AM EST
+#PLAYLIST: The TV App - July 17, 2026 at 10:00 AM EST
 # Total categories: 15
 # Total events: 29
 # Working streams: 29
@@ -32,11 +32,11 @@ http://193.47.62.41/hls/skkkqqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.41/hls/skkkqqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cycling
-#EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [8:00 AM ET]
-http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Cycling_Tour_de_France___BE_NL" tvg-name="Cycling Tour de France - BE NL" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - BE NL [8:00 AM ET]
 http://193.47.62.42/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cycling_Tour_de_France___ENG" tvg-name="Cycling Tour de France - ENG" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France - ENG [8:00 AM ET]
+http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIA Formula 2
 #EXTINF:-1 tvg-id="FIA_Formula_2_Belgium" tvg-name="FIA Formula 2 Belgium" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Belgium [6:00 AM ET]
@@ -54,11 +54,11 @@ http://193.47.62.58/hls/skkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d5dc9cd-4aa0-4fd7-9556-3d1556de3080/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Feyenoord_vs_Charleroi" tvg-name="Feyenoord vs Charleroi" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Feyenoord vs Charleroi [8:30 AM ET]
-http://193.47.62.52/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Feyenoord_vs_Charleroi___HD" tvg-name="Feyenoord vs Charleroi - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Feyenoord vs Charleroi - HD [8:30 AM ET]
 https://pul-tenm.gkykp.com/live/sd-1-4586017.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Feyenoord_vs_Charleroi" tvg-name="Feyenoord vs Charleroi" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Feyenoord vs Charleroi [8:30 AM ET]
+http://193.47.62.52/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Midtjylland_vs_Odense" tvg-name="Midtjylland vs Odense" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Midtjylland vs Odense [9:00 AM ET]
 http://193.47.62.41/hls/JJJJDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
