@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 16, 2026 at 08:00 PM EST
-# Total categories: 13
+#PLAYLIST: The TV App - July 16, 2026 at 10:00 PM EST
+# Total categories: 12
 # Total events: 28
-# Working streams: 28
+# Working streams: 27
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -15,11 +15,11 @@ http://193.47.62.41/hls/GRGRGRQQQQ.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.41/hls/UVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie A
-#EXTINF:-1 tvg-id="Botafogo_RJ_vs_Santos" tvg-name="Botafogo RJ vs Santos" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Botafogo RJ vs Santos [7:30 PM ET]
-http://193.47.62.41/hls/UVVVQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Vitoria_vs_Vasco" tvg-name="Vitoria vs Vasco" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Vitoria vs Vasco [7:30 PM ET]
 http://193.47.62.41/hls/UVVVQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Botafogo_RJ_vs_Santos" tvg-name="Botafogo RJ vs Santos" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Botafogo RJ vs Santos [7:30 PM ET]
+http://193.47.62.41/hls/UVVVQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie B
 #EXTINF:-1 tvg-id="CRB_vs_Nautico" tvg-name="CRB vs Nautico" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",CRB vs Nautico [8:00 PM ET]
@@ -99,7 +99,3 @@ http://193.47.62.41/hls/GAGAGA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Washington_Mystics_W_vs_Portland_Fire_W___HD" tvg-name="Washington Mystics W vs Portland Fire W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Washington Mystics W vs Portland Fire W - HD [8:00 PM ET]
 https://pul-tenm.gkykp.com/live/hd-zh-2-3908959.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Wrestling
-#EXTINF:-1 tvg-id="TNA_Impact_Wrestling" tvg-name="TNA Impact Wrestling" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="Wrestling",TNA Impact Wrestling [9:00 PM ET]
-http://193.47.62.41/hls/ZGGGQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
