@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 17, 2026 at 04:00 AM EST
-# Total categories: 7
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - July 17, 2026 at 06:00 AM EST
+# Total categories: 8
+# Total events: 10
+# Working streams: 10
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -40,3 +40,7 @@ http://193.47.62.44/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTGRP:Volleyball Nations League
 #EXTINF:-1 tvg-id="Japan_vs_Belgium" tvg-name="Japan vs Belgium" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Japan vs Belgium [7:20 AM ET]
 http://193.47.62.41/hls/skkkqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:World Rally
+#EXTINF:-1 tvg-id="World_Rally_Championship_Estonia" tvg-name="World Rally Championship Estonia" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="World Rally",World Rally Championship Estonia [7:00 AM ET]
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
