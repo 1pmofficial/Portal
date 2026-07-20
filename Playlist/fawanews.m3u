@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 20, 2026 at 02:00 PM EST
-# Total categories: 14
-# Total events: 24
-# Working streams: 24
+#PLAYLIST: The TV App - July 20, 2026 at 04:00 PM EST
+# Total categories: 11
+# Total events: 15
+# Working streams: 15
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -12,26 +12,23 @@ http://1pixmedia.better-than.tv/video.mp4
 http://193.47.62.41/hls/UUUUZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Bulgaria efbet League
-#EXTINF:-1 tvg-id="Slavia_Sofia_vs_CSKA_Sofia" tvg-name="Slavia Sofia vs CSKA Sofia" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Slavia Sofia vs CSKA Sofia [1:15 PM ET]
-http://193.47.62.41/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Botev_Plovdiv_vs_Lokomotiv_Sofia" tvg-name="Botev Plovdiv vs Lokomotiv Sofia" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Botev Plovdiv vs Lokomotiv Sofia [3:30 PM ET]
 http://193.47.62.41/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Darts
+#EXTINF:-1 tvg-id="Darts_World_Matchplay" tvg-name="Darts World Matchplay" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts World Matchplay [4:00 PM ET]
+http://193.47.62.44/hls/HAAAKQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Ecuador Liga Pro
 #EXTINF:-1 tvg-id="Mushuc_Runa_vs_Orense" tvg-name="Mushuc Runa vs Orense" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Mushuc Runa vs Orense [4:00 PM ET]
 http://193.47.62.41/hls/UUUUZQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Finland Veikkausliiga
-#EXTINF:-1 tvg-id="TPS_vs_Ilves" tvg-name="TPS vs Ilves" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",TPS vs Ilves [12:00 PM ET]
-http://193.47.62.41/hls/TTTTQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Mariehamn_vs_Lahti" tvg-name="Mariehamn vs Lahti" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Mariehamn vs Lahti [1:00 PM ET]
-http://193.47.62.41/hls/TTTTQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Strasbourg" tvg-name="Sporting Lisbon vs Strasbourg" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Strasbourg [4:15 PM ET]
+#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Strasbourg___CH_1" tvg-name="Sporting Lisbon vs Strasbourg - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Strasbourg - CH 1 [4:15 PM ET]
 http://193.47.62.41/hls/UUUUZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sporting_Lisbon_vs_Strasbourg___CH_2" tvg-name="Sporting Lisbon vs Strasbourg - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Sporting Lisbon vs Strasbourg - CH 2 [4:15 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4590794.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -47,40 +44,13 @@ http://193.47.62.41/hls/UUUUZQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="Hafnarfjordur_vs_Breidablik" tvg-name="Hafnarfjordur vs Breidablik" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Hafnarfjordur vs Breidablik [4:15 PM ET]
 http://193.47.62.41/hls/UUUUZQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Latvia Virsliga
-#EXTINF:-1 tvg-id="Jelgava_vs_RFS" tvg-name="Jelgava vs RFS" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Jelgava vs RFS [12:00 PM ET]
-http://193.47.62.41/hls/TTTTQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Super_Nova_vs_Grobina" tvg-name="Super Nova vs Grobina" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Super Nova vs Grobina [1:00 PM ET]
-http://193.47.62.41/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Lithuania Toplyga
-#EXTINF:-1 tvg-id="Suduva_vs_Hegelmann" tvg-name="Suduva vs Hegelmann" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",Suduva vs Hegelmann [12:45 PM ET]
-http://193.47.62.41/hls/TTTTQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:IndyCar
+#EXTINF:-1 tvg-id="IndyCar_Series_Music_City_Grand_Prix" tvg-name="IndyCar Series Music City Grand Prix" tvg-logo="https://pbs.twimg.com/profile_images/2079280016517472257/s_WF8LKo_400x400.jpg" group-title="IndyCar",IndyCar Series Music City Grand Prix [4:00 PM ET]
+http://193.47.62.41/hls/PPPPQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Romania Superliga
-#EXTINF:-1 tvg-id="Corvinul_vs_Csikszereda_M_Ciuc" tvg-name="Corvinul vs Csikszereda M Ciuc" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",Corvinul vs Csikszereda M Ciuc [12:30 PM ET]
-http://193.47.62.41/hls/TTTTQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="FC_Rapid_Bucuresti_vs_Sepsi_Sf_Gheorghe" tvg-name="FC Rapid Bucuresti vs Sepsi Sf Gheorghe" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",FC Rapid Bucuresti vs Sepsi Sf Gheorghe [3:30 PM ET]
 http://193.47.62.41/hls/TTTTQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Sweden Allsvenskan
-#EXTINF:-1 tvg-id="Kalmar_vs_Malmo_FF___HD" tvg-name="Kalmar vs Malmo FF - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Kalmar vs Malmo FF - HD [2:00 PM ET]
-http://193.47.62.49/hls/FAFAFAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Kalmar_vs_Malmo_FF" tvg-name="Kalmar vs Malmo FF" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Kalmar vs Malmo FF [2:00 PM ET]
-http://193.47.62.49/hls/FAFAFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Orgryte_vs_Djurgarden" tvg-name="Orgryte vs Djurgarden" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Orgryte vs Djurgarden [2:00 PM ET]
-http://193.47.62.57/hls/FAFAFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Orgryte_vs_Djurgarden___HD" tvg-name="Orgryte vs Djurgarden - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Orgryte vs Djurgarden - HD [2:00 PM ET]
-http://193.47.62.57/hls/FAFAFAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Sweden Superettan
-#EXTINF:-1 tvg-id="Norrby_vs_Sundsvall" tvg-name="Norrby vs Sundsvall" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Norrby vs Sundsvall [2:00 PM ET]
-http://193.47.62.41/hls/UUUUZQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_ATP_Kitzbuhel" tvg-name="Tennis ATP Kitzbuhel" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Kitzbuhel [6:00 AM ET]
