@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 21, 2026 at 08:00 PM EST
+#PLAYLIST: The TV App - July 21, 2026 at 10:00 PM EST
 # Total categories: 10
-# Total events: 30
-# Working streams: 30
+# Total events: 31
+# Working streams: 31
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -66,11 +66,11 @@ http://193.47.62.41/hls/zaaad.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Kansas_City_Royals_vs_San_Francisco_Giants" tvg-name="Kansas City Royals vs San Francisco Giants" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Kansas City Royals vs San Francisco Giants [8:40 PM ET]
 http://193.47.62.41/hls/zqqqaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Chicago_Cubs_vs_Detroit_Tigers" tvg-name="Chicago Cubs vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs Detroit Tigers [9:05 PM ET]
-http://193.47.62.41/hls/zaaaddD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Texas_Rangers_vs_Chicago_White_Sox" tvg-name="Texas Rangers vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Texas Rangers vs Chicago White Sox [9:05 PM ET]
 http://193.47.62.41/hls/zaaaddDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chicago_Cubs_vs_Detroit_Tigers" tvg-name="Chicago Cubs vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs Detroit Tigers [9:05 PM ET]
+http://193.47.62.41/hls/zaaaddD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Houston_Astros_vs_Miami_Marlins" tvg-name="Houston Astros vs Miami Marlins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Houston Astros vs Miami Marlins [9:10 PM ET]
 http://193.47.62.41/hls/zaaaddDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -96,6 +96,9 @@ http://193.47.62.41/hls/SIIIQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Mexico Liga MX
 #EXTINF:-1 tvg-id="Cruz_Azul_vs_Puebla" tvg-name="Cruz Azul vs Puebla" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Puebla [10:00 PM ET]
 http://193.47.62.41/hls/JUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cruz_Azul_vs_Puebla___HD" tvg-name="Cruz Azul vs Puebla - HD" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Puebla - HD [10:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4553804.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Toluca_vs_UNAM_Pumas" tvg-name="Toluca vs UNAM Pumas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Toluca vs UNAM Pumas [12:05 AM ET]
 http://193.47.62.41/hls/JUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
