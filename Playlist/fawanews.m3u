@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 23, 2026 at 06:00 PM EST
-# Total categories: 7
-# Total events: 13
-# Working streams: 13
+#PLAYLIST: The TV App - July 23, 2026 at 08:00 PM EST
+# Total categories: 9
+# Total events: 16
+# Working streams: 16
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -18,11 +18,15 @@ http://193.47.62.41/hls/ZGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Corinthians_vs_Remo" tvg-name="Corinthians vs Remo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Corinthians vs Remo [7:30 PM ET]
 http://193.47.62.41/hls/ZGGGQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Athletic_Club_vs_Sao_Bernardo" tvg-name="Athletic Club vs Sao Bernardo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Athletic Club vs Sao Bernardo [7:30 PM ET]
+http://193.47.62.41/hls/ZGGGQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Botafogo_RJ_vs_Vitoria" tvg-name="Botafogo RJ vs Vitoria" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Botafogo RJ vs Vitoria [7:30 PM ET]
 http://193.47.62.41/hls/ZGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Athletic_Club_vs_Sao_Bernardo" tvg-name="Athletic Club vs Sao Bernardo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Athletic Club vs Sao Bernardo [7:30 PM ET]
-http://193.47.62.41/hls/ZGGGQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Cuiaba_vs_Atletico_GO" tvg-name="Cuiaba vs Atletico GO" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Cuiaba vs Atletico GO [8:30 PM ET]
+http://193.47.62.41/hls/uttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Copa Sudamericana
 #EXTINF:-1 tvg-id="Bolivar_vs_Gremio" tvg-name="Bolivar vs Gremio" tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg" group-title="Copa Sudamericana",Bolivar vs Gremio [7:00 PM ET]
@@ -33,6 +37,9 @@ http://193.47.62.41/hls/ZGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.194/hls/HAAAKQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Ecuador Liga Pro
+#EXTINF:-1 tvg-id="Emelec_vs_Mushuc_Runa" tvg-name="Emelec vs Mushuc Runa" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Emelec vs Mushuc Runa [9:00 PM ET]
+http://193.47.62.41/hls/ummm.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Leones_del_Norte_vs_Guayaquil_City" tvg-name="Leones del Norte vs Guayaquil City" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Leones del Norte vs Guayaquil City [6:30 PM ET]
 http://193.47.62.46/hls/RGGGQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -52,3 +59,7 @@ http://193.47.62.46/hls/RGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Detroit_Tigers_vs_Kansas_City_Royals" tvg-name="Detroit Tigers vs Kansas City Royals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Detroit Tigers vs Kansas City Royals [7:40 PM ET]
 http://193.47.62.41/hls/ZGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:TNA Wrestling
+#EXTINF:-1 tvg-id="TNA_Impact_Wrestling" tvg-name="TNA Impact Wrestling" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="TNA Wrestling",TNA Impact Wrestling [9:00 PM ET]
+http://193.47.62.41/hls/ZGGGQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
