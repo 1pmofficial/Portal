@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 24, 2026 at 04:00 AM EST
-# Total categories: 11
-# Total events: 19
-# Working streams: 19
+#PLAYLIST: The TV App - July 24, 2026 at 06:00 AM EST
+# Total categories: 12
+# Total events: 24
+# Working streams: 24
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -43,9 +43,25 @@ http://193.47.62.41/hls/ZLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Como_vs_Paris_FC" tvg-name="Como vs Paris FC" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Como vs Paris FC [5:30 AM ET]
 http://193.47.62.50/hls/ziii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="SC_Cambuur_vs_FC_Utrecht" tvg-name="SC Cambuur vs FC Utrecht" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",SC Cambuur vs FC Utrecht [7:00 AM ET]
+http://193.47.62.50/hls/RRRRAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Swansea_City_vs_Udinese" tvg-name="Swansea City vs Udinese" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Swansea City vs Udinese [8:00 AM ET]
+http://193.47.62.50/hls/RRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="VfL_Wolfsburg_vs_Lyon" tvg-name="VfL Wolfsburg vs Lyon" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",VfL Wolfsburg vs Lyon [9:00 AM ET]
+http://193.47.62.50/hls/RRRRA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf LPGA
 #EXTINF:-1 tvg-id="Golf_LPGA_ISPS_HANDA" tvg-name="Golf LPGA ISPS HANDA" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf LPGA ISPS HANDA [5:30 AM ET]
 http://193.47.62.41/hls/GAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Newcastle_Knights_vs_Sydney_Roosters" tvg-name="Newcastle Knights vs Sydney Roosters" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Newcastle Knights vs Sydney Roosters [5:00 AM ET]
