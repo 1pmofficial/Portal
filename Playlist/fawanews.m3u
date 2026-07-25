@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 24, 2026 at 08:00 PM EST
+#PLAYLIST: The TV App - July 24, 2026 at 10:00 PM EST
 # Total categories: 23
 # Total events: 52
 # Working streams: 52
@@ -8,31 +8,31 @@
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:Argentina Liga Profesional
-#EXTINF:-1 tvg-id="Platense_vs_Union_de_Santa_Fe" tvg-name="Platense vs Union de Santa Fe" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Platense vs Union de Santa Fe [9:15 PM ET]
-http://193.47.62.41/hls/KVVVQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Huracan_vs_Banfield" tvg-name="Huracan vs Banfield" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Huracan vs Banfield [9:15 PM ET]
 http://193.47.62.41/hls/KVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Platense_vs_Union_de_Santa_Fe" tvg-name="Platense vs Union de Santa Fe" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Platense vs Union de Santa Fe [9:15 PM ET]
+http://193.47.62.41/hls/KVVVQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Gimnasia_Mendoza_vs_Central_Cordoba" tvg-name="Gimnasia Mendoza vs Central Cordoba" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Gimnasia Mendoza vs Central Cordoba [4:45 PM ET]
 http://193.47.62.46/hls/TATATAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Racing_Club_vs_Gimnasia_LP" tvg-name="Racing Club vs Gimnasia LP" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Racing Club vs Gimnasia LP [7:00 PM ET]
-http://193.47.62.41/hls/qqqqaqQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Velez_Sarsfield_vs_Instituto" tvg-name="Velez Sarsfield vs Instituto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Velez Sarsfield vs Instituto [7:00 PM ET]
 http://193.47.62.41/hls/qqqqaqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Racing_Club_vs_Gimnasia_LP" tvg-name="Racing Club vs Gimnasia LP" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Racing Club vs Gimnasia LP [7:00 PM ET]
+http://193.47.62.41/hls/qqqqaqQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Bolivia Division Profesional
 #EXTINF:-1 tvg-id="Aurora_vs_Academia_del_Balompie" tvg-name="Aurora vs Academia del Balompie" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Aurora vs Academia del Balompie [8:00 PM ET]
 http://193.47.62.41/hls/RARARA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Tanzania_Boxing___Choki_vs_Tony_Rashid" tvg-name="Tanzania Boxing : Choki vs Tony Rashid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Tanzania Boxing : Choki vs Tony Rashid [TBD]
-http://193.47.62.41/hls/FOOOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="CES_Boxing" tvg-name="CES Boxing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",CES Boxing [TBD]
 http://193.47.62.194/hls/iiiii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tanzania_Boxing___Choki_vs_Tony_Rashid" tvg-name="Tanzania Boxing : Choki vs Tony Rashid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Tanzania Boxing : Choki vs Tony Rashid [TBD]
+http://193.47.62.41/hls/FOOOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CONCACAF Champions Cup
 #EXTINF:-1 tvg-id="Mexico_U20_vs_Antigua_and_Barbuda_U20" tvg-name="Mexico U20 vs Antigua and Barbuda U20" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Champions Cup",Mexico U20 vs Antigua and Barbuda U20 [8:00 PM ET]
@@ -90,11 +90,11 @@ http://193.47.62.46/hls/TATATAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="Baltimore_Orioles_vs_Atlanta_Braves" tvg-name="Baltimore Orioles vs Atlanta Braves" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Baltimore Orioles vs Atlanta Braves [8:05 PM ET]
 http://193.47.62.41/hls/RARARAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Cleveland_Guardians" tvg-name="Tampa Bay Rays vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Cleveland Guardians [8:10 PM ET]
-http://193.47.62.41/hls/RARARAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="New_York_Mets_vs_Los_Angeles_Dodgers" tvg-name="New York Mets vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs Los Angeles Dodgers [8:10 PM ET]
 http://193.47.62.41/hls/RARARAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Cleveland_Guardians" tvg-name="Tampa Bay Rays vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Cleveland Guardians [8:10 PM ET]
+http://193.47.62.41/hls/RARARAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Miami_Marlins_vs_San_Diego_Padres" tvg-name="Miami Marlins vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Miami Marlins vs San Diego Padres [8:10 PM ET]
 http://193.47.62.41/hls/RARARAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -180,8 +180,8 @@ http://193.47.62.41/hls/KVVVQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.41/hls/qqqqaqQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WWE Wrestling
-#EXTINF:-1 tvg-id="WWE_Friday_Night_SmackDown___CH_1" tvg-name="WWE Friday Night SmackDown - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night SmackDown - CH 1 [9:00 PM ET]
-http://193.47.62.41/hls/AWAWAW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="WWE_Friday_Night_SmackDown___CH_2" tvg-name="WWE Friday Night SmackDown - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night SmackDown - CH 2 [9:00 PM ET]
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="WWE_Friday_Night_SmackDown___CH_1" tvg-name="WWE Friday Night SmackDown - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night SmackDown - CH 1 [9:00 PM ET]
+http://193.47.62.41/hls/AWAWAW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
