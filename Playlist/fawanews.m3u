@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 25, 2026 at 04:00 AM EST
-# Total categories: 6
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - July 25, 2026 at 06:00 AM EST
+# Total categories: 13
+# Total events: 21
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -14,27 +14,70 @@ http://193.47.62.41/hls/beeeAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="GWS_Giants_vs_Sydney_Swans" tvg-name="GWS Giants vs Sydney Swans" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",GWS Giants vs Sydney Swans [3:35 AM ET]
 http://193.47.62.41/hls/beeeA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Western_Bulldogs_vs_Richmond_Tigers" tvg-name="Western Bulldogs vs Richmond Tigers" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Western Bulldogs vs Richmond Tigers [6:40 AM ET]
+http://193.47.62.41/hls/beeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:ASEAN Championship
+#EXTINF:-1 tvg-id="Myanmar_vs_Malaysia" tvg-name="Myanmar vs Malaysia" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Myanmar vs Malaysia [7:00 AM ET]
+http://193.47.62.41/hls/ZKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:China Super League
+#EXTINF:-1 tvg-id="Qingdao_Hainiu_vs_Tianjin_Jinmen_Tiger" tvg-name="Qingdao Hainiu vs Tianjin Jinmen Tiger" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Qingdao Hainiu vs Tianjin Jinmen Tiger [6:30 AM ET]
+http://193.47.62.41/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket The Hundred
+#EXTINF:-1 tvg-id="Sunrisers_Leeds_W_vs_Southern_Brave_W" tvg-name="Sunrisers Leeds W vs Southern Brave W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Sunrisers Leeds W vs Southern Brave W [7:00 AM ET]
+http://193.47.62.41/hls/ZKKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Tour_de_France" tvg-name="Cycling Tour de France" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France [6:00 AM ET]
+http://193.47.62.42/hls/AUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:FIA Formula 3
 #EXTINF:-1 tvg-id="FIA_Formula_3_Hungary" tvg-name="FIA Formula 3 Hungary" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Hungary [5:00 AM ET]
 http://193.47.62.50/hls/ZLLLQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Formula 1 GP --:--
+#EXTINF:-1 tvg-id="Formula_1_GP_Hungay___SD" tvg-name="Formula 1 GP Hungay - SD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Hungay - SD [TBD]
+http://193.47.62.50/hls/ZLLLQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Formula_1_GP_Hungay___HD" tvg-name="Formula 1 GP Hungay - HD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Hungay - HD [TBD]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5c5563f-7794-4a2f-85eb-bec3f734a2f4/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
 #EXTINF:-1 tvg-id="Glasgow_Commonwealth_Games" tvg-name="Glasgow Commonwealth Games" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg" group-title="Friendly Match",Glasgow Commonwealth Games [4:30 AM ET]
 http://193.47.62.41/hls/ZLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Canberra_Raiders_vs_Wests_Tigers" tvg-name="Canberra Raiders vs Wests Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canberra Raiders vs Wests Tigers [2:00 AM ET]
-http://193.47.62.41/hls/beee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Girona_FC_vs_Deportivo_Alaves" tvg-name="Girona FC vs Deportivo Alaves" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Girona FC vs Deportivo Alaves [5:30 AM ET]
+http://193.47.62.41/hls/EGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Luton_vs_Al_Kholood" tvg-name="Luton vs Al Kholood" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Luton vs Al Kholood [6:00 AM ET]
+http://193.47.62.41/hls/TTTTt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NRL
 #EXTINF:-1 tvg-id="Canterbury_Bulldogs_vs_New_Zealand_Warriors" tvg-name="Canterbury Bulldogs vs New Zealand Warriors" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canterbury Bulldogs vs New Zealand Warriors [4:30 AM ET]
 http://193.47.62.41/hls/beeeAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL Women
-#EXTINF:-1 tvg-id="Canterbury_Bankstown_Bulldogs_W_vs_St_George_Illawarra_Dragons_W" tvg-name="Canterbury-Bankstown Bulldogs W vs St George Illawarra Dragons W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL Women",Canterbury-Bankstown Bulldogs W vs St George Illawarra Dragons W [2:15 AM ET]
-http://193.47.62.41/hls/beeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="NQ_Cowboys_vs_Brisbane_Broncos" tvg-name="NQ Cowboys vs Brisbane Broncos" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",NQ Cowboys vs Brisbane Broncos [6:35 AM ET]
+http://193.47.62.41/hls/beeeAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:NRL Women
 #EXTINF:-1 tvg-id="NQ_Cowboys_W_vs_Gold_Coast_Titans_W" tvg-name="NQ Cowboys W vs Gold Coast Titans W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL Women",NQ Cowboys W vs Gold Coast Titans W [4:15 AM ET]
 http://193.47.62.41/hls/beeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_English_Open___Table_2" tvg-name="Snooker English Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker English Open - Table 2 [6:00 AM ET]
+http://193.47.62.50/hls/ZLLLQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_English_Open___Table_1" tvg-name="Snooker English Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker English Open - Table 1 [6:00 AM ET]
+http://193.47.62.50/hls/ZLLLQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:South Korea K League
+#EXTINF:-1 tvg-id="Pohang_vs_Jeonbuk" tvg-name="Pohang vs Jeonbuk" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Pohang vs Jeonbuk [7:30 AM ET]
+http://193.47.62.41/hls/ZKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gimcheon_Sangmu_vs_Daejeon" tvg-name="Gimcheon Sangmu vs Daejeon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gimcheon Sangmu vs Daejeon [7:30 AM ET]
+http://193.47.62.41/hls/ZKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Volleyball Nations League
 #EXTINF:-1 tvg-id="Brazil_W_vs_Italy_W" tvg-name="Brazil W vs Italy W" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg" group-title="Volleyball Nations League",Brazil W vs Italy W [5:00 AM ET]
