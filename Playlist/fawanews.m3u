@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 28, 2026 at 10:00 AM EST
-# Total categories: 13
-# Total events: 22
-# Working streams: 21
+#PLAYLIST: The TV App - July 28, 2026 at 12:00 PM EST
+# Total categories: 12
+# Total events: 29
+# Working streams: 29
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -13,6 +13,9 @@ http://193.47.62.190/hls/JJJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTGRP:CECAFA Kagame Cup
 #EXTINF:-1 tvg-id="Mogadishu_City_vs_Singida_Black_Stars" tvg-name="Mogadishu City vs Singida Black Stars" tvg-logo="https://pbs.twimg.com/profile_images/1323233361142439936/Y2UjgsDq_400x400.jpg" group-title="CECAFA Kagame Cup",Mogadishu City vs Singida Black Stars [10:00 AM ET]
+http://193.47.62.194/hls/JJJJAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jamus_vs_Simba" tvg-name="Jamus vs Simba" tvg-logo="https://pbs.twimg.com/profile_images/1323233361142439936/Y2UjgsDq_400x400.jpg" group-title="CECAFA Kagame Cup",Jamus vs Simba [1:00 PM ET]
 http://193.47.62.194/hls/JJJJAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Commonwealth Games --:--
@@ -44,8 +47,26 @@ http://193.47.62.190/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Cagliari_vs_Modena" tvg-name="Cagliari vs Modena" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Cagliari vs Modena [12:00 PM ET]
 http://193.47.62.42/hls/HFFFAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Cagliari_vs_Modena___HD" tvg-name="Cagliari vs Modena - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Cagliari vs Modena - HD [12:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4596000.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Udinese_vs_Shabab_Al_Ahli_Dubai" tvg-name="Udinese vs Shabab Al-Ahli Dubai" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Udinese vs Shabab Al-Ahli Dubai [12:30 PM ET]
 http://193.47.62.42/hls/HFFFAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Udinese_vs_Shabab_Al_Ahli_Dubai___HD" tvg-name="Udinese vs Shabab Al-Ahli Dubai - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Udinese vs Shabab Al-Ahli Dubai - HD [12:30 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4596002.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Real_Madrid_vs_CD_Leganes" tvg-name="Real Madrid vs CD Leganes" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Real Madrid vs CD Leganes [1:00 PM ET]
+http://193.47.62.46/hls/THTRHRTQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rizespor_vs_Hull_City" tvg-name="Rizespor vs Hull City" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Rizespor vs Hull City [1:00 PM ET]
+http://193.47.62.42/hls/dbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rizespor_vs_Hull_City___HD" tvg-name="Rizespor vs Hull City - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Rizespor vs Hull City - HD [1:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4600759.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Las_Palmas_vs_Leiria" tvg-name="Las Palmas vs Leiria" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Las Palmas vs Leiria [1:00 PM ET]
+http://193.47.62.42/hls/dbbbt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -53,13 +74,6 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Snooker --:--
-#EXTINF:-1 tvg-id="Snooker_Shanghai_Masters___Table_1" tvg-name="Snooker Shanghai Masters - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shanghai Masters - Table 1 [TBD]
-http://193.47.62.41/hls/tpppq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Snooker_Shanghai_Masters___Table_2" tvg-name="Snooker Shanghai Masters - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shanghai Masters - Table 2 [TBD]
-http://193.47.62.41/hls/tppp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_ATP_Washington" tvg-name="Tennis ATP Washington" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Washington [12:00 PM ET]
@@ -73,12 +87,21 @@ http://193.47.62.190/hls/HYYYQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="KuPS_vs_Sabah_Baku" tvg-name="KuPS vs Sabah Baku" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",KuPS vs Sabah Baku [12:00 PM ET]
 http://193.47.62.42/hls/HFFFAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Uzbekistan Super League
-#EXTINF:-1 tvg-id="Xorazm_Urganch_vs_Termez_Surkhon" tvg-name="Xorazm Urganch vs Termez Surkhon" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Xorazm Urganch vs Termez Surkhon [12:00 PM ET]
-http://193.47.62.42/hls/HFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="KuPS_vs_Sabah_Baku___HD" tvg-name="KuPS vs Sabah Baku - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",KuPS vs Sabah Baku - HD [12:00 PM ET]
+https://live2.jxa76.com/live/sd-6Mwb6s2wQo6Wx8pgXM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Lincoln_Red_Imps_vs_Mjallby___HD" tvg-name="Lincoln Red Imps vs Mjallby - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Lincoln Red Imps vs Mjallby - HD [1:00 PM ET]
+https://pul-tenm.gkykp.com/live/sd-1-4586111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Lincoln_Red_Imps_vs_Mjallby" tvg-name="Lincoln Red Imps vs Mjallby" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Lincoln Red Imps vs Mjallby [1:00 PM ET]
+http://193.47.62.42/hls/dbbbq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Uzbekistan Super League
 #EXTINF:-1 tvg-id="Neftchi_Fargona_vs_Navbahor_Namangan" tvg-name="Neftchi Fargona vs Navbahor Namangan" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Neftchi Fargona vs Navbahor Namangan [12:00 PM ET]
 http://193.47.62.42/hls/HFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Xorazm_Urganch_vs_Termez_Surkhon" tvg-name="Xorazm Urganch vs Termez Surkhon" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Xorazm Urganch vs Termez Surkhon [12:00 PM ET]
+http://193.47.62.42/hls/HFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Nasaf_Qarshi_vs_Qizilqum" tvg-name="Nasaf Qarshi vs Qizilqum" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Nasaf Qarshi vs Qizilqum [12:00 PM ET]
 http://193.47.62.42/hls/HFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
