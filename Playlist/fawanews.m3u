@@ -1,23 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - July 31, 2026 at 08:00 AM EST
-# Total categories: 11
-# Total events: 15
-# Working streams: 15
+#PLAYLIST: The TV App - July 31, 2026 at 10:00 AM EST
+# Total categories: 14
+# Total events: 18
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Western_Bulldogs" tvg-name="Fremantle Dockers vs Western Bulldogs" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Western Bulldogs [7:10 AM ET]
-http://193.47.62.190/hls/bbbbf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Timor_Leste_vs_Indonesia" tvg-name="Timor-Leste vs Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Timor-Leste vs Indonesia [7:00 AM ET]
+#EXTINF:-1 tvg-id="Vietnam_vs_Singapore" tvg-name="Vietnam vs Singapore" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Vietnam vs Singapore [10:00 AM ET]
 http://193.47.62.190/hls/bbbbff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Armenia Premier League
 #EXTINF:-1 tvg-id="Van_vs_Sardarapat" tvg-name="Van vs Sardarapat" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",Van vs Sardarapat [9:00 AM ET]
 http://193.47.62.190/hls/fffg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Belarus Vysshaya Liga
+#EXTINF:-1 tvg-id="Dnepr_Mogilev_vs_Naftan" tvg-name="Dnepr Mogilev vs Naftan" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png" group-title="Belarus Vysshaya Liga",Dnepr Mogilev vs Naftan [12:00 PM ET]
+http://193.47.62.190/hls/KKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:China Super League
 #EXTINF:-1 tvg-id="Henan_Songshan_Longmen_vs_Dalian_Yingbo" tvg-name="Henan Songshan Longmen vs Dalian Yingbo" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Henan Songshan Longmen vs Dalian Yingbo [8:35 AM ET]
@@ -36,6 +36,18 @@ http://193.47.62.41/hls/tpppqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Glasgow_Commonwealth_Games___CH_4" tvg-name="Glasgow Commonwealth Games - CH 4" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg" group-title="Commonwealth Games --:--",Glasgow Commonwealth Games - CH 4 [TBD]
 http://193.47.62.41/hls/tpppqQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cricket The Hundred
+#EXTINF:-1 tvg-id="Manchester_Super_Giants_W_vs_Trent_Rockets_W" tvg-name="Manchester Super Giants W vs Trent Rockets W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Manchester Super Giants W vs Trent Rockets W [11:00 AM ET]
+http://193.47.62.190/hls/KKKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Tour_of_Denmark" tvg-name="Cycling Tour of Denmark" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling Tour of Denmark [9:00 AM ET]
+http://193.47.62.191/hls/KKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Mainz_vs_Shabab_Al_Ahli_Dubai" tvg-name="Mainz vs Shabab Al-Ahli Dubai" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Mainz vs Shabab Al-Ahli Dubai [11:00 AM ET]
+http://193.47.62.190/hls/KKKKAAAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_AIG_Women_Open" tvg-name="Golf AIG Women Open" tvg-logo="https://pbs.twimg.com/profile_images/1285873371453022208/0N-qTA5W_400x400.jpg" group-title="Golf",Golf AIG Women Open [5:00 AM ET]
 http://193.47.62.190/hls/pppp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -51,13 +63,13 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Melbourne_Storm_vs_Canterbury_Bulldogs" tvg-name="Melbourne Storm vs Canterbury Bulldogs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Melbourne Storm vs Canterbury Bulldogs [7:00 AM ET]
-http://193.47.62.190/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_Shanghai_Masters" tvg-name="Snooker Shanghai Masters" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shanghai Masters [8:30 AM ET]
 http://193.47.62.41/hls/tpppq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="FK_Zorya_Luhansk_vs_Kolos_Kovalivka" tvg-name="FK Zorya Luhansk vs Kolos Kovalivka" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",FK Zorya Luhansk vs Kolos Kovalivka [12:00 PM ET]
+http://193.47.62.190/hls/KKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:World Rally --:--
 #EXTINF:-1 tvg-id="World_Rally_Championship_Finland" tvg-name="World Rally Championship Finland" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="World Rally --:--",World Rally Championship Finland [TBD]
