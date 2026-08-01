@@ -1,30 +1,21 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 01, 2026 at 08:00 AM EST
-# Total categories: 20
-# Total events: 37
-# Working streams: 37
+#PLAYLIST: The TV App - August 01, 2026 at 10:00 AM EST
+# Total categories: 29
+# Total events: 66
+# Working streams: 66
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Carlton_Blues_vs_Brisbane_Lions" tvg-name="Carlton Blues vs Brisbane Lions" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Carlton Blues vs Brisbane Lions [6:40 AM ET]
-http://193.47.62.190/hls/jaaaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Laos_vs_Philippines" tvg-name="Laos vs Philippines" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Laos vs Philippines [7:00 AM ET]
-http://193.47.62.190/hls/YQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Thailand_vs_Malaysia" tvg-name="Thailand vs Malaysia" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Thailand vs Malaysia [10:00 AM ET]
+http://193.47.62.190/hls/NTTTTAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Armenia Premier League
+#EXTINF:-1 tvg-id="BKMA_vs_Shirak_Gyumri" tvg-name="BKMA vs Shirak Gyumri" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",BKMA vs Shirak Gyumri [11:00 AM ET]
+http://193.47.62.191/hls/TWWW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:China Super League
-#EXTINF:-1 tvg-id="Tianjin_Jinmen_Tiger_vs_Yunnan_Yukun" tvg-name="Tianjin Jinmen Tiger vs Yunnan Yukun" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Tianjin Jinmen Tiger vs Yunnan Yukun [8:00 AM ET]
-http://193.47.62.190/hls/IEEEEZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Shanghai_Port_vs_Shandong_Taishan" tvg-name="Shanghai Port vs Shandong Taishan" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Shanghai Port vs Shandong Taishan [8:35 AM ET]
-http://193.47.62.190/hls/OBBBA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Beijing_Guoan_vs_Zhejiang_Professional" tvg-name="Beijing Guoan vs Zhejiang Professional" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Beijing Guoan vs Zhejiang Professional [8:35 AM ET]
-http://193.47.62.190/hls/OBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Chengdu_Rongcheng_vs_Wuhan_Three_Towns" tvg-name="Chengdu Rongcheng vs Wuhan Three Towns" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Chengdu Rongcheng vs Wuhan Three Towns [9:00 AM ET]
 http://193.47.62.190/hls/OBBBAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -36,66 +27,165 @@ http://193.47.62.41/hls/ZLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.41/hls/tpppqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket The Hundred
-#EXTINF:-1 tvg-id="Birmingham_Phoenix_W_vs_Welsh_Fire_W" tvg-name="Birmingham Phoenix W vs Welsh Fire W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Birmingham Phoenix W vs Welsh Fire W [7:00 AM ET]
-http://193.47.62.190/hls/YQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Birmingham_Phoenix_vs_Welsh_Fire" tvg-name="Birmingham Phoenix vs Welsh Fire" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Birmingham Phoenix vs Welsh Fire [10:30 AM ET]
+http://193.47.62.190/hls/JEEEAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Denmark Division 1
-#EXTINF:-1 tvg-id="Hillerod_vs_Esbjerg" tvg-name="Hillerod vs Esbjerg" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Division 1",Hillerod vs Esbjerg [8:00 AM ET]
-http://193.47.62.190/hls/IEEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Kolding_IF_vs_Hvidovre_IF" tvg-name="Kolding IF vs Hvidovre IF" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Division 1",Kolding IF vs Hvidovre IF [11:00 AM ET]
+http://193.47.62.191/hls/TWWWAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English EFL Cup
+#EXTINF:-1 tvg-id="Tranmere_vs_Rochdale" tvg-name="Tranmere vs Rochdale" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="English EFL Cup",Tranmere vs Rochdale [11:00 AM ET]
+http://193.47.62.191/hls/TFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English Rugby Super League
+#EXTINF:-1 tvg-id="Castleford_vs_Warrington" tvg-name="Castleford vs Warrington" tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="English Rugby Super League",Castleford vs Warrington [11:00 AM ET]
+http://193.47.62.191/hls/TFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Finland Veikkausliiga
 #EXTINF:-1 tvg-id="TPS_vs_Mariehamn" tvg-name="TPS vs Mariehamn" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",TPS vs Mariehamn [9:00 AM ET]
 http://193.47.62.190/hls/OBBBAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="FC_Tokyo_vs_Borussia_Dortmund" tvg-name="FC Tokyo vs Borussia Dortmund" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",FC Tokyo vs Borussia Dortmund [7:00 AM ET]
-http://193.47.62.190/hls/YQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="FC_Tokyo_vs_Borussia_Dortmund___HD" tvg-name="FC Tokyo vs Borussia Dortmund - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",FC Tokyo vs Borussia Dortmund - HD [7:00 AM ET]
-https://live2.jxa76.com/live/sd-6MwdLFVLcLqZenLHYP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Nurnberg_vs_Real_Oviedo" tvg-name="Nurnberg vs Real Oviedo" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Nurnberg vs Real Oviedo [8:00 AM ET]
-http://193.47.62.190/hls/ewfewf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Manchester_City_vs_Inter_Milan" tvg-name="Manchester City vs Inter Milan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Manchester City vs Inter Milan [8:30 AM ET]
 http://193.47.62.194/hls/jaaaF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Manchester_City_vs_Inter_Milan___HD" tvg-name="Manchester City vs Inter Milan - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Manchester City vs Inter Milan - HD [8:30 AM ET]
 https://live2.jxa76.com/live/sd-6Mwe5Hawq1WZSVaoN3.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Kasimpasa_vs_Hull_City" tvg-name="Kasimpasa vs Hull City" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Kasimpasa vs Hull City [9:00 AM ET]
-http://193.47.62.190/hls/OHFFAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Hansa_Rostock_vs_Borussia_Monchengladbach" tvg-name="Hansa Rostock vs Borussia Monchengladbach" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Hansa Rostock vs Borussia Monchengladbach [9:00 AM ET]
+http://193.47.62.190/hls/ifff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Indonesia_All_Stars_vs_Aston_Villa" tvg-name="Indonesia All Stars vs Aston Villa" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Indonesia All Stars vs Aston Villa [9:00 AM ET]
-http://193.47.62.191/hls/OHFFAaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Hannover_vs_PEC_Zwolle" tvg-name="Hannover vs PEC Zwolle" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Hannover vs PEC Zwolle [9:00 AM ET]
+http://193.47.62.190/hls/OBBBAAAAAx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Willem_II_vs_OFI_Crete" tvg-name="Willem II vs OFI Crete" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Willem II vs OFI Crete [9:00 AM ET]
-http://193.47.62.190/hls/OHFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Genk_vs_FC_Oss" tvg-name="Genk vs FC Oss" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Genk vs FC Oss [9:00 AM ET]
+https://hls.live123.fans/live/4602741.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dynamo_Dresden_vs_Union_Berlin" tvg-name="Dynamo Dresden vs Union Berlin" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Dynamo Dresden vs Union Berlin [9:00 AM ET]
 http://193.47.62.190/hls/OHFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Indonesia_All_Stars_vs_Aston_Villa" tvg-name="Indonesia All Stars vs Aston Villa" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Indonesia All Stars vs Aston Villa [9:30 AM ET]
+http://193.47.62.191/hls/OHFFAaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Magdeburg_vs_West_Ham_United" tvg-name="Magdeburg vs West Ham United" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Magdeburg vs West Ham United [9:30 AM ET]
 http://193.47.62.191/hls/OHFFAaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Magdeburg_vs_West_Ham_United___HD" tvg-name="Magdeburg vs West Ham United - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Magdeburg vs West Ham United - HD [9:30 AM ET]
+https://live2.jxa76.com/live/sd-6MxiZgqTbVF5uUZbUo.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Willem_II_vs_OFI_Crete" tvg-name="Willem II vs OFI Crete" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Willem II vs OFI Crete [9:30 AM ET]
+http://193.47.62.190/hls/OHFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Manchester_United_vs_Atletico_Madrid___HD" tvg-name="Manchester United vs Atletico Madrid - HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Manchester United vs Atletico Madrid - HD [10:00 AM ET]
+https://live2.jxa76.com/live/sd-6Mwe5HawVikySJ5LHh.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Manchester_United_vs_Atletico_Madrid" tvg-name="Manchester United vs Atletico Madrid" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Manchester United vs Atletico Madrid [10:00 AM ET]
 http://193.47.62.194/hls/jaaaFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Golf
-#EXTINF:-1 tvg-id="Golf_AIG_Women_Open" tvg-name="Golf AIG Women Open" tvg-logo="https://pbs.twimg.com/profile_images/1285873371453022208/0N-qTA5W_400x400.jpg" group-title="Golf",Golf AIG Women Open [8:00 AM ET]
-http://193.47.62.190/hls/pppp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Reading_vs_Charlton" tvg-name="Reading vs Charlton" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Reading vs Charlton [10:00 AM ET]
+http://193.47.62.190/hls/iffff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Stuttgart_vs_Paris_FC" tvg-name="Stuttgart vs Paris FC" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Stuttgart vs Paris FC [10:00 AM ET]
+http://193.47.62.190/hls/NTTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Swansea_City_vs_Leganes" tvg-name="Swansea City vs Leganes" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Swansea City vs Leganes [11:00 AM ET]
+http://193.47.62.191/hls/ZAAAaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Norwich_City_vs_Osasuna" tvg-name="Norwich City vs Osasuna" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Norwich City vs Osasuna [11:00 AM ET]
+http://193.47.62.191/hls/ZAAAaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Doncaster_vs_Lincoln" tvg-name="Doncaster vs Lincoln" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Doncaster vs Lincoln [11:00 AM ET]
+http://193.47.62.191/hls/ZAAAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Millwall_vs_Antwerp" tvg-name="Millwall vs Antwerp" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Millwall vs Antwerp [11:00 AM ET]
+http://193.47.62.191/hls/ZAAAaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Udinese_vs_Mainz_05" tvg-name="Udinese vs Mainz 05" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Udinese vs Mainz 05 [11:00 AM ET]
+http://193.47.62.191/hls/TFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bolton_vs_NAC_Breda" tvg-name="Bolton vs NAC Breda" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Bolton vs NAC Breda [11:00 AM ET]
+http://193.47.62.193/hls/ZAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cardiff_City_vs_AS_Roma" tvg-name="Cardiff City vs AS Roma" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Cardiff City vs AS Roma [11:00 AM ET]
+http://193.47.62.191/hls/TFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Queens_Park_Rangers_vs_AFC_Wimbledon" tvg-name="Queens Park Rangers vs AFC Wimbledon" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Queens Park Rangers vs AFC Wimbledon [11:00 AM ET]
+http://193.47.62.191/hls/TWWWAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Middlesbrough_vs_Espanyol" tvg-name="Middlesbrough vs Espanyol" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Middlesbrough vs Espanyol [11:00 AM ET]
+http://193.47.62.191/hls/TWWWAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Burton_Albion_vs_Derby_County" tvg-name="Burton Albion vs Derby County" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Burton Albion vs Derby County [11:00 AM ET]
+http://193.47.62.191/hls/TWWWAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bochum_vs_Sheffield_United" tvg-name="Bochum vs Sheffield United" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Bochum vs Sheffield United [11:00 AM ET]
+http://193.47.62.191/hls/TWWWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing_UK" tvg-name="Horse Racing UK" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing UK [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Iceland League
+#EXTINF:-1 tvg-id="Vestmannaeyjar_vs_Fram" tvg-name="Vestmannaeyjar vs Fram" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Vestmannaeyjar vs Fram [11:00 AM ET]
+http://193.47.62.191/hls/HMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Kazakhstan Premier League
 #EXTINF:-1 tvg-id="Ertis_Pavlodar_vs_Kaspij_Aktau" tvg-name="Ertis Pavlodar vs Kaspij Aktau" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg" group-title="Kazakhstan Premier League",Ertis Pavlodar vs Kaspij Aktau [9:00 AM ET]
 http://193.47.62.190/hls/OBBBAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kyzylzhar_vs_Aktobe" tvg-name="Kyzylzhar vs Aktobe" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="Kazakhstan Premier League",Kyzylzhar vs Aktobe [11:00 AM ET]
+http://193.47.62.191/hls/HMMMA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Latvia Virsliga
+#EXTINF:-1 tvg-id="BFC_Daugavpils_vs_Jelgava" tvg-name="BFC Daugavpils vs Jelgava" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",BFC Daugavpils vs Jelgava [10:00 AM ET]
+http://193.47.62.190/hls/NTTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Norway Eliteserien
+#EXTINF:-1 tvg-id="Fredrikstad_vs_Sandefjord" tvg-name="Fredrikstad vs Sandefjord" tvg-logo="https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg" group-title="Norway Eliteserien",Fredrikstad vs Sandefjord [11:00 AM ET]
+http://193.47.62.191/hls/HMMMAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Poland Division 1
+#EXTINF:-1 tvg-id="Polonia_Warszawa_vs_Skierniewice" tvg-name="Polonia Warszawa vs Skierniewice" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Polonia Warszawa vs Skierniewice [10:30 AM ET]
+http://193.47.62.190/hls/UBBBFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Pogon_Siedlce_vs_Termalica_B_B" tvg-name="Pogon Siedlce vs Termalica B-B" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Pogon Siedlce vs Termalica B-B [10:30 AM ET]
+http://193.47.62.190/hls/UBBBF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Arka_Gdynia_vs_S_Rzeszow" tvg-name="Arka Gdynia vs S Rzeszow" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Arka Gdynia vs S Rzeszow [10:30 AM ET]
+http://193.47.62.190/hls/UBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Poland Ekstraklasa
 #EXTINF:-1 tvg-id="Piast_Gliwice_vs_Wisla" tvg-name="Piast Gliwice vs Wisla" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg" group-title="Poland Ekstraklasa",Piast Gliwice vs Wisla [9:45 AM ET]
 http://193.47.62.191/hls/OHFFAaaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Russia Premier League
-#EXTINF:-1 tvg-id="Akron_Togliatti_vs_Rubin_Kazan" tvg-name="Akron Togliatti vs Rubin Kazan" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",Akron Togliatti vs Rubin Kazan [8:00 AM ET]
-http://193.47.62.190/hls/IEEEEZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="CSKA_Moscow_vs_Krylya_Sovetov" tvg-name="CSKA Moscow vs Krylya Sovetov" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",CSKA Moscow vs Krylya Sovetov [10:15 AM ET]
+http://193.47.62.190/hls/JEEEAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:SA Rugby Currie Cup
+#EXTINF:-1 tvg-id="Stormers_XXIII_vs_Sharks" tvg-name="Stormers XXIII vs Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1801151152290947072/iSkdmcvc_400x400.jpg" group-title="SA Rugby Currie Cup",Stormers XXIII vs Sharks [10:00 AM ET]
+http://193.47.62.190/hls/NTTTTAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Scottish Championship
+#EXTINF:-1 tvg-id="Morton_vs_Partick_Thistle" tvg-name="Morton vs Partick Thistle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg" group-title="Scottish Championship",Morton vs Partick Thistle [11:00 AM ET]
+http://193.47.62.191/hls/YGGGH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Raith_vs_Stenhousemuir" tvg-name="Raith vs Stenhousemuir" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="Scottish Championship",Raith vs Stenhousemuir [11:00 AM ET]
+http://193.47.62.191/hls/YGGGHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Livingston_vs_Queens_Park" tvg-name="Livingston vs Queens Park" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg" group-title="Scottish Championship",Livingston vs Queens Park [11:00 AM ET]
+http://193.47.62.191/hls/HMMMAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Inverness_vs_Dunfermline" tvg-name="Inverness vs Dunfermline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg" group-title="Scottish Championship",Inverness vs Dunfermline [11:00 AM ET]
+http://193.47.62.191/hls/HMMMAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ayr_United_vs_Arbroath" tvg-name="Ayr United vs Arbroath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg" group-title="Scottish Championship",Ayr United vs Arbroath [11:00 AM ET]
+http://193.47.62.191/hls/HMMMAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Scottish Premiership
+#EXTINF:-1 tvg-id="Falkirk_vs_St_Mirren" tvg-name="Falkirk vs St Mirren" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="Scottish Premiership",Falkirk vs St Mirren [11:00 AM ET]
+http://193.47.62.191/hls/YGGGHaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_Champions_League" tvg-name="Snooker Champions League" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champions League [8:30 AM ET]
@@ -105,28 +195,34 @@ http://193.47.62.41/hls/tpppq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Orlando_Pirates_vs_Milford_FC" tvg-name="Orlando Pirates vs Milford FC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png" group-title="South Africa Betway Premiership",Orlando Pirates vs Milford FC [10:00 AM ET]
 http://193.47.62.192/hls/JEEEAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Pohang_vs_Gimcheon_Sangmu" tvg-name="Pohang vs Gimcheon Sangmu" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Pohang vs Gimcheon Sangmu [7:30 AM ET]
-http://193.47.62.190/hls/YQQQAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Stellenbosch_vs_AmaZulu" tvg-name="Stellenbosch vs AmaZulu" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png" group-title="South Africa Betway Premiership",Stellenbosch vs AmaZulu [10:00 AM ET]
+http://193.47.62.190/hls/yfffA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Jeonbuk_vs_Seoul" tvg-name="Jeonbuk vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Seoul [7:30 AM ET]
-http://193.47.62.190/hls/YQQQAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Golden_Arrows_vs_Chippa_Utd" tvg-name="Golden Arrows vs Chippa Utd" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png" group-title="South Africa Betway Premiership",Golden Arrows vs Chippa Utd [10:00 AM ET]
+http://193.47.62.190/hls/yfff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Gangwon_vs_Bucheon_FC_1995" tvg-name="Gangwon vs Bucheon FC 1995" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gangwon vs Bucheon FC 1995 [7:30 AM ET]
-http://193.47.62.190/hls/YQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Sweden Allsvenskan
+#EXTINF:-1 tvg-id="Hacken_vs_Kalmar" tvg-name="Hacken vs Kalmar" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Hacken vs Kalmar [10:00 AM ET]
+http://193.47.62.190/hls/JEEEAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Superettan
-#EXTINF:-1 tvg-id="Ostersund_vs_Oster" tvg-name="Ostersund vs Oster" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Ostersund vs Oster [8:00 AM ET]
-http://193.47.62.190/hls/IEEEEZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Varberg_vs_Falkenberg" tvg-name="Varberg vs Falkenberg" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Varberg vs Falkenberg [10:00 AM ET]
+http://193.47.62.190/hls/JEEEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sandviken_vs_Sundsvall" tvg-name="Sandviken vs Sundsvall" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Sandviken vs Sundsvall [10:00 AM ET]
+http://193.47.62.190/hls/JEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Women Allsvenskan
 #EXTINF:-1 tvg-id="IF_Brommapojkarna_W_vs_Djurgarden_W" tvg-name="IF Brommapojkarna W vs Djurgarden W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",IF Brommapojkarna W vs Djurgarden W [9:00 AM ET]
 http://193.47.62.190/hls/OBBBAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Ukraine Premier League
-#EXTINF:-1 tvg-id="Kryvbas_vs_Karpaty_Lviv" tvg-name="Kryvbas vs Karpaty Lviv" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Kryvbas vs Karpaty Lviv [7:00 AM ET]
-http://193.47.62.190/hls/YQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Kristianstad_W_vs_AIK_W" tvg-name="Kristianstad W vs AIK W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Kristianstad W vs AIK W [10:00 AM ET]
+http://193.47.62.190/hls/NTTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Uppsala_W_vs_Norrkoping_W" tvg-name="Uppsala W vs Norrkoping W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Uppsala W vs Norrkoping W [11:00 AM ET]
+http://193.47.62.191/hls/TWWWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
 #EXTINF:-1 tvg-id="FC_Kharkiv_vs_Veres_Rivne" tvg-name="FC Kharkiv vs Veres-Rivne" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",FC Kharkiv vs Veres-Rivne [9:30 AM ET]
 http://193.47.62.191/hls/OHFFAaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
