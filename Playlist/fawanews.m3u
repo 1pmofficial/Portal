@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 02, 2026 at 12:00 AM EST
+#PLAYLIST: The TV App - August 02, 2026 at 02:00 AM EST
 # Total categories: 12
 # Total events: 30
 # Working streams: 29
@@ -18,11 +18,11 @@ http://193.47.62.190/hls/CACACAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-a
 http://193.47.62.190/hls/CACACAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Boxing___Lamont_Roach_Jr_vs_William_Zepeda" tvg-name="Boxing : Lamont Roach Jr vs William Zepeda" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Lamont Roach Jr vs William Zepeda [TBD]
-http://193.47.62.194/hls/hythytj.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Boxing___Lamont_Roach_Jr_vs_William_Zepeda___HD" tvg-name="Boxing : Lamont Roach Jr vs William Zepeda - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Lamont Roach Jr vs William Zepeda - HD [TBD]
 http://193.47.62.192/hls/KVVVAAAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Boxing___Lamont_Roach_Jr_vs_William_Zepeda" tvg-name="Boxing : Lamont Roach Jr vs William Zepeda" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Lamont Roach Jr vs William Zepeda [TBD]
+http://193.47.62.194/hls/hythytj.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Colombia Primera A
 #EXTINF:-1 tvg-id="Junior_vs_Millonarios" tvg-name="Junior vs Millonarios" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Junior vs Millonarios [10:15 PM ET]
@@ -45,11 +45,11 @@ http://193.47.62.193/hls/TTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="FC_Cincinnati_vs_San_Jose_Earthquakes___HD" tvg-name="FC Cincinnati vs San Jose Earthquakes - HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",FC Cincinnati vs San Jose Earthquakes - HD [8:30 PM ET]
 https://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Colorado_Rapids_vs_Austin_FC___HD" tvg-name="Colorado Rapids vs Austin FC - HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Colorado Rapids vs Austin FC - HD [10:30 PM ET]
-https://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Colorado_Rapids_vs_Austin_FC" tvg-name="Colorado Rapids vs Austin FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Colorado Rapids vs Austin FC [10:30 PM ET]
 http://193.47.62.193/hls/ZVVVAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colorado_Rapids_vs_Austin_FC___HD" tvg-name="Colorado Rapids vs Austin FC - HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Colorado Rapids vs Austin FC - HD [10:30 PM ET]
+https://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Los_Angeles_Galaxy_vs_FC_Dallas" tvg-name="Los Angeles Galaxy vs FC Dallas" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Los Angeles Galaxy vs FC Dallas [11:30 PM ET]
 http://193.47.62.193/hls/ZZGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
