@@ -1,19 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 03, 2026 at 12:00 PM EST
-# Total categories: 25
-# Total events: 41
-# Working streams: 40
+#PLAYLIST: The TV App - August 03, 2026 at 02:00 PM EST
+# Total categories: 30
+# Total events: 47
+# Working streams: 47
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Indonesia_vs_Vietnam" tvg-name="Indonesia vs Vietnam" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Indonesia vs Vietnam [10:30 AM ET]
-http://193.47.62.190/hls/NNNNAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Armenia Premier League
 #EXTINF:-1 tvg-id="Alashkert_vs_Ararat" tvg-name="Alashkert vs Ararat" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",Alashkert vs Ararat [1:00 PM ET]
 http://193.47.62.190/hls/tnnnAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Bulgaria efbet League
+#EXTINF:-1 tvg-id="Spartak_Varna_vs_Lokomotiv_Plovdiv" tvg-name="Spartak Varna vs Lokomotiv Plovdiv" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Spartak Varna vs Lokomotiv Plovdiv [3:15 PM ET]
+http://193.47.62.190/hls/GBBBDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket
+#EXTINF:-1 tvg-id="West_Indies_vs_Pakistan" tvg-name="West Indies vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",West Indies vs Pakistan [11:00 AM ET]
+http://193.47.62.193/hls/YOOOAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket The Hundred
 #EXTINF:-1 tvg-id="Welsh_Fire_W_vs_Southern_Brave_W" tvg-name="Welsh Fire W vs Southern Brave W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Welsh Fire W vs Southern Brave W [11:00 AM ET]
@@ -29,6 +33,10 @@ http://193.47.62.190/hls/NNNNAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Denmark Superliga
 #EXTINF:-1 tvg-id="Odense_vs_Sonderjyske" tvg-name="Odense vs Sonderjyske" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Superliga",Odense vs Sonderjyske [2:00 PM ET]
 http://193.47.62.190/hls/GGGGAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English EFL Cup
+#EXTINF:-1 tvg-id="York_City_vs_Crawley" tvg-name="York City vs Crawley" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="English EFL Cup",York City vs Crawley [3:30 PM ET]
+http://193.47.62.190/hls/GBBBDDDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Faroe Islands Premier League
 #EXTINF:-1 tvg-id="HB_Torshavn_vs_NSI_Runavik" tvg-name="HB Torshavn vs NSI Runavik" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",HB Torshavn vs NSI Runavik [2:30 PM ET]
@@ -48,6 +56,10 @@ http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTGRP:Hungary NB 1 Liga
 #EXTINF:-1 tvg-id="Zalaegerszegi_vs_Paks" tvg-name="Zalaegerszegi vs Paks" tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg" group-title="Hungary NB 1 Liga",Zalaegerszegi vs Paks [12:30 PM ET]
 http://193.47.62.190/hls/LLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ireland Division 1
+#EXTINF:-1 tvg-id="UC_Dublin_vs_Treaty_United" tvg-name="UC Dublin vs Treaty United" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Division 1",UC Dublin vs Treaty United [1:00 PM ET]
+http://193.47.62.194/hls/FFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Kazakhstan Premier League
 #EXTINF:-1 tvg-id="Dinamo_Samarkand_vs_Neftchi_Fargona" tvg-name="Dinamo Samarkand vs Neftchi Fargona" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg" group-title="Kazakhstan Premier League",Dinamo Samarkand vs Neftchi Fargona [12:30 PM ET]
@@ -80,6 +92,13 @@ http://193.47.62.190/hls/GGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="U_Cluj_vs_FC_Botosani" tvg-name="U Cluj vs FC Botosani" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",U Cluj vs FC Botosani [12:30 PM ET]
 http://193.47.62.190/hls/LLLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="FCSB_vs_Farul_Constanta" tvg-name="FCSB vs Farul Constanta" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",FCSB vs Farul Constanta [3:30 PM ET]
+http://193.47.62.190/hls/GBBBDDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Scottish Premiership
+#EXTINF:-1 tvg-id="Celtic_vs_Dundee_FC" tvg-name="Celtic vs Dundee FC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="Scottish Premiership",Celtic vs Dundee FC [3:30 PM ET]
+http://193.47.62.192/hls/GSSSDDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Serbia Super Liga
 #EXTINF:-1 tvg-id="Vojvodina_vs_Macva" tvg-name="Vojvodina vs Macva" tvg-logo="https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg" group-title="Serbia Super Liga",Vojvodina vs Macva [2:00 PM ET]
 http://193.47.62.190/hls/GGGGAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -91,11 +110,18 @@ http://193.47.62.193/hls/TRTRTR.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Djurgarden_vs_Vasteras_SK___HD" tvg-name="Djurgarden vs Vasteras SK - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Djurgarden vs Vasteras SK - HD [2:00 PM ET]
 http://193.47.62.193/hls/TRTRTRX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Halmstad_vs_Sirius" tvg-name="Halmstad vs Sirius" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Halmstad vs Sirius [2:00 PM ET]
+http://193.47.62.193/hls/TRTRTRS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Halmstad_vs_Sirius___HD" tvg-name="Halmstad vs Sirius - HD" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Halmstad vs Sirius - HD [2:00 PM ET]
 http://193.47.62.193/hls/TRTRTRSX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Halmstad_vs_Sirius" tvg-name="Halmstad vs Sirius" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="Sweden Allsvenskan",Halmstad vs Sirius [2:00 PM ET]
-http://193.47.62.193/hls/TRTRTRS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Sweden Division 1
+#EXTINF:-1 tvg-id="Vasalund_vs_Sollentuna" tvg-name="Vasalund vs Sollentuna" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Vasalund vs Sollentuna [2:00 PM ET]
+http://193.47.62.194/hls/FFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hammarby_TFF_vs_Arlanda" tvg-name="Hammarby TFF vs Arlanda" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Hammarby TFF vs Arlanda [2:30 PM ET]
+http://193.47.62.194/hls/FFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Superettan
 #EXTINF:-1 tvg-id="Orebro_vs_Varnamo" tvg-name="Orebro vs Varnamo" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Orebro vs Varnamo [2:05 PM ET]
@@ -106,24 +132,24 @@ http://193.47.62.190/hls/GBBBD.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.190/hls/GBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
-#EXTINF:-1 tvg-id="Tennis_ATP_Washington" tvg-name="Tennis ATP Washington" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Washington [7:00 PM ET]
+#EXTINF:-1 tvg-id="Tennis_ATP_Washington" tvg-name="Tennis ATP Washington" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Washington [2:00 PM ET]
 http://193.47.62.190/hls/HYYYQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
-#EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Center_Court" tvg-name="Tennis Montreal Masters - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Center Court [12:00 PM ET]
-http://193.47.62.194/hls/RARARAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Rogers_Court" tvg-name="Tennis Montreal Masters - Rogers Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Rogers Court [12:00 PM ET]
 http://193.47.62.194/hls/RARARAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Center_Court" tvg-name="Tennis Montreal Masters - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Center Court [12:00 PM ET]
+http://193.47.62.194/hls/RARARAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Grandstand" tvg-name="Tennis Montreal Masters - Grandstand" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Grandstand [12:00 PM ET]
 http://193.47.62.194/hls/RARARAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Court_1" tvg-name="Tennis Montreal Masters - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Court 1 [12:00 PM ET]
-http://193.47.62.194/hls/RARARA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Court_2" tvg-name="Tennis Montreal Masters - Court 2" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Court 2 [12:00 PM ET]
 http://193.47.62.194/hls/DADADAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Court_1" tvg-name="Tennis Montreal Masters - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Court 1 [12:00 PM ET]
+http://193.47.62.194/hls/RARARA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_Montreal_Masters___Court_3" tvg-name="Tennis Montreal Masters - Court 3" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis Montreal Masters - Court 3 [12:00 PM ET]
 http://193.47.62.194/hls/DADADAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
