@@ -1,16 +1,13 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 03, 2026 at 08:00 AM EST
-# Total categories: 13
-# Total events: 17
-# Working streams: 17
+#PLAYLIST: The TV App - August 03, 2026 at 10:00 AM EST
+# Total categories: 10
+# Total events: 14
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Cambodia_vs_Timor_Leste" tvg-name="Cambodia vs Timor-Leste" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Cambodia vs Timor-Leste [7:00 AM ET]
-http://193.47.62.190/hls/NNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Indonesia_vs_Vietnam" tvg-name="Indonesia vs Vietnam" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Indonesia vs Vietnam [10:30 AM ET]
 http://193.47.62.190/hls/NNNNAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -23,6 +20,9 @@ http://193.47.62.193/hls/YOOOAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.190/hls/NNNNAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Tour_of_Poland" tvg-name="Cycling Tour of Poland" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling Tour of Poland [6:30 AM ET]
+http://193.47.62.190/hls/tnnn.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Cycling_Tour_de_France_Femme" tvg-name="Cycling Tour de France Femme" tvg-logo="https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_400x400.jpg" group-title="Cycling",Cycling Tour de France Femme [10:45 AM ET]
 http://193.47.62.190/hls/NNNNAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -38,24 +38,12 @@ http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.190/hls/LLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Kazakhstan Premier League
-#EXTINF:-1 tvg-id="Dinamo_Samarkand_vs_Neftchi_Fargona" tvg-name="Dinamo Samarkand vs Neftchi Fargona" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="Kazakhstan Premier League",Dinamo Samarkand vs Neftchi Fargona [12:30 PM ET]
+#EXTINF:-1 tvg-id="Dinamo_Samarkand_vs_Neftchi_Fargona" tvg-name="Dinamo Samarkand vs Neftchi Fargona" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg" group-title="Kazakhstan Premier League",Dinamo Samarkand vs Neftchi Fargona [12:30 PM ET]
 http://193.47.62.190/hls/LLLLA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Romania Superliga
 #EXTINF:-1 tvg-id="U_Cluj_vs_FC_Botosani" tvg-name="U Cluj vs FC Botosani" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",U Cluj vs FC Botosani [12:30 PM ET]
 http://193.47.62.190/hls/LLLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:UEFA Champions League
-#EXTINF:-1 tvg-id="UEFA_Champions_League_Draw" tvg-name="UEFA Champions League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",UEFA Champions League Draw [7:00 AM ET]
-http://193.47.62.190/hls/LLLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:UEFA Conference League
-#EXTINF:-1 tvg-id="UEFA_Conference_League_Draw" tvg-name="UEFA Conference League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",UEFA Conference League Draw [9:00 AM ET]
-http://193.47.62.190/hls/LLLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:UEFA Europa League
-#EXTINF:-1 tvg-id="UEFA_Europa_League_Draw" tvg-name="UEFA Europa League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",UEFA Europa League Draw [8:00 AM ET]
-http://193.47.62.190/hls/LLLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Ukraine Premier League
 #EXTINF:-1 tvg-id="Bukovyna_vs_LNZ_Cherkasy" tvg-name="Bukovyna vs LNZ Cherkasy" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Bukovyna vs LNZ Cherkasy [9:30 AM ET]
