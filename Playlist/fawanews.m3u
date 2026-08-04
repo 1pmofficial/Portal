@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 04, 2026 at 12:00 PM EST
-# Total categories: 15
-# Total events: 36
-# Working streams: 36
+#PLAYLIST: The TV App - August 04, 2026 at 02:00 PM EST
+# Total categories: 17
+# Total events: 51
+# Working streams: 51
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -54,12 +54,25 @@ https://live2.jxa76.com/live/sd-6MwarbMJzrfmkR9Szw.m3u8|referer=http://www.fawan
 #EXTINF:-1 tvg-id="Strasbourg_vs_Elversberg" tvg-name="Strasbourg vs Elversberg" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Strasbourg vs Elversberg [1:00 PM ET]
 http://193.47.62.190/hls/FPPPAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Al_Nassr_vs_Almeria" tvg-name="Al Nassr vs Almeria" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Al Nassr vs Almeria [2:00 PM ET]
+http://193.47.62.190/hls/IOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Newport_Count_vs_AS_Roma" tvg-name="Newport Count vs AS Roma" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Newport Count vs AS Roma [3:00 PM ET]
+http://193.47.62.194/hls/NNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ipswich_vs_Le_Havre" tvg-name="Ipswich vs Le Havre" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Ipswich vs Le Havre [3:34 PM ET]
+http://193.47.62.194/hls/NNNNA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Iceland League
+#EXTINF:-1 tvg-id="Thor_Akureyri_vs_Breidablik" tvg-name="Thor Akureyri vs Breidablik" tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="Iceland League",Thor Akureyri vs Breidablik [3:30 PM ET]
+http://193.47.62.190/hls/sddddaaaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Israel Toto Cup
 #EXTINF:-1 tvg-id="Kiryat_Shmona_vs_Sakhnin" tvg-name="Kiryat Shmona vs Sakhnin" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="Israel Toto Cup",Kiryat Shmona vs Sakhnin [1:45 PM ET]
@@ -81,6 +94,9 @@ http://193.47.62.190/hls/sddddaa.m3u8|referer=http://www.fawanews.sc/|user-agent
 
 #EXTINF:-1 tvg-id="Dynamo_Makhachkala_vs_Krylya_Sovetov" tvg-name="Dynamo Makhachkala vs Krylya Sovetov" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Dynamo Makhachkala vs Krylya Sovetov [12:30 PM ET]
 http://193.47.62.190/hls/sdddda.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Lokomotiv_Moscow_vs_CSKA_Moscow" tvg-name="Lokomotiv Moscow vs CSKA Moscow" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Lokomotiv Moscow vs CSKA Moscow [2:45 PM ET]
+http://193.47.62.190/hls/sddddaaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
 #EXTINF:-1 tvg-id="Tennis_ATP_Montreal___Center_Court" tvg-name="Tennis ATP Montreal - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis ATP Montreal - Center Court [12:00 PM ET]
@@ -114,14 +130,38 @@ http://193.47.62.190/hls/XAXAXAAAA.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="Mjallby_vs_Slovan_Bratislava___HD" tvg-name="Mjallby vs Slovan Bratislava - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Mjallby vs Slovan Bratislava - HD [1:00 PM ET]
 https://live2.jxa76.com/live/sd-6MxiZdYEZAShitybQw.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Ararat_Armenia_vs_Celje" tvg-name="Ararat-Armenia vs Celje" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Ararat-Armenia vs Celje [1:00 PM ET]
-http://193.47.62.191/hls/lfffA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Mjallby_vs_Slovan_Bratislava" tvg-name="Mjallby vs Slovan Bratislava" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Mjallby vs Slovan Bratislava [1:00 PM ET]
 http://193.47.62.191/hls/lfffAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Ararat_Armenia_vs_Celje" tvg-name="Ararat-Armenia vs Celje" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Ararat-Armenia vs Celje [1:00 PM ET]
+http://193.47.62.191/hls/lfffA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Ararat_Armenia_vs_Celje___HD" tvg-name="Ararat-Armenia vs Celje - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Ararat-Armenia vs Celje - HD [1:00 PM ET]
 https://live2.jxa76.com/live/sd-6MxiZdYEiyiA99wx99.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Levski_Sofia_vs_Kairat_Almaty" tvg-name="Levski Sofia vs Kairat Almaty" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Levski Sofia vs Kairat Almaty [2:30 PM ET]
+http://193.47.62.191/hls/TYTYTY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="H_Beer_Sheva_vs_Crvena_zvezda" tvg-name="H Beer Sheva vs Crvena zvezda" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",H Beer Sheva vs Crvena zvezda [2:30 PM ET]
+http://193.47.62.191/hls/TYTYTYX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Levski_Sofia_vs_Kairat_Almaty___HD" tvg-name="Levski Sofia vs Kairat Almaty - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Levski Sofia vs Kairat Almaty - HD [2:30 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdYEZ3rG7TVqxF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="H_Beer_Sheva_vs_Crvena_zvezda___HD" tvg-name="H Beer Sheva vs Crvena zvezda - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",H Beer Sheva vs Crvena zvezda - HD [2:30 PM ET]
+https://live2.kinxie.com/live/73008144_59a4bbf87acd235c20a15d1c5df72ea7_1080p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Olympiacos_vs_NEC_Nijmegen" tvg-name="Olympiacos vs NEC Nijmegen" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Olympiacos vs NEC Nijmegen [3:00 PM ET]
+http://193.47.62.192/hls/TYTYTYAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Royale_Union_SG_vs_Bodo_Glimt" tvg-name="Royale Union SG vs Bodo Glimt" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Royale Union SG vs Bodo Glimt [3:00 PM ET]
+http://193.47.62.193/hls/TYTYTYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sparta_Prague_vs_Lyon" tvg-name="Sparta Prague vs Lyon" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Sparta Prague vs Lyon [3:00 PM ET]
+http://193.47.62.193/hls/TYTYTYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dinamo_Zagreb_vs_Kauno_Zalgiris" tvg-name="Dinamo Zagreb vs Kauno Zalgiris" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Dinamo Zagreb vs Kauno Zalgiris [3:00 PM ET]
+http://193.47.62.191/hls/TYTYTYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Conference League
 #EXTINF:-1 tvg-id="Auda_vs_Dinamo_City" tvg-name="Auda vs Dinamo City" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Auda vs Dinamo City [1:00 PM ET]
@@ -129,3 +169,10 @@ http://193.47.62.191/hls/lfff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Auda_vs_Dinamo_City___HD" tvg-name="Auda vs Dinamo City - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Auda vs Dinamo City - HD [1:00 PM ET]
 https://live2.jxa76.com/live/sd-6MxiZdaTBRiQUbHC9h.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:UEFA Europa League
+#EXTINF:-1 tvg-id="Shamrock_Rovers_vs_Egnatia" tvg-name="Shamrock Rovers vs Egnatia" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Shamrock Rovers vs Egnatia [4:00 PM ET]
+http://193.47.62.194/hls/TYTYTYAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Larne_vs_Iberia_1999" tvg-name="Larne vs Iberia 1999" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Larne vs Iberia 1999 [4:00 PM ET]
+http://193.47.62.193/hls/TYTYTYAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
