@@ -1,11 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 06, 2026 at 02:00 PM EST
-# Total categories: 12
-# Total events: 76
-# Working streams: 73
+#PLAYLIST: The TV App - August 06, 2026 at 04:00 PM EST
+# Total categories: 14
+# Total events: 59
+# Working streams: 59
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Africa Cup of Nations Women
+#EXTINF:-1 tvg-id="Mali_W_vs_Ghana_W" tvg-name="Mali W vs Ghana W" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg" group-title="Africa Cup of Nations Women",Mali W vs Ghana W [5:00 PM ET]
+http://193.47.62.190/hls/UJJJDDdd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cape_Verde_W_vs_Cameroon_W" tvg-name="Cape Verde W vs Cameroon W" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg" group-title="Africa Cup of Nations Women",Cape Verde W vs Cameroon W [5:00 PM ET]
+http://193.47.62.190/hls/UJJJDDd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Bolivia Division Profesional
 #EXTINF:-1 tvg-id="Universitario_de_Vinto_vs_Real_Potosi" tvg-name="Universitario de Vinto vs Real Potosi" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Universitario de Vinto vs Real Potosi [4:00 PM ET]
@@ -22,13 +29,14 @@ http://193.47.62.190/hls/BBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Bristol_City_vs_Walsall" tvg-name="Bristol City vs Walsall" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="English EFL Cup",Bristol City vs Walsall [3:45 PM ET]
 http://193.47.62.190/hls/UJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Bristol_City_vs_Walsall___HD" tvg-name="Bristol City vs Walsall - HD" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="English EFL Cup",Bristol City vs Walsall - HD [3:45 PM ET]
+https://live2.jxa76.com/live/sd-6MweaAQFkF1U8iuehq_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English Rugby Super League
+#EXTINF:-1 tvg-id="St_Helens_vs_Hull_FC" tvg-name="St Helens vs Hull FC" tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="English Rugby Super League",St Helens vs Hull FC [4:00 PM ET]
+http://193.47.62.190/hls/UJJJDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Aris_vs_Al_Sadd" tvg-name="Aris vs Al-Sadd" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Aris vs Al-Sadd [12:00 PM ET]
-http://193.47.62.190/hls/zmmmDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="AEL_Limassol_vs_Atromitos" tvg-name="AEL Limassol vs Atromitos" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",AEL Limassol vs Atromitos [1:00 PM ET]
-http://193.47.62.190/hls/zmmmD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="AS_Monaco_vs_Getafe" tvg-name="AS Monaco vs Getafe" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",AS Monaco vs Getafe [3:00 PM ET]
 http://193.47.62.190/hls/sssSs.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -87,84 +95,6 @@ http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.190/hls/XAXAXAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Conference League
-#EXTINF:-1 tvg-id="HJK_vs_Motherwell" tvg-name="HJK vs Motherwell" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",HJK vs Motherwell [1:00 PM ET]
-http://193.47.62.191/hls/FRRRA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="HJK_vs_Motherwell___HD" tvg-name="HJK vs Motherwell - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",HJK vs Motherwell - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSBBUqmCVdPh_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Paide_vs_SK_Rapid" tvg-name="Paide vs SK Rapid" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Paide vs SK Rapid [1:00 PM ET]
-http://193.47.62.191/hls/FRRRAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Paide_vs_SK_Rapid___HD" tvg-name="Paide vs SK Rapid - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Paide vs SK Rapid - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaS1UopxP128B_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Noah_vs_Sion" tvg-name="Noah vs Sion" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Noah vs Sion [1:00 PM ET]
-http://193.47.62.191/hls/FRRRAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Noah_vs_Sion___HD" tvg-name="Noah vs Sion - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Noah vs Sion - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaS1X1JprpwH5_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Jablonec_vs_RFS" tvg-name="Jablonec vs RFS" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Jablonec vs RFS [1:00 PM ET]
-http://193.47.62.191/hls/FRRRAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Jablonec_vs_RFS___HD" tvg-name="Jablonec vs RFS - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Jablonec vs RFS - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSBLGmF7oJ1H_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="CFR_Cluj_vs_Tromso___HD" tvg-name="CFR Cluj vs Tromso - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",CFR Cluj vs Tromso - HD [1:30 PM ET]
-http://193.47.62.191/hls/FRRRAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="CFR_Cluj_vs_Tromso" tvg-name="CFR Cluj vs Tromso" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",CFR Cluj vs Tromso [1:30 PM ET]
-http://193.47.62.191/hls/FRRRAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Rakow_vs_Hammarby___HD" tvg-name="Rakow vs Hammarby - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Rakow vs Hammarby - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaS192W84Zmk7_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Rakow_vs_Hammarby" tvg-name="Rakow vs Hammarby" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Rakow vs Hammarby [2:00 PM ET]
-http://193.47.62.193/hls/ALLLAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Goteborg_vs_Gent" tvg-name="Goteborg vs Gent" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Goteborg vs Gent [2:00 PM ET]
-http://193.47.62.193/hls/ALLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Goteborg_vs_Gent___HD" tvg-name="Goteborg vs Gent - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Goteborg vs Gent - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaT1M4axyXRMD_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Zalgiris_vs_Hajduk_Split" tvg-name="Zalgiris vs Hajduk Split" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Zalgiris vs Hajduk Split [2:00 PM ET]
-http://193.47.62.193/hls/ANNNAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Zalgiris_vs_Hajduk_Split___HD" tvg-name="Zalgiris vs Hajduk Split - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Zalgiris vs Hajduk Split - HD [2:00 PM ET]
-http://193.47.62.193/hls/ANNNAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Sheriff_Tiraspol_vs_St_Gallen" tvg-name="Sheriff Tiraspol vs St Gallen" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Sheriff Tiraspol vs St Gallen [2:00 PM ET]
-http://193.47.62.193/hls/ANNNA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Sheriff_Tiraspol_vs_St_Gallen___HD" tvg-name="Sheriff Tiraspol vs St Gallen - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Sheriff Tiraspol vs St Gallen - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdbCLPTUcLMzL3_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Riga_FC_vs_Gyor" tvg-name="Riga FC vs Gyor" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Riga FC vs Gyor [2:00 PM ET]
-http://193.47.62.193/hls/ANNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Riga_FC_vs_Gyor___HD" tvg-name="Riga FC vs Gyor - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Riga FC vs Gyor - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdbCLGs2zttEsM_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Inter_Escaldes_vs_Flora___HD" tvg-name="Inter Escaldes vs Flora - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Inter Escaldes vs Flora - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaT1sqK9h6FVm_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Inter_Escaldes_vs_Flora" tvg-name="Inter Escaldes vs Flora" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Inter Escaldes vs Flora [2:00 PM ET]
-http://193.47.62.193/hls/ALLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dynamo_Kyiv_vs_Qarabag" tvg-name="Dynamo Kyiv vs Qarabag" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Dynamo Kyiv vs Qarabag [2:00 PM ET]
-http://193.47.62.193/hls/ALLLA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dynamo_Kyiv_vs_Qarabag___HD" tvg-name="Dynamo Kyiv vs Qarabag - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Dynamo Kyiv vs Qarabag - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaT1gquoHxfjH_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Debrecen_vs_FC_Copenhagen" tvg-name="Debrecen vs FC Copenhagen" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Debrecen vs FC Copenhagen [2:00 PM ET]
-http://193.47.62.193/hls/ALLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Debrecen_vs_FC_Copenhagen___HD" tvg-name="Debrecen vs FC Copenhagen - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Debrecen vs FC Copenhagen - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaT1cSx4LJqRV_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Beitar_Jerusalem_vs_Austria_Vienna" tvg-name="Beitar Jerusalem vs Austria Vienna" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Beitar Jerusalem vs Austria Vienna [2:30 PM ET]
 http://193.47.62.193/hls/ANNNAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -175,56 +105,80 @@ https://live2.jxa76.com/live/sd-6MxiZdaTBPWvc7TGzo_540p.m3u8|referer=http://www.
 http://193.47.62.191/hls/AQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Ajax_vs_Shelbourne___HD" tvg-name="Ajax vs Shelbourne - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Ajax vs Shelbourne - HD [3:00 PM ET]
-http://193.47.62.191/hls/AQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live2.jxa76.com/live/sd-6MxiZdaSfuX5UriHfH_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="FC_Twente_vs_Dun_Streda" tvg-name="FC Twente vs Dun Streda" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",FC Twente vs Dun Streda [3:00 PM ET]
 http://193.47.62.191/hls/AQQQTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="FC_Twente_vs_Dun_Streda___HD" tvg-name="FC Twente vs Dun Streda - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",FC Twente vs Dun Streda - HD [3:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdbCKw5iAaSzVH_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hapoel_Tel_Aviv_vs_GKS_Katowice___HD" tvg-name="Hapoel Tel Aviv vs GKS Katowice - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Hapoel Tel Aviv vs GKS Katowice - HD [3:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaSB75t2Eqo5u_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Hapoel_Tel_Aviv_vs_GKS_Katowice" tvg-name="Hapoel Tel Aviv vs GKS Katowice" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Hapoel Tel Aviv vs GKS Katowice [3:00 PM ET]
 http://193.47.62.191/hls/AQQQT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="FC_Twente_vs_Dun_Streda___HD" tvg-name="FC Twente vs Dun Streda - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",FC Twente vs Dun Streda - HD [3:00 PM ET]
-http://193.47.62.191/hls/AQQQTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Valur_vs_Nordsjaelland___HD" tvg-name="Valur vs Nordsjaelland - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Valur vs Nordsjaelland - HD [3:30 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdbCAeayw33Tud_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Hapoel_Tel_Aviv_vs_GKS_Katowice___HD" tvg-name="Hapoel Tel Aviv vs GKS Katowice - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Hapoel Tel Aviv vs GKS Katowice - HD [3:00 PM ET]
-http://193.47.62.191/hls/AQQQT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Valur_vs_Nordsjaelland" tvg-name="Valur vs Nordsjaelland" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Valur vs Nordsjaelland [3:30 PM ET]
+http://193.47.62.191/hls/AQQQTAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Lugano_vs_NSI_Runavik" tvg-name="Lugano vs NSI Runavik" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Lugano vs NSI Runavik [3:30 PM ET]
+http://193.47.62.191/hls/AQQQTAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Lugano_vs_NSI_Runavik___HD" tvg-name="Lugano vs NSI Runavik - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Lugano vs NSI Runavik - HD [3:30 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaSAoW34QETrj_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Braga_vs_Dinamo_Minsk" tvg-name="Braga vs Dinamo Minsk" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Braga vs Dinamo Minsk [3:30 PM ET]
+http://193.47.62.191/hls/AQQQTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Braga_vs_Dinamo_Minsk___HD" tvg-name="Braga vs Dinamo Minsk - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Braga vs Dinamo Minsk - HD [3:30 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaTBaWKxWarmH_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Borac_Banja_Luka_vs_ML_Vitebsk" tvg-name="Borac Banja Luka vs ML Vitebsk" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Borac Banja Luka vs ML Vitebsk [3:30 PM ET]
+http://193.47.62.191/hls/AQQQTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Borac_Banja_Luka_vs_ML_Vitebsk___HD" tvg-name="Borac Banja Luka vs ML Vitebsk - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Borac Banja Luka vs ML Vitebsk - HD [3:30 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaTBTutM577Jb_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rijeka_vs_Ilves" tvg-name="Rijeka vs Ilves" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Rijeka vs Ilves [3:45 PM ET]
+http://193.47.62.192/hls/GLLLA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bohemians_vs_Midtjylland" tvg-name="Bohemians vs Midtjylland" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Bohemians vs Midtjylland [3:45 PM ET]
+http://193.47.62.191/hls/GLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rijeka_vs_Ilves___HD" tvg-name="Rijeka vs Ilves - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Rijeka vs Ilves - HD [3:45 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdbCLMFzjrY5B9_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Bohemians_vs_Midtjylland___HD" tvg-name="Bohemians vs Midtjylland - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Bohemians vs Midtjylland - HD [3:45 PM ET]
+http://193.47.62.191/hls/GLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hibernian_vs_Shkendija" tvg-name="Hibernian vs Shkendija" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Hibernian vs Shkendija [4:00 PM ET]
+http://193.47.62.192/hls/GLLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hibernian_vs_Shkendija___HD" tvg-name="Hibernian vs Shkendija - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Hibernian vs Shkendija - HD [4:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaSBDgKdgKYYb_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tre_Fiori_vs_Drita" tvg-name="Tre Fiori vs Drita" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Tre Fiori vs Drita [4:00 PM ET]
+http://193.47.62.192/hls/GLLLAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tre_Fiori_vs_Drita___HD" tvg-name="Tre Fiori vs Drita - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Tre Fiori vs Drita - HD [4:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdbCLTrSMJ1pdq_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Partizan_vs_Tobol" tvg-name="Partizan vs Tobol" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Partizan vs Tobol [4:00 PM ET]
+http://193.47.62.192/hls/GLLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Partizan_vs_Tobol___HD" tvg-name="Partizan vs Tobol - HD" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",Partizan vs Tobol - HD [4:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdaS1foEJn8btf_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Europa League
-#EXTINF:-1 tvg-id="Jagiellonia_vs_Rangers___HD" tvg-name="Jagiellonia vs Rangers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Jagiellonia vs Rangers - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSgKhN48oNM9_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Jagiellonia_vs_Rangers" tvg-name="Jagiellonia vs Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Jagiellonia vs Rangers [1:00 PM ET]
-http://193.47.62.192/hls/AUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Maccabi_Tel_Aviv_vs_CSKA_Sofia" tvg-name="Maccabi Tel Aviv vs CSKA Sofia" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Maccabi Tel Aviv vs CSKA Sofia [1:00 PM ET]
-http://193.47.62.192/hls/AUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Maccabi_Tel_Aviv_vs_CSKA_Sofia___HD" tvg-name="Maccabi Tel Aviv vs CSKA Sofia - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Maccabi Tel Aviv vs CSKA Sofia - HD [1:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSr4ZrjS7tmZ_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Salzburg_vs_Pafos" tvg-name="Salzburg vs Pafos" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Salzburg vs Pafos [2:00 PM ET]
-http://193.47.62.194/hls/ACCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Salzburg_vs_Pafos___HD" tvg-name="Salzburg vs Pafos - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Salzburg vs Pafos - HD [2:00 PM ET]
 https://live2.jxa76.com/live/sd-6MxiZdaSrBAJLsbeEF_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Lincoln_Red_Imps_vs_Omonia" tvg-name="Lincoln Red Imps vs Omonia" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Lincoln Red Imps vs Omonia [2:00 PM ET]
-http://193.47.62.194/hls/ACCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Lincoln_Red_Imps_vs_Omonia___HD" tvg-name="Lincoln Red Imps vs Omonia - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Lincoln Red Imps vs Omonia - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSqzAtzUU4Tm_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Lech_Poznan_vs_Klaksvik" tvg-name="Lech Poznan vs Klaksvik" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Lech Poznan vs Klaksvik [2:00 PM ET]
-http://193.47.62.193/hls/ANNNAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Lech_Poznan_vs_Klaksvik___HD" tvg-name="Lech Poznan vs Klaksvik - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Lech Poznan vs Klaksvik - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaSqumwFWpE9y_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Hradec_Kralove_vs_Besiktas___HD" tvg-name="Hradec Kralove vs Besiktas - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Hradec Kralove vs Besiktas - HD [2:00 PM ET]
-https://live2.jxa76.com/live/sd-6MxiZdaTgeKtWVEmQw_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Hradec_Kralove_vs_Besiktas" tvg-name="Hradec Kralove vs Besiktas" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Hradec Kralove vs Besiktas [2:00 PM ET]
-http://193.47.62.193/hls/ANNNAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Salzburg_vs_Pafos" tvg-name="Salzburg vs Pafos" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Salzburg vs Pafos [2:00 PM ET]
+http://193.47.62.194/hls/ACCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="PAOK_vs_RSC_Anderlecht" tvg-name="PAOK vs RSC Anderlecht" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",PAOK vs RSC Anderlecht [2:45 PM ET]
 http://193.47.62.190/hls/ACCCCAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -236,4 +190,10 @@ https://live2.jxa76.com/live/sd-6MxiZdaSqePaAA2p5h_540p.m3u8|referer=http://www.
 http://193.47.62.190/hls/ACCCCAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Thun_vs_Vikingur_Reykjavik___HD" tvg-name="Thun vs Vikingur Reykjavik - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Thun vs Vikingur Reykjavik - HD [3:00 PM ET]
-http://193.47.62.190/hls/ACCCCAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live2.jxa76.com/live/sd-6MxiZdaSgFJQKB9Y3M_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Benfica_vs_Hearts" tvg-name="Benfica vs Hearts" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Benfica vs Hearts [4:00 PM ET]
+http://193.47.62.193/hls/GLLLAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Benfica_vs_Hearts___HD" tvg-name="Benfica vs Hearts - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Benfica vs Hearts - HD [4:00 PM ET]
+https://hls.live123.fans/live/4602535.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
