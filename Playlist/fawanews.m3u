@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 07, 2026 at 12:00 AM EST
+#PLAYLIST: The TV App - August 07, 2026 at 02:00 AM EST
 # Total categories: 7
 # Total events: 24
 # Working streams: 24
@@ -44,11 +44,11 @@ http://193.47.62.190/hls/PUUUAaAAAA.m3u8|referer=http://www.fawanews.sc/|user-ag
 http://193.47.62.190/hls/YFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___HD" tvg-name="Carolina Panthers vs Arizona Cardinals - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - HD [9:00 PM ET]
-http://193.47.62.192/hls/AAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___SD" tvg-name="Carolina Panthers vs Arizona Cardinals - SD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - SD [9:00 PM ET]
 http://193.47.62.191/hls/YFFFAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___HD" tvg-name="Carolina Panthers vs Arizona Cardinals - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - HD [9:00 PM ET]
+http://193.47.62.192/hls/AAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby New Zealand NPC
 #EXTINF:-1 tvg-id="Taranaki_vs_Waikato" tvg-name="Taranaki vs Waikato" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby New Zealand NPC",Taranaki vs Waikato [4:10 AM ET]
@@ -58,17 +58,17 @@ http://193.47.62.190/hls/gnnn.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Tennis_ATP_Montreal___Center_Court" tvg-name="Tennis ATP Montreal - Center Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis ATP Montreal - Center Court [12:00 PM ET]
 http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Centre_Court" tvg-name="Tennis WTA Toronto - Centre Court" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Centre Court [12:00 PM ET]
-http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_ATP_Montreal___Rogers_Court" tvg-name="Tennis ATP Montreal - Rogers Court" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis ATP Montreal - Rogers Court [12:00 PM ET]
 http://193.47.62.190/hls/zazazaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Grandstand" tvg-name="Tennis WTA Toronto - Grandstand" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Grandstand [12:00 PM ET]
-http://193.47.62.190/hls/XAXAXAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Centre_Court" tvg-name="Tennis WTA Toronto - Centre Court" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Centre Court [12:00 PM ET]
+http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Court_1" tvg-name="Tennis WTA Toronto - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Court 1 [12:00 PM ET]
 http://193.47.62.190/hls/XAXAXAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Grandstand" tvg-name="Tennis WTA Toronto - Grandstand" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Grandstand [12:00 PM ET]
+http://193.47.62.190/hls/XAXAXAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Court_4" tvg-name="Tennis WTA Toronto - Court 4" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Court 4 [12:00 PM ET]
 http://193.47.62.190/hls/XAXAXAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
