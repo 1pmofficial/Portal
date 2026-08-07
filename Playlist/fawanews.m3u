@@ -1,18 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 06, 2026 at 06:00 PM EST
-# Total categories: 17
+#PLAYLIST: The TV App - August 06, 2026 at 08:00 PM EST
+# Total categories: 15
 # Total events: 38
 # Working streams: 38
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:Africa Cup of Nations Women
-#EXTINF:-1 tvg-id="Cape_Verde_W_vs_Cameroon_W" tvg-name="Cape Verde W vs Cameroon W" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg" group-title="Africa Cup of Nations Women",Cape Verde W vs Cameroon W [5:00 PM ET]
-http://193.47.62.190/hls/UJJJDDd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Mali_W_vs_Ghana_W" tvg-name="Mali W vs Ghana W" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg" group-title="Africa Cup of Nations Women",Mali W vs Ghana W [5:00 PM ET]
-http://193.47.62.190/hls/UJJJDDdd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Argentina Liga Profesional
 #EXTINF:-1 tvg-id="Union_de_Santa_Fe_vs_Lanus" tvg-name="Union de Santa Fe vs Lanus" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Union de Santa Fe vs Lanus [7:00 PM ET]
@@ -101,15 +94,11 @@ http://193.47.62.190/hls/kddddFAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.190/hls/oggg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___HD" tvg-name="Carolina Panthers vs Arizona Cardinals - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - HD [9:00 PM ET]
-http://193.47.62.192/hls/AAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___SD" tvg-name="Carolina Panthers vs Arizona Cardinals - SD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - SD [9:00 PM ET]
 http://193.47.62.191/hls/YFFFAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Peru Liga 1 Apertura
-#EXTINF:-1 tvg-id="Alianza_Atl_vs_Cienciano" tvg-name="Alianza Atl vs Cienciano" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Liga 1 Apertura",Alianza Atl vs Cienciano [5:00 PM ET]
-http://193.47.62.190/hls/kddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Carolina_Panthers_vs_Arizona_Cardinals___HD" tvg-name="Carolina Panthers vs Arizona Cardinals - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Carolina Panthers vs Arizona Cardinals - HD [9:00 PM ET]
+http://193.47.62.192/hls/AAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:TNA Wrestling
 #EXTINF:-1 tvg-id="TNA_Impact" tvg-name="TNA Impact" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="TNA Wrestling",TNA Impact [9:00 PM ET]
@@ -128,9 +117,18 @@ http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Grandstand" tvg-name="Tennis WTA Toronto - Grandstand" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Grandstand [12:00 PM ET]
 http://193.47.62.190/hls/XAXAXAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Court_1" tvg-name="Tennis WTA Toronto - Court 1" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Court 1 [12:00 PM ET]
+http://193.47.62.190/hls/XAXAXAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_WTA_Toronto___Court_4" tvg-name="Tennis WTA Toronto - Court 4" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg" group-title="Tennis Masters",Tennis WTA Toronto - Court 4 [12:00 PM ET]
+http://193.47.62.190/hls/XAXAXAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:WNBA Basketball
 #EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Las_Vegas_Aces_W" tvg-name="Indiana Fever W vs Las Vegas Aces W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Las Vegas Aces W [8:00 PM ET]
 http://193.47.62.190/hls/PUUUAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Indiana_Fever_W_vs_Las_Vegas_Aces_W___HD" tvg-name="Indiana Fever W vs Las Vegas Aces W - HD" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Las Vegas Aces W - HD [8:00 PM ET]
+https://live2.jxa76.com/live/sd-6wXrJEp1Z8ViaaDdBZ_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Minnesota_Lynx_W_vs_Los_Angeles_Sparks_W" tvg-name="Minnesota Lynx W vs Los Angeles Sparks W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs Los Angeles Sparks W [10:00 PM ET]
 http://193.47.62.190/hls/YFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
