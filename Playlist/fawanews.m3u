@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 08, 2026 at 08:00 PM EST
-# Total categories: 20
-# Total events: 52
-# Working streams: 52
+#PLAYLIST: The TV App - August 08, 2026 at 10:00 PM EST
+# Total categories: 22
+# Total events: 56
+# Working streams: 55
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -24,13 +24,6 @@ http://193.47.62.190/hls/KKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="The_Strongest_vs_Independiente" tvg-name="The Strongest vs Independiente" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",The Strongest vs Independiente [6:15 PM ET]
 http://193.47.62.190/hls/ABBBQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Zuffa_Boxing_10" tvg-name="Zuffa Boxing 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Zuffa Boxing 10 [TBD]
-http://193.47.62.190/hls/KFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Boxing___Wiliamson_vs_Simpson_2" tvg-name="Boxing : Wiliamson vs Simpson 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Wiliamson vs Simpson 2 [TBD]
-http://193.47.62.194/hls/HYHYHY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Brazil Serie A
 #EXTINF:-1 tvg-id="Coritiba_vs_Chapecoense_SC" tvg-name="Coritiba vs Chapecoense-SC" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Coritiba vs Chapecoense-SC [8:30 PM ET]
 http://193.47.62.190/hls/KKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -46,11 +39,17 @@ http://193.47.62.190/hls/ABBBQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-ag
 http://193.47.62.190/hls/ABBBQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CONCACAF Leagues Cup
-#EXTINF:-1 tvg-id="Inter_Miami_vs_Monterrey" tvg-name="Inter Miami vs Monterrey" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Inter Miami vs Monterrey [9:00 PM ET]
+#EXTINF:-1 tvg-id="Inter_Miami_vs_Monterrey___CH_1" tvg-name="Inter Miami vs Monterrey - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Inter Miami vs Monterrey - CH 1 [9:00 PM ET]
 http://193.47.62.191/hls/AAAEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Guadalajara_Chivas_vs_FC_Dallas" tvg-name="Guadalajara Chivas vs FC Dallas" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Guadalajara Chivas vs FC Dallas [10:00 PM ET]
+#EXTINF:-1 tvg-id="Inter_Miami_vs_Monterrey___CH_2" tvg-name="Inter Miami vs Monterrey - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Inter Miami vs Monterrey - CH 2 [9:00 PM ET]
+https://live2.jxa76.com/live/sd-6MwcqbgXhEaEQLomt7_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Guadalajara_Chivas_vs_FC_Dallas___CH_1" tvg-name="Guadalajara Chivas vs FC Dallas - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Guadalajara Chivas vs FC Dallas - CH 1 [10:00 PM ET]
 http://193.47.62.190/hls/GEEEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Guadalajara_Chivas_vs_FC_Dallas___CH_2" tvg-name="Guadalajara Chivas vs FC Dallas - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Guadalajara Chivas vs FC Dallas - CH 2 [10:00 PM ET]
+https://live2.jxa76.com/live/sd-6MwcqbgXhj9UiaYgsm_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Real_Salt_Lake_vs_Atlante" tvg-name="Real Salt Lake vs Atlante" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Leagues Cup",Real Salt Lake vs Atlante [11:00 PM ET]
 http://193.47.62.190/hls/GEEEAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -140,6 +139,14 @@ http://193.47.62.190/hls/JNNNAAAAA.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="New_England_Revolution_vs_Houston_Dynamo" tvg-name="New England Revolution vs Houston Dynamo" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New England Revolution vs Houston Dynamo [5:30 PM ET]
 http://193.47.62.190/hls/CBBBAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MMA Fighting --:--
+#EXTINF:-1 tvg-id="BKFC_Fight_Night___Acheson_vs_Jones" tvg-name="BKFC Fight Night : Acheson vs Jones" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="MMA Fighting --:--",BKFC Fight Night : Acheson vs Jones [TBD]
+http://193.47.62.194/hls/HYHYHY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Canberra_Raiders_W_vs_Brisbane_Broncos_W" tvg-name="Canberra Raiders W vs Brisbane Broncos W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canberra Raiders W vs Brisbane Broncos W [10:35 PM ET]
+http://193.47.62.190/hls/sssss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Paraguay Primera Division
 #EXTINF:-1 tvg-id="2_de_Mayo_vs_Olimpia_Asuncion" tvg-name="2 de Mayo vs Olimpia Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Primera Division",2 de Mayo vs Olimpia Asuncion [6:30 PM ET]
 http://193.47.62.190/hls/CBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -150,6 +157,10 @@ http://193.47.62.190/hls/CBBBAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 
 #EXTINF:-1 tvg-id="Juan_Pablo_II_vs_Grau" tvg-name="Juan Pablo II vs Grau" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Liga 1 Apertura",Juan Pablo II vs Grau [5:30 PM ET]
 http://193.47.62.190/hls/CBBBAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Rugby Bunnings NPC
+#EXTINF:-1 tvg-id="Otago_vs_Canterbury" tvg-name="Otago vs Canterbury" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/NPC-Logo_50_Years.png/250px-NPC-Logo_50_Years.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Rugby Bunnings NPC",Otago vs Canterbury [11:00 PM ET]
+http://193.47.62.194/hls/sssssAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
 #EXTINF:-1 tvg-id="Tennis_ATP_Montreal" tvg-name="Tennis ATP Montreal" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg" group-title="Tennis Masters",Tennis ATP Montreal [1:30 PM ET]
