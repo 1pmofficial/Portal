@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 09, 2026 at 04:00 AM EST
-# Total categories: 4
-# Total events: 5
-# Working streams: 5
+#PLAYLIST: The TV App - August 09, 2026 at 06:00 AM EST
+# Total categories: 13
+# Total events: 16
+# Working streams: 16
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,17 +11,59 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="West_Coast_Eagles_vs_Collingwood_Magpies" tvg-name="West Coast Eagles vs Collingwood Magpies" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",West Coast Eagles vs Collingwood Magpies [3:10 AM ET]
 http://193.47.62.190/hls/KJJJJT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cricket The Hundred
+#EXTINF:-1 tvg-id="Sunrisers_Leeds_W_vs_Welsh_Fire_W" tvg-name="Sunrisers Leeds W vs Welsh Fire W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Sunrisers Leeds W vs Welsh Fire W [7:00 AM ET]
+http://193.47.62.190/hls/GGGGGAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Dutch Eerste Divisie
+#EXTINF:-1 tvg-id="Helmond_vs_De_Graafschap" tvg-name="Helmond vs De Graafschap" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Helmond vs De Graafschap [7:15 AM ET]
+http://193.47.62.190/hls/GGGGGAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Dutch Eredivisie
+#EXTINF:-1 tvg-id="Sparta_Rotterdam_vs_Feyenoord" tvg-name="Sparta Rotterdam vs Feyenoord" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Eredivisie",Sparta Rotterdam vs Feyenoord [7:15 AM ET]
+http://193.47.62.190/hls/GGGGGAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Radomiak_Radom_vs_AEL_Limassol" tvg-name="Radomiak Radom vs AEL Limassol" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Radomiak Radom vs AEL Limassol [7:00 AM ET]
+http://193.47.62.190/hls/GGGGGAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Tokyo_Verdy_vs_Kawasaki_Frontale" tvg-name="Tokyo Verdy vs Kawasaki Frontale" tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="Japan J League",Tokyo Verdy vs Kawasaki Frontale [6:00 AM ET]
+http://193.47.62.190/hls/BBBHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="V_Varen_Nagasaki_vs_Kyoto" tvg-name="V-Varen Nagasaki vs Kyoto" tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="Japan J League",V-Varen Nagasaki vs Kyoto [7:00 AM ET]
+http://193.47.62.190/hls/GGGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J2 League
+#EXTINF:-1 tvg-id="Iwaki_vs_Imabari" tvg-name="Iwaki vs Imabari" tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="Japan J2 League",Iwaki vs Imabari [6:00 AM ET]
+http://193.47.62.190/hls/BBBHHH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Montedio_Yamagata_vs_Tochigi_City" tvg-name="Montedio Yamagata vs Tochigi City" tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="Japan J2 League",Montedio Yamagata vs Tochigi City [7:00 AM ET]
+http://193.47.62.190/hls/GGGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Great_Britain" tvg-name="MotoGP Grand Prix of Great Britain" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Great Britain [6:00 AM ET]
+http://193.47.62.194/hls/AVVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:NRL
-#EXTINF:-1 tvg-id="St_George_Illawarra_Dragons_vs_Cronulla_Sharks" tvg-name="St George Illawarra Dragons vs Cronulla Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",St George Illawarra Dragons vs Cronulla Sharks [3:05 AM ET]
-http://193.47.62.190/hls/sssss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Sydney_Roosters_W_vs_Parramatta_Eels_W" tvg-name="Sydney Roosters W vs Parramatta Eels W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Sydney Roosters W vs Parramatta Eels W [5:15 AM ET]
+http://193.47.62.190/hls/AAAAAVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Portugal Liga 2
+#EXTINF:-1 tvg-id="SC_Farense_vs_Torreense" tvg-name="SC Farense vs Torreense" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",SC Farense vs Torreense [7:00 AM ET]
+http://193.47.62.190/hls/dddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [3:00 AM ET]
-http://193.47.62.190/hls/eeeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [3:00 AM ET]
 http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [3:00 AM ET]
+http://193.47.62.190/hls/eeeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Football
 #EXTINF:-1 tvg-id="Young_Africans_Day_Celebration_Celebration" tvg-name="Young Africans Day Celebration Celebration" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Football",Young Africans Day Celebration Celebration [4:00 AM ET]
 http://193.47.62.194/hls/eeeeA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="FK_Zorya_Luhansk_vs_Kryvbas" tvg-name="FK Zorya Luhansk vs Kryvbas" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",FK Zorya Luhansk vs Kryvbas [7:00 AM ET]
+http://193.47.62.190/hls/GGGGGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
