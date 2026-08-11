@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 11, 2026 at 10:00 AM EST
+#PLAYLIST: The TV App - August 11, 2026 at 12:00 PM EST
 # Total categories: 10
 # Total events: 17
 # Working streams: 17
@@ -8,9 +8,6 @@
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:AFC Challenge League
-#EXTINF:-1 tvg-id="Paro_vs_Abu_Muslim" tvg-name="Paro vs Abu Muslim" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="AFC Challenge League",Paro vs Abu Muslim [9:00 AM ET]
-http://193.47.62.40/hls/UZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Dordoi_Bishkek_vs_Homs_Al_Fidaa" tvg-name="Dordoi Bishkek vs Homs Al Fidaa" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="AFC Challenge League",Dordoi Bishkek vs Homs Al Fidaa [11:00 AM ET]
 http://193.47.62.40/hls/UZZZAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -32,11 +29,11 @@ http://193.47.62.40/hls/UZZZA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.40/hls/UZZZA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby Friendly
 #EXTINF:-1 tvg-id="Sharks_vs_New_Zealand" tvg-name="Sharks vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",Sharks vs New Zealand [2:00 PM ET]
@@ -57,6 +54,9 @@ http://193.47.62.40/hls/GGGGFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:UEFA Champions League
 #EXTINF:-1 tvg-id="Kairat_Almaty_vs_Levski_Sofia" tvg-name="Kairat Almaty vs Levski Sofia" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Kairat Almaty vs Levski Sofia [12:00 PM ET]
 http://193.47.62.40/hls/ESSSA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kairat_Almaty_vs_Levski_Sofia___HD" tvg-name="Kairat Almaty vs Levski Sofia - HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Kairat Almaty vs Levski Sofia - HD [12:00 PM ET]
+https://live2.jxa76.com/live/sd-6MxiZdYDijUbRmAPP9_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Sabah_Baku_vs_Aarhus" tvg-name="Sabah Baku vs Aarhus" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Sabah Baku vs Aarhus [1:00 PM ET]
 http://193.47.62.40/hls/ESSSAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
