@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 12, 2026 at 06:00 AM EST
-# Total categories: 7
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - August 12, 2026 at 08:00 AM EST
+# Total categories: 8
+# Total events: 11
+# Working streams: 11
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -34,9 +34,16 @@ http://193.47.62.190/hls/UZZZddA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="A_Leagues_All_Stars_W_vs_Chelsea_W" tvg-name="A-Leagues All Stars W vs Chelsea W" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",A-Leagues All Stars W vs Chelsea W [6:45 AM ET]
 http://193.47.62.190/hls/ffdfdfdaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Snooker --:--
-#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker China Open - Table 1 [TBD]
-http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker China Open - Table 2 [TBD]
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [8:30 AM ET]
 http://193.47.62.190/hls/eeeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [8:30 AM ET]
+http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
