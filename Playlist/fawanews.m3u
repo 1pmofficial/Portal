@@ -1,26 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 12, 2026 at 08:00 AM EST
+#PLAYLIST: The TV App - August 12, 2026 at 10:00 AM EST
 # Total categories: 8
-# Total events: 11
-# Working streams: 11
+# Total events: 14
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:AFC Challenge League II
+#EXTINF:-1 tvg-id="Arkadag_vs_Goa" tvg-name="Arkadag vs Goa" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="AFC Challenge League II",Arkadag vs Goa [12:00 PM ET]
+http://193.47.62.190/hls/DSSSSDA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:AFC Champions League II
+#EXTINF:-1 tvg-id="East_Bengal_vs_Al_Arabi" tvg-name="East Bengal vs Al Arabi" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="AFC Champions League II",East Bengal vs Al Arabi [10:30 AM ET]
+http://193.47.62.190/hls/DSSSSD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Athletics
 #EXTINF:-1 tvg-id="European_Athletics_Championships" tvg-name="European Athletics Championships" tvg-logo="https://pbs.twimg.com/profile_images/1348960208719142913/2mezPM9R_400x400.jpg" group-title="Athletics",European Athletics Championships [6:30 AM ET]
 http://193.47.62.41/hls/EKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Australia Cup
-#EXTINF:-1 tvg-id="APIA_Leichhardt_vs_Sydney_Utd" tvg-name="APIA Leichhardt vs Sydney Utd" tvg-logo="https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg" group-title="Australia Cup",APIA Leichhardt vs Sydney Utd [6:30 AM ET]
-http://193.47.62.190/hls/ffdfdfda.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Brunswick_Juventus_vs_Preston_Lions" tvg-name="Brunswick Juventus vs Preston Lions" tvg-logo="https://pbs.twimg.com/profile_images/1860822159175888896/lE95c4g-_400x400.jpg" group-title="Australia Cup",Brunswick Juventus vs Preston Lions [6:30 AM ET]
-http://193.47.62.190/hls/ffdfdfd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Boxing
-#EXTINF:-1 tvg-id="Boxing___Teremoana_vs_Savage" tvg-name="Boxing : Teremoana vs Savage" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing",Boxing : Teremoana vs Savage [6:00 AM ET]
-http://193.47.62.190/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="Ireland_vs_Afghanistan" tvg-name="Ireland vs Afghanistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Ireland vs Afghanistan [6:30 AM ET]
@@ -30,9 +27,11 @@ http://193.47.62.41/hls/EOOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Welsh_Fire_W_vs_London_Spirit_W" tvg-name="Welsh Fire W vs London Spirit W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Welsh Fire W vs London Spirit W [7:30 AM ET]
 http://193.47.62.190/hls/UZZZddA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="A_Leagues_All_Stars_W_vs_Chelsea_W" tvg-name="A-Leagues All Stars W vs Chelsea W" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",A-Leagues All Stars W vs Chelsea W [6:45 AM ET]
-http://193.47.62.190/hls/ffdfdfdaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Welsh_Fire_vs_London_Spirit" tvg-name="Welsh Fire vs London Spirit" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Welsh Fire vs London Spirit [11:00 AM ET]
+http://193.47.62.190/hls/UZZZddA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Birmingham_Phoenix_W_vs_MI_London_W" tvg-name="Birmingham Phoenix W vs MI London W" tvg-logo="https://pbs.twimg.com/profile_images/1572137645467226115/9b_fQV2O_400x400.jpg" group-title="Cricket The Hundred",Birmingham Phoenix W vs MI London W [11:00 AM ET]
+http://193.47.62.190/hls/DSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -42,8 +41,18 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [8:30 AM ET]
+http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Snooker_China_Open___Table_2" tvg-name="Snooker China Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 2 [8:30 AM ET]
 http://193.47.62.190/hls/eeeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Snooker_China_Open___Table_1" tvg-name="Snooker China Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open - Table 1 [8:30 AM ET]
-http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:UEFA Conference League
+#EXTINF:-1 tvg-id="FC_Copenhagen_vs_Debrecen" tvg-name="FC Copenhagen vs Debrecen" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",FC Copenhagen vs Debrecen [1:00 PM ET]
+http://193.47.62.190/hls/TATATATA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="GKS_Katowice_vs_Hapoel_Tel_Aviv" tvg-name="GKS Katowice vs Hapoel Tel Aviv" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",GKS Katowice vs Hapoel Tel Aviv [1:00 PM ET]
+http://193.47.62.190/hls/TATATATAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="SK_Rapid_vs_Paide" tvg-name="SK Rapid vs Paide" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Conference League",SK Rapid vs Paide [1:00 PM ET]
+http://193.47.62.190/hls/TATATATAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
