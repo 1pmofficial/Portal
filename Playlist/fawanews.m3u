@@ -1,26 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 14, 2026 at 08:00 AM EST
-# Total categories: 15
-# Total events: 21
-# Working streams: 21
+#PLAYLIST: The TV App - August 14, 2026 at 10:00 AM EST
+# Total categories: 11
+# Total events: 16
+# Working streams: 16
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Adelaide_Crows" tvg-name="Fremantle Dockers vs Adelaide Crows" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Adelaide Crows [7:10 AM ET]
-http://193.47.62.191/hls/UUUUAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Athletics
-#EXTINF:-1 tvg-id="European_Athletics_Championships" tvg-name="European Athletics Championships" tvg-logo="https://pbs.twimg.com/profile_images/1348960208719142913/2mezPM9R_400x400.jpg" group-title="Athletics",European Athletics Championships [6:30 AM ET]
-http://193.47.62.41/hls/EKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:China Super League
-#EXTINF:-1 tvg-id="Wuhan_Three_Towns_vs_Shanghai_Port" tvg-name="Wuhan Three Towns vs Shanghai Port" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Wuhan Three Towns vs Shanghai Port [8:35 AM ET]
-http://193.47.62.192/hls/AFFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Shandong_Taishan_vs_Qingdao_Hainiu" tvg-name="Shandong Taishan vs Qingdao Hainiu" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Shandong Taishan vs Qingdao Hainiu [8:35 AM ET]
 http://193.47.62.192/hls/AFFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Wuhan_Three_Towns_vs_Shanghai_Port" tvg-name="Wuhan Three Towns vs Shanghai Port" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Wuhan Three Towns vs Shanghai Port [8:35 AM ET]
+http://193.47.62.192/hls/AFFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Qingdao_West_Coast_vs_Chongqing_Tonglianglong" tvg-name="Qingdao West Coast vs Chongqing Tonglianglong" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Qingdao West Coast vs Chongqing Tonglianglong [9:00 AM ET]
 http://193.47.62.192/hls/AFFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -53,22 +45,11 @@ http://193.47.62.190/hls/BBBBAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.190/hls/SFSGFD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Japan J League
-#EXTINF:-1 tvg-id="Tokyo_Verdy_vs_Kashiwa_Reysol" tvg-name="Tokyo Verdy vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Tokyo Verdy vs Kashiwa Reysol [7:00 AM ET]
-http://193.47.62.191/hls/UUUUAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Manly_Sea_vs_Eagles_Dolphins" tvg-name="Manly Sea vs Eagles Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Manly Sea vs Eagles Dolphins [5:00 AM ET]
-http://193.47.62.191/hls/UUUUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Canterbury_Bulldogs_vs_South_Sydney_Rabbitohs" tvg-name="Canterbury Bulldogs vs South Sydney Rabbitohs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canterbury Bulldogs vs South Sydney Rabbitohs [7:00 AM ET]
-http://193.47.62.191/hls/UUUUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:SA Rugby Currie Cup
 #EXTINF:-1 tvg-id="Lions_vs_Boland_Cavaliers" tvg-name="Lions vs Boland Cavaliers" tvg-logo="https://pbs.twimg.com/profile_images/1801151152290947072/iSkdmcvc_400x400.jpg" group-title="SA Rugby Currie Cup",Lions vs Boland Cavaliers [10:00 AM ET]
@@ -82,5 +63,5 @@ http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.190/hls/eeeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Ligi Kuu Bara
-#EXTINF:-1 tvg-id="Pamba_vs_Dodoma_Jiji" tvg-name="Pamba vs Dodoma Jiji" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Pamba vs Dodoma Jiji [8:00 AM ET]
+#EXTINF:-1 tvg-id="Mbeya_City_vs_Geita_Gold" tvg-name="Mbeya City vs Geita Gold" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Mbeya City vs Geita Gold [10:15 AM ET]
 http://193.47.62.192/hls/AFFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
