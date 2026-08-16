@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 16, 2026 at 12:00 AM EST
+#PLAYLIST: The TV App - August 16, 2026 at 02:00 AM EST
 # Total categories: 12
-# Total events: 23
-# Working streams: 23
+# Total events: 21
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -43,12 +43,6 @@ http://193.47.62.190/hls/eoooss.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.190/hls/eooosss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLS League
-#EXTINF:-1 tvg-id="Real_Salt_Lake_vs_Minnesota_United" tvg-name="Real Salt Lake vs Minnesota United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Real Salt Lake vs Minnesota United [10:30 PM ET]
-http://193.47.62.190/hls/eooos.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Colorado_Rapids_vs_Sporting_Kansas_City" tvg-name="Colorado Rapids vs Sporting Kansas City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Colorado Rapids vs Sporting Kansas City [10:30 PM ET]
-http://193.47.62.190/hls/eooo.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="San_Jose_Earthquakes_vs_St_Louis_City" tvg-name="San Jose Earthquakes vs St Louis City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Jose Earthquakes vs St Louis City [11:30 PM ET]
 http://193.47.62.190/hls/eooossssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -77,8 +71,8 @@ http://193.47.62.190/hls/SSSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Snooker_China_Open" tvg-name="Snooker China Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open [3:00 AM ET]
 http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Tennis Masters
-#EXTINF:-1 tvg-id="Tennis_ATP_Cincinati" tvg-name="Tennis ATP Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis ATP Cincinati [1:00 PM ET]
+#EXTGRP:Tennis Masters --:--
+#EXTINF:-1 tvg-id="Tennis_ATP_Cincinati" tvg-name="Tennis ATP Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters --:--",Tennis ATP Cincinati [TBD]
 http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UFC Fight Night --:--
@@ -86,4 +80,4 @@ http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.50/hls/uaaaX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="UFC_330___Islam_Makhache_vs_Ian_Garry___HD" tvg-name="UFC 330 : Islam Makhache vs Ian Garry - HD" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 330 : Islam Makhache vs Ian Garry - HD [TBD]
-https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/ad0072f3-1ec4-402f-a683-5f9e4b224d3d/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/bcb6ae65-0650-4e09-b73c-e8059b509c7e/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
