@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 16, 2026 at 02:00 AM EST
-# Total categories: 12
-# Total events: 21
-# Working streams: 21
+#PLAYLIST: The TV App - August 16, 2026 at 04:00 AM EST
+# Total categories: 8
+# Total events: 15
+# Working streams: 15
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -20,19 +20,8 @@ http://193.47.62.190/hls/SSSSSSAAA.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="Essendon_Bombers_vs_Sydney_Swans" tvg-name="Essendon Bombers vs Sydney Swans" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Essendon Bombers vs Sydney Swans [3:40 AM ET]
 http://193.47.62.190/hls/SSSSSSAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Boxing___Keye_Scott_vs_Claressa_Shields" tvg-name="Boxing : Keye Scott vs Claressa Shields" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Keye Scott vs Claressa Shields [TBD]
-http://193.47.62.190/hls/AARRRAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Cricket
-#EXTINF:-1 tvg-id="Australia_vs_Bangladesh" tvg-name="Australia vs Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Australia vs Bangladesh [9:00 PM ET]
-http://193.47.62.192/hls/NNNNDX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="India_vs_Sri_Lanka" tvg-name="India vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",India vs Sri Lanka [1:30 AM ET]
-http://193.47.62.190/hls/NNNE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Cricket Caribbean CPL
-#EXTINF:-1 tvg-id="Jamaica_Kingsmen_vs_Trinbago_Knight_Riders" tvg-name="Jamaica Kingsmen vs Trinbago Knight Riders" tvg-logo="https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg" group-title="Cricket Caribbean CPL",Jamaica Kingsmen vs Trinbago Knight Riders [9:00 PM ET]
 http://193.47.62.190/hls/NNNE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
@@ -43,11 +32,11 @@ http://193.47.62.190/hls/eoooss.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.190/hls/eooosss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLS League
-#EXTINF:-1 tvg-id="San_Jose_Earthquakes_vs_St_Louis_City" tvg-name="San Jose Earthquakes vs St Louis City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Jose Earthquakes vs St Louis City [11:30 PM ET]
-http://193.47.62.190/hls/eooossssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Los_Angeles_FC_vs_San_Diego_FC" tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Los Angeles FC vs San Diego FC [11:30 PM ET]
 http://193.47.62.190/hls/eooossss.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_Earthquakes_vs_St_Louis_City" tvg-name="San Jose Earthquakes vs St Louis City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Jose Earthquakes vs St Louis City [11:30 PM ET]
+http://193.47.62.190/hls/eooossssQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Mexico Liga MX
 #EXTINF:-1 tvg-id="Atlas_vs_Tigres_UANL" tvg-name="Atlas vs Tigres UANL" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Atlas vs Tigres UANL [12:10 AM ET]
@@ -70,14 +59,3 @@ http://193.47.62.190/hls/SSSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_China_Open" tvg-name="Snooker China Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker China Open [3:00 AM ET]
 http://193.47.62.190/hls/eeee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tennis Masters --:--
-#EXTINF:-1 tvg-id="Tennis_ATP_Cincinati" tvg-name="Tennis ATP Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters --:--",Tennis ATP Cincinati [TBD]
-http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:UFC Fight Night --:--
-#EXTINF:-1 tvg-id="UFC_330___Islam_Makhache_vs_Ian_Garry" tvg-name="UFC 330 : Islam Makhache vs Ian Garry" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 330 : Islam Makhache vs Ian Garry [TBD]
-http://193.47.62.50/hls/uaaaX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="UFC_330___Islam_Makhache_vs_Ian_Garry___HD" tvg-name="UFC 330 : Islam Makhache vs Ian Garry - HD" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 330 : Islam Makhache vs Ian Garry - HD [TBD]
-https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/bcb6ae65-0650-4e09-b73c-e8059b509c7e/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
