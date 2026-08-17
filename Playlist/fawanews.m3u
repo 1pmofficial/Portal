@@ -1,26 +1,82 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 17, 2026 at 10:00 AM EST
-# Total categories: 4
-# Total events: 6
-# Working streams: 6
+#PLAYLIST: The TV App - August 17, 2026 at 12:00 PM EST
+# Total categories: 16
+# Total events: 22
+# Working streams: 22
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Cricket
-#EXTINF:-1 tvg-id="India_vs_Sri_Lanka" tvg-name="India vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",India vs Sri Lanka [3:00 AM ET]
-http://193.47.62.190/hls/NNNE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Armenia Premier League
+#EXTINF:-1 tvg-id="Noah_vs_Alashkert" tvg-name="Noah vs Alashkert" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",Noah vs Alashkert [1:00 PM ET]
+http://193.47.62.44/hls/ylllaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Azerbaijan Premier League
+#EXTINF:-1 tvg-id="Qarabag_vs_Shamakhi" tvg-name="Qarabag vs Shamakhi" tvg-logo="https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg" group-title="Azerbaijan Premier League",Qarabag vs Shamakhi [12:30 PM ET]
+http://193.47.62.41/hls/yiiiqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Bulgaria efbet League
+#EXTINF:-1 tvg-id="Spartak_Varna_vs_Septemvri_Sofia" tvg-name="Spartak Varna vs Septemvri Sofia" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Spartak Varna vs Septemvri Sofia [1:00 PM ET]
+http://193.47.62.44/hls/ylllaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Coppa Italia
+#EXTINF:-1 tvg-id="Pisa_vs_Empoli" tvg-name="Pisa vs Empoli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png" group-title="Coppa Italia",Pisa vs Empoli [1:00 PM ET]
+http://193.47.62.44/hls/ylllaaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sassuolo_vs_Cesena" tvg-name="Sassuolo vs Cesena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png" group-title="Coppa Italia",Sassuolo vs Cesena [1:30 PM ET]
+http://193.47.62.44/hls/aaaabbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Field Hockey World Cup
-#EXTINF:-1 tvg-id="USA_W_vs_Scotland_W" tvg-name="USA W vs Scotland W" tvg-logo="https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg" group-title="Field Hockey World Cup",USA W vs Scotland W [6:10 AM ET]
+#EXTINF:-1 tvg-id="India_vs_England" tvg-name="India vs England" tvg-logo="https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg" group-title="Field Hockey World Cup",India vs England [10:00 AM ET]
 http://193.47.62.41/hls/BFUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Finland Veikkausliiga
+#EXTINF:-1 tvg-id="Gnistan_vs_Ilves" tvg-name="Gnistan vs Ilves" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Gnistan vs Ilves [12:00 PM ET]
+http://193.47.62.41/hls/yiii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Georgia League
+#EXTINF:-1 tvg-id="Gagra_vs_Spaeri" tvg-name="Gagra vs Spaeri" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Gagra vs Spaeri [1:00 PM ET]
+http://193.47.62.44/hls/ylllaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Greece Cup
+#EXTINF:-1 tvg-id="Karditsa_Karditsa_vs_Aris" tvg-name="Karditsa Karditsa vs Aris" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Cup",Karditsa Karditsa vs Aris [12:00 PM ET]
+http://193.47.62.41/hls/yiiiq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
-http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Hungary NB 1 Liga
+#EXTINF:-1 tvg-id="Zalaegerszegi_vs_Ferencvaros" tvg-name="Zalaegerszegi vs Ferencvaros" tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg" group-title="Hungary NB 1 Liga",Zalaegerszegi vs Ferencvaros [12:30 PM ET]
+http://193.47.62.41/hls/yiiiqqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Latvia Cup
+#EXTINF:-1 tvg-id="Auda_vs_Grobina" tvg-name="Auda vs Grobina" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Cup",Auda vs Grobina [12:00 PM ET]
+http://193.47.62.41/hls/yiiiqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Lithuania Toplyga
+#EXTINF:-1 tvg-id="FA_Siauliai_vs_FK_Panevezys" tvg-name="FA Siauliai vs FK Panevezys" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",FA Siauliai vs FK Panevezys [12:00 PM ET]
+http://193.47.62.41/hls/yiiiqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dziugas_Telsiai_vs_Suduva" tvg-name="Dziugas Telsiai vs Suduva" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",Dziugas Telsiai vs Suduva [12:45 PM ET]
+http://193.47.62.41/hls/yllla.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Romania Superliga
+#EXTINF:-1 tvg-id="U_Cluj_vs_UTA_Arad" tvg-name="U Cluj vs UTA Arad" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",U Cluj vs UTA Arad [12:30 PM ET]
+http://193.47.62.41/hls/ylll.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Saudi King Cup
+#EXTINF:-1 tvg-id="Al_Anwar_vs_Al_Ahli_SC" tvg-name="Al Anwar vs Al Ahli SC" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Saudi King Cup",Al Anwar vs Al Ahli SC [1:00 PM ET]
+http://193.47.62.44/hls/aaaab.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Zulfi_vs_Al_Riyadh" tvg-name="Al Zulfi vs Al Riyadh" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Saudi King Cup",Al Zulfi vs Al Riyadh [1:15 PM ET]
+http://193.47.62.44/hls/aaaabbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Taee_vs_Al_Qadsiah" tvg-name="Al Taee vs Al Qadsiah" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Saudi King Cup",Al Taee vs Al Qadsiah [1:15 PM ET]
+http://193.47.62.44/hls/aaaabb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
 #EXTINF:-1 tvg-id="Tennis_ATP_Cincinati" tvg-name="Tennis ATP Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis ATP Cincinati [12:00 PM ET]
@@ -28,3 +84,7 @@ http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=
 
 #EXTINF:-1 tvg-id="Tennis_WTA_Cincinati" tvg-name="Tennis WTA Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis WTA Cincinati [12:00 PM ET]
 http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="Polissya_Zhytomyr_vs_FK_Zorya_Luhansk" tvg-name="Polissya Zhytomyr vs FK Zorya Luhansk" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Polissya Zhytomyr vs FK Zorya Luhansk [12:00 PM ET]
+http://193.47.62.41/hls/yiiiqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
