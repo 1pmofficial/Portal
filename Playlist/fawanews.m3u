@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 16, 2026 at 08:00 PM EST
+#PLAYLIST: The TV App - August 16, 2026 at 10:00 PM EST
 # Total categories: 12
 # Total events: 24
 # Working streams: 24
@@ -8,11 +8,11 @@
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:Argentina Liga Profesional
-#EXTINF:-1 tvg-id="Central_Cordoba_vs_Instituto" tvg-name="Central Cordoba vs Instituto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Central Cordoba vs Instituto [8:15 PM ET]
-http://193.47.62.41/hls/B555QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Barracas_Central_vs_Rosario_Central" tvg-name="Barracas Central vs Rosario Central" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Barracas Central vs Rosario Central [8:15 PM ET]
 http://193.47.62.41/hls/B555QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Central_Cordoba_vs_Instituto" tvg-name="Central Cordoba vs Instituto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Central Cordoba vs Instituto [8:15 PM ET]
+http://193.47.62.41/hls/B555QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Bolivia Division Profesional
 #EXTINF:-1 tvg-id="Independiente_vs_GV_San_Jose" tvg-name="Independiente vs GV San Jose" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Independiente vs GV San Jose [8:30 PM ET]
