@@ -1,66 +1,64 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 19, 2026 at 04:00 PM EST
-# Total categories: 12
-# Total events: 27
-# Working streams: 27
+#PLAYLIST: The TV App - August 19, 2026 at 06:00 PM EST
+# Total categories: 10
+# Total events: 20
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:Argentina Copa
+#EXTINF:-1 tvg-id="Racing_Club_vs_Belgrano" tvg-name="Racing Club vs Belgrano" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Copa",Racing Club vs Belgrano [7:15 PM ET]
+http://193.47.62.41/hls/OSSSA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Bolivia Copa
-#EXTINF:-1 tvg-id="Academia_del_Balompie_vs_Real_Potosi" tvg-name="Academia del Balompie vs Real Potosi" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Copa",Academia del Balompie vs Real Potosi [4:00 PM ET]
-http://193.47.62.41/hls/OPPPAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Independiente_vs_Blooming" tvg-name="Independiente vs Blooming" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Copa",Independiente vs Blooming [7:00 PM ET]
+http://193.47.62.41/hls/OBBBQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Cricket
-#EXTINF:-1 tvg-id="England_vs_Pakistan" tvg-name="England vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Pakistan [7:00 AM ET]
-http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Fortaleza_vs_Sao_Bernardo" tvg-name="Fortaleza vs Sao Bernardo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Fortaleza vs Sao Bernardo [7:30 PM ET]
+http://193.47.62.41/hls/OSSSAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:English EFL Trophy
-#EXTINF:-1 tvg-id="Mansfield_vs_Manchester_City_U21" tvg-name="Mansfield vs Manchester City U21" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg" group-title="English EFL Trophy",Mansfield vs Manchester City U21 [3:00 PM ET]
-http://193.47.62.41/hls/OPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Avai_vs_Sport_Recife" tvg-name="Avai vs Sport Recife" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Avai vs Sport Recife [7:30 PM ET]
+http://193.47.62.41/hls/OSSSAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="FC_Barcelona_vs_Al_Ahly___CH_1" tvg-name="FC Barcelona vs Al Ahly - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",FC Barcelona vs Al Ahly - CH 1 [3:00 PM ET]
-http://193.47.62.59/hls/TITITI.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:CONCACAF Caribbean Cup
+#EXTINF:-1 tvg-id="Delfines_Del_Este_vs_Violette" tvg-name="Delfines Del Este vs Violette" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Caribbean Cup",Delfines Del Este vs Violette [7:00 PM ET]
+http://193.47.62.41/hls/OBBBQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="FC_Barcelona_vs_Al_Ahly___CH_2" tvg-name="FC Barcelona vs Al Ahly - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",FC Barcelona vs Al Ahly - CH 2 [3:00 PM ET]
-https://live.666666.zip/live/4595895.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Colombia Primera A
+#EXTINF:-1 tvg-id="Aguilas_vs_Llaneros" tvg-name="Aguilas vs Llaneros" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Aguilas vs Llaneros [6:00 PM ET]
+http://193.47.62.41/hls/OBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Copa Libertadores
+#EXTINF:-1 tvg-id="Coquimbo_vs_Platense" tvg-name="Coquimbo vs Platense" tvg-logo="https://pbs.twimg.com/profile_images/1611125838963003393/RbmZeotm_400x400.jpg" group-title="Copa Libertadores",Coquimbo vs Platense [7:00 PM ET]
+http://193.47.62.41/hls/OBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cerro_Porteno_vs_Palmeiras" tvg-name="Cerro Porteno vs Palmeiras" tvg-logo="https://pbs.twimg.com/profile_images/1611125838963003393/RbmZeotm_400x400.jpg" group-title="Copa Libertadores",Cerro Porteno vs Palmeiras [7:00 PM ET]
+http://193.47.62.41/hls/OBBBQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Copa Sudamericana
+#EXTINF:-1 tvg-id="Atletico_MG_vs_Bragantino" tvg-name="Atletico-MG vs Bragantino" tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg" group-title="Copa Sudamericana",Atletico-MG vs Bragantino [7:00 PM ET]
+http://193.47.62.41/hls/OBBBQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
-#EXTINF:-1 tvg-id="Pittsburgh_Pirates_vs_Detroit_Tigers" tvg-name="Pittsburgh Pirates vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Pittsburgh Pirates vs Detroit Tigers [1:35 PM ET]
-http://193.47.62.41/hls/ICCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Boston_Red_Sox_vs_Arizona_Diamondbacks" tvg-name="Boston Red Sox vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Boston Red Sox vs Arizona Diamondbacks [5:10 PM ET]
+http://193.47.62.41/hls/OPPPAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="New_York_Mets_vs_San_Diego_Padres" tvg-name="New York Mets vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Mets vs San Diego Padres [2:10 PM ET]
-http://193.47.62.41/hls/ICCCAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Philadelphia_Phillies_vs_Miami_Marlins" tvg-name="Philadelphia Phillies vs Miami Marlins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs Miami Marlins [7:05 PM ET]
+http://193.47.62.41/hls/OSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Minnesota_Twins_vs_Atlanta_Braves" tvg-name="Minnesota Twins vs Atlanta Braves" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Minnesota Twins vs Atlanta Braves [2:35 PM ET]
-http://193.47.62.44/hls/DNNNAaAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Baltimore_Orioles_vs_New_York_Yankees" tvg-name="Baltimore Orioles vs New York Yankees" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Baltimore Orioles vs New York Yankees [7:35 PM ET]
+http://193.47.62.41/hls/TSSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Chicago_Cubs_vs_Chicago_White_Sox" tvg-name="Chicago Cubs vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs Chicago White Sox [3:20 PM ET]
-http://193.47.62.40/hls/ORRRAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Cincinnati_Reds_vs_St_Louis_Cardinals" tvg-name="Cincinnati Reds vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cincinnati Reds vs St Louis Cardinals [7:40 PM ET]
+http://193.47.62.41/hls/TSSSSA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Romania Copa
-#EXTINF:-1 tvg-id="Concordia_vs_Otelul" tvg-name="Concordia vs Otelul" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Copa",Concordia vs Otelul [2:30 PM ET]
-http://193.47.62.41/hls/OFFFAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Cleveland_Guardians_vs_San_Francisco_Giants" tvg-name="Cleveland Guardians vs San Francisco Giants" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Cleveland Guardians vs San Francisco Giants [7:40 PM ET]
+http://193.47.62.41/hls/TSSSSAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Russia Cup
-#EXTINF:-1 tvg-id="Dynamo_Moscow_vs_Krasnodar" tvg-name="Dynamo Moscow vs Krasnodar" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Dynamo Moscow vs Krasnodar [2:45 PM ET]
-http://193.47.62.41/hls/ICCCAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Saudi King Cup
-#EXTINF:-1 tvg-id="Al_Ula_vs_Al_Fateh" tvg-name="Al-Ula vs Al Fateh" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Saudi King Cup",Al-Ula vs Al Fateh [3:00 PM ET]
-http://193.47.62.41/hls/OPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:South Africa Betway Premiership
-#EXTINF:-1 tvg-id="Mamelodi_Sundowns_vs_Marumo_Gallants" tvg-name="Mamelodi Sundowns vs Marumo Gallants" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png" group-title="South Africa Betway Premiership",Mamelodi Sundowns vs Marumo Gallants [2:30 PM ET]
-http://193.47.62.191/hls/FBBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Spanish La Liga
-#EXTINF:-1 tvg-id="Atletico_Madrid_vs_Malaga___CH_1" tvg-name="Atletico Madrid vs Malaga - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",Atletico Madrid vs Malaga - CH 1 [4:00 PM ET]
-http://193.47.62.43/hls/OPPPAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Atletico_Madrid_vs_Malaga___CH_2" tvg-name="Atletico Madrid vs Malaga - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",Atletico Madrid vs Malaga - CH 2 [4:00 PM ET]
-https://live.666666.zip/live/4565317.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tampa_Bay_Rays_vs_Toronto_Blue_Jays" tvg-name="Tampa Bay Rays vs Toronto Blue Jays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Tampa Bay Rays vs Toronto Blue Jays [7:40 PM ET]
+http://193.47.62.41/hls/TSSSSAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis Masters
 #EXTINF:-1 tvg-id="Tennis_ATP_Cincinati___CH_1" tvg-name="Tennis ATP Cincinati - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis ATP Cincinati - CH 1 [12:00 PM ET]
@@ -75,27 +73,6 @@ http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Tennis_WTA_Cincinati___CH_2" tvg-name="Tennis WTA Cincinati - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis WTA Cincinati - CH 2 [12:00 PM ET]
 http://193.47.62.41/hls/XAXAXAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:UEFA Champions League
-#EXTINF:-1 tvg-id="Celtic_vs_LASK___CH_1" tvg-name="Celtic vs LASK - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Celtic vs LASK - CH 1 [4:00 PM ET]
-http://193.47.62.47/hls/GGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="NEC_Nijmegen_vs_Bodo_Glimt___CH_1" tvg-name="NEC Nijmegen vs Bodo Glimt - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",NEC Nijmegen vs Bodo Glimt - CH 1 [4:00 PM ET]
-http://193.47.62.43/hls/RVRVRVA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Celtic_vs_LASK___CH_2" tvg-name="Celtic vs LASK - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Celtic vs LASK - CH 2 [4:00 PM ET]
-https://live.666666.zip/live/4608831.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Slovan_Bratislava_vs_Celje___CH_1" tvg-name="Slovan Bratislava vs Celje - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Slovan Bratislava vs Celje - CH 1 [4:00 PM ET]
-http://193.47.62.43/hls/RVRVRVAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Slovan_Bratislava_vs_Celje___CH_2" tvg-name="Slovan Bratislava vs Celje - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",Slovan Bratislava vs Celje - CH 2 [4:00 PM ET]
-https://live.666666.zip/live/4608838.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="NEC_Nijmegen_vs_Bodo_Glimt___CH_2" tvg-name="NEC Nijmegen vs Bodo Glimt - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",NEC Nijmegen vs Bodo Glimt - CH 2 [4:00 PM ET]
-https://live.666666.zip/live/4608845.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="H_Beer_Sheva_vs_Sabah_Baku___CH_1" tvg-name="H Beer Sheva vs Sabah Baku - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",H Beer Sheva vs Sabah Baku - CH 1 [4:00 PM ET]
-http://193.47.62.43/hls/RVRVRV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="H_Beer_Sheva_vs_Sabah_Baku___CH_2" tvg-name="H Beer Sheva vs Sabah Baku - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="UEFA Champions League",H Beer Sheva vs Sabah Baku - CH 2 [4:00 PM ET]
-https://live.666666.zip/live/4608841.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:USA NWSL Women
+#EXTINF:-1 tvg-id="Racing_Louisville_W_vs_Seattle_Reign_W" tvg-name="Racing Louisville W vs Seattle Reign W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Racing Louisville W vs Seattle Reign W [7:30 PM ET]
+http://193.47.62.41/hls/OSSSAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
