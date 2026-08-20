@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 20, 2026 at 08:00 AM EST
-# Total categories: 9
-# Total events: 10
-# Working streams: 10
+#PLAYLIST: The TV App - August 20, 2026 at 10:00 AM EST
+# Total categories: 11
+# Total events: 14
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="St_Kilda_Saints_vs_Gold_Coast_Suns" tvg-name="St Kilda Saints vs Gold Coast Suns" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",St Kilda Saints vs Gold Coast Suns [6:30 AM ET]
-http://193.47.62.41/hls/DEDEDE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Armenia Premier League
 #EXTINF:-1 tvg-id="Van_vs_Syunik" tvg-name="Van vs Syunik" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",Van vs Syunik [9:00 AM ET]
@@ -23,12 +19,16 @@ http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Cycling_Tour_of_Britain" tvg-name="Cycling Tour of Britain" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling Tour of Britain [8:15 AM ET]
 http://193.47.62.190/hls/EEEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Finland Ykkosliiga
+#EXTINF:-1 tvg-id="KaPa_vs_Jippo" tvg-name="KaPa vs Jippo" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Ykkosliiga",KaPa vs Jippo [12:00 PM ET]
+http://193.47.62.41/hls/WAWAWAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Nexo_Championship" tvg-name="Golf Nexo Championship" tvg-logo="https://pbs.twimg.com/profile_images/2076748855295537152/wdI37nVJ_400x400.jpg" group-title="Golf",Golf Nexo Championship [8:30 AM ET]
 http://193.47.62.41/hls/DEDEDEAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf PGA
-#EXTINF:-1 tvg-id="Golf_PGA_Fedex_Playoffs_BMW_Championship" tvg-name="Golf PGA Fedex Playoffs BMW Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Fedex Playoffs BMW Championship [9:00 AM ET]
+#EXTINF:-1 tvg-id="Golf_PGA_Fedex_Playoffs_BMW_Championship" tvg-name="Golf PGA Fedex Playoffs BMW Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Fedex Playoffs BMW Championship [11:15 AM ET]
 http://193.47.62.41/hls/DEDEDEAAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
@@ -38,10 +38,24 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Melbourne_Storm_vs_Penrith_Panthers" tvg-name="Melbourne Storm vs Penrith Panthers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Melbourne Storm vs Penrith Panthers [6:50 AM ET]
-http://193.47.62.41/hls/DEDEDEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Romania Copa
+#EXTINF:-1 tvg-id="Steaua_Bucuresti_vs_Csikszereda_M_Ciuc" tvg-name="Steaua Bucuresti vs Csikszereda M Ciuc" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Copa",Steaua Bucuresti vs Csikszereda M Ciuc [11:00 AM ET]
+http://193.47.62.41/hls/WAWAWAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Selimbar_vs_FC_Botosani" tvg-name="Selimbar vs FC Botosani" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Copa",Selimbar vs FC Botosani [11:30 AM ET]
+http://193.47.62.41/hls/WAWAWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Ligi Kuu Bara
 #EXTINF:-1 tvg-id="Polisi_Tanzania_vs_JKT_Tanzania" tvg-name="Polisi Tanzania vs JKT Tanzania" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Polisi Tanzania vs JKT Tanzania [10:00 AM ET]
 http://193.47.62.44/hls/DEDEDEAAAAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:UEFA Europa League
+#EXTINF:-1 tvg-id="Kairat_Almaty_vs_RSC_Anderlecht" tvg-name="Kairat Almaty vs RSC Anderlecht" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Kairat Almaty vs RSC Anderlecht [12:00 PM ET]
+http://193.47.62.44/hls/WAWAWAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Uzbekistan Super League
+#EXTINF:-1 tvg-id="Bunyodkor_vs_Kokand_1912" tvg-name="Bunyodkor vs Kokand 1912" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Bunyodkor vs Kokand 1912 [11:00 AM ET]
+http://193.47.62.41/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Xorazm_Urganch_vs_Lokomotiv_Tashkent" tvg-name="Xorazm Urganch vs Lokomotiv Tashkent" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Xorazm Urganch vs Lokomotiv Tashkent [12:00 PM ET]
+http://193.47.62.41/hls/WAWAWAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
