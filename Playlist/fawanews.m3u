@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 20, 2026 at 06:00 AM EST
+#PLAYLIST: The TV App - August 20, 2026 at 08:00 AM EST
 # Total categories: 9
 # Total events: 10
 # Working streams: 10
@@ -19,6 +19,10 @@ http://193.47.62.41/hls/DEDEDEAAAA.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="England_vs_Pakistan" tvg-name="England vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Pakistan [7:00 AM ET]
 http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Tour_of_Britain" tvg-name="Cycling Tour of Britain" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling Tour of Britain [8:15 AM ET]
+http://193.47.62.190/hls/EEEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Nexo_Championship" tvg-name="Golf Nexo Championship" tvg-logo="https://pbs.twimg.com/profile_images/2076748855295537152/wdI37nVJ_400x400.jpg" group-title="Golf",Golf Nexo Championship [8:30 AM ET]
 http://193.47.62.41/hls/DEDEDEAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -37,10 +41,6 @@ http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Melbourne_Storm_vs_Penrith_Panthers" tvg-name="Melbourne Storm vs Penrith Panthers" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Melbourne Storm vs Penrith Panthers [6:50 AM ET]
 http://193.47.62.41/hls/DEDEDEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Rugby NZ NPC
-#EXTINF:-1 tvg-id="Canterbury_vs_Northland" tvg-name="Canterbury vs Northland" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Canterbury vs Northland [4:10 AM ET]
-http://193.47.62.59/hls/ZVVVAAAaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tanzania Ligi Kuu Bara
 #EXTINF:-1 tvg-id="Polisi_Tanzania_vs_JKT_Tanzania" tvg-name="Polisi Tanzania vs JKT Tanzania" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Polisi Tanzania vs JKT Tanzania [10:00 AM ET]
