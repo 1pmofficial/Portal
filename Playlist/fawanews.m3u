@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 23, 2026 at 02:00 AM EST
-# Total categories: 14
-# Total events: 23
-# Working streams: 23
+#PLAYLIST: The TV App - August 23, 2026 at 04:00 AM EST
+# Total categories: 11
+# Total events: 20
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -13,10 +13,6 @@ http://193.47.62.41/hls/ARRRV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Sydney_Swans_vs_North_Melbourne" tvg-name="Sydney Swans vs North Melbourne" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Sydney Swans vs North Melbourne [2:10 AM ET]
 http://193.47.62.41/hls/ARRRV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Boxing___Rolando_Romero_vs_Teofimo_Lopez" tvg-name="Boxing : Rolando Romero vs Teofimo Lopez" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Rolando Romero vs Teofimo Lopez [TBD]
-http://193.47.62.59/hls/EIIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Colombia Primera A
 #EXTINF:-1 tvg-id="Ind_Medellin_vs_Cucuta" tvg-name="Ind Medellin vs Cucuta" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Ind Medellin vs Cucuta [10:15 PM ET]
@@ -44,26 +40,18 @@ http://193.47.62.55/hls/eddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Vancouver_Whitecaps_vs_FC_Dallas" tvg-name="Vancouver Whitecaps vs FC Dallas" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Vancouver Whitecaps vs FC Dallas [10:30 PM ET]
 http://193.47.62.55/hls/edddaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="San_Jose_Earthquakes_vs_Minnesota_United" tvg-name="San Jose Earthquakes vs Minnesota United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Jose Earthquakes vs Minnesota United [11:30 PM ET]
-http://193.47.62.55/hls/edddaAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="San_Diego_FC_vs_Colorado_Rapids" tvg-name="San Diego FC vs Colorado Rapids" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Diego FC vs Colorado Rapids [11:30 PM ET]
 http://193.47.62.55/hls/edddaAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_Earthquakes_vs_Minnesota_United" tvg-name="San Jose Earthquakes vs Minnesota United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Jose Earthquakes vs Minnesota United [11:30 PM ET]
+http://193.47.62.55/hls/edddaAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Los_Angeles_FC_vs_Portland_Timbers" tvg-name="Los Angeles FC vs Portland Timbers" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Los Angeles FC vs Portland Timbers [11:30 PM ET]
 http://193.47.62.55/hls/edddaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:MMA Fighting --:--
-#EXTINF:-1 tvg-id="MMA_PFL___Cyborg_vs_Vieira" tvg-name="MMA PFL : Cyborg vs Vieira" tvg-logo="https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg" group-title="MMA Fighting --:--",MMA PFL : Cyborg vs Vieira [TBD]
-http://193.47.62.41/hls/viviviaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Mexico Liga MX
 #EXTINF:-1 tvg-id="Cruz_Azul_vs_Atlas" tvg-name="Cruz Azul vs Atlas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Atlas [12:00 AM ET]
 http://193.47.62.55/hls/edddaAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Arizona_Cardinals_vs_Dallas_Cowboys" tvg-name="Arizona Cardinals vs Dallas Cowboys" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Arizona Cardinals vs Dallas Cowboys [11:00 PM ET]
-http://193.47.62.50/hls/edddaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Gold_Coast_Titans_vs_Cronulla_Sharks" tvg-name="Gold Coast Titans vs Cronulla Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Gold Coast Titans vs Cronulla Sharks [1:00 AM ET]
