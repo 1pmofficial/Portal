@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 23, 2026 at 06:00 PM EST
-# Total categories: 22
-# Total events: 48
-# Working streams: 48
+#PLAYLIST: The TV App - August 23, 2026 at 08:00 PM EST
+# Total categories: 24
+# Total events: 51
+# Working streams: 51
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -41,6 +41,10 @@ http://193.47.62.41/hls/lrrrDD.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Criciuma_vs_Fortaleza" tvg-name="Criciuma vs Fortaleza" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Criciuma vs Fortaleza [6:30 PM ET]
 http://193.47.62.41/hls/lrrrDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:CFL Canadaian Football
+#EXTINF:-1 tvg-id="BC_Lions_vs_Saskatchewan_Roughriders" tvg-name="BC Lions vs Saskatchewan Roughriders" tvg-logo="https://pbs.twimg.com/profile_images/2091663326757478400/PKXoDBhn_400x400.jpg" group-title="CFL Canadaian Football",BC Lions vs Saskatchewan Roughriders [8:00 PM ET]
+http://193.47.62.59/hls/DUUUUa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Canada Premier League
 #EXTINF:-1 tvg-id="Inter_Toronto_vs_Supra_du_Quebec" tvg-name="Inter Toronto vs Supra du Quebec" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",Inter Toronto vs Supra du Quebec [5:00 PM ET]
 http://193.47.62.41/hls/seeeeqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -54,7 +58,7 @@ http://193.47.62.44/hls/ZEZEZEaAAAA.m3u8|referer=http://www.fawanews.sc/|user-ag
 http://193.47.62.44/hls/RRRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Junior_vs_Once_Caldas" tvg-name="Junior vs Once Caldas" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Junior vs Once Caldas [10:15 PM ET]
-http://193.47.62.44/hls/RRRRRQAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.44/hls/RRRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dep_Pasto_vs_Llaneros" tvg-name="Dep Pasto vs Llaneros" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Dep Pasto vs Llaneros [6:05 PM ET]
 http://193.47.62.41/hls/VV666AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -100,11 +104,11 @@ http://193.47.62.41/hls/JJJAAAqQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Seattle_Mariners_vs_Chicago_Cubs" tvg-name="Seattle Mariners vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Seattle Mariners vs Chicago Cubs [5:10 PM ET]
 http://193.47.62.41/hls/seeeeqqqQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Los_Angeles_Dodgers_vs_Pittsburgh_Pirates" tvg-name="Los Angeles Dodgers vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Dodgers vs Pittsburgh Pirates [5:10 PM ET]
-http://193.47.62.41/hls/seeeeqqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="San_Diego_Padres_vs_Minnesota_Twins" tvg-name="San Diego Padres vs Minnesota Twins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Diego Padres vs Minnesota Twins [5:10 PM ET]
 http://193.47.62.41/hls/seeeeqqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Dodgers_vs_Pittsburgh_Pirates" tvg-name="Los Angeles Dodgers vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Dodgers vs Pittsburgh Pirates [5:10 PM ET]
+http://193.47.62.41/hls/seeeeqqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Arizona_Diamondbacks_vs_Cincinnati_Reds" tvg-name="Arizona Diamondbacks vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Arizona Diamondbacks vs Cincinnati Reds [5:15 PM ET]
 http://193.47.62.41/hls/seeeeqqqQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -142,7 +146,14 @@ http://193.47.62.44/hls/NN666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Tenerife_vs_Almeria" tvg-name="Tenerife vs Almeria" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Tenerife vs Almeria [4:30 PM ET]
 http://193.47.62.41/hls/JJJAAAqQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:TNA Wrestling
+#EXTINF:-1 tvg-id="TNA_Lockdown" tvg-name="TNA Lockdown" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="TNA Wrestling",TNA Lockdown [7:00 PM ET]
+http://193.47.62.41/hls/A777.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Tennis Masters
+#EXTINF:-1 tvg-id="Tennis_WTA_Cincinati" tvg-name="Tennis WTA Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis WTA Cincinati [8:30 PM ET]
+http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Tennis_ATP_Cincinati" tvg-name="Tennis ATP Cincinati" tvg-logo="https://pbs.twimg.com/profile_images/1744351891847303168/kkupwhya_400x400.jpg" group-title="Tennis Masters",Tennis ATP Cincinati [5:30 PM ET]
 http://193.47.62.190/hls/zazaza.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
