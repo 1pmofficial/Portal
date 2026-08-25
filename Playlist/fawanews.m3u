@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 25, 2026 at 06:00 AM EST
-# Total categories: 8
-# Total events: 13
-# Working streams: 13
+#PLAYLIST: The TV App - August 25, 2026 at 08:00 AM EST
+# Total categories: 7
+# Total events: 12
+# Working streams: 12
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:Cricket
-#EXTINF:-1 tvg-id="Sri_Lanka_vs_India" tvg-name="Sri Lanka vs India" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Sri Lanka vs India [1:00 AM ET]
-http://193.47.62.44/hls/ZEZEZE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cycling
 #EXTINF:-1 tvg-id="Cycling_La_Vuelta" tvg-name="Cycling La Vuelta" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling La Vuelta [9:30 AM ET]
@@ -27,15 +23,15 @@ http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.41/hls/apppQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_Wuhan_Open" tvg-name="Snooker Wuhan Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Wuhan Open [3:00 AM ET]
+#EXTINF:-1 tvg-id="Snooker_Wuhan_Open" tvg-name="Snooker Wuhan Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Wuhan Open [8:30 AM ET]
 http://193.47.62.47/hls/vivivi.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Seoul_vs_Bucheon_FC_1995" tvg-name="Seoul vs Bucheon FC 1995" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Bucheon FC 1995 [7:30 AM ET]
-http://193.47.62.41/hls/apppQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Jeju_SK_vs_Pohang" tvg-name="Jeju SK vs Pohang" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeju SK vs Pohang [7:30 AM ET]
 http://193.47.62.41/hls/apppQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Seoul_vs_Bucheon_FC_1995" tvg-name="Seoul vs Bucheon FC 1995" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Bucheon FC 1995 [7:30 AM ET]
+http://193.47.62.41/hls/apppQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Gimcheon_Sangmu_vs_Jeonbuk" tvg-name="Gimcheon Sangmu vs Jeonbuk" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gimcheon Sangmu vs Jeonbuk [7:30 AM ET]
 http://193.47.62.41/hls/appp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
