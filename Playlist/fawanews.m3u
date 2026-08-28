@@ -1,17 +1,14 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 27, 2026 at 08:00 PM EST
-# Total categories: 15
-# Total events: 29
-# Working streams: 29
+#PLAYLIST: The TV App - August 27, 2026 at 10:00 PM EST
+# Total categories: 17
+# Total events: 32
+# Working streams: 32
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:Argentina Copa
 #EXTINF:-1 tvg-id="Platense_vs_Instituto" tvg-name="Platense vs Instituto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Copa",Platense vs Instituto [9:15 PM ET]
-http://193.47.62.58/hls/TTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Estudiantes_LP_vs_Barracas_Central" tvg-name="Estudiantes LP vs Barracas Central" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Copa",Estudiantes LP vs Barracas Central [7:00 PM ET]
 http://193.47.62.58/hls/TTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball EuroBasket Qualification
@@ -22,20 +19,17 @@ http://193.47.62.44/hls/SDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.44/hls/SYYYQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball World Cup Qualification
-#EXTINF:-1 tvg-id="Chile_vs_USA" tvg-name="Chile vs USA" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Chile vs USA [8:10 PM ET]
-http://193.47.62.44/hls/SDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Uruguay_vs_Bahamas" tvg-name="Uruguay vs Bahamas" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Uruguay vs Bahamas [8:10 PM ET]
 http://193.47.62.44/hls/SDDDQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chile_vs_USA" tvg-name="Chile vs USA" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Chile vs USA [8:10 PM ET]
+http://193.47.62.44/hls/SDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Panama_vs_Canada" tvg-name="Panama vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Panama vs Canada [10:40 PM ET]
 http://193.47.62.41/hls/SYYYQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Iran_vs_New_Zealand" tvg-name="Iran vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Iran vs New Zealand [3:00 AM ET]
 http://193.47.62.41/hls/RYYYQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Argentina_vs_Puerto_Rico" tvg-name="Argentina vs Puerto Rico" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Argentina vs Puerto Rico [7:10 PM ET]
-http://193.47.62.59/hls/VVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Bolivia Division Profesional
 #EXTINF:-1 tvg-id="Bolivar_vs_Academia_del_Balompie" tvg-name="Bolivar vs Academia del Balompie" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Bolivar vs Academia del Balompie [9:30 PM ET]
@@ -82,13 +76,30 @@ http://193.47.62.44/hls/SDDDQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="San_Francisco_Giants_vs_Arizona_Diamondbacks" tvg-name="San Francisco Giants vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs Arizona Diamondbacks [10:45 PM ET]
 http://193.47.62.41/hls/SYYYQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Paraguay Primera Division
-#EXTINF:-1 tvg-id="Resistencia_vs_Cerro_Porteno" tvg-name="Resistencia vs Cerro Porteno" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Primera Division",Resistencia vs Cerro Porteno [6:30 PM ET]
-http://193.47.62.58/hls/ZRRRQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:NFL American Football
+#EXTINF:-1 tvg-id="Buffalo_Bills_vs_Pittsburgh_Steelers" tvg-name="Buffalo Bills vs Pittsburgh Steelers" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Buffalo Bills vs Pittsburgh Steelers [8:00 PM ET]
+http://193.47.62.55/hls/SSSS.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Las_Vegas_Raiders_vs_San_Francisco_49ers" tvg-name="Las Vegas Raiders vs San Francisco 49ers" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Las Vegas Raiders vs San Francisco 49ers [9:00 PM ET]
+http://193.47.62.55/hls/SSSSQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cleveland_Browns_vs_New_England_Patriots" tvg-name="Cleveland Browns vs New England Patriots" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Cleveland Browns vs New England Patriots [9:00 PM ET]
+http://193.47.62.55/hls/SSSSQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Chargers_vs_Los_Angeles_Rams" tvg-name="Los Angeles Chargers vs Los Angeles Rams" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Chargers vs Los Angeles Rams [11:00 PM ET]
+http://193.47.62.55/hls/SSSSQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Auckland_vs_Bay_of_Plenty" tvg-name="Auckland vs Bay of Plenty" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Auckland vs Bay of Plenty [4:10 AM ET]
 http://193.47.62.41/hls/RYYYQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_Wuhan_Open" tvg-name="Snooker Wuhan Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Wuhan Open [3:00 AM ET]
+http://193.47.62.47/hls/vivivi.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:TNA Wrestling
+#EXTINF:-1 tvg-id="TNA_Impact" tvg-name="TNA Impact" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="TNA Wrestling",TNA Impact [10:00 PM ET]
+http://193.47.62.55/hls/ZCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis
 #EXTINF:-1 tvg-id="Tennis_US_Open" tvg-name="Tennis US Open" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis",Tennis US Open [12:00 PM ET]
