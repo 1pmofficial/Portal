@@ -1,25 +1,35 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 31, 2026 at 08:00 AM EST
-# Total categories: 3
-# Total events: 6
-# Working streams: 6
+#PLAYLIST: The TV App - August 31, 2026 at 10:00 AM EST
+# Total categories: 13
+# Total events: 14
+# Working streams: 14
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Albania Liga
+#EXTINF:-1 tvg-id="Vora_vs_Egnatia" tvg-name="Vora vs Egnatia" tvg-logo="https://pbs.twimg.com/profile_images/1344565493760405505/lwOj0nC4_400x400.jpg" group-title="Albania Liga",Vora vs Egnatia [11:00 AM ET]
+http://193.47.62.41/hls/ciii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Armenia Premier League
 #EXTINF:-1 tvg-id="Sardarapat_vs_Syunik" tvg-name="Sardarapat vs Syunik" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg" group-title="Armenia Premier League",Sardarapat vs Syunik [9:00 AM ET]
 http://193.47.62.41/hls/VFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Basketball World Cup Qualification
-#EXTINF:-1 tvg-id="South_Korea_vs_Saudi_Arabia" tvg-name="South Korea vs Saudi Arabia" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",South Korea vs Saudi Arabia [7:00 AM ET]
-http://193.47.62.41/hls/VFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Azerbaijan Premier League
+#EXTINF:-1 tvg-id="Araz_vs_Sabah_Baku" tvg-name="Araz vs Sabah Baku" tvg-logo="https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg" group-title="Azerbaijan Premier League",Araz vs Sabah Baku [11:00 AM ET]
+http://193.47.62.41/hls/ciiiq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Japan_vs_Qatar" tvg-name="Japan vs Qatar" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Japan vs Qatar [7:10 AM ET]
-http://193.47.62.41/hls/VFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Egypt Premier League
+#EXTINF:-1 tvg-id="Asyut_Petroleum_vs_National_Bank_Egypt" tvg-name="Asyut Petroleum vs National Bank Egypt" tvg-logo="https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg" group-title="Egypt Premier League",Asyut Petroleum vs National Bank Egypt [11:00 AM ET]
+http://193.47.62.41/hls/ciiiqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="China_vs_Lebanon" tvg-name="China vs Lebanon" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",China vs Lebanon [8:30 AM ET]
-http://193.47.62.41/hls/VFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:English National League
+#EXTINF:-1 tvg-id="Woking_vs_Southend" tvg-name="Woking vs Southend" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png" group-title="English National League",Woking vs Southend [11:00 AM ET]
+http://193.47.62.41/hls/ciiiqqqqqA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:English Premier League U21
+#EXTINF:-1 tvg-id="Manchester_Utd_U21_vs_Leicester_U21" tvg-name="Manchester Utd U21 vs Leicester U21" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League U21",Manchester Utd U21 vs Leicester U21 [10:00 AM ET]
+http://193.47.62.41/hls/CCCZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -27,3 +37,27 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Kazakhstan Premier League
+#EXTINF:-1 tvg-id="Yelimay_Semey_vs_Kairat_Almaty" tvg-name="Yelimay Semey vs Kairat Almaty" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="Kazakhstan Premier League",Yelimay Semey vs Kairat Almaty [11:00 AM ET]
+http://193.47.62.41/hls/ciiiqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Latvia Virsliga
+#EXTINF:-1 tvg-id="FK_Liepaja_vs_Riga_FC" tvg-name="FK Liepaja vs Riga FC" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",FK Liepaja vs Riga FC [11:30 AM ET]
+http://193.47.62.41/hls/ciiiqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Romania Liga 2
+#EXTINF:-1 tvg-id="FC_Bacau_vs_CSM_Slatina" tvg-name="FC Bacau vs CSM Slatina" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Liga 2",FC Bacau vs CSM Slatina [11:30 AM ET]
+http://193.47.62.41/hls/ciiiqqqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_British_Open" tvg-name="Snooker British Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open [9:00 AM ET]
+http://193.47.62.41/hls/CCCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Superbikes
+#EXTINF:-1 tvg-id="British_Superbikes" tvg-name="British Superbikes" tvg-logo="https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg" group-title="Superbikes",British Superbikes [9:00 AM ET]
+http://193.47.62.41/hls/gggg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tanzania Ligi Kuu Bara
+#EXTINF:-1 tvg-id="Fountain_Gate_vs_Young_Africans" tvg-name="Fountain Gate vs Young Africans" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Fountain Gate vs Young Africans [10:00 AM ET]
+http://193.47.62.44/hls/AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
