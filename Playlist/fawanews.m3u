@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - August 31, 2026 at 04:00 PM EST
-# Total categories: 22
-# Total events: 53
-# Working streams: 53
+#PLAYLIST: The TV App - August 31, 2026 at 06:00 PM EST
+# Total categories: 17
+# Total events: 43
+# Working streams: 43
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,13 +11,14 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="Skenderbeu_vs_Dinamo_City" tvg-name="Skenderbeu vs Dinamo City" tvg-logo="https://pbs.twimg.com/profile_images/1344565493760405505/lwOj0nC4_400x400.jpg" group-title="Albania Liga",Skenderbeu vs Dinamo City [4:00 PM ET]
 http://193.47.62.41/hls/K555QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Argentina Liga Profesional
+#EXTINF:-1 tvg-id="Estudiantes_LP_vs_Newells_Old_Boys" tvg-name="Estudiantes LP vs Newells Old Boys" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Estudiantes LP vs Newells Old Boys [7:00 PM ET]
+http://193.47.62.47/hls/PPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Defensa_y_Justicia_vs_Platense" tvg-name="Defensa y Justicia vs Platense" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Defensa y Justicia vs Platense [7:00 PM ET]
+http://193.47.62.47/hls/PPPP.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball World Cup Qualification
-#EXTINF:-1 tvg-id="Italy_vs_Serbia" tvg-name="Italy vs Serbia" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Italy vs Serbia [2:30 PM ET]
-http://193.47.62.41/hls/A666QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Portugal_vs_Georgia" tvg-name="Portugal vs Georgia" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Portugal vs Georgia [3:00 PM ET]
-http://193.47.62.41/hls/I111QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Montenegro_vs_Ukraine" tvg-name="Montenegro vs Ukraine" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball World Cup Qualification",Montenegro vs Ukraine [3:30 PM ET]
 http://193.47.62.41/hls/I111QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -28,43 +29,33 @@ http://193.47.62.41/hls/P999QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="SA_Bulo_Bulo_vs_Guabira" tvg-name="SA Bulo Bulo vs Guabira" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",SA Bulo Bulo vs Guabira [4:00 PM ET]
 http://193.47.62.41/hls/K555QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Bulgaria efbet League
-#EXTINF:-1 tvg-id="Arda_vs_Botev_Vratsa" tvg-name="Arda vs Botev Vratsa" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Arda vs Botev Vratsa [3:15 PM ET]
-http://193.47.62.41/hls/I111QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Fortaleza_vs_Operario_PR" tvg-name="Fortaleza vs Operario-PR" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Fortaleza vs Operario-PR [7:30 PM ET]
+http://193.47.62.47/hls/PPPPAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Chile Liga de Primera
+#EXTINF:-1 tvg-id="Union_La_Calera_vs_La_Serena" tvg-name="Union La Calera vs La Serena" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Liga de Primera",Union La Calera vs La Serena [7:15 PM ET]
+http://193.47.62.47/hls/PPPPAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Croatia 1 HNL
 #EXTINF:-1 tvg-id="Gorica_vs_Rijeka" tvg-name="Gorica vs Rijeka" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/Championnat_de_Croatie_de_football_-_Logo.png" group-title="Croatia 1 HNL",Gorica vs Rijeka [4:00 PM ET]
 http://193.47.62.41/hls/P999.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Dutch Eerste Divisie
-#EXTINF:-1 tvg-id="Jong_AZ_vs_Jong_Utrecht" tvg-name="Jong AZ vs Jong Utrecht" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Jong AZ vs Jong Utrecht [3:00 PM ET]
-http://193.47.62.41/hls/I111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Jong_PSV_vs_Jong_Ajax" tvg-name="Jong PSV vs Jong Ajax" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Jong PSV vs Jong Ajax [3:00 PM ET]
-http://193.47.62.41/hls/I111Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:English Premier League
 #EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___ENG_1" tvg-name="Aston Villa vs Arsenal - ENG 1" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - ENG 1 [4:00 PM ET]
 http://193.47.62.47/hls/P333XQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___ENG_for_UK" tvg-name="Aston Villa vs Arsenal - ENG for UK" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - ENG for UK [4:00 PM ET]
-http://217.156.122.221/Bpjn58eSBA/J4CnSKrQ3B/11.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___CH_HD" tvg-name="Aston Villa vs Arsenal - CH HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - CH HD [4:00 PM ET]
+#EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___CH_UK" tvg-name="Aston Villa vs Arsenal - CH UK" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - CH UK [4:00 PM ET]
 https://www.rtmpcdn.com/live/8cfbd751-41e0-45da-9696-28a0040670ca.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___CN_HD" tvg-name="Aston Villa vs Arsenal - CN HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - CN HD [4:00 PM ET]
 https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___ENG_HD" tvg-name="Aston Villa vs Arsenal - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - ENG HD [4:00 PM ET]
-https://live.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_1080p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___ENG_2" tvg-name="Aston Villa vs Arsenal - ENG 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - ENG 2 [4:00 PM ET]
 https://live.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Faroe Islands Premier League
-#EXTINF:-1 tvg-id="Klaksvik_vs_Streymur" tvg-name="Klaksvik vs Streymur" tvg-logo="https://pbs.twimg.com/profile_images/378800000810341478/69360847336070840a7525743d09d4c7_400x400.png" group-title="Faroe Islands Premier League",Klaksvik vs Streymur [2:30 PM ET]
-http://193.47.62.41/hls/A666Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Aston_Villa_vs_Arsenal___ENG_HD" tvg-name="Aston Villa vs Arsenal - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Aston Villa vs Arsenal - ENG HD [4:00 PM ET]
+https://live.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_1080p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:France Ligue 2
 #EXTINF:-1 tvg-id="Dijon_vs_St_Etienne" tvg-name="Dijon vs St Etienne" tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="France Ligue 2",Dijon vs St Etienne [3:45 PM ET]
@@ -74,56 +65,42 @@ http://193.47.62.41/hls/K555QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Breidablik_vs_Stjarnan" tvg-name="Breidablik vs Stjarnan" tvg-logo="https://pbs.twimg.com/profile_images/1228319371967291393/uoMucE2T_400x400.jpg" group-title="Iceland League",Breidablik vs Stjarnan [4:15 PM ET]
 http://193.47.62.41/hls/P999Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Israel Ligat ha'Al
-#EXTINF:-1 tvg-id="Maccabi_Tel_Aviv_vs_Maccabi_Haifa" tvg-name="Maccabi Tel Aviv vs Maccabi Haifa" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="Israel Ligat ha'Al",Maccabi Tel Aviv vs Maccabi Haifa [2:30 PM ET]
-http://193.47.62.41/hls/A666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Italy Serie A
 #EXTINF:-1 tvg-id="Atalanta_vs_Bologna___CH_1" tvg-name="Atalanta vs Bologna - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Atalanta vs Bologna - CH 1 [3:45 PM ET]
 http://193.47.62.41/hls/K555QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Atalanta_vs_Bologna___CH_2" tvg-name="Atalanta vs Bologna - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Atalanta vs Bologna - CH 2 [3:45 PM ET]
-https://live.ftlcbx.com/live/71945206_77902c2f510949031eda4fa93392262c_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Atalanta_vs_Bologna___CH_HD" tvg-name="Atalanta vs Bologna - CH HD" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Atalanta vs Bologna - CH HD [3:45 PM ET]
 https://www.rtmpcdn.com/live/ff3581ac-4091-46c7-aee9-5c76b008a8a8.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Atalanta_vs_Bologna___CH_2" tvg-name="Atalanta vs Bologna - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Atalanta vs Bologna - CH 2 [3:45 PM ET]
+https://live.ftlcbx.com/live/71945206_77902c2f510949031eda4fa93392262c_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Portugal Primeira Liga
-#EXTINF:-1 tvg-id="Benfica_vs_Estoril___CH_1" tvg-name="Benfica vs Estoril - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Benfica vs Estoril - CH 1 [4:15 PM ET]
-http://193.47.62.41/hls/P999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Sporting_Braga_vs_Vitoria_Guimaraes___CH_1" tvg-name="Sporting Braga vs Vitoria Guimaraes - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Sporting Braga vs Vitoria Guimaraes - CH 1 [4:15 PM ET]
+http://193.47.62.41/hls/P999QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Sporting_Braga_vs_Vitoria_Guimaraes___CH_2" tvg-name="Sporting Braga vs Vitoria Guimaraes - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Sporting Braga vs Vitoria Guimaraes - CH 2 [4:15 PM ET]
 https://live.ftlcbx.com/live/72530880_c1c135552e6a2e7d2202781125ad7e85_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Sporting_Braga_vs_Vitoria_Guimaraes___CH_1" tvg-name="Sporting Braga vs Vitoria Guimaraes - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Sporting Braga vs Vitoria Guimaraes - CH 1 [4:15 PM ET]
-http://193.47.62.41/hls/P999QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Benfica_vs_Estoril___CH_1" tvg-name="Benfica vs Estoril - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Benfica vs Estoril - CH 1 [4:15 PM ET]
+http://193.47.62.41/hls/P999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Benfica_vs_Estoril___CH_2" tvg-name="Benfica vs Estoril - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Benfica vs Estoril - CH 2 [4:15 PM ET]
 https://live1.ftlcbx.com/live/72530890_11272c133606e83eb9fcd6dbe96148e5_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Romania Superliga
-#EXTINF:-1 tvg-id="FC_Rapid_Bucuresti_vs_Univ_Craiova" tvg-name="FC Rapid Bucuresti vs Univ Craiova" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Superliga",FC Rapid Bucuresti vs Univ Craiova [2:30 PM ET]
-http://193.47.62.41/hls/A666QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_British_Open" tvg-name="Snooker British Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open [3:00 PM ET]
 http://193.47.62.41/hls/CCCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish La Liga
-#EXTINF:-1 tvg-id="Osasuna_vs_Getafe___CH_1" tvg-name="Osasuna vs Getafe - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",Osasuna vs Getafe - CH 1 [2:30 PM ET]
-http://193.47.62.41/hls/A666QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Osasuna_vs_Getafe___CH_2" tvg-name="Osasuna vs Getafe - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",Osasuna vs Getafe - CH 2 [2:30 PM ET]
-https://live1.ftlcbx.com/live/72478516_9fa283e3f528ee99354bac0559d8c597_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="FC_Barcelona_vs_Rayo_Vallecano___ENG_2" tvg-name="FC Barcelona vs Rayo Vallecano - ENG 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",FC Barcelona vs Rayo Vallecano - ENG 2 [4:30 PM ET]
-https://live.ftlcbx.com/live/m2q15iz35jdfe76_8f02eae44aa45ff3b70870e5108ec998_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="FC_Barcelona_vs_Rayo_Vallecano___CH_1" tvg-name="FC Barcelona vs Rayo Vallecano - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",FC Barcelona vs Rayo Vallecano - CH 1 [4:30 PM ET]
 http://193.47.62.47/hls/P333A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="FC_Barcelona_vs_Rayo_Vallecano___CH_HD" tvg-name="FC Barcelona vs Rayo Vallecano - CH HD" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",FC Barcelona vs Rayo Vallecano - CH HD [4:30 PM ET]
 https://www.rtmpcdn.com/live/fe39c4ec-ea55-450b-81b6-71fd4b6803b2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FC_Barcelona_vs_Rayo_Vallecano___ENG_2" tvg-name="FC Barcelona vs Rayo Vallecano - ENG 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",FC Barcelona vs Rayo Vallecano - ENG 2 [4:30 PM ET]
+https://live.ftlcbx.com/live/m2q15iz35jdfe76_8f02eae44aa45ff3b70870e5108ec998_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="FC_Barcelona_vs_Rayo_Vallecano___ENG_HD" tvg-name="FC Barcelona vs Rayo Vallecano - ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg" group-title="Spanish La Liga",FC Barcelona vs Rayo Vallecano - ENG HD [4:30 PM ET]
 https://live.ftlcbx.com/live/m2q15iz35jdfe76_8f02eae44aa45ff3b70870e5108ec998_1080p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -132,38 +109,30 @@ https://live.ftlcbx.com/live/m2q15iz35jdfe76_8f02eae44aa45ff3b70870e5108ec998_10
 #EXTINF:-1 tvg-id="Celta_Vigo_B_vs_Castellon" tvg-name="Celta Vigo B vs Castellon" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Celta Vigo B vs Castellon [4:30 PM ET]
 http://193.47.62.41/hls/P999QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Switzerland Challenge League
-#EXTINF:-1 tvg-id="Wil_vs_Aarau" tvg-name="Wil vs Aarau" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png" group-title="Switzerland Challenge League",Wil vs Aarau [3:15 PM ET]
-http://193.47.62.41/hls/I111QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tanzania Ligi Kuu Bara
-#EXTINF:-1 tvg-id="Kagera_Sugar_vs_Azam" tvg-name="Kagera Sugar vs Azam" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Kagera Sugar vs Azam [3:00 PM ET]
-http://193.47.62.44/hls/AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Tennis --:--
-#EXTINF:-1 tvg-id="Tennis_US_Open___CH_2" tvg-name="Tennis US Open - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 2 [TBD]
-http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_1" tvg-name="Tennis US Open - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 1 [TBD]
 http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_3" tvg-name="Tennis US Open - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 3 [TBD]
 http://193.47.62.41/hls/FHHHQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_US_Open___CH_5" tvg-name="Tennis US Open - CH 5" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 5 [TBD]
-http://193.47.62.41/hls/FHHHQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_US_Open___CH_4" tvg-name="Tennis US Open - CH 4" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 4 [TBD]
-http://193.47.62.41/hls/FHHHQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_2" tvg-name="Tennis US Open - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 2 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_6" tvg-name="Tennis US Open - CH 6" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 6 [TBD]
 http://193.47.62.41/hls/FHHHQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_US_Open___CH_7" tvg-name="Tennis US Open - CH 7" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 7 [TBD]
-http://193.47.62.41/hls/FHHHQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_4" tvg-name="Tennis US Open - CH 4" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 4 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_5" tvg-name="Tennis US Open - CH 5" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 5 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_8" tvg-name="Tennis US Open - CH 8" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 8 [TBD]
 http://193.47.62.41/hls/FHHHQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_7" tvg-name="Tennis US Open - CH 7" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 7 [TBD]
+http://193.47.62.41/hls/FHHHQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_9" tvg-name="Tennis US Open - CH 9" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 9 [TBD]
 http://193.47.62.41/hls/FHHHQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -183,7 +152,3 @@ https://live1.ftlcbx.com/live/72723174_7cc5a4fd80375266b5f4c1de9fb061e1_540p.m3u
 
 #EXTINF:-1 tvg-id="Amedspor_vs_Trabzonspor___CH_2" tvg-name="Amedspor vs Trabzonspor - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="Turkey Super Lig",Amedspor vs Trabzonspor - CH 2 [3:30 PM ET]
 https://live2.ftlcbx.com/live/72723166_0b897680d74fd15cac260a18169583a1_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Ukraine Premier League
-#EXTINF:-1 tvg-id="Bukovyna_vs_Dynamo_Kyiv" tvg-name="Bukovyna vs Dynamo Kyiv" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Bukovyna vs Dynamo Kyiv [12:00 PM ET]
-http://193.47.62.41/hls/UGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
