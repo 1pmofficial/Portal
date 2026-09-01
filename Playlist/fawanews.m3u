@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 01, 2026 at 08:00 AM EST
-# Total categories: 11
-# Total events: 20
-# Working streams: 18
+#PLAYLIST: The TV App - September 01, 2026 at 10:00 AM EST
+# Total categories: 19
+# Total events: 30
+# Working streams: 26
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -17,6 +17,10 @@ http://193.47.62.41/hls/RKKKaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Beijing_Guoan_vs_Lanzhou_Longyuan" tvg-name="Beijing Guoan vs Lanzhou Longyuan" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China FA Cup",Beijing Guoan vs Lanzhou Longyuan [8:35 AM ET]
 http://193.47.62.41/hls/RKKKaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Coppa Italia
+#EXTINF:-1 tvg-id="Parma_vs_Cremonese" tvg-name="Parma vs Cremonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png" group-title="Coppa Italia",Parma vs Cremonese [1:00 PM ET]
+http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="England_W_vs_Ireland_W" tvg-name="England W vs Ireland W" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England W vs Ireland W [8:30 AM ET]
 http://193.47.62.41/hls/R777Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -25,9 +29,17 @@ http://193.47.62.41/hls/R777Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Cycling_La_Vuelta" tvg-name="Cycling La Vuelta" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling La Vuelta [9:30 AM ET]
 http://193.47.62.41/hls/TNNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Denmark Cup
+#EXTINF:-1 tvg-id="Lyseng_vs_Horsens" tvg-name="Lyseng vs Horsens" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Cup",Lyseng vs Horsens [1:00 PM ET]
+http://193.47.62.41/hls/KBBBAAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Egypt Premier League
 #EXTINF:-1 tvg-id="Ghazl_El_Mahallah_vs_Enppi" tvg-name="Ghazl El Mahallah vs Enppi" tvg-logo="https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg" group-title="Egypt Premier League",Ghazl El Mahallah vs Enppi [11:00 AM ET]
 http://193.47.62.41/hls/YFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Greece Cup
+#EXTINF:-1 tvg-id="Volos_vs_Kalamata" tvg-name="Volos vs Kalamata" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Cup",Volos vs Kalamata [12:00 PM ET]
+http://193.47.62.41/hls/KBBBAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -44,9 +56,17 @@ http://193.47.62.41/hls/UFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Al_Sadd_vs_Al_Gharafa" tvg-name="Al-Sadd vs Al-Gharafa" tvg-logo="https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg" group-title="Qatar QSL Cup",Al-Sadd vs Al-Gharafa [11:00 AM ET]
 http://193.47.62.41/hls/YFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Romania Cup
+#EXTINF:-1 tvg-id="Sf_Gheorghe_vs_CFR_Cluj" tvg-name="Sf Gheorghe vs CFR Cluj" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Cup",Sf Gheorghe vs CFR Cluj [12:00 PM ET]
+http://193.47.62.41/hls/KBBBAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Russia Cup
 #EXTINF:-1 tvg-id="Akron_Togliatti_vs_Lokomotiv_Moscow" tvg-name="Akron Togliatti vs Lokomotiv Moscow" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Akron Togliatti vs Lokomotiv Moscow [10:15 AM ET]
 http://193.47.62.41/hls/UFFFQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Saudi Division 1
+#EXTINF:-1 tvg-id="Al_Jeel_vs_Jeddah" tvg-name="Al Jeel vs Jeddah" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg" group-title="Saudi Division 1",Al Jeel vs Jeddah [12:40 PM ET]
+http://193.47.62.41/hls/KBBBAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_British_Open___Table_1" tvg-name="Snooker British Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 1 [6:00 AM ET]
@@ -61,6 +81,14 @@ http://193.47.62.41/hls/EIIIA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Snooker_British_Open___Table_4" tvg-name="Snooker British Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 4 [6:00 AM ET]
 http://193.47.62.41/hls/EIIIAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Sweden Svenska Cupen
+#EXTINF:-1 tvg-id="Trelleborg_W_vs_Malmo_FF_W" tvg-name="Trelleborg W vs Malmo FF W" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Svenska Cupen",Trelleborg W vs Malmo FF W [12:30 PM ET]
+http://193.47.62.41/hls/KBBBAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tanzania Ligi Kuu Bara
+#EXTINF:-1 tvg-id="Singida_Black_Stars_vs_Namungo" tvg-name="Singida Black Stars vs Namungo" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Singida Black Stars vs Namungo [1:00 PM ET]
+http://193.47.62.44/hls/KBBBAAAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Transfers --:--
 #EXTINF:-1 tvg-id="Transfers_Deadline_Day" tvg-name="Transfers Deadline Day" tvg-logo="https://pbs.twimg.com/profile_images/1896823896801755136/fUUCU3lw_400x400.jpg" group-title="Transfers --:--",Transfers Deadline Day [TBD]
 http://193.47.62.41/hls/RKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -71,3 +99,7 @@ http://193.47.62.41/hls/UFFFQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Umraniyespor_vs_Muglaspor" tvg-name="Umraniyespor vs Muglaspor" tvg-logo="https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg" group-title="Turkey Lig 1",Umraniyespor vs Muglaspor [11:00 AM ET]
 http://193.47.62.41/hls/UFFFQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:UEFA Women CHampions League
+#EXTINF:-1 tvg-id="Austria_Vienna_W_vs_Brann_W" tvg-name="Austria Vienna W vs Brann W" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg" group-title="UEFA Women CHampions League",Austria Vienna W vs Brann W [1:00 PM ET]
+http://193.47.62.41/hls/KBBBAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
