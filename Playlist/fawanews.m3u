@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 03, 2026 at 08:00 AM EST
-# Total categories: 15
-# Total events: 20
-# Working streams: 20
+#PLAYLIST: The TV App - September 03, 2026 at 10:00 AM EST
+# Total categories: 13
+# Total events: 18
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:AFL Aussie Rules
-#EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Hawthorn_Hawks" tvg-name="Fremantle Dockers vs Hawthorn Hawks" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Hawthorn Hawks [7:10 AM ET]
-http://193.47.62.41/hls/rpppq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Belarus Vysshaya Liga
 #EXTINF:-1 tvg-id="Isloch_vs_BATE" tvg-name="Isloch vs BATE" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png" group-title="Belarus Vysshaya Liga",Isloch vs BATE [11:00 AM ET]
@@ -31,19 +27,15 @@ http://193.47.62.41/hls/TNNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.41/hls/rpppqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
-http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Lithuania Cup
 #EXTINF:-1 tvg-id="FA_Siauliai_vs_Kauno_Zalgiris" tvg-name="FA Siauliai vs Kauno Zalgiris" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Cup",FA Siauliai vs Kauno Zalgiris [11:15 AM ET]
 http://193.47.62.41/hls/ODDDQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NRL
-#EXTINF:-1 tvg-id="Canterbury_Bulldogs_vs_Brisbane_Broncos" tvg-name="Canterbury Bulldogs vs Brisbane Broncos" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Canterbury Bulldogs vs Brisbane Broncos [6:50 AM ET]
-http://193.47.62.41/hls/rppp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Poland Cup
 #EXTINF:-1 tvg-id="Avia_Swidnik_vs_Wieczysta_Krakow" tvg-name="Avia Swidnik vs Wieczysta Krakow" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg" group-title="Poland Cup",Avia Swidnik vs Wieczysta Krakow [9:30 AM ET]
@@ -64,11 +56,11 @@ http://193.47.62.41/hls/CCCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Snooker_British_Open___Table_2" tvg-name="Snooker British Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 2 [9:00 AM ET]
 http://193.47.62.41/hls/EIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Snooker_British_Open___Table_4" tvg-name="Snooker British Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 4 [9:00 AM ET]
-http://193.47.62.41/hls/EIIIAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Snooker_British_Open___Table_3" tvg-name="Snooker British Open - Table 3" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 3 [9:00 AM ET]
 http://193.47.62.41/hls/EIIIA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_British_Open___Table_4" tvg-name="Snooker British Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker British Open - Table 4 [9:00 AM ET]
+http://193.47.62.41/hls/EIIIAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Turkey Lig 1
 #EXTINF:-1 tvg-id="Igdir_FK_vs_Manisa_FK" tvg-name="Igdir FK vs Manisa FK" tvg-logo="https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg" group-title="Turkey Lig 1",Igdir FK vs Manisa FK [11:00 AM ET]
