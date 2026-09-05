@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 05, 2026 at 02:00 AM EST
-# Total categories: 9
-# Total events: 23
-# Working streams: 23
+#PLAYLIST: The TV App - September 05, 2026 at 04:00 AM EST
+# Total categories: 11
+# Total events: 25
+# Working streams: 25
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,9 +11,13 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="Sydney_Swans_vs_Brisbane_Lions" tvg-name="Sydney Swans vs Brisbane Lions" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Sydney Swans vs Brisbane Lions [2:15 AM ET]
 http://193.47.62.41/hls/KSSSTQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Boxing
-#EXTINF:-1 tvg-id="Boxing___Andy_Ruiz_vs_Damian_Knyba" tvg-name="Boxing : Andy Ruiz vs Damian Knyba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing",Boxing : Andy Ruiz vs Damian Knyba [9:00 PM ET]
-http://193.47.62.55/hls/KSSSTQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:FIA Formula 3
+#EXTINF:-1 tvg-id="FIA_Formula_3_Italy" tvg-name="FIA Formula 3 Italy" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Italy [4:30 AM ET]
+http://193.47.62.41/hls/YTTTr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Walker_Cup" tvg-name="Golf Walker Cup" tvg-logo="https://pbs.twimg.com/profile_images/2037195874594369536/fq_YB8Jj_400x400.jpg" group-title="Golf",Golf Walker Cup [4:30 AM ET]
+http://193.47.62.41/hls/GGGGX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="Colorado_Rockies_vs_St_Louis_Cardinals" tvg-name="Colorado Rockies vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs St Louis Cardinals [9:40 PM ET]
@@ -36,11 +40,11 @@ http://193.47.62.41/hls/TFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.41/hls/TFFFQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NCAA American Football
-#EXTINF:-1 tvg-id="Michigan_State_vs_Toledo" tvg-name="Michigan State vs Toledo" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Michigan State vs Toledo [9:00 PM ET]
-http://193.47.62.44/hls/HIIIFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Kansas_vs_LIU_Sharks" tvg-name="Kansas vs LIU Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Kansas vs LIU Sharks [9:00 PM ET]
 http://193.47.62.44/hls/HIIIF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Michigan_State_vs_Toledo" tvg-name="Michigan State vs Toledo" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Michigan State vs Toledo [9:00 PM ET]
+http://193.47.62.44/hls/HIIIFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="USC_vs_Fresno_State" tvg-name="USC vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",USC vs Fresno State [10:00 PM ET]
 http://193.47.62.59/hls/KIIIBQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -60,6 +64,10 @@ http://193.47.62.41/hls/KSSSTQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="NQ_Cowboys_vs_Canberra_Raiders" tvg-name="NQ Cowboys vs Canberra Raiders" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",NQ Cowboys vs Canberra Raiders [4:30 AM ET]
 http://193.47.62.41/hls/KSSST.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Rugby Friendly
+#EXTINF:-1 tvg-id="Japan_vs_Canada" tvg-name="Japan vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",Japan vs Canada [2:55 AM ET]
+http://193.47.62.41/hls/KSSSTQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Bay_of_Plenty_vs_Manawatu" tvg-name="Bay of Plenty vs Manawatu" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Bay of Plenty vs Manawatu [11:05 PM ET]
