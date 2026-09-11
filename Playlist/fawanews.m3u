@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 11, 2026 at 09:00 AM EST
-# Total categories: 25
-# Total events: 36
-# Working streams: 35
+#PLAYLIST: The TV App - September 11, 2026 at 10:00 AM EST
+# Total categories: 26
+# Total events: 37
+# Working streams: 36
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -72,6 +72,10 @@ http://193.47.62.56/hls/TTTTAAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-a
 #EXTINF:-1 tvg-id="Ogre_United_vs_FK_Liepaja" tvg-name="Ogre United vs FK Liepaja" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Ogre United vs FK Liepaja [11:00 AM ET]
 http://193.47.62.56/hls/bbbb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MMA Fighting
+#EXTINF:-1 tvg-id="MMA_ONE_Championship" tvg-name="MMA ONE Championship" tvg-logo="https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg" group-title="MMA Fighting",MMA ONE Championship [10:30 AM ET]
+http://193.47.62.43/hls/GRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Malaysia Super League
 #EXTINF:-1 tvg-id="Johor_DT_vs_Negeri_Sembilan" tvg-name="Johor DT vs Negeri Sembilan" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Johor DT vs Negeri Sembilan [10:00 AM ET]
 http://193.47.62.56/hls/MMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -106,11 +110,11 @@ http://193.47.62.56/hls/TTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.56/hls/TTTTAAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UAE Premier League
-#EXTINF:-1 tvg-id="Hatta_vs_Al_Dhafra" tvg-name="Hatta vs Al Dhafra" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE Premier League",Hatta vs Al Dhafra [10:40 AM ET]
-http://193.47.62.56/hls/MMMMQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Khorfakkan_vs_Bani_Yas" tvg-name="Khorfakkan vs Bani Yas" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE Premier League",Khorfakkan vs Bani Yas [10:40 AM ET]
 http://193.47.62.56/hls/MMMMQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hatta_vs_Al_Dhafra" tvg-name="Hatta vs Al Dhafra" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE Premier League",Hatta vs Al Dhafra [10:40 AM ET]
+http://193.47.62.56/hls/MMMMQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Uzbekistan Super League
 #EXTINF:-1 tvg-id="Buxoro_vs_Navbahor_Namangan" tvg-name="Buxoro vs Navbahor Namangan" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg" group-title="Uzbekistan Super League",Buxoro vs Navbahor Namangan [11:00 AM ET]
