@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 10, 2026 at 08:00 PM EST
-# Total categories: 17
-# Total events: 24
-# Working streams: 24
+#PLAYLIST: The TV App - September 10, 2026 at 09:00 PM EST
+# Total categories: 16
+# Total events: 22
+# Working streams: 22
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -20,6 +20,9 @@ http://193.47.62.46/hls/CACACA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.43/hls/VOOOAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie B
+#EXTINF:-1 tvg-id="Sao_Bernardo_vs_Londrina" tvg-name="Sao Bernardo vs Londrina" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sao Bernardo vs Londrina [9:00 PM ET]
+http://193.47.62.43/hls/VOOOAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Sport_Recife_vs_Ponte_Preta" tvg-name="Sport Recife vs Ponte Preta" tvg-logo="" group-title="Brazil Serie B",Sport Recife vs Ponte Preta [9:30 PM ET]
 http://193.47.62.46/hls/CACACAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -41,13 +44,6 @@ http://193.47.62.46/hls/CACACAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-
 #EXTINF:-1 tvg-id="Millonarios_vs_Dep_Cali" tvg-name="Millonarios vs Dep Cali" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Millonarios vs Dep Cali [10:00 PM ET]
 http://193.47.62.46/hls/CACACAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Colombia Primera B
-#EXTINF:-1 tvg-id="Orsomarso_vs_Tigres" tvg-name="Orsomarso vs Tigres" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Orsomarso vs Tigres [7:00 PM ET]
-http://193.47.62.43/hls/VOOOAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Patriotas_vs_Barranquilla" tvg-name="Patriotas vs Barranquilla" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Patriotas vs Barranquilla [7:00 PM ET]
-http://193.47.62.43/hls/VOOOAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Copa Libertadores
 #EXTINF:-1 tvg-id="Ind_del_Valle_vs_Flamengo_RJ" tvg-name="Ind del Valle vs Flamengo RJ" tvg-logo="https://pbs.twimg.com/profile_images/1611125838963003393/RbmZeotm_400x400.jpg" group-title="Copa Libertadores",Ind del Valle vs Flamengo RJ [9:30 PM ET]
 http://193.47.62.46/hls/CACACAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -67,9 +63,6 @@ http://193.47.62.43/hls/UVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Pittsburgh_Pirates" tvg-name="Chicago White Sox vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Pittsburgh Pirates [8:40 PM ET]
 http://193.47.62.43/hls/FJJJa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Seattle_Mariners_vs_Texas_Rangers" tvg-name="Seattle Mariners vs Texas Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Seattle Mariners vs Texas Rangers [5:10 PM ET]
-http://193.47.62.43/hls/VOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:Mexico Liga MX
 #EXTINF:-1 tvg-id="UNAM_Pumas_vs_Club_Leon" tvg-name="UNAM Pumas vs Club Leon" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",UNAM Pumas vs Club Leon [12:05 AM ET]
 http://193.47.62.46/hls/CACACAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -79,19 +72,19 @@ http://193.47.62.46/hls/CACACAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-a
 http://193.47.62.43/hls/FJJJaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_San_Francisco_49ers___HD" tvg-name="Los Angeles Rams vs San Francisco 49ers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs San Francisco 49ers - HD [9:35 PM ET]
-http://193.47.62.48/hls/YYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_San_Francisco_49ers___SD" tvg-name="Los Angeles Rams vs San Francisco 49ers - SD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs San Francisco 49ers - SD [9:35 PM ET]
 http://193.47.62.58/hls/YYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_San_Francisco_49ers___HD" tvg-name="Los Angeles Rams vs San Francisco 49ers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs San Francisco 49ers - HD [9:35 PM ET]
+http://193.47.62.48/hls/YYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:TNA Wrestling
 #EXTINF:-1 tvg-id="TNA_Impact" tvg-name="TNA Impact" tvg-logo="https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg" group-title="TNA Wrestling",TNA Impact [10:00 PM ET]
 http://193.47.62.46/hls/FJJJaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis --:--
-#EXTINF:-1 tvg-id="Tennis_US_Open___CH_2" tvg-name="Tennis US Open - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 2 [TBD]
-http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tennis_US_Open___CH_1" tvg-name="Tennis US Open - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 1 [TBD]
 http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_2" tvg-name="Tennis US Open - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis --:--",Tennis US Open - CH 2 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
