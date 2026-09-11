@@ -1,15 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 11, 2026 at 04:00 AM EST
-# Total categories: 4
-# Total events: 5
-# Working streams: 4
+#PLAYLIST: The TV App - September 11, 2026 at 05:00 AM EST
+# Total categories: 10
+# Total events: 14
+# Working streams: 13
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Fremantle_Dockers_vs_Geelong_Cats" tvg-name="Fremantle Dockers vs Geelong Cats" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Fremantle Dockers vs Geelong Cats [7:10 AM ET]
+http://193.47.62.41/hls/kkkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball Asian Cup
-#EXTINF:-1 tvg-id="Indonesia_vs_South_Korea" tvg-name="Indonesia vs South Korea" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Cup",Indonesia vs South Korea [4:00 AM ET]
-http://193.47.62.41/hls/vrrrrQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Saudi_Arabia_vs_Japan" tvg-name="Saudi Arabia vs Japan" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Cup",Saudi Arabia vs Japan [7:00 AM ET]
+http://193.47.62.44/hls/sasasaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:FIA Formula 2
+#EXTINF:-1 tvg-id="FIA_Formula_2_Spain" tvg-name="FIA Formula 2 Spain" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Spain [6:00 AM ET]
+http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIA Formula 3
 #EXTINF:-1 tvg-id="FIA_Formula_3_Spain" tvg-name="FIA Formula 3 Spain" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Spain [5:00 AM ET]
@@ -19,6 +27,31 @@ http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [2:00 AM ET]
 http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Golf_Amgen_Irish_Open" tvg-name="Golf Amgen Irish Open" tvg-logo="https://pbs.twimg.com/profile_images/2076748855295537152/wdI37nVJ_400x400.jpg" group-title="Golf",Golf Amgen Irish Open [5:00 AM ET]
+http://193.47.62.41/hls/btttQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Vissel_Kobe_vs_Kashima_Antlers" tvg-name="Vissel Kobe vs Kashima Antlers" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Vissel Kobe vs Kashima Antlers [7:00 AM ET]
+http://193.47.62.44/hls/sasasaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kyoto_vs_Kashiwa_Reysol" tvg-name="Kyoto vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Kyoto vs Kashiwa Reysol [7:00 AM ET]
+http://193.47.62.44/hls/sasasaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_San_Marino" tvg-name="MotoGP Grand Prix of San Marino" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of San Marino [5:00 AM ET]
+http://193.47.62.44/hls/kkkkaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NRL
+#EXTINF:-1 tvg-id="Wests_Tigers_W_vs_Canberra_Raiders_W" tvg-name="Wests Tigers W vs Canberra Raiders W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Wests Tigers W vs Canberra Raiders W [4:30 AM ET]
+http://193.47.62.41/hls/kkkk.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="South_Sydney_Rabbitohs_vs_Newcastle_Knights" tvg-name="South Sydney Rabbitohs vs Newcastle Knights" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",South Sydney Rabbitohs vs Newcastle Knights [6:50 AM ET]
+http://193.47.62.41/hls/kkkkaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Otago_vs_Tasman" tvg-name="Otago vs Tasman" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Otago vs Tasman [4:10 AM ET]
 http://193.47.62.41/hls/vrrrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="Kolos_Kovalivka_vs_Karpaty_Lviv" tvg-name="Kolos Kovalivka vs Karpaty Lviv" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Kolos Kovalivka vs Karpaty Lviv [12:00 PM ET]
+http://193.47.62.44/hls/sasasa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
