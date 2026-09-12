@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 12, 2026 at 04:00 AM EST
-# Total categories: 8
-# Total events: 11
-# Working streams: 11
+#PLAYLIST: The TV App - September 12, 2026 at 05:00 AM EST
+# Total categories: 10
+# Total events: 13
+# Working streams: 13
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -18,6 +18,14 @@ http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [3:00 AM ET]
 http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Mito_vs_Kawasaki_Frontale" tvg-name="Mito vs Kawasaki Frontale" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Mito vs Kawasaki Frontale [6:00 AM ET]
+http://193.47.62.41/hls/JUUUAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Malaysia Super League
+#EXTINF:-1 tvg-id="Penang_vs_Kelantan_Red_Warrior" tvg-name="Penang vs Kelantan Red Warrior" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Penang vs Kelantan Red Warrior [5:45 AM ET]
+http://193.47.62.41/hls/JUUUAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MotoGP
 #EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_San_Marino" tvg-name="MotoGP Grand Prix of San Marino" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of San Marino [4:15 AM ET]
@@ -39,11 +47,11 @@ http://193.47.62.41/hls/BYYYQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.41/hls/zfff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Jeonbuk_vs_Seoul" tvg-name="Jeonbuk vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Seoul [4:30 AM ET]
-http://193.47.62.41/hls/JUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Ulsan_HD_vs_Incheon" tvg-name="Ulsan HD vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Ulsan HD vs Incheon [4:30 AM ET]
 http://193.47.62.41/hls/JUUUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Bucheon_FC_1995_vs_Jeju_SK" tvg-name="Bucheon FC 1995 vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Bucheon FC 1995 vs Jeju SK [4:30 AM ET]
 http://193.47.62.41/hls/JUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jeonbuk_vs_Seoul" tvg-name="Jeonbuk vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Seoul [4:30 AM ET]
+http://193.47.62.41/hls/JUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
