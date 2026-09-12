@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 11, 2026 at 07:00 PM EST
-# Total categories: 35
-# Total events: 87
-# Working streams: 82
+#PLAYLIST: The TV App - September 11, 2026 at 08:00 PM EST
+# Total categories: 36
+# Total events: 88
+# Working streams: 83
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -16,6 +16,10 @@ http://193.47.62.41/hls/ccccAA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Defensa_y_Justicia_vs_Gimnasia_Mendoza" tvg-name="Defensa y Justicia vs Gimnasia Mendoza" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Defensa y Justicia vs Gimnasia Mendoza [7:15 PM ET]
 http://193.47.62.41/hls/ccccAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:BKFC
+#EXTINF:-1 tvg-id="Boxing_BKFC_93_Perdomo_vs_Hill" tvg-name="Boxing BKFC 93 Perdomo vs Hill" tvg-logo="https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg" group-title="BKFC",Boxing BKFC 93 Perdomo vs Hill [9:00 PM ET]
+http://193.47.62.41/hls/HJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball Asian Games
 #EXTINF:-1 tvg-id="Chinese_Taipei_vs_Iran" tvg-name="Chinese Taipei vs Iran" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei vs Iran [10:00 PM ET]
@@ -90,11 +94,11 @@ http://193.47.62.49/hls/KVVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.53/hls/OFFFQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:German Bundesliga
-#EXTINF:-1 tvg-id="Union_Berlin_vs_Schalke___CH_2" tvg-name="Union Berlin vs Schalke - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg" group-title="German Bundesliga",Union Berlin vs Schalke - CH 2 [3:30 PM ET]
-https://www.rtmpcdn.com/live/a71542ed-3604-4b11-bcf5-3b7616128d41.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Union_Berlin_vs_Schalke___CH_1" tvg-name="Union Berlin vs Schalke - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg" group-title="German Bundesliga",Union Berlin vs Schalke - CH 1 [3:30 PM ET]
 http://193.47.62.57/hls/ZYYYQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Union_Berlin_vs_Schalke___CH_2" tvg-name="Union Berlin vs Schalke - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg" group-title="German Bundesliga",Union Berlin vs Schalke - CH 2 [3:30 PM ET]
+https://www.rtmpcdn.com/live/a71542ed-3604-4b11-bcf5-3b7616128d41.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Hockey CHL
 #EXTINF:-1 tvg-id="Bordeaux_vs_Adler_Mannheim" tvg-name="Bordeaux vs Adler Mannheim" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png" group-title="Hockey CHL",Bordeaux vs Adler Mannheim [3:15 PM ET]
@@ -107,35 +111,35 @@ http://193.47.62.49/hls/GE333QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-ag
 #EXTINF:-1 tvg-id="Shelbourne_vs_Derry_City" tvg-name="Shelbourne vs Derry City" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Shelbourne vs Derry City [3:45 PM ET]
 http://193.47.62.49/hls/GE333QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Drogheda_vs_Sligo_Rovers" tvg-name="Drogheda vs Sligo Rovers" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Drogheda vs Sligo Rovers [3:45 PM ET]
-http://193.47.62.49/hls/GE333QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Galway_vs_Bohemians" tvg-name="Galway vs Bohemians" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Galway vs Bohemians [3:45 PM ET]
 http://193.47.62.49/hls/GE333QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Drogheda_vs_Sligo_Rovers" tvg-name="Drogheda vs Sligo Rovers" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",Drogheda vs Sligo Rovers [3:45 PM ET]
+http://193.47.62.49/hls/GE333QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="St_Patricks_vs_Shamrock_Rovers" tvg-name="St Patricks vs Shamrock Rovers" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="Ireland Premier Division",St Patricks vs Shamrock Rovers [4:00 PM ET]
 http://193.47.62.49/hls/KVVVQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Italy Serie A
-#EXTINF:-1 tvg-id="Venezia_vs_Fiorentina___CH_2" tvg-name="Venezia vs Fiorentina - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Venezia vs Fiorentina - CH 2 [3:45 PM ET]
-https://www.rtmpcdn.com/live/71a91149-4074-48d6-bcad-3051ed892683.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Venezia_vs_Fiorentina___CH_1" tvg-name="Venezia vs Fiorentina - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Venezia vs Fiorentina - CH 1 [3:45 PM ET]
 http://193.47.62.49/hls/GE333Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Italy Serie B
-#EXTINF:-1 tvg-id="Benevento_vs_Verona" tvg-name="Benevento vs Verona" tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="Italy Serie B",Benevento vs Verona [4:00 PM ET]
-http://193.47.62.49/hls/KVVVQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Venezia_vs_Fiorentina___CH_2" tvg-name="Venezia vs Fiorentina - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Venezia vs Fiorentina - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/71a91149-4074-48d6-bcad-3051ed892683.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Italy Serie B
 #EXTINF:-1 tvg-id="Pisa_vs_Entella" tvg-name="Pisa vs Entella" tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="Italy Serie B",Pisa vs Entella [4:00 PM ET]
 http://193.47.62.49/hls/KVVVQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Ligue 1 France
-#EXTINF:-1 tvg-id="Rennes_vs_Marseille___CH_2" tvg-name="Rennes vs Marseille - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg" group-title="Ligue 1 France",Rennes vs Marseille - CH 2 [3:45 PM ET]
-https://www.rtmpcdn.com/live/c5524bf6-3dec-4ae8-b97f-0fd7936e42bf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Benevento_vs_Verona" tvg-name="Benevento vs Verona" tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg" group-title="Italy Serie B",Benevento vs Verona [4:00 PM ET]
+http://193.47.62.49/hls/KVVVQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Ligue 1 France
 #EXTINF:-1 tvg-id="Rennes_vs_Marseille___CH_1" tvg-name="Rennes vs Marseille - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg" group-title="Ligue 1 France",Rennes vs Marseille - CH 1 [3:45 PM ET]
 http://193.47.62.49/hls/GE333QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rennes_vs_Marseille___CH_2" tvg-name="Rennes vs Marseille - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg" group-title="Ligue 1 France",Rennes vs Marseille - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/c5524bf6-3dec-4ae8-b97f-0fd7936e42bf.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="New_York_Yankees_vs_New_York_Mets" tvg-name="New York Yankees vs New York Mets" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",New York Yankees vs New York Mets [8:05 PM ET]
