@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 12, 2026 at 02:00 AM EST
-# Total categories: 9
-# Total events: 18
-# Working streams: 18
+#PLAYLIST: The TV App - September 12, 2026 at 03:00 AM EST
+# Total categories: 11
+# Total events: 20
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -24,6 +24,10 @@ http://193.47.62.41/hls/ZEEEAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTGRP:Cricket CPL T20
 #EXTINF:-1 tvg-id="Guyana_Amazon_Warriors_vs_Trinbago_Knight_Riders" tvg-name="Guyana Amazon Warriors vs Trinbago Knight Riders" tvg-logo="https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg" group-title="Cricket CPL T20",Guyana Amazon Warriors vs Trinbago Knight Riders [8:00 PM ET]
 http://193.47.62.41/hls/EIIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [3:00 AM ET]
+http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="St_Louis_Cardinals_vs_Chicago_White_Sox" tvg-name="St Louis Cardinals vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",St Louis Cardinals vs Chicago White Sox [9:15 PM ET]
@@ -65,6 +69,10 @@ http://193.47.62.41/hls/BYYYQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Canterbury_vs_Wellington" tvg-name="Canterbury vs Wellington" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Canterbury vs Wellington [4:10 AM ET]
 http://193.47.62.41/hls/BYYYQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Rugby Pacific Nations Cup
+#EXTINF:-1 tvg-id="Fiji_vs_Canada" tvg-name="Fiji vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Pacific Nations Cup",Fiji vs Canada [4:00 AM ET]
+http://193.47.62.41/hls/zfff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
 #EXTINF:-1 tvg-id="Angel_City_W_vs_Denver_Summit_W" tvg-name="Angel City W vs Denver Summit W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Angel City W vs Denver Summit W [11:00 PM ET]
