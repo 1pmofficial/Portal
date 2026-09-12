@@ -1,19 +1,35 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 12, 2026 at 05:00 AM EST
-# Total categories: 10
-# Total events: 13
-# Working streams: 13
+#PLAYLIST: The TV App - September 12, 2026 at 06:00 AM EST
+# Total categories: 14
+# Total events: 24
+# Working streams: 23
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:AFL Aussie Rules
+#EXTINF:-1 tvg-id="Brisbane_Lions_vs_Adelaide_Crows" tvg-name="Brisbane Lions vs Adelaide Crows" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Brisbane Lions vs Adelaide Crows [6:35 AM ET]
+http://193.47.62.41/hls/dadadaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball Asian Games
-#EXTINF:-1 tvg-id="Bahrain_vs_China" tvg-name="Bahrain vs China" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Bahrain vs China [4:00 AM ET]
-http://193.47.62.50/hls/QQQQAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Kazakhstan_vs_Philippines" tvg-name="Kazakhstan vs Philippines" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Kazakhstan vs Philippines [7:00 AM ET]
+http://193.47.62.41/hls/JTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket
+#EXTINF:-1 tvg-id="England_vs_Pakistan" tvg-name="England vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Pakistan [6:15 AM ET]
+http://193.47.62.41/hls/DDDDAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_La_Vuelta" tvg-name="Cycling La Vuelta" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling La Vuelta [7:00 AM ET]
+http://193.47.62.41/hls/TNNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIA Formula 3
 #EXTINF:-1 tvg-id="FIA_Formula_3_Spain" tvg-name="FIA Formula 3 Spain" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Spain [5:00 AM ET]
 http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:German Women Bundesliga
+#EXTINF:-1 tvg-id="RB_Leipzig_W_vs_FC_Nurnberg_W" tvg-name="RB Leipzig W vs FC Nurnberg W" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg" group-title="German Women Bundesliga",RB Leipzig W vs FC Nurnberg W [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVRAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [3:00 AM ET]
@@ -23,35 +39,53 @@ http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-
 #EXTINF:-1 tvg-id="Mito_vs_Kawasaki_Frontale" tvg-name="Mito vs Kawasaki Frontale" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Mito vs Kawasaki Frontale [6:00 AM ET]
 http://193.47.62.41/hls/JUUUAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Shimizu_S_Pulse_vs_Avispa_Fukuoka" tvg-name="Shimizu S-Pulse vs Avispa Fukuoka" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Shimizu S-Pulse vs Avispa Fukuoka [6:30 AM ET]
+http://193.47.62.41/hls/dadada.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="V_Varen_Nagasaki_vs_Nagoya_Grampus" tvg-name="V-Varen Nagasaki vs Nagoya Grampus" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",V-Varen Nagasaki vs Nagoya Grampus [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVRAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sanfrecce_Hiroshima_vs_Cerezo_Osaka" tvg-name="Sanfrecce Hiroshima vs Cerezo Osaka" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Sanfrecce Hiroshima vs Cerezo Osaka [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVRAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Machida_vs_Yokohama_F_Marinos" tvg-name="Machida vs Yokohama F Marinos" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Machida vs Yokohama F Marinos [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVRA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gamba_Osaka_vs_FC_Tokyo" tvg-name="Gamba Osaka vs FC Tokyo" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Gamba Osaka vs FC Tokyo [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Malaysia Super League
 #EXTINF:-1 tvg-id="Penang_vs_Kelantan_Red_Warrior" tvg-name="Penang vs Kelantan Red Warrior" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Penang vs Kelantan Red Warrior [5:45 AM ET]
 http://193.47.62.41/hls/JUUUAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:MotoGP
-#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_San_Marino" tvg-name="MotoGP Grand Prix of San Marino" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of San Marino [4:15 AM ET]
-http://193.47.62.44/hls/kkkkaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:NRL
-#EXTINF:-1 tvg-id="New_Zealand_Warriors_vs_Dolphins" tvg-name="New Zealand Warriors vs Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",New Zealand Warriors vs Dolphins [3:05 AM ET]
-http://193.47.62.41/hls/BYYYQqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Cronulla_Sharks_W_vs_St_George_Illawarra_Dragons_W" tvg-name="Cronulla Sharks W vs St George Illawarra Dragons W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Cronulla Sharks W vs St George Illawarra Dragons W [4:00 AM ET]
-http://193.47.62.41/hls/zfffa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Rugby NZ NPC
-#EXTINF:-1 tvg-id="Canterbury_vs_Wellington" tvg-name="Canterbury vs Wellington" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Canterbury vs Wellington [4:10 AM ET]
-http://193.47.62.41/hls/BYYYQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Cronulla_Sharks_vs_NQ_Cowboys" tvg-name="Cronulla Sharks vs NQ Cowboys" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Cronulla Sharks vs NQ Cowboys [6:50 AM ET]
+http://193.47.62.41/hls/dadadaqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby Pacific Nations Cup
-#EXTINF:-1 tvg-id="Fiji_vs_Canada" tvg-name="Fiji vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Pacific Nations Cup",Fiji vs Canada [4:00 AM ET]
-http://193.47.62.41/hls/zfff.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Japan_vs_USA" tvg-name="Japan vs USA" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Pacific Nations Cup",Japan vs USA [7:00 AM ET]
+http://193.47.62.41/hls/JTTTAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
 #EXTINF:-1 tvg-id="Ulsan_HD_vs_Incheon" tvg-name="Ulsan HD vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Ulsan HD vs Incheon [4:30 AM ET]
 http://193.47.62.41/hls/JUUUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Jeonbuk_vs_Seoul" tvg-name="Jeonbuk vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Seoul [4:30 AM ET]
+http://193.47.62.41/hls/JUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Bucheon_FC_1995_vs_Jeju_SK" tvg-name="Bucheon FC 1995 vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Bucheon FC 1995 vs Jeju SK [4:30 AM ET]
 http://193.47.62.41/hls/JUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Jeonbuk_vs_Seoul" tvg-name="Jeonbuk vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Seoul [4:30 AM ET]
-http://193.47.62.41/hls/JUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Daejeon_vs_Pohang" tvg-name="Daejeon vs Pohang" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Daejeon vs Pohang [7:00 AM ET]
+http://193.47.62.41/hls/JTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Spanish Liga F Women
+#EXTINF:-1 tvg-id="Athletic_Bilbao_W_vs_Espanyol_W" tvg-name="Athletic Bilbao W vs Espanyol W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Athletic Bilbao W vs Espanyol W [7:00 AM ET]
+http://193.47.62.41/hls/VRVRVRAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="Kryvbas_vs_FC_Kharkiv" tvg-name="Kryvbas vs FC Kharkiv" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",Kryvbas vs FC Kharkiv [7:00 AM ET]
+http://193.47.62.41/hls/JTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="LNZ_Cherkasy_vs_Obolon" tvg-name="LNZ Cherkasy vs Obolon" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="Ukraine Premier League",LNZ Cherkasy vs Obolon [7:00 AM ET]
+http://193.47.62.41/hls/JTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
