@@ -1,14 +1,14 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 13, 2026 at 03:00 AM EST
-# Total categories: 13
-# Total events: 44
-# Working streams: 44
+#PLAYLIST: The TV App - September 13, 2026 at 04:00 AM EST
+# Total categories: 17
+# Total events: 49
+# Working streams: 49
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:Basketball Asian Games
-#EXTINF:-1 tvg-id="Chinese_Taipei_vs_Qatar" tvg-name="Chinese Taipei vs Qatar" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei vs Qatar [1:00 AM ET]
+#EXTINF:-1 tvg-id="Saudi_Arabia_vs_Indonesia" tvg-name="Saudi Arabia vs Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Saudi Arabia vs Indonesia [4:00 AM ET]
 http://193.47.62.55/hls/rooozqqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CFL Canadian Football
@@ -22,6 +22,14 @@ http://193.47.62.41/hls/epppAAAAQAQQQ.m3u8|referer=http://www.fawanews.sc/|user-
 #EXTGRP:Cricket CPL T20
 #EXTINF:-1 tvg-id="Barbados_Royals_vs_Jamaica_Kingsmen" tvg-name="Barbados Royals vs Jamaica Kingsmen" tvg-logo="https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg" group-title="Cricket CPL T20",Barbados Royals vs Jamaica Kingsmen [9:00 PM ET]
 http://193.47.62.50/hls/ZUUUAAAAaaaaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:FIA Formula 3
+#EXTINF:-1 tvg-id="FIA_Formula_3_Spain" tvg-name="FIA Formula 3 Spain" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg" group-title="FIA Formula 3",FIA Formula 3 Spain [4:50 AM ET]
+http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [5:00 AM ET]
+http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_Cincinnati_Reds" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs Cincinnati Reds [8:10 PM ET]
@@ -68,6 +76,10 @@ http://193.47.62.55/hls/FWWWAA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Cruz_Azul_vs_Club_America" tvg-name="Cruz Azul vs Club America" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Club America [12:00 AM ET]
 http://193.47.62.55/hls/gagagaaaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_San_Marino" tvg-name="MotoGP Grand Prix of San Marino" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of San Marino [4:30 AM ET]
+http://193.47.62.44/hls/kkkkaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:NCAA American Football
 #EXTINF:-1 tvg-id="Nebraska_vs_Bowling_Green" tvg-name="Nebraska vs Bowling Green" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Nebraska vs Bowling Green [8:00 PM ET]
 http://193.47.62.44/hls/NYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -102,11 +114,11 @@ http://193.47.62.50/hls/ZUUUAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Auburn_vs_Southern_Miss" tvg-name="Auburn vs Southern Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Auburn vs Southern Miss [9:50 PM ET]
 http://193.47.62.50/hls/ZUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="San_Jose_State_vs_Cal_Poly_Mustangs" tvg-name="San Jose State vs Cal Poly Mustangs" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Cal Poly Mustangs [10:00 PM ET]
-http://193.47.62.55/hls/FWWW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="UTEP_vs_Texas_Southern" tvg-name="UTEP vs Texas Southern" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UTEP vs Texas Southern [10:00 PM ET]
 http://193.47.62.55/hls/FWWWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_State_vs_Cal_Poly_Mustangs" tvg-name="San Jose State vs Cal Poly Mustangs" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Cal Poly Mustangs [10:00 PM ET]
+http://193.47.62.55/hls/FWWW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Air_Force_vs_North_Dakota_State" tvg-name="Air Force vs North Dakota State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Air Force vs North Dakota State [11:00 PM ET]
 http://193.47.62.44/hls/NYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -122,6 +134,9 @@ http://193.47.62.55/hls/roooz.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="USC_vs_Louisiana_Lafayette" tvg-name="USC vs Louisiana-Lafayette" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",USC vs Louisiana-Lafayette [12:00 AM ET]
 http://193.47.62.55/hls/rooozqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Hawaii_vs_New_Mexico_State" tvg-name="Hawaii vs New Mexico State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Hawaii vs New Mexico State [12:59 AM ET]
+http://193.47.62.55/hls/rooozqqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Brisbane_Broncos_W_vs_New_Zealand_Warriors_W" tvg-name="Brisbane Broncos W vs New Zealand Warriors W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Brisbane Broncos W vs New Zealand Warriors W [11:00 PM ET]
@@ -147,6 +162,10 @@ http://193.47.62.55/hls/gagagaaaAAA.m3u8|referer=http://www.fawanews.sc/|user-ag
 
 #EXTINF:-1 tvg-id="Southland_vs_Bay_of_Plenty" tvg-name="Southland vs Bay of Plenty" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Southland vs Bay of Plenty [2:05 AM ET]
 http://193.47.62.55/hls/gagagaaaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:South Korea K League
+#EXTINF:-1 tvg-id="Sangmu_vs_Gimcheon_Sangmu" tvg-name="Sangmu vs Gimcheon Sangmu" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Sangmu vs Gimcheon Sangmu [4:30 AM ET]
+http://193.47.62.41/hls/rooozqqqQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
 #EXTINF:-1 tvg-id="Houston_Dash_W_vs_Utah_Royals_W" tvg-name="Houston Dash W vs Utah Royals W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Houston Dash W vs Utah Royals W [9:45 PM ET]
