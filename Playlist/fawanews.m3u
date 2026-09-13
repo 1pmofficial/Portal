@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 13, 2026 at 06:00 AM EST
-# Total categories: 21
+#PLAYLIST: The TV App - September 13, 2026 at 07:00 AM EST
+# Total categories: 22
 # Total events: 28
-# Working streams: 26
+# Working streams: 27
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -24,8 +24,11 @@ http://193.47.62.41/hls/TNNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.44/hls/OOOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Dutch Eredivisie
-#EXTINF:-1 tvg-id="Excelsior_vs_FC_Utrecht" tvg-name="Excelsior vs FC Utrecht" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Eredivisie",Excelsior vs FC Utrecht [7:15 AM ET]
+#EXTINF:-1 tvg-id="Excelsior_vs_FC_Utrecht___CH_1" tvg-name="Excelsior vs FC Utrecht - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Eredivisie",Excelsior vs FC Utrecht - CH 1 [7:15 AM ET]
 http://193.47.62.41/hls/INNNQQQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Excelsior_vs_FC_Utrecht___CH_2" tvg-name="Excelsior vs FC Utrecht - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Eredivisie",Excelsior vs FC Utrecht - CH 2 [7:15 AM ET]
+https://play1.mehufwx.com/live/72041132_bd30e107986732effce3757fab9761ce_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:English Championship
 #EXTINF:-1 tvg-id="Sheffield_United_vs_Wolverhampton" tvg-name="Sheffield United vs Wolverhampton" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="English Championship",Sheffield United vs Wolverhampton [8:00 AM ET]
@@ -65,6 +68,10 @@ http://193.47.62.41/hls/DDDDGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="BFC_Daugavpils_vs_RFS" tvg-name="BFC Daugavpils vs RFS" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",BFC Daugavpils vs RFS [8:00 AM ET]
 http://193.47.62.44/hls/DUUUAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_San_Marino" tvg-name="MotoGP Grand Prix of San Marino" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of San Marino [4:30 AM ET]
+http://193.47.62.44/hls/kkkkaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Poland Division 1
 #EXTINF:-1 tvg-id="Skierniewice_vs_Grodzisk_M" tvg-name="Skierniewice vs Grodzisk M" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Skierniewice vs Grodzisk M [7:00 AM ET]
 http://193.47.62.41/hls/INNNQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -73,11 +80,8 @@ http://193.47.62.41/hls/INNNQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="Wisla_Plock_vs_Cracovia" tvg-name="Wisla Plock vs Cracovia" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg" group-title="Poland Ekstraklasa",Wisla Plock vs Cracovia [7:15 AM ET]
 http://193.47.62.41/hls/INNNQQQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Romania Liga 2
-#EXTINF:-1 tvg-id="Chindia_Targoviste_vs_Selimbar" tvg-name="Chindia Targoviste vs Selimbar" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Liga 2",Chindia Targoviste vs Selimbar [5:00 AM ET]
-http://193.47.62.41/hls/DDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Metalul_Buzau_vs_Unirea_Slobozia" tvg-name="Metalul Buzau vs Unirea Slobozia" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Liga 2",Metalul Buzau vs Unirea Slobozia [7:00 AM ET]
+#EXTGRP:Portugal Liga 2
+#EXTINF:-1 tvg-id="AFS_vs_SC_Farense" tvg-name="AFS vs SC Farense" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",AFS vs SC Farense [7:00 AM ET]
 http://193.47.62.41/hls/INNNQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Scottish League Cup
