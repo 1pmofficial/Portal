@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 13, 2026 at 04:00 AM EST
-# Total categories: 17
-# Total events: 49
-# Working streams: 49
+#PLAYLIST: The TV App - September 13, 2026 at 05:00 AM EST
+# Total categories: 18
+# Total events: 52
+# Working streams: 51
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -30,6 +30,13 @@ http://193.47.62.41/hls/kkkka.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Solheim_Cup" tvg-name="Golf Solheim Cup" tvg-logo="https://pbs.twimg.com/profile_images/1438231843325816832/-VzI8AmR_400x400.jpg" group-title="Golf",Golf Solheim Cup [5:00 AM ET]
 http://193.47.62.41/hls/LRRRaaAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Tokyo_Verdy_vs_Chiba" tvg-name="Tokyo Verdy vs Chiba" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Tokyo Verdy vs Chiba [6:00 AM ET]
+http://193.47.62.41/hls/DDDDG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Urawa_Reds_vs_Okayama" tvg-name="Urawa Reds vs Okayama" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Urawa Reds vs Okayama [6:30 AM ET]
+http://193.47.62.41/hls/DDDDGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_Cincinnati_Reds" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs Cincinnati Reds [8:10 PM ET]
@@ -152,9 +159,9 @@ http://193.47.62.55/hls/gagagaaaAAA.m3u8|referer=http://www.fawanews.sc/|user-ag
 #EXTINF:-1 tvg-id="Nascar_Cup_Series_Enjoy_Illinois_300" tvg-name="Nascar Cup Series Enjoy Illinois 300" tvg-logo="https://pbs.twimg.com/profile_images/2096770594574630912/QKn4u9Tc_400x400.jpg" group-title="Nascar",Nascar Cup Series Enjoy Illinois 300 [9:30 PM ET]
 http://193.47.62.50/hls/ZGGGVVA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Peru Liga 1 Apertura
-#EXTINF:-1 tvg-id="Alianza_Lima_vs_U_de_Deportes" tvg-name="Alianza Lima vs U de Deportes" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Liga 1 Apertura",Alianza Lima vs U de Deportes [10:00 PM ET]
-http://193.47.62.55/hls/FWWWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Romania Liga 2
+#EXTINF:-1 tvg-id="Chindia_Targoviste_vs_Selimbar" tvg-name="Chindia Targoviste vs Selimbar" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Liga 2",Chindia Targoviste vs Selimbar [5:00 AM ET]
+http://193.47.62.41/hls/DDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Hawkes_Bay_vs_North_Harbour" tvg-name="Hawkes Bay vs North Harbour" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Hawkes Bay vs North Harbour [11:05 PM ET]
