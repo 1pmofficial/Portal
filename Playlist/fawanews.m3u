@@ -1,18 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 13, 2026 at 12:00 AM EST
+#PLAYLIST: The TV App - September 13, 2026 at 01:00 AM EST
 # Total categories: 13
-# Total events: 45
-# Working streams: 45
+# Total events: 44
+# Working streams: 44
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Boxing --:--
-#EXTINF:-1 tvg-id="Boxing___Garcia_vs_Benn___SD" tvg-name="Boxing : Garcia vs Benn - SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Garcia vs Benn - SD [TBD]
-http://193.47.62.41/hls/dpppp.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Boxing___Garcia_vs_Benn___HD" tvg-name="Boxing : Garcia vs Benn - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="Boxing --:--",Boxing : Garcia vs Benn - HD [TBD]
-https://admin2.formaturamaxi.com.br/ppv5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Basketball Asian Games
+#EXTINF:-1 tvg-id="Chinese_Taipei_vs_Qatar" tvg-name="Chinese Taipei vs Qatar" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei vs Qatar [1:00 AM ET]
+http://193.47.62.55/hls/rooozqqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CFL Canadian Football
 #EXTINF:-1 tvg-id="BC_Lions_vs_Montreal_Alouettes" tvg-name="BC Lions vs Montreal Alouettes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="CFL Canadian Football",BC Lions vs Montreal Alouettes [11:00 PM ET]
@@ -46,11 +43,11 @@ http://193.47.62.55/hls/uttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="St_Louis_City_vs_Minnesota_United" tvg-name="St Louis City vs Minnesota United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",St Louis City vs Minnesota United [9:30 PM ET]
 http://193.47.62.50/hls/ZGGGVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Sporting_Kansas_City_vs_Los_Angeles_FC" tvg-name="Sporting Kansas City vs Los Angeles FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Sporting Kansas City vs Los Angeles FC [9:30 PM ET]
-http://193.47.62.50/hls/ZGGGV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="FC_Dallas_vs_Portland_Timbers" tvg-name="FC Dallas vs Portland Timbers" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",FC Dallas vs Portland Timbers [9:30 PM ET]
 http://193.47.62.50/hls/ZGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sporting_Kansas_City_vs_Los_Angeles_FC" tvg-name="Sporting Kansas City vs Los Angeles FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Sporting Kansas City vs Los Angeles FC [9:30 PM ET]
+http://193.47.62.50/hls/ZGGGV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Real_Salt_Lake_vs_New_York_City" tvg-name="Real Salt Lake vs New York City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Real Salt Lake vs New York City [10:30 PM ET]
 http://193.47.62.55/hls/FWWWAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -84,11 +81,11 @@ http://193.47.62.44/hls/MJJJAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Texas_vs_Ohio_State" tvg-name="Texas vs Ohio State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas vs Ohio State [8:30 PM ET]
 http://193.47.62.44/hls/YCCCAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Clemson_vs_Georgia_Southern" tvg-name="Clemson vs Georgia Southern" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Clemson vs Georgia Southern [8:30 PM ET]
-http://193.47.62.44/hls/AAIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Oregon_State_vs_Texas_Tech" tvg-name="Oregon State vs Texas Tech" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Oregon State vs Texas Tech [8:30 PM ET]
 http://193.47.62.44/hls/YCCCAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Clemson_vs_Georgia_Southern" tvg-name="Clemson vs Georgia Southern" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Clemson vs Georgia Southern [8:30 PM ET]
+http://193.47.62.44/hls/AAIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="LSU_vs_Louisiana_Tech" tvg-name="LSU vs Louisiana Tech" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",LSU vs Louisiana Tech [8:30 PM ET]
 http://193.47.62.44/hls/YCCCAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -105,11 +102,11 @@ http://193.47.62.50/hls/ZUUUAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Auburn_vs_Southern_Miss" tvg-name="Auburn vs Southern Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Auburn vs Southern Miss [9:50 PM ET]
 http://193.47.62.50/hls/ZUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="San_Jose_State_vs_Cal_Poly_Mustangs" tvg-name="San Jose State vs Cal Poly Mustangs" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Cal Poly Mustangs [10:00 PM ET]
-http://193.47.62.55/hls/FWWW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="UTEP_vs_Texas_Southern" tvg-name="UTEP vs Texas Southern" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UTEP vs Texas Southern [10:00 PM ET]
 http://193.47.62.55/hls/FWWWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_State_vs_Cal_Poly_Mustangs" tvg-name="San Jose State vs Cal Poly Mustangs" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Cal Poly Mustangs [10:00 PM ET]
+http://193.47.62.55/hls/FWWW.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Air_Force_vs_North_Dakota_State" tvg-name="Air Force vs North Dakota State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Air Force vs North Dakota State [11:00 PM ET]
 http://193.47.62.44/hls/NYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
