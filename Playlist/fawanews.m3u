@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 13, 2026 at 07:00 PM EST
+#PLAYLIST: The TV App - September 13, 2026 at 08:00 PM EST
 # Total categories: 19
 # Total events: 39
 # Working streams: 39
@@ -68,9 +68,6 @@ http://193.47.62.44/hls/ZMMMQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Libertad_vs_Ind_del_Valle" tvg-name="Libertad vs Ind del Valle" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Libertad vs Ind del Valle [8:00 PM ET]
 http://193.47.62.44/hls/ZMMMQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Barcelona_SC_vs_Delfin" tvg-name="Barcelona SC vs Delfin" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Barcelona SC vs Delfin [9:30 PM ET]
-http://193.47.62.44/hls/ZMMMQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:IndyCar
 #EXTINF:-1 tvg-id="Nascar_Cup_Series_Enjoy_Illinois_300" tvg-name="Nascar Cup Series Enjoy Illinois 300" tvg-logo="https://pbs.twimg.com/profile_images/2099204160885559296/U9-Gv2ed_400x400.jpg" group-title="IndyCar",Nascar Cup Series Enjoy Illinois 300 [4:15 PM ET]
 http://193.47.62.50/hls/ZGGGVVA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -112,20 +109,23 @@ http://193.47.62.44/hls/ZFFFQqqQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.44/hls/ZFFFQqqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="New_York_Giants_vs_Dallas_Cowboys" tvg-name="New York Giants vs Dallas Cowboys" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",New York Giants vs Dallas Cowboys [9:20 PM ET]
+#EXTINF:-1 tvg-id="New_York_Giants_vs_Dallas_Cowboys___CH_1" tvg-name="New York Giants vs Dallas Cowboys - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",New York Giants vs Dallas Cowboys - CH 1 [9:20 PM ET]
 http://193.47.62.50/hls/ZTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Minnesota_Vikings_vs_Green_Bay_Packers" tvg-name="Minnesota Vikings vs Green Bay Packers" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Minnesota Vikings vs Green Bay Packers [5:25 PM ET]
-http://193.47.62.50/hls/ZTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="New_York_Giants_vs_Dallas_Cowboys___CH_2" tvg-name="New York Giants vs Dallas Cowboys - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",New York Giants vs Dallas Cowboys - CH 2 [9:20 PM ET]
+http://193.47.62.55/hls/ZTTTAAAZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Philadelphia_Eagles_vs_Washington_Commanders" tvg-name="Philadelphia Eagles vs Washington Commanders" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Philadelphia Eagles vs Washington Commanders [5:25 PM ET]
 http://193.47.62.50/hls/FMMMQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Los_Angeles_Chargers_vs_Arizona_Cardinals" tvg-name="Los Angeles Chargers vs Arizona Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Chargers vs Arizona Cardinals [5:25 PM ET]
+http://193.47.62.59/hls/FMMMQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Las_Vegas_Raiders_vs_Miami_Dolphins" tvg-name="Las Vegas Raiders vs Miami Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Las Vegas Raiders vs Miami Dolphins [5:25 PM ET]
 http://193.47.62.59/hls/FMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Los_Angeles_Chargers_vs_Arizona_Cardinals" tvg-name="Los Angeles Chargers vs Arizona Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Chargers vs Arizona Cardinals [5:25 PM ET]
-http://193.47.62.59/hls/FMMMQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Minnesota_Vikings_vs_Green_Bay_Packers" tvg-name="Minnesota Vikings vs Green Bay Packers" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Minnesota Vikings vs Green Bay Packers [5:25 PM ET]
+http://193.47.62.50/hls/ZTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football --:--
 #EXTINF:-1 tvg-id="NFL_Red_Zone" tvg-name="NFL Red Zone" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football --:--",NFL Red Zone [TBD]
