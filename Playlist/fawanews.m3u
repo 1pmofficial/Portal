@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 14, 2026 at 04:00 PM EST
+#PLAYLIST: The TV App - September 14, 2026 at 05:00 PM EST
 # Total categories: 18
 # Total events: 41
 # Working streams: 41
@@ -34,11 +34,11 @@ http://193.47.62.44/hls/uttta.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.44/hls/uttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Brazil Serie B
-#EXTINF:-1 tvg-id="Botafogo_SP_vs_Goias" tvg-name="Botafogo SP vs Goias" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Botafogo SP vs Goias [7:30 PM ET]
-http://193.47.62.44/hls/utttaaqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="America_MG_vs_Sao_Bernardo" tvg-name="America MG vs Sao Bernardo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",America MG vs Sao Bernardo [7:30 PM ET]
 http://193.47.62.44/hls/utttaaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Botafogo_SP_vs_Goias" tvg-name="Botafogo SP vs Goias" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Botafogo SP vs Goias [7:30 PM ET]
+http://193.47.62.44/hls/utttaaqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Colombia Primera B
 #EXTINF:-1 tvg-id="Tigres_vs_Bogota" tvg-name="Tigres vs Bogota" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Tigres vs Bogota [5:30 PM ET]
@@ -55,14 +55,14 @@ http://193.47.62.50/hls/RVVVFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.50/hls/RVVVFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:English Premier League
+#EXTINF:-1 tvg-id="Leeds_United_vs_Newcastle_United___CH_2_HD" tvg-name="Leeds United vs Newcastle United - CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Leeds United vs Newcastle United - CH 2 HD [4:00 PM ET]
+https://www.rtmpcdn.com/live/23408853-f32d-4f49-beec-202005a9d272.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Leeds_United_vs_Newcastle_United___CH_1" tvg-name="Leeds United vs Newcastle United - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Leeds United vs Newcastle United - CH 1 [4:00 PM ET]
 http://193.47.62.55/hls/aaaap.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Leeds_United_vs_Newcastle_United___CH_3" tvg-name="Leeds United vs Newcastle United - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Leeds United vs Newcastle United - CH 3 [4:00 PM ET]
 https://live3.dyrur1.com/live/63kv9igel43cx7e_ede351fc224b9942330c6af5cec9962c_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Leeds_United_vs_Newcastle_United___CH_2_HD" tvg-name="Leeds United vs Newcastle United - CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Leeds United vs Newcastle United - CH 2 HD [4:00 PM ET]
-https://www.rtmpcdn.com/live/23408853-f32d-4f49-beec-202005a9d272.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Leeds_United_vs_Newcastle_United___CH_4_ENG_HD" tvg-name="Leeds United vs Newcastle United - CH 4 ENG HD" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="English Premier League",Leeds United vs Newcastle United - CH 4 ENG HD [4:00 PM ET]
 https://live3.dyrur1.com/live/63kv9igel43cx7e_ede351fc224b9942330c6af5cec9962c_1080p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
