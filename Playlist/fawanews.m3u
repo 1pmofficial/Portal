@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 18, 2026 at 05:00 AM EST
-# Total categories: 14
-# Total events: 20
-# Working streams: 20
+#PLAYLIST: The TV App - September 18, 2026 at 06:00 AM EST
+# Total categories: 15
+# Total events: 24
+# Working streams: 24
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -44,11 +44,11 @@ http://193.47.62.44/hls/ssss.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.52/hls/iiiia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
-http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Israel Ligat ha'Al
 #EXTINF:-1 tvg-id="Hapoel_Tel_Aviv_vs_Hapoel_Petah_Tikva" tvg-name="Hapoel Tel Aviv vs Hapoel Petah Tikva" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png" group-title="Israel Ligat ha'Al",Hapoel Tel Aviv vs Hapoel Petah Tikva [9:45 AM ET]
@@ -65,6 +65,19 @@ http://193.47.62.44/hls/ssssAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Tasman_vs_Auckland" tvg-name="Tasman vs Auckland" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Tasman vs Auckland [4:10 AM ET]
 http://193.47.62.44/hls/hhhh.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Snooker
+#EXTINF:-1 tvg-id="Snooker_Northern_Ireland_Open___Table_1" tvg-name="Snooker Northern Ireland Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open - Table 1 [6:00 AM ET]
+http://193.47.62.44/hls/grrrAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_Northern_Ireland_Open___Table_2" tvg-name="Snooker Northern Ireland Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open - Table 2 [6:00 AM ET]
+http://193.47.62.44/hls/grrrAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_Northern_Ireland_Open___Table_3" tvg-name="Snooker Northern Ireland Open - Table 3" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open - Table 3 [9:00 AM ET]
+http://193.47.62.44/hls/grrrA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_Northern_Ireland_Open___Table_4" tvg-name="Snooker Northern Ireland Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open - Table 4 [9:00 AM ET]
+http://193.47.62.44/hls/grrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Thailand Thai league 1
 #EXTINF:-1 tvg-id="Ayutthaya_Utd_vs_Uthai_Thani" tvg-name="Ayutthaya Utd vs Uthai Thani" tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="Thailand Thai league 1",Ayutthaya Utd vs Uthai Thani [9:00 AM ET]
