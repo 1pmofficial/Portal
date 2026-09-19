@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 19, 2026 at 04:00 AM EST
-# Total categories: 7
-# Total events: 8
-# Working streams: 8
+#PLAYLIST: The TV App - September 19, 2026 at 05:00 AM EST
+# Total categories: 9
+# Total events: 11
+# Working streams: 11
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -15,6 +15,13 @@ http://193.47.62.44/hls/fsss.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Golf_BMW_PGA_Championship" tvg-name="Golf BMW PGA Championship" tvg-logo="https://pbs.twimg.com/profile_images/1567930467717898246/7C0EMSyM_400x400.jpg" group-title="Golf",Golf BMW PGA Championship [5:00 AM ET]
 http://193.47.62.52/hls/iiiia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Avispa_Fukuoka_vs_Sanfrecce_Hiroshima" tvg-name="Avispa Fukuoka vs Sanfrecce Hiroshima" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Avispa Fukuoka vs Sanfrecce Hiroshima [6:00 AM ET]
+http://193.47.62.44/hls/OFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kawasaki_Frontale_vs_Kashima_Antlers" tvg-name="Kawasaki Frontale vs Kashima Antlers" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Kawasaki Frontale vs Kashima Antlers [6:00 AM ET]
+http://193.47.62.44/hls/OFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:MotoGP
 #EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Austria" tvg-name="MotoGP Grand Prix of Austria" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Austria [3:30 AM ET]
 http://193.47.62.44/hls/ssssAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -22,6 +29,10 @@ http://193.47.62.44/hls/ssssAA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Brisbane_Broncos_W_vs_Newcastle_Knights_W" tvg-name="Brisbane Broncos W vs Newcastle Knights W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Brisbane Broncos W vs Newcastle Knights W [3:05 AM ET]
 http://193.47.62.44/hls/frfrfrA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Romania Liga 2
+#EXTINF:-1 tvg-id="Steaua_Bucuresti_vs_Gloria_Bistrita" tvg-name="Steaua Bucuresti vs Gloria Bistrita" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="Romania Liga 2",Steaua Bucuresti vs Gloria Bistrita [5:00 AM ET]
+http://193.47.62.44/hls/OFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Waikato_vs_Manawatu" tvg-name="Waikato vs Manawatu" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Waikato vs Manawatu [2:05 AM ET]
@@ -36,4 +47,4 @@ http://193.47.62.44/hls/fsssg.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTGRP:South Korea K League
 #EXTINF:-1 tvg-id="Bucheon_FC_1995_vs_Gimcheon_Sangmu" tvg-name="Bucheon FC 1995 vs Gimcheon Sangmu" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Bucheon FC 1995 vs Gimcheon Sangmu [4:30 AM ET]
-http://193.47.62.44/hls/HJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.44/hls/OFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
