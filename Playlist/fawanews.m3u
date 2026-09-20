@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 20, 2026 at 02:00 AM EST
+#PLAYLIST: The TV App - September 20, 2026 at 03:00 AM EST
 # Total categories: 13
-# Total events: 36
-# Working streams: 36
+# Total events: 35
+# Working streams: 35
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Asian Games
+#EXTINF:-1 tvg-id="Iran_U23_vs_China_U23" tvg-name="Iran U23 vs China U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Iran U23 vs China U23 [2:00 AM ET]
+http://193.47.62.44/hls/liii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball Asian Games
 #EXTINF:-1 tvg-id="Kazakhstan_W_vs_Japan_W" tvg-name="Kazakhstan W vs Japan W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Kazakhstan W vs Japan W [1:50 AM ET]
@@ -82,11 +86,11 @@ http://193.47.62.50/hls/iuuuddd.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Arizona_vs_Northern_Illinois" tvg-name="Arizona vs Northern Illinois" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Arizona vs Northern Illinois [11:30 PM ET]
 http://193.47.62.50/hls/iuuudd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="San_Jose_State_vs_Fresno_State" tvg-name="San Jose State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Fresno State [12:00 AM ET]
-http://193.47.62.50/hls/iuuuddddAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="UCLA_vs_Purdue" tvg-name="UCLA vs Purdue" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UCLA vs Purdue [12:00 AM ET]
 http://193.47.62.50/hls/iuuuddddAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_State_vs_Fresno_State" tvg-name="San Jose State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Jose State vs Fresno State [12:00 AM ET]
+http://193.47.62.50/hls/iuuuddddAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Oregon_State_vs_Montana_Grizzlies" tvg-name="Oregon State vs Montana Grizzlies" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Oregon State vs Montana Grizzlies [12:00 AM ET]
 http://193.47.62.50/hls/iuuuddddA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -112,13 +116,6 @@ http://193.47.62.50/hls/ZGGGQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Tennis
 #EXTINF:-1 tvg-id="Tennis_Davis_Cup" tvg-name="Tennis Davis Cup" tvg-logo="https://pbs.twimg.com/profile_images/1388099379039440897/0vDZ7eYq_400x400.jpg" group-title="Tennis",Tennis Davis Cup [7:30 PM ET]
 http://193.47.62.44/hls/FOFOFO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:UFC Fight Night --:--
-#EXTINF:-1 tvg-id="UFC_331___Joshua_Van_vs_Alexandre_Pantoja___CH_1" tvg-name="UFC 331 : Joshua Van vs Alexandre Pantoja - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 331 : Joshua Van vs Alexandre Pantoja - CH 1 [TBD]
-http://193.47.62.41/hls/viii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="UFC_331___Joshua_Van_vs_Alexandre_Pantoja___CH_2" tvg-name="UFC 331 : Joshua Van vs Alexandre Pantoja - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC 331 : Joshua Van vs Alexandre Pantoja - CH 2 [TBD]
-https://plex.fromthyheart.site/dailymotion/live/playlist/25.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
 #EXTINF:-1 tvg-id="Denver_Summit_W_vs_Seattle_Reign_W" tvg-name="Denver Summit W vs Seattle Reign W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Denver Summit W vs Seattle Reign W [9:45 PM ET]
