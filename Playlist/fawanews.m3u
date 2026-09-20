@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 20, 2026 at 03:00 AM EST
-# Total categories: 13
-# Total events: 35
-# Working streams: 35
+#PLAYLIST: The TV App - September 20, 2026 at 04:00 AM EST
+# Total categories: 19
+# Total events: 44
+# Working streams: 44
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,6 +11,9 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="Iran_U23_vs_China_U23" tvg-name="Iran U23 vs China U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Iran U23 vs China U23 [2:00 AM ET]
 http://193.47.62.44/hls/liii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Hong_Kong_U23_vs_Thailand_U23" tvg-name="Hong Kong U23 vs Thailand U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Hong Kong U23 vs Thailand U23 [4:00 AM ET]
+http://193.47.62.44/hls/liiiQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball Asian Games
 #EXTINF:-1 tvg-id="Kazakhstan_W_vs_Japan_W" tvg-name="Kazakhstan W vs Japan W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Kazakhstan W vs Japan W [1:50 AM ET]
 http://193.47.62.50/hls/ZGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -18,6 +21,25 @@ http://193.47.62.50/hls/ZGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTGRP:Colombia Primera A
 #EXTINF:-1 tvg-id="Dep_Pasto_vs_Once_Caldas" tvg-name="Dep Pasto vs Once Caldas" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Dep Pasto vs Once Caldas [10:15 PM ET]
 http://193.47.62.50/hls/YDDDA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket
+#EXTINF:-1 tvg-id="Zimbabwe_vs_Australia" tvg-name="Zimbabwe vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Zimbabwe vs Australia [4:30 AM ET]
+http://193.47.62.44/hls/liiiQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_BMW_PGA_Championship" tvg-name="Golf BMW PGA Championship" tvg-logo="https://pbs.twimg.com/profile_images/1567930467717898246/7C0EMSyM_400x400.jpg" group-title="Golf",Golf BMW PGA Championship [5:00 AM ET]
+http://193.47.62.52/hls/iiiia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J League
+#EXTINF:-1 tvg-id="Machida_vs_Kashiwa_Reysol" tvg-name="Machida vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Machida vs Kashiwa Reysol [5:00 AM ET]
+http://193.47.62.44/hls/ijjjqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gamba_Osaka_vs_Vissel_Kobe" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Gamba Osaka vs Vissel Kobe [5:00 AM ET]
+http://193.47.62.44/hls/ijjjq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Japan J2 League
+#EXTINF:-1 tvg-id="Tochigi_City_vs_Vegalta_Sendai" tvg-name="Tochigi City vs Vegalta Sendai" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J2 League",Tochigi City vs Vegalta Sendai [5:00 AM ET]
+http://193.47.62.44/hls/ijjj.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
 #EXTINF:-1 tvg-id="Arizona_Diamondbacks_vs_New_York_Yankees" tvg-name="Arizona Diamondbacks vs New York Yankees" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Arizona Diamondbacks vs New York Yankees [9:10 PM ET]
@@ -67,6 +89,10 @@ http://193.47.62.55/hls/GSSSQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-ag
 #EXTINF:-1 tvg-id="Club_America_vs_Guadalajara_Chivas" tvg-name="Club America vs Guadalajara Chivas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Club America vs Guadalajara Chivas [12:15 AM ET]
 http://193.47.62.55/hls/GSSSQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Austria" tvg-name="MotoGP Grand Prix of Austria" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Austria [4:30 AM ET]
+http://193.47.62.44/hls/ssssAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:NCAA American Football
 #EXTINF:-1 tvg-id="Ole_Miss_vs_LSU" tvg-name="Ole Miss vs LSU" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Ole Miss vs LSU [8:30 PM ET]
 http://193.47.62.55/hls/DTTTQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -112,6 +138,13 @@ http://193.47.62.50/hls/ZGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Taranaki_vs_Southland" tvg-name="Taranaki vs Southland" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Taranaki vs Southland [2:05 AM ET]
 http://193.47.62.50/hls/ZGGGQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:South Korea K League
+#EXTINF:-1 tvg-id="Jeonbuk_vs_Gwangju_FC" tvg-name="Jeonbuk vs Gwangju FC" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Jeonbuk vs Gwangju FC [4:30 AM ET]
+http://193.47.62.44/hls/liiiQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gangwon_vs_Jeju_SK" tvg-name="Gangwon vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gangwon vs Jeju SK [4:30 AM ET]
+http://193.47.62.44/hls/liiiQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis
 #EXTINF:-1 tvg-id="Tennis_Davis_Cup" tvg-name="Tennis Davis Cup" tvg-logo="https://pbs.twimg.com/profile_images/1388099379039440897/0vDZ7eYq_400x400.jpg" group-title="Tennis",Tennis Davis Cup [7:30 PM ET]
