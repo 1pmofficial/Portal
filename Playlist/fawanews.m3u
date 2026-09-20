@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 20, 2026 at 06:00 AM EST
+#PLAYLIST: The TV App - September 20, 2026 at 07:00 AM EST
 # Total categories: 24
-# Total events: 34
-# Working streams: 33
+# Total events: 36
+# Working streams: 36
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -46,8 +46,14 @@ http://193.47.62.59/hls/UYYYAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-
 http://193.47.62.52/hls/iiiia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Italy Serie A
-#EXTINF:-1 tvg-id="Fiorentina_vs_Napoli" tvg-name="Fiorentina vs Napoli" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Fiorentina vs Napoli [7:30 AM ET]
+#EXTINF:-1 tvg-id="Fiorentina_vs_Napoli___CH_1" tvg-name="Fiorentina vs Napoli - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Fiorentina vs Napoli - CH 1 [7:30 AM ET]
 http://193.47.62.59/hls/DYYYAAAAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Fiorentina_vs_Napoli___CH_2" tvg-name="Fiorentina vs Napoli - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Fiorentina vs Napoli - CH 2 [7:30 AM ET]
+https://www.rtmpcdn.com/live/3390f73a-38f2-49aa-9669-a4ef7f83ceb2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Fiorentina_vs_Napoli___CH_3" tvg-name="Fiorentina vs Napoli - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Serie A",Fiorentina vs Napoli - CH 3 [7:30 AM ET]
+https://live.dyrur1.com/live/ndqmliwnxezsrkv_eb86773948974fbcef372150f49ca1cd_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Japan J League
 #EXTINF:-1 tvg-id="Machida_vs_Kashiwa_Reysol" tvg-name="Machida vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Machida vs Kashiwa Reysol [5:00 AM ET]
@@ -95,25 +101,28 @@ http://193.47.62.44/hls/liiiQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Gangwon_vs_Jeju_SK" tvg-name="Gangwon vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gangwon vs Jeju SK [4:30 AM ET]
 http://193.47.62.44/hls/liiiQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Pohang_vs_Seoul" tvg-name="Pohang vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Pohang vs Seoul [7:00 AM ET]
-http://193.47.62.59/hls/DYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Incheon_vs_Daejeon" tvg-name="Incheon vs Daejeon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Incheon vs Daejeon [7:00 AM ET]
 http://193.47.62.59/hls/DYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Pohang_vs_Seoul" tvg-name="Pohang vs Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Pohang vs Seoul [7:00 AM ET]
+http://193.47.62.59/hls/DYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish Liga F Women
 #EXTINF:-1 tvg-id="Costa_Adeje_Tenerife_W_vs_Sevilla_FC_W" tvg-name="Costa Adeje Tenerife W vs Sevilla FC W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Costa Adeje Tenerife W vs Sevilla FC W [7:00 AM ET]
 http://193.47.62.59/hls/DYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Granada_CF_W_vs_Deportivo_la_Coruna_W" tvg-name="Granada CF W vs Deportivo la Coruna W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Granada CF W vs Deportivo la Coruna W [7:00 AM ET]
+http://193.47.62.59/hls/DYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Sweden Division 1
 #EXTINF:-1 tvg-id="Tvaaker_vs_Trelleborg" tvg-name="Tvaaker vs Trelleborg" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Tvaaker vs Trelleborg [8:00 AM ET]
 http://193.47.62.59/hls/UYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Laholms_vs_Kristianstad" tvg-name="Laholms vs Kristianstad" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Laholms vs Kristianstad [8:00 AM ET]
-http://193.47.62.59/hls/UYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Olympic_vs_Rosengard" tvg-name="Olympic vs Rosengard" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Olympic vs Rosengard [8:00 AM ET]
 http://193.47.62.59/hls/UYYYAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Laholms_vs_Kristianstad" tvg-name="Laholms vs Kristianstad" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Laholms vs Kristianstad [8:00 AM ET]
+http://193.47.62.59/hls/UYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Superettan
 #EXTINF:-1 tvg-id="Sundsvall_vs_Ljungskile" tvg-name="Sundsvall vs Ljungskile" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="Sweden Superettan",Sundsvall vs Ljungskile [8:00 AM ET]
