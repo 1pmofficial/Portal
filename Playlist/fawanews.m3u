@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 22, 2026 at 02:00 AM EST
+#PLAYLIST: The TV App - September 22, 2026 at 03:00 AM EST
 # Total categories: 14
 # Total events: 32
 # Working streams: 32
@@ -15,11 +15,11 @@ http://193.47.62.59/hls/K999QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.59/hls/bbbbaqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Asian Games
-#EXTINF:-1 tvg-id="Philippines_U23_vs_Kuwait_U23" tvg-name="Philippines U23 vs Kuwait U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Philippines U23 vs Kuwait U23 [2:00 AM ET]
-http://193.47.62.59/hls/F666QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Vietnam_U23_vs_Uzbekistan_U23" tvg-name="Vietnam U23 vs Uzbekistan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Vietnam U23 vs Uzbekistan U23 [2:00 AM ET]
 http://193.47.62.59/hls/F666QQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Philippines_U23_vs_Kuwait_U23" tvg-name="Philippines U23 vs Kuwait U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Philippines U23 vs Kuwait U23 [2:00 AM ET]
+http://193.47.62.59/hls/F666QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball Asian Games
 #EXTINF:-1 tvg-id="Kazakhstan_W_vs_Hong_Kong_W" tvg-name="Kazakhstan W vs Hong Kong W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Kazakhstan W vs Hong Kong W [10:00 PM ET]
@@ -71,11 +71,11 @@ http://193.47.62.59/hls/bbbbaqqqqqa.m3u8|referer=http://www.fawanews.sc/|user-ag
 http://193.47.62.59/hls/bbbbaqqqqqaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_New_York_Giants___CH_2" tvg-name="Los Angeles Rams vs New York Giants - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs New York Giants - CH 2 [9:15 PM ET]
-http://193.47.62.44/hls/KKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_New_York_Giants___CH_1" tvg-name="Los Angeles Rams vs New York Giants - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs New York Giants - CH 1 [9:15 PM ET]
 http://193.47.62.50/hls/KKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Rams_vs_New_York_Giants___CH_2" tvg-name="Los Angeles Rams vs New York Giants - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Los Angeles Rams vs New York Giants - CH 2 [9:15 PM ET]
+http://193.47.62.44/hls/KKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="Montreal_Canadiens_vs_Ottawa_Senators" tvg-name="Montreal Canadiens vs Ottawa Senators" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Montreal Canadiens vs Ottawa Senators [8:00 PM ET]
