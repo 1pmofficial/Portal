@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 21, 2026 at 10:00 PM EST
+#PLAYLIST: The TV App - September 21, 2026 at 11:00 PM EST
 # Total categories: 14
 # Total events: 32
 # Working streams: 32
@@ -78,11 +78,11 @@ http://193.47.62.44/hls/KKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.50/hls/KKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
-#EXTINF:-1 tvg-id="Montreal_Canadiens_vs_Ottawa_Senators" tvg-name="Montreal Canadiens vs Ottawa Senators" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Montreal Canadiens vs Ottawa Senators [8:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5ea7fb8-499f-4c90-9077-b50f4e815fec/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Washington_Capitals_vs_Philadelphia_Flyers" tvg-name="Washington Capitals vs Philadelphia Flyers" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Washington Capitals vs Philadelphia Flyers [8:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/878715ef-af8b-4f09-a947-cbf87dcee5ad/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Montreal_Canadiens_vs_Ottawa_Senators" tvg-name="Montreal Canadiens vs Ottawa Senators" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Montreal Canadiens vs Ottawa Senators [8:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5ea7fb8-499f-4c90-9077-b50f4e815fec/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="New_Jersey_Devils_vs_New_York_Rangers" tvg-name="New Jersey Devils vs New York Rangers" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",New Jersey Devils vs New York Rangers [8:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7cc18697-454e-42bc-a58b-b8f84478fd58/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -104,15 +104,15 @@ http://193.47.62.59/hls/K999Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="New_York_Liberty_W_vs_Atlanta_Dream_W___CH_2" tvg-name="New York Liberty W vs Atlanta Dream W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",New York Liberty W vs Atlanta Dream W - CH 2 [9:00 PM ET]
 https://www.rtmpcdn.com/live/f71d8373-a17d-4a9e-af52-6bc1145ca955.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Phoenix_Mercury_W_vs_Dallas_Wings_W___CH_2" tvg-name="Phoenix Mercury W vs Dallas Wings W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Phoenix Mercury W vs Dallas Wings W - CH 2 [11:00 PM ET]
-https://www.rtmpcdn.com/live/ba96bf6e-ba62-4d91-a437-a54071e2e3b2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Phoenix_Mercury_W_vs_Dallas_Wings_W___CH_1" tvg-name="Phoenix Mercury W vs Dallas Wings W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Phoenix Mercury W vs Dallas Wings W - CH 1 [11:00 PM ET]
 http://193.47.62.59/hls/K999Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:WWE Wrestling
-#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___SD" tvg-name="WWE Monday Night RAW - SD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - SD [9:00 PM ET]
-http://193.47.62.59/hls/K999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Phoenix_Mercury_W_vs_Dallas_Wings_W___CH_2" tvg-name="Phoenix Mercury W vs Dallas Wings W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Phoenix Mercury W vs Dallas Wings W - CH 2 [11:00 PM ET]
+https://www.rtmpcdn.com/live/ba96bf6e-ba62-4d91-a437-a54071e2e3b2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:WWE Wrestling
 #EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___HD" tvg-name="WWE Monday Night RAW - HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - HD [9:00 PM ET]
 https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___SD" tvg-name="WWE Monday Night RAW - SD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - SD [9:00 PM ET]
+http://193.47.62.59/hls/K999QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
