@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 24, 2026 at 06:00 AM EST
-# Total categories: 9
-# Total events: 13
-# Working streams: 12
+#PLAYLIST: The TV App - September 24, 2026 at 07:00 AM EST
+# Total categories: 13
+# Total events: 26
+# Working streams: 26
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -18,35 +18,81 @@ http://193.47.62.50/hls/FUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Myanmar_vs_Timor_Leste" tvg-name="Myanmar vs Timor-Leste" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Myanmar vs Timor-Leste [9:00 AM ET]
 http://193.47.62.55/hls/vvvv.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Africa Cup of Nations Qualification
+#EXTINF:-1 tvg-id="Namibia_vs_Congo___CH_1" tvg-name="Namibia vs Congo - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Namibia vs Congo - CH 1 [10:00 AM ET]
+http://193.47.62.55/hls/ELLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Namibia_vs_Congo___CH_2" tvg-name="Namibia vs Congo - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Namibia vs Congo - CH 2 [10:00 AM ET]
+https://www.rtmpcdn.com/live/039a19f5-0fee-4e35-a534-e33fa11bb5cd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball Asian Games
-#EXTINF:-1 tvg-id="Chinese_Taipei_W_vs_Philippines_W" tvg-name="Chinese Taipei W vs Philippines W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei W vs Philippines W [4:00 AM ET]
-http://193.47.62.44/hls/ZAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Japan_W_vs_Thailand_W" tvg-name="Japan W vs Thailand W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Japan W vs Thailand W [7:40 AM ET]
+http://193.47.62.55/hls/vvvvA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Basketball Intercontinental Cup
+#EXTINF:-1 tvg-id="Boca_Juniors_vs_G_League_United___CH_1" tvg-name="Boca Juniors vs G League United - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Intercontinental Cup",Boca Juniors vs G League United - CH 1 [8:30 AM ET]
+http://193.47.62.55/hls/ELLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Boca_Juniors_vs_G_League_United___CH_2" tvg-name="Boca Juniors vs G League United - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Intercontinental Cup",Boca Juniors vs G League United - CH 2 [8:30 AM ET]
+https://www.rtmpcdn.com/live/226939b4-59ca-487b-b96b-cae688e67687.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball NBL
 #EXTINF:-1 tvg-id="South_East_Melbourne_vs_Melbourne_United" tvg-name="South East Melbourne vs Melbourne United" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",South East Melbourne vs Melbourne United [6:30 AM ET]
 http://193.47.62.50/hls/FUUUAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Perth_vs_Adelaide" tvg-name="Perth vs Adelaide" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Perth vs Adelaide [8:30 AM ET]
+http://193.47.62.50/hls/FUUUAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="South_Africa_vs_Australia" tvg-name="South Africa vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",South Africa vs Australia [5:00 AM ET]
-http://193.47.62.59/hls/RRRRA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.59/hls/RRRRAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="England_vs_Sri_Lanka" tvg-name="England vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Sri Lanka [8:30 AM ET]
+http://193.47.62.59/hls/ELLLA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:FIA Formula 2
+#EXTINF:-1 tvg-id="FIA_Formula_2_Azerbaijan" tvg-name="FIA Formula 2 Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Azerbaijan [6:00 AM ET]
+http://193.47.62.44/hls/RRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Formula 1 GP
-#EXTINF:-1 tvg-id="Formula_1_GP_Azerbaijan" tvg-name="Formula 1 GP Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Azerbaijan [5:00 AM ET]
+#EXTINF:-1 tvg-id="Formula_1_GP_Azerbaijan" tvg-name="Formula 1 GP Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Azerbaijan [8:30 AM ET]
 http://193.47.62.44/hls/RRRR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Japan_vs_Uruguay" tvg-name="Japan vs Uruguay" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Uruguay [7:05 AM ET]
+#EXTINF:-1 tvg-id="Japan_vs_Uruguay___CH_1" tvg-name="Japan vs Uruguay - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Uruguay - CH 1 [7:05 AM ET]
 http://193.47.62.50/hls/FUUUAaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="South_Korea_vs_Ecuador" tvg-name="South Korea vs Ecuador" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Ecuador [8:00 AM ET]
+#EXTINF:-1 tvg-id="Japan_vs_Uruguay___CH_2" tvg-name="Japan vs Uruguay - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Uruguay - CH 2 [7:05 AM ET]
+https://www.rtmpcdn.com/live/3f083fcc-be0f-4f42-b1d2-ba45579bc82f.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="South_Korea_vs_Ecuador___CH_1" tvg-name="South Korea vs Ecuador - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Ecuador - CH 1 [8:00 AM ET]
 http://193.47.62.50/hls/FUUUAaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="China_vs_Maldives" tvg-name="China vs Maldives" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",China vs Maldives [8:35 AM ET]
+#EXTINF:-1 tvg-id="South_Korea_vs_Ecuador___CH_2" tvg-name="South Korea vs Ecuador - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Ecuador - CH 2 [8:00 AM ET]
+https://www.rtmpcdn.com/live/27a6f2c7-7556-45a5-9712-48dccf887f22.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="China_vs_Maldives___CH_1" tvg-name="China vs Maldives - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",China vs Maldives - CH 1 [8:35 AM ET]
 http://193.47.62.50/hls/FUUUAaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Rugby NZ NPC
-#EXTINF:-1 tvg-id="Tasman_vs_Bay_of_Plenty" tvg-name="Tasman vs Bay of Plenty" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Tasman vs Bay of Plenty [4:10 AM ET]
-http://193.47.62.44/hls/ZAAAQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="China_vs_Maldives___CH_2" tvg-name="China vs Maldives - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",China vs Maldives - CH 2 [8:35 AM ET]
+https://www.rtmpcdn.com/live/f8ff6ca7-4b00-4536-b87a-f71708c80148.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uzbekistan_vs_Iran___CH_2" tvg-name="Uzbekistan vs Iran - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Iran - CH 2 [11:00 AM ET]
+https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uzbekistan_vs_Iran___CH_1" tvg-name="Uzbekistan vs Iran - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Iran - CH 1 [11:00 AM ET]
+http://193.47.62.55/hls/ELLLAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_FedEx_Open_de_France" tvg-name="Golf FedEx Open de France" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="Golf",Golf FedEx Open de France [8:30 AM ET]
+http://193.47.62.55/hls/ELLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Horse Racing
+#EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
+http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
+http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Billie_Jean_King_Cup" tvg-name="Tennis WTA Billie Jean King Cup" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Billie Jean King Cup [6:45 AM ET]
