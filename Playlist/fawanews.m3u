@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 25, 2026 at 01:00 AM EST
+#PLAYLIST: The TV App - September 25, 2026 at 02:00 AM EST
 # Total categories: 13
 # Total events: 24
 # Working streams: 24
@@ -51,21 +51,21 @@ http://193.47.62.59/hls/FOOOAAAQAA.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.44/hls/EIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Green_Bay_Packers_vs_Atlanta_Falcons___CH_2" tvg-name="Green Bay Packers vs Atlanta Falcons - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Green Bay Packers vs Atlanta Falcons - CH 2 [9:15 PM ET]
-http://193.47.62.50/hls/GEEEQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Green_Bay_Packers_vs_Atlanta_Falcons___CH_1" tvg-name="Green Bay Packers vs Atlanta Falcons - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Green Bay Packers vs Atlanta Falcons - CH 1 [9:15 PM ET]
 http://193.47.62.50/hls/GEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Green_Bay_Packers_vs_Atlanta_Falcons___CH_2" tvg-name="Green Bay Packers vs Atlanta Falcons - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Green Bay Packers vs Atlanta Falcons - CH 2 [9:15 PM ET]
+http://193.47.62.50/hls/GEEEQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="St_Louis_Blues_vs_Chicago_Blackhawks" tvg-name="St Louis Blues vs Chicago Blackhawks" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",St Louis Blues vs Chicago Blackhawks [9:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50170369-7a65-4146-a686-3c15c6cba2dc/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Vegas_Golden_Knights_vs_Utah_Mammoth" tvg-name="Vegas Golden Knights vs Utah Mammoth" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Vegas Golden Knights vs Utah Mammoth [11:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5d1ad283-7afa-422a-90f1-5fecf6c38909/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="San_Jose_Sharks_vs_Anaheim_Ducks" tvg-name="San Jose Sharks vs Anaheim Ducks" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",San Jose Sharks vs Anaheim Ducks [11:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/604d7f64-2cb0-48d3-b741-44b969e3119d/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vegas_Golden_Knights_vs_Utah_Mammoth" tvg-name="Vegas Golden Knights vs Utah Mammoth" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Vegas Golden Knights vs Utah Mammoth [11:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5d1ad283-7afa-422a-90f1-5fecf6c38909/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby NZ NPC
 #EXTINF:-1 tvg-id="Auckland_vs_Manawatu" tvg-name="Auckland vs Manawatu" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Auckland vs Manawatu [4:10 AM ET]
