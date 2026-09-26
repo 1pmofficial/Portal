@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 26, 2026 at 04:00 AM EST
-# Total categories: 5
-# Total events: 6
-# Working streams: 6
+#PLAYLIST: The TV App - September 26, 2026 at 05:00 AM EST
+# Total categories: 7
+# Total events: 8
+# Working streams: 8
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -12,12 +12,16 @@ http://1pixmedia.better-than.tv/video.mp4
 http://193.47.62.50/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Pakistan_vs_Thailand" tvg-name="Pakistan vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Pakistan vs Thailand [5:00 AM ET]
+#EXTINF:-1 tvg-id="Pakistan_vs_Thailand" tvg-name="Pakistan vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Pakistan vs Thailand [6:00 AM ET]
 http://193.47.62.50/hls/CCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Asian Games
 #EXTINF:-1 tvg-id="China_U23_vs_Thailand_U23" tvg-name="China U23 vs Thailand U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",China U23 vs Thailand U23 [3:00 AM ET]
 http://193.47.62.44/hls/ATTTAaaaaaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Basketball Asian Games
+#EXTINF:-1 tvg-id="Chinese_Taipei_W_vs_China_W" tvg-name="Chinese Taipei W vs China W" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei W vs China W [4:00 AM ET]
+http://193.47.62.50/hls/CCCCAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:FIA Formula 2
 #EXTINF:-1 tvg-id="FIA_Formula_2_Azerbaijan" tvg-name="FIA Formula 2 Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg" group-title="FIA Formula 2",FIA Formula 2 Azerbaijan [4:00 AM ET]
@@ -29,3 +33,7 @@ http://193.47.62.44/hls/ATTTAa.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="North_Harbour_vs_Otago" tvg-name="North Harbour vs Otago" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",North Harbour vs Otago [4:10 AM ET]
 http://193.47.62.44/hls/ATTTAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis WTA
+#EXTINF:-1 tvg-id="Tennis_WTA_Billie_Jean_King_Cup" tvg-name="Tennis WTA Billie Jean King Cup" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Billie Jean King Cup [6:00 AM ET]
+http://193.47.62.41/hls/XAXAXADDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
