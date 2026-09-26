@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 26, 2026 at 06:00 AM EST
-# Total categories: 13
-# Total events: 16
-# Working streams: 16
+#PLAYLIST: The TV App - September 26, 2026 at 07:00 AM EST
+# Total categories: 14
+# Total events: 18
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -27,8 +27,11 @@ http://193.47.62.50/hls/GNNNAA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.50/hls/fiii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Formula 1 GP --:--
-#EXTINF:-1 tvg-id="Formula_1_GP_Azerbaijan" tvg-name="Formula 1 GP Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Azerbaijan [TBD]
+#EXTINF:-1 tvg-id="Formula_1_GP_Azerbaijan___SD" tvg-name="Formula 1 GP Azerbaijan - SD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Azerbaijan - SD [TBD]
 http://193.47.62.55/hls/vlll.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Formula_1_GP_Azerbaijan___HD" tvg-name="Formula 1 GP Azerbaijan - HD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Azerbaijan - HD [TBD]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_FedEx_Open_de_France" tvg-name="Golf FedEx Open de France" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="Golf",Golf FedEx Open de France [8:00 AM ET]
@@ -38,23 +41,27 @@ http://193.47.62.50/hls/FPPPVVA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Golf_PGA_Presidents_Cup" tvg-name="Golf PGA Presidents Cup" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Presidents Cup [8:00 AM ET]
 http://193.47.62.50/hls/FPPPVVAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Italy Women Serie A
+#EXTINF:-1 tvg-id="Juventus_W_vs_Napoli_W" tvg-name="Juventus W vs Napoli W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Women Serie A",Juventus W vs Napoli W [7:30 AM ET]
+http://193.47.62.50/hls/FPPPVVAAAAq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Sydney_Roosters_W_vs_Canberra_Raiders_W" tvg-name="Sydney Roosters W vs Canberra Raiders W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Sydney Roosters W vs Canberra Raiders W [6:50 AM ET]
 http://193.47.62.50/hls/GNNNAAAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish Liga F Women
-#EXTINF:-1 tvg-id="Badalona_W_vs_Granada_CF_W" tvg-name="Badalona W vs Granada CF W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Badalona W vs Granada CF W [7:00 AM ET]
-http://193.47.62.50/hls/GNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Real_Sociedad_W_vs_Real_Madrid_W" tvg-name="Real Sociedad W vs Real Madrid W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Real Sociedad W vs Real Madrid W [7:00 AM ET]
 http://193.47.62.50/hls/GNNNA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Sweden Division 1
-#EXTINF:-1 tvg-id="Trollhattan_vs_Tvaaker" tvg-name="Trollhattan vs Tvaaker" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Trollhattan vs Tvaaker [8:00 AM ET]
-http://193.47.62.50/hls/FPPPVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Badalona_W_vs_Granada_CF_W" tvg-name="Badalona W vs Granada CF W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Badalona W vs Granada CF W [7:00 AM ET]
+http://193.47.62.50/hls/GNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Sweden Division 1
 #EXTINF:-1 tvg-id="Rosengard_vs_Hassleholms_IF" tvg-name="Rosengard vs Hassleholms IF" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Rosengard vs Hassleholms IF [8:00 AM ET]
 http://193.47.62.50/hls/FPPPV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Trollhattan_vs_Tvaaker" tvg-name="Trollhattan vs Tvaaker" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Trollhattan vs Tvaaker [8:00 AM ET]
+http://193.47.62.50/hls/FPPPVV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Women Allsvenskan
 #EXTINF:-1 tvg-id="Kristianstad_W_vs_Vittsjo_W" tvg-name="Kristianstad W vs Vittsjo W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Kristianstad W vs Vittsjo W [8:00 AM ET]
