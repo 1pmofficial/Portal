@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 26, 2026 at 06:00 PM EST
-# Total categories: 21
-# Total events: 60
-# Working streams: 60
+#PLAYLIST: The TV App - September 26, 2026 at 07:00 PM EST
+# Total categories: 22
+# Total events: 78
+# Working streams: 78
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:AEW Wrestling
+#EXTINF:-1 tvg-id="AEW_All_Out" tvg-name="AEW All Out" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="AEW Wrestling",AEW All Out [8:00 PM ET]
+http://193.47.62.41/hls/ZAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Argentina Super Cup
 #EXTINF:-1 tvg-id="Estudiantes_LP_vs_Rosario_Central" tvg-name="Estudiantes LP vs Rosario Central" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Super Cup",Estudiantes LP vs Rosario Central [4:00 PM ET]
@@ -16,6 +20,9 @@ http://193.47.62.50/hls/TOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.50/hls/TOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Boxing --:--
+#EXTINF:-1 tvg-id="Misfits_Boxing___Cejudo_vs_Walton" tvg-name="Misfits Boxing : Cejudo vs Walton" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing --:--",Misfits Boxing : Cejudo vs Walton [TBD]
+http://193.47.62.59/hls/geees.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Zuffa_Boxing_11___Fisher_vs_Pirotton___CH_1" tvg-name="Zuffa Boxing 11 : Fisher vs Pirotton - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing --:--",Zuffa Boxing 11 : Fisher vs Pirotton - CH 1 [TBD]
 http://193.47.62.50/hls/DSSS1QQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -39,10 +46,16 @@ http://193.47.62.50/hls/AFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.55/hls/gagagaAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CFL Canadian Football
+#EXTINF:-1 tvg-id="Edmonton_Elks_vs_Hamilton_Tiger_Cats" tvg-name="Edmonton Elks vs Hamilton Tiger-Cats" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="CFL Canadian Football",Edmonton Elks vs Hamilton Tiger-Cats [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Ottawa_Redblacks_vs_Calgary_Stampeders" tvg-name="Ottawa Redblacks vs Calgary Stampeders" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg" group-title="CFL Canadian Football",Ottawa Redblacks vs Calgary Stampeders [4:00 PM ET]
 http://193.47.62.50/hls/TOOOAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CONCACAF Nations League
+#EXTINF:-1 tvg-id="Antigua_and_Barbuda_vs_Anguilla" tvg-name="Antigua and Barbuda vs Anguilla" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Antigua and Barbuda vs Anguilla [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Saint_Martin_vs_United_States_Virgin_Islands" tvg-name="Saint Martin vs United States Virgin Islands" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Saint Martin vs United States Virgin Islands [5:00 PM ET]
 http://193.47.62.50/hls/accccQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -50,14 +63,23 @@ http://193.47.62.50/hls/accccQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 http://193.47.62.55/hls/gagagaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Canada Premier League
+#EXTINF:-1 tvg-id="Vancouver_FC_vs_Forge" tvg-name="Vancouver FC vs Forge" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",Vancouver FC vs Forge [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="HFX_Wanderers_vs_Atl_Ottawa" tvg-name="HFX Wanderers vs Atl Ottawa" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",HFX Wanderers vs Atl Ottawa [5:00 PM ET]
 http://193.47.62.50/hls/accccQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Chile Copa
+#EXTINF:-1 tvg-id="U_Catolica_vs_Union_La_Calera" tvg-name="U Catolica vs Union La Calera" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",U Catolica vs Union La Calera [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Nublense_vs_D_Puerto_Montt" tvg-name="Nublense vs D Puerto Montt" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",Nublense vs D Puerto Montt [5:30 PM ET]
 http://193.47.62.50/hls/zuuuQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Colombia Primera A
+#EXTINF:-1 tvg-id="Cucuta_vs_Llaneros" tvg-name="Cucuta vs Llaneros" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Cucuta vs Llaneros [8:15 PM ET]
+http://193.47.62.55/hls/gagagaAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Pereira_vs_Inter_Bogota" tvg-name="Pereira vs Inter Bogota" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Pereira vs Inter Bogota [6:00 PM ET]
 http://193.47.62.55/hls/gagagaAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -66,17 +88,32 @@ http://193.47.62.55/hls/gagagaAAAA.m3u8|referer=http://www.fawanews.sc/|user-age
 http://193.47.62.55/hls/vtttQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="USA_vs_Peru___CH_2" tvg-name="USA vs Peru - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",USA vs Peru - CH 2 [5:30 PM ET]
-https://www.rtmpcdn.com/live/16c533fc-221f-4ab9-90bb-141e1d2f9cd7.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Canada_vs_Chile" tvg-name="Canada vs Chile" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Canada vs Chile [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="USA_vs_Peru___CH_1" tvg-name="USA vs Peru - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",USA vs Peru - CH 1 [5:30 PM ET]
 http://193.47.62.50/hls/zuuuQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="USA_vs_Peru___CH_2" tvg-name="USA vs Peru - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",USA vs Peru - CH 2 [5:30 PM ET]
+https://www.rtmpcdn.com/live/16c533fc-221f-4ab9-90bb-141e1d2f9cd7.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf PGA
 #EXTINF:-1 tvg-id="Golf_PGA_Presidents_Cup" tvg-name="Golf PGA Presidents Cup" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Presidents Cup [9:00 AM ET]
 http://193.47.62.50/hls/FPPPVVAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:MLB Baseball
+#EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_St_Louis_Cardinals" tvg-name="Milwaukee Brewers vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs St Louis Cardinals [8:10 PM ET]
+http://193.47.62.41/hls/ZAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kansas_City_Royals_vs_Cleveland_Guardians" tvg-name="Kansas City Royals vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Kansas City Royals vs Cleveland Guardians [8:10 PM ET]
+http://193.47.62.41/hls/ZAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chicago_White_Sox_vs_Colorado_Rockies" tvg-name="Chicago White Sox vs Colorado Rockies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Colorado Rockies [8:10 PM ET]
+http://193.47.62.41/hls/ZAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Philadelphia_Phillies_vs_Tampa_Bay_Rays" tvg-name="Philadelphia Phillies vs Tampa Bay Rays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs Tampa Bay Rays [8:15 PM ET]
+http://193.47.62.41/hls/ZAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Toronto_Blue_Jays_vs_Cincinnati_Reds" tvg-name="Toronto Blue Jays vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Toronto Blue Jays vs Cincinnati Reds [4:07 PM ET]
 http://193.47.62.50/hls/TOOOAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -96,25 +133,46 @@ http://193.47.62.41/hls/AYYYYa.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="MMA_BKFC_94___Till_vs_Romero___CH_2" tvg-name="MMA BKFC 94 : Till vs Romero - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg" group-title="MMA Fighting --:--",MMA BKFC 94 : Till vs Romero - CH 2 [TBD]
 https://admin2.formaturamaxi.com.br/ppv3.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="MMA_Oktagon_94___CH_1" tvg-name="MMA Oktagon 94 - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg" group-title="MMA Fighting --:--",MMA Oktagon 94 - CH 1 [TBD]
-http://193.47.62.50/hls/kikikiA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="MMA_Oktagon_94___CH_2" tvg-name="MMA Oktagon 94 - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg" group-title="MMA Fighting --:--",MMA Oktagon 94 - CH 2 [TBD]
 https://admin2.formaturamaxi.com.br/ppv4.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="MMA_Oktagon_94___CH_1" tvg-name="MMA Oktagon 94 - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg" group-title="MMA Fighting --:--",MMA Oktagon 94 - CH 1 [TBD]
+http://193.47.62.50/hls/kikikiA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Mexico Liga MX
+#EXTINF:-1 tvg-id="Guadalajara_Chivas_vs_Queretaro" tvg-name="Guadalajara Chivas vs Queretaro" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Guadalajara Chivas vs Queretaro [8:07 PM ET]
+http://193.47.62.41/hls/ZAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Cruz_Azul_vs_Toluca" tvg-name="Cruz Azul vs Toluca" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Toluca [7:50 PM ET]
 http://193.47.62.55/hls/vtttQQQQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NCAA American Football
+#EXTINF:-1 tvg-id="Western_Kentucky_vs_Mercyhurst" tvg-name="Western Kentucky vs Mercyhurst" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Western Kentucky vs Mercyhurst [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="West_Virginia_vs_Oklahoma_State" tvg-name="West Virginia vs Oklahoma State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",West Virginia vs Oklahoma State [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tulane_vs_Southern_Miss" tvg-name="Tulane vs Southern Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Tulane vs Southern Miss [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Jacksonville_State_vs_Middle_Tennessee_St" tvg-name="Jacksonville State vs Middle Tennessee St" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Jacksonville State vs Middle Tennessee St [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Arkansas_State_vs_Kennesaw_State" tvg-name="Arkansas State vs Kennesaw State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Arkansas State vs Kennesaw State [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cincinnati_Bearcats_vs_Kansas_State" tvg-name="Cincinnati Bearcats vs Kansas State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Cincinnati Bearcats vs Kansas State [8:00 PM ET]
+http://193.47.62.41/hls/OUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Alabama_vs_South_Carolina" tvg-name="Alabama vs South Carolina" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Alabama vs South Carolina [8:00 PM ET]
+http://193.47.62.41/hls/OUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Florida_State_vs_Central_Arkansas" tvg-name="Florida State vs Central Arkansas" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Florida State vs Central Arkansas [4:00 PM ET]
 http://193.47.62.50/hls/TOOOAAQQQQQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="UCF_vs_TCU" tvg-name="UCF vs TCU" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UCF vs TCU [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAAAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Michigan_vs_Iowa" tvg-name="Michigan vs Iowa" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Michigan vs Iowa [4:30 PM ET]
-http://193.47.62.50/hls/RLLLAAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Ohio_vs_Stonehill" tvg-name="Ohio vs Stonehill" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Ohio vs Stonehill [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -122,23 +180,26 @@ http://193.47.62.50/hls/RLLLAAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user
 #EXTINF:-1 tvg-id="New_Mexico_State_vs_New_Mexico" tvg-name="New Mexico State vs New Mexico" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",New Mexico State vs New Mexico [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Michigan_vs_Iowa" tvg-name="Michigan vs Iowa" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Michigan vs Iowa [4:30 PM ET]
+http://193.47.62.50/hls/RLLLAAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Marshall_vs_Gardner_Webb" tvg-name="Marshall vs Gardner-Webb" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Marshall vs Gardner-Webb [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Iowa_State_vs_Utah" tvg-name="Iowa State vs Utah" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Iowa State vs Utah [4:30 PM ET]
-http://193.47.62.50/hls/RLLLAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Georgia_vs_Oklahoma" tvg-name="Georgia vs Oklahoma" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Georgia vs Oklahoma [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Iowa_State_vs_Utah" tvg-name="Iowa State vs Utah" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Iowa State vs Utah [4:30 PM ET]
+http://193.47.62.50/hls/RLLLAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Duke_vs_William_Mary_Tribe" tvg-name="Duke vs William-Mary Tribe" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Duke vs William-Mary Tribe [4:30 PM ET]
 http://193.47.62.50/hls/RLLLAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Wyoming_vs_Hawaii" tvg-name="Wyoming vs Hawaii" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Wyoming vs Hawaii [4:30 PM ET]
-http://193.47.62.50/hls/RLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Buffalo_vs_Robert_Morris" tvg-name="Buffalo vs Robert Morris" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Buffalo vs Robert Morris [4:30 PM ET]
 http://193.47.62.50/hls/RLLLA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Wyoming_vs_Hawaii" tvg-name="Wyoming vs Hawaii" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Wyoming vs Hawaii [4:30 PM ET]
+http://193.47.62.50/hls/RLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Florida_Gators_vs_Ole_Miss" tvg-name="Florida Gators vs Ole Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Florida Gators vs Ole Miss [4:45 PM ET]
 http://193.47.62.50/hls/RLLLAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -164,23 +225,17 @@ http://193.47.62.55/hls/gagagaA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Bowling_Green_vs_South_Florida" tvg-name="Bowling Green vs South Florida" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Bowling Green vs South Florida [6:00 PM ET]
 http://193.47.62.55/hls/gagaga.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Virginia_vs_Delaware_Fightin" tvg-name="Virginia vs Delaware Fightin" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Virginia vs Delaware Fightin [7:00 PM ET]
-http://193.47.62.55/hls/vtttQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Old_Dominion_vs_James_Madison" tvg-name="Old Dominion vs James Madison" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Old Dominion vs James Madison [7:00 PM ET]
 http://193.47.62.55/hls/vtttQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Texas_State_Bobcats_vs_Incarnate_Word" tvg-name="Texas State Bobcats vs Incarnate Word" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas State Bobcats vs Incarnate Word [7:00 PM ET]
-http://193.47.62.55/hls/vtttQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Florida_International_vs_LIU_Sharks" tvg-name="Florida International vs LIU Sharks" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Florida International vs LIU Sharks [7:00 PM ET]
-http://193.47.62.55/hls/vtttQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Charlotte_vs_Louisiana_Lafayette" tvg-name="Charlotte vs Louisiana-Lafayette" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Charlotte vs Louisiana-Lafayette [7:30 PM ET]
-http://193.47.62.55/hls/vtttQQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Virginia_vs_Delaware_Fightin" tvg-name="Virginia vs Delaware Fightin" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Virginia vs Delaware Fightin [7:00 PM ET]
+http://193.47.62.55/hls/vtttQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Miami_FL_vs_Central_Michigan" tvg-name="Miami FL vs Central Michigan" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Miami FL vs Central Michigan [7:30 PM ET]
 http://193.47.62.55/hls/vtttQQQQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Charlotte_vs_Louisiana_Lafayette" tvg-name="Charlotte vs Louisiana-Lafayette" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Charlotte vs Louisiana-Lafayette [7:30 PM ET]
+http://193.47.62.55/hls/vtttQQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Paraguay Copa
 #EXTINF:-1 tvg-id="Rubio_Nu_vs_2_de_Mayo" tvg-name="Rubio Nu vs 2 de Mayo" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Copa",Rubio Nu vs 2 de Mayo [4:30 PM ET]
@@ -194,11 +249,11 @@ http://193.47.62.55/hls/vttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.50/hls/abbbQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UFC Fight Night --:--
-#EXTINF:-1 tvg-id="UFC___Brady_Hiestand_vs_Rinya_Nakamura___CH_2" tvg-name="UFC : Brady Hiestand vs Rinya Nakamura - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC : Brady Hiestand vs Rinya Nakamura - CH 2 [TBD]
-https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="UFC___Brady_Hiestand_vs_Rinya_Nakamura___CH_1" tvg-name="UFC : Brady Hiestand vs Rinya Nakamura - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC : Brady Hiestand vs Rinya Nakamura - CH 1 [TBD]
 http://193.47.62.59/hls/geee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="UFC___Brady_Hiestand_vs_Rinya_Nakamura___CH_2" tvg-name="UFC : Brady Hiestand vs Rinya Nakamura - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg" group-title="UFC Fight Night --:--",UFC : Brady Hiestand vs Rinya Nakamura - CH 2 [TBD]
+https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:USA NWSL Women
 #EXTINF:-1 tvg-id="Washington_Spirit_W_vs_Angel_City_W" tvg-name="Washington Spirit W vs Angel City W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Washington Spirit W vs Angel City W [7:30 PM ET]
