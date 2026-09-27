@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 27, 2026 at 06:00 AM EST
-# Total categories: 13
-# Total events: 16
-# Working streams: 16
+#PLAYLIST: The TV App - September 27, 2026 at 07:00 AM EST
+# Total categories: 17
+# Total events: 24
+# Working streams: 24
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -29,36 +29,64 @@ http://193.47.62.55/hls/bbbbbAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="England_vs_Sri_Lanka" tvg-name="England vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Sri Lanka [6:30 AM ET]
 http://193.47.62.55/hls/bbbbbAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_Pro_Series_Zagreb" tvg-name="Cycling Pro Series Zagreb" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling Pro Series Zagreb [8:00 AM ET]
+http://193.47.62.55/hls/RAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_FedEx_Open_de_France" tvg-name="Golf FedEx Open de France" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="Golf",Golf FedEx Open de France [7:30 AM ET]
 http://193.47.62.50/hls/FPPPVVA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
-#EXTINF:-1 tvg-id="Horse_Racing_UK" tvg-name="Horse Racing UK" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing UK [9:00 AM ET]
+#EXTINF:-1 tvg-id="Horse_Racing_UK" tvg-name="Horse Racing UK" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing UK [7:00 AM ET]
 http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Italy Women Serie A
-#EXTINF:-1 tvg-id="Ternana_W_vs_Como_W" tvg-name="Ternana W vs Como W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Women Serie A",Ternana W vs Como W [7:30 AM ET]
-http://193.47.62.44/hls/BHHHAAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Inter_W_vs_Fiorentina_W" tvg-name="Inter W vs Fiorentina W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Women Serie A",Inter W vs Fiorentina W [8:00 AM ET]
+http://193.47.62.55/hls/YAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby Friendly
 #EXTINF:-1 tvg-id="Australia_vs_South_Africa" tvg-name="Australia vs South Africa" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",Australia vs South Africa [6:30 AM ET]
 http://193.47.62.59/hls/AEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Scottish Women Premiership
+#EXTINF:-1 tvg-id="Rangers_W_vs_Celtic_W" tvg-name="Rangers W vs Celtic W" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="Scottish Women Premiership",Rangers W vs Celtic W [8:00 AM ET]
+http://193.47.62.41/hls/RAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:South Africa Diski Challenge
+#EXTINF:-1 tvg-id="Olando_Pirates_U23_vs_Kaizer_Chiefs_U23" tvg-name="Olando Pirates U23 vs Kaizer Chiefs U23" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png" group-title="South Africa Diski Challenge",Olando Pirates U23 vs Kaizer Chiefs U23 [8:00 AM ET]
+http://193.47.62.41/hls/ZAZAZA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
 #EXTINF:-1 tvg-id="Gangwon_vs_Incheon" tvg-name="Gangwon vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gangwon vs Incheon [7:00 AM ET]
 http://193.47.62.44/hls/BHHHAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish Liga F Women
-#EXTINF:-1 tvg-id="Athletic_Bilbao_W_vs_Atl_Madrid_W" tvg-name="Athletic Bilbao W vs Atl Madrid W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Athletic Bilbao W vs Atl Madrid W [7:00 AM ET]
-http://193.47.62.44/hls/BHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Valencia_W_vs_Costa_Adeje_Tenerife_W" tvg-name="Valencia W vs Costa Adeje Tenerife W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Valencia W vs Costa Adeje Tenerife W [7:00 AM ET]
 http://193.47.62.44/hls/BHHHAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Athletic_Bilbao_W_vs_Atl_Madrid_W" tvg-name="Athletic Bilbao W vs Atl Madrid W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Athletic Bilbao W vs Atl Madrid W [7:00 AM ET]
+http://193.47.62.44/hls/BHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Sweden Division 1
 #EXTINF:-1 tvg-id="Umea_FC_vs_FBK_Karlstad" tvg-name="Umea FC vs FBK Karlstad" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Umea FC vs FBK Karlstad [7:00 AM ET]
 http://193.47.62.44/hls/BHHHAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Arlanda_vs_Enkoping_SK" tvg-name="Arlanda vs Enkoping SK" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Arlanda vs Enkoping SK [8:00 AM ET]
+http://193.47.62.55/hls/YAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Trelleborg_vs_Angelholm" tvg-name="Trelleborg vs Angelholm" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Trelleborg vs Angelholm [8:00 AM ET]
+http://193.47.62.55/hls/YAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Eskilsminne_vs_AFC_Malmo" tvg-name="Eskilsminne vs AFC Malmo" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Eskilsminne vs AFC Malmo [8:00 AM ET]
+http://193.47.62.55/hls/YAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Sweden Women Allsvenskan
+#EXTINF:-1 tvg-id="IF_Brommapojkarna_W_vs_Malmo_FF_W" tvg-name="IF Brommapojkarna W vs Malmo FF W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",IF Brommapojkarna W vs Malmo FF W [8:00 AM ET]
+http://193.47.62.55/hls/YAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Rosengard_W_vs_Pitea_W" tvg-name="Rosengard W vs Pitea W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Rosengard W vs Pitea W [8:00 AM ET]
+http://193.47.62.55/hls/YAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis
 #EXTINF:-1 tvg-id="Tennis_Laver_Cup" tvg-name="Tennis Laver Cup" tvg-logo="https://pbs.twimg.com/profile_images/1316345715359059969/Ue5DSzp4_400x400.jpg" group-title="Tennis",Tennis Laver Cup [8:00 AM ET]
