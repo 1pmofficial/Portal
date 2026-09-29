@@ -1,54 +1,35 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 29, 2026 at 03:00 AM EST
-# Total categories: 7
-# Total events: 13
-# Working streams: 13
+#PLAYLIST: The TV App - September 29, 2026 at 04:00 AM EST
+# Total categories: 3
+# Total events: 9
+# Working streams: 8
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Brazil Serie B
-#EXTINF:-1 tvg-id="America_MG_vs_Juventude" tvg-name="America MG vs Juventude" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",America MG vs Juventude [7:30 PM ET]
-http://193.47.62.50/hls/DDDDQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Asian Games
+#EXTINF:-1 tvg-id="North_Korea_W_vs_China_W" tvg-name="North Korea W vs China W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",North Korea W vs China W [3:00 AM ET]
+http://193.47.62.50/hls/YBBBAaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:CONCACAF Nations League
-#EXTINF:-1 tvg-id="Jamaica_vs_Honduras" tvg-name="Jamaica vs Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Jamaica vs Honduras [9:00 PM ET]
-http://193.47.62.50/hls/YBBBAaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Japan_W_vs_South_Korea_W" tvg-name="Japan W vs South Korea W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Japan W vs South Korea W [7:30 AM ET]
+http://193.47.62.55/hls/veeeA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Saint_Kitts_and_Nevis_vs_Grenada" tvg-name="Saint Kitts and Nevis vs Grenada" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Saint Kitts and Nevis vs Grenada [9:00 PM ET]
-http://193.47.62.50/hls/YBBBAaaaqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Australia_vs_Brazil___CH_1" tvg-name="Australia vs Brazil - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil - CH 1 [7:00 AM ET]
+http://193.47.62.55/hls/veeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Saint_Lucia_vs_Bermuda" tvg-name="Saint Lucia vs Bermuda" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Saint Lucia vs Bermuda [9:00 PM ET]
-http://193.47.62.50/hls/YBBBAaaaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Australia_vs_Brazil___CH_2" tvg-name="Australia vs Brazil - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil - CH 2 [7:00 AM ET]
+https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Guatemala_vs_El_Salvador" tvg-name="Guatemala vs El Salvador" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Guatemala vs El Salvador [11:00 PM ET]
-http://193.47.62.50/hls/YBBBAaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Snooker --:--
+#EXTINF:-1 tvg-id="Snooker_Shenzhen_Open___Table_1" tvg-name="Snooker Shenzhen Open - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open - Table 1 [TBD]
+http://193.47.62.44/hls/grrrAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Suriname_vs_Martinique" tvg-name="Suriname vs Martinique" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Suriname vs Martinique [7:00 PM ET]
-http://193.47.62.50/hls/DDDDQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Shenzhen_Open___Table_3" tvg-name="Snooker Shenzhen Open - Table 3" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open - Table 3 [TBD]
+http://193.47.62.44/hls/grrrA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Colombia Primera B
-#EXTINF:-1 tvg-id="Quindio_vs_Bogota" tvg-name="Quindio vs Bogota" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Quindio vs Bogota [8:00 PM ET]
-http://193.47.62.50/hls/YBBB.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Shenzhen_Open___Table_2" tvg-name="Snooker Shenzhen Open - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open - Table 2 [TBD]
+http://193.47.62.44/hls/grrrAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Chicago_Bears_vs_Philadelphia_Eagles___CH_1_ABC" tvg-name="Chicago Bears vs Philadelphia Eagles - CH 1 ABC" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles - CH 1 ABC [9:15 PM ET]
-http://193.47.62.44/hls/ZGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Chicago_Bears_vs_Philadelphia_Eagles___CH_2_TSN" tvg-name="Chicago Bears vs Philadelphia Eagles - CH 2 TSN" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles - CH 2 TSN [9:15 PM ET]
-http://193.47.62.59/hls/ZGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Chicago_Bears_vs_Philadelphia_Eagles___CH_3_SKY" tvg-name="Chicago Bears vs Philadelphia Eagles - CH 3 SKY" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles - CH 3 SKY [9:15 PM ET]
-http://193.47.62.55/hls/ZGGGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Paraguay Copa
-#EXTINF:-1 tvg-id="Libertad_Asuncion_vs_Olimpia_Asuncion" tvg-name="Libertad Asuncion vs Olimpia Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Copa",Libertad Asuncion vs Olimpia Asuncion [7:00 PM ET]
-http://193.47.62.50/hls/DDDDQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Uruguay Liga AUF
-#EXTINF:-1 tvg-id="Wanderers_vs_Albion" tvg-name="Wanderers vs Albion" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg" group-title="Uruguay Liga AUF",Wanderers vs Albion [8:00 PM ET]
-http://193.47.62.50/hls/YBBBA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:WWE Wrestling
-#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW" tvg-name="WWE Monday Night RAW" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW [9:00 PM ET]
-http://193.47.62.41/hls/YBBBAaaaqqq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Snooker_Shenzhen_Open___Table_4" tvg-name="Snooker Shenzhen Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open - Table 4 [TBD]
+http://193.47.62.44/hls/grrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
