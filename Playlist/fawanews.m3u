@@ -1,15 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - September 29, 2026 at 06:00 AM EST
-# Total categories: 4
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - September 29, 2026 at 07:00 AM EST
+# Total categories: 5
+# Total events: 12
+# Working streams: 12
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:ASEAN Cup
 #EXTINF:-1 tvg-id="Philippines_vs_Pakistan" tvg-name="Philippines vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Cup",Philippines vs Pakistan [6:00 AM ET]
-http://193.47.62.55/hls/veee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/veeex.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Asian Games
 #EXTINF:-1 tvg-id="North_Korea_W_vs_China_W" tvg-name="North Korea W vs China W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",North Korea W vs China W [3:00 AM ET]
@@ -20,7 +20,10 @@ http://193.47.62.55/hls/veeeA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTGRP:Friendly Match
 #EXTINF:-1 tvg-id="Australia_vs_Brazil___CH_1" tvg-name="Australia vs Brazil - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil - CH 1 [7:00 AM ET]
-http://193.47.62.55/hls/veeeAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/veeeAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Australia_vs_Brazil___CH_3" tvg-name="Australia vs Brazil - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil - CH 3 [7:00 AM ET]
+https://live4.dyrur1.com/live/73685552_1a6bc98940d353f3d4b0911f1b0d3440_h540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Australia_vs_Brazil___CH_2" tvg-name="Australia vs Brazil - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil - CH 2 [7:00 AM ET]
 https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -37,3 +40,10 @@ http://193.47.62.44/hls/grrrA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Snooker_Shenzhen_Open___Table_4" tvg-name="Snooker Shenzhen Open - Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open - Table 4 [TBD]
 http://193.47.62.44/hls/grrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis ATP
+#EXTINF:-1 tvg-id="Tennis_ATP_Chengdu" tvg-name="Tennis ATP Chengdu" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Chengdu [8:00 AM ET]
+http://193.47.62.55/hls/NUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_ATP_Hangzhou" tvg-name="Tennis ATP Hangzhou" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Hangzhou [8:30 AM ET]
+http://193.47.62.55/hls/NUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
