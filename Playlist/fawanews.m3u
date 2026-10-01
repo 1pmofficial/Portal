@@ -1,15 +1,11 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 01, 2026 at 02:00 PM EST
+#PLAYLIST: The TV App - October 01, 2026 at 03:00 PM EST
 # Total categories: 14
-# Total events: 45
-# Working streams: 44
+# Total events: 49
+# Working streams: 48
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
-
-#EXTGRP:Africa Cup of Nations Qualification
-#EXTINF:-1 tvg-id="Guinea_vs_Kenya" tvg-name="Guinea vs Kenya" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Guinea vs Kenya [1:00 PM ET]
-http://193.47.62.44/hls/QQQQAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Basketball Euroleague
 #EXTINF:-1 tvg-id="Hapoel_Tel_Aviv_vs_Real_Madrid___CH_1" tvg-name="Hapoel Tel Aviv vs Real Madrid - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="Basketball Euroleague",Hapoel Tel Aviv vs Real Madrid - CH 1 [1:00 PM ET]
@@ -35,6 +31,10 @@ http://193.47.62.55/hls/YFFFQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 
 #EXTINF:-1 tvg-id="Paris_vs_Zalgiris_Kaunas___CH_2" tvg-name="Paris vs Zalgiris Kaunas - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="Basketball Euroleague",Paris vs Zalgiris Kaunas - CH 2 [3:45 PM ET]
 https://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Boxing --:--
+#EXTINF:-1 tvg-id="Boxing___Efe_vs_Speed" tvg-name="Boxing : Efe vs Speed" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing --:--",Boxing : Efe vs Speed [TBD]
+http://193.47.62.55/hls/zszszs.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:CONCACAF Nations League
 #EXTINF:-1 tvg-id="British_Virgin_Islands_vs_Montserrat" tvg-name="British Virgin Islands vs Montserrat" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",British Virgin Islands vs Montserrat [4:00 PM ET]
@@ -106,35 +106,47 @@ http://193.47.62.55/hls/JJJJF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.55/hls/JJJJFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Nations League
-#EXTINF:-1 tvg-id="Azerbaijan_vs_Liechtenstein___CH_1" tvg-name="Azerbaijan vs Liechtenstein - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Azerbaijan vs Liechtenstein - CH 1 [1:00 PM ET]
-http://193.47.62.44/hls/QQQQX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Azerbaijan_vs_Liechtenstein___CH_2" tvg-name="Azerbaijan vs Liechtenstein - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Azerbaijan vs Liechtenstein - CH 2 [1:00 PM ET]
-https://www.rtmpcdn.com/live/37b4d54e-ef33-4b8a-8a0c-228515cb37fd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="UEFA_Nations_League_Simulcast" tvg-name="UEFA Nations League Simulcast" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",UEFA Nations League Simulcast [3:45 PM ET]
-http://193.47.62.55/hls/AIIIA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Denmark_vs_Portugal" tvg-name="Denmark vs Portugal" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Denmark vs Portugal [3:45 PM ET]
+#EXTINF:-1 tvg-id="Denmark_vs_Portugal___CH_1" tvg-name="Denmark vs Portugal - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Denmark vs Portugal - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLLQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Wales_vs_Norway" tvg-name="Wales vs Norway" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Wales vs Norway [3:45 PM ET]
+#EXTINF:-1 tvg-id="Denmark_vs_Portugal___CH_2" tvg-name="Denmark vs Portugal - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Denmark vs Portugal - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/c72dd6be-e444-43e0-88c5-3479d67d041c.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Wales_vs_Norway___CH_2" tvg-name="Wales vs Norway - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Wales vs Norway - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/64876c38-ef2f-4837-ade3-5b0fced9ca68.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Wales_vs_Norway___CH_1" tvg-name="Wales vs Norway - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Wales vs Norway - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLLQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Greece_vs_Netherlands" tvg-name="Greece vs Netherlands" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Greece vs Netherlands [3:45 PM ET]
+#EXTINF:-1 tvg-id="Greece_vs_Netherlands___CH_1" tvg-name="Greece vs Netherlands - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Greece vs Netherlands - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLLQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Germany_vs_Serbia" tvg-name="Germany vs Serbia" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Germany vs Serbia [3:45 PM ET]
+#EXTINF:-1 tvg-id="Germany_vs_Serbia___CH_1" tvg-name="Germany vs Serbia - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Germany vs Serbia - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLLQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Israel_vs_Kosovo" tvg-name="Israel vs Kosovo" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Israel vs Kosovo [3:45 PM ET]
+#EXTINF:-1 tvg-id="Greece_vs_Netherlands___CH_2" tvg-name="Greece vs Netherlands - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Greece vs Netherlands - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/5652e832-a962-4b2a-a989-fe0979287c03.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Germany_vs_Serbia___CH_2" tvg-name="Germany vs Serbia - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Germany vs Serbia - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/db3908dc-91c5-43d6-b44e-20c19281f6fb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Israel_vs_Kosovo___CH_1" tvg-name="Israel vs Kosovo - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Israel vs Kosovo - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLLQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Ireland_vs_Austria" tvg-name="Ireland vs Austria" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Ireland vs Austria [3:45 PM ET]
+#EXTINF:-1 tvg-id="Israel_vs_Kosovo___CH_2" tvg-name="Israel vs Kosovo - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Israel vs Kosovo - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/1271ee3d-69e4-4078-916b-167db2a3bd45.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ireland_vs_Austria___CH_1" tvg-name="Ireland vs Austria - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Ireland vs Austria - CH 1 [3:45 PM ET]
 http://193.47.62.40/hls/OLLL.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Malta_vs_Gibraltar" tvg-name="Malta vs Gibraltar" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Malta vs Gibraltar [3:45 PM ET]
+#EXTINF:-1 tvg-id="Malta_vs_Gibraltar___CH_1" tvg-name="Malta vs Gibraltar - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Malta vs Gibraltar - CH 1 [3:45 PM ET]
 http://193.47.62.55/hls/AIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ireland_vs_Austria___CH_2" tvg-name="Ireland vs Austria - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Ireland vs Austria - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/ce92a268-edd9-4d87-92b2-ac256554d3dd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Malta_vs_Gibraltar___CH_2" tvg-name="Malta vs Gibraltar - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Malta vs Gibraltar - CH 2 [3:45 PM ET]
+https://www.rtmpcdn.com/live/00fb2ecf-72b3-46b2-9847-bc34dd11f9a2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:UEFA Women Champions League
 #EXTINF:-1 tvg-id="Austria_Vienna_W_vs_Inter_Milan_W___CH_1" tvg-name="Austria Vienna W vs Inter Milan W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg" group-title="UEFA Women Champions League",Austria Vienna W vs Inter Milan W - CH 1 [1:45 PM ET]
