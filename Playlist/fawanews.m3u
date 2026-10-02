@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 02, 2026 at 12:00 AM EST
+#PLAYLIST: The TV App - October 02, 2026 at 01:00 AM EST
 # Total categories: 12
 # Total events: 24
 # Working streams: 24
@@ -49,11 +49,11 @@ http://193.47.62.50/hls/QRRRQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.44/hls/USSSSAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football
-#EXTINF:-1 tvg-id="Cleveland_Browns_vs_Pittsburgh_Steelers___CH_2" tvg-name="Cleveland Browns vs Pittsburgh Steelers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Cleveland Browns vs Pittsburgh Steelers - CH 2 [9:15 PM ET]
-http://193.47.62.59/hls/QRRRQQQQR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Cleveland_Browns_vs_Pittsburgh_Steelers___CH_1" tvg-name="Cleveland Browns vs Pittsburgh Steelers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Cleveland Browns vs Pittsburgh Steelers - CH 1 [9:15 PM ET]
 http://193.47.62.59/hls/QRRRQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cleveland_Browns_vs_Pittsburgh_Steelers___CH_2" tvg-name="Cleveland Browns vs Pittsburgh Steelers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Cleveland Browns vs Pittsburgh Steelers - CH 2 [9:15 PM ET]
+http://193.47.62.59/hls/QRRRQQQQR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="New_York_Rangers_vs_Tampa_Bay_Lightning" tvg-name="New York Rangers vs Tampa Bay Lightning" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",New York Rangers vs Tampa Bay Lightning [8:00 PM ET]
