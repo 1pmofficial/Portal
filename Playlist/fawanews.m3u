@@ -1,18 +1,18 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 02, 2026 at 05:00 AM EST
-# Total categories: 9
-# Total events: 12
-# Working streams: 12
+#PLAYLIST: The TV App - October 02, 2026 at 06:00 AM EST
+# Total categories: 10
+# Total events: 13
+# Working streams: 13
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:ASEAN Championship
 #EXTINF:-1 tvg-id="Thailand_vs_Philippines" tvg-name="Thailand vs Philippines" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Thailand vs Philippines [6:00 AM ET]
-http://193.47.62.55/hls/TTTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/TTTTTX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Vietnam_vs_Pakistan" tvg-name="Vietnam vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Vietnam vs Pakistan [6:00 AM ET]
-http://193.47.62.55/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/TTTTX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Asian Games
 #EXTINF:-1 tvg-id="China_W_vs_South_Korea_W" tvg-name="China W vs South Korea W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",China W vs South Korea W [3:00 AM ET]
@@ -44,6 +44,10 @@ http://193.47.62.55/hls/NUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 
 #EXTINF:-1 tvg-id="Tennis_ATP_Beijing" tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP --:--",Tennis ATP Beijing [TBD]
 http://193.47.62.55/hls/NUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis WTA
+#EXTINF:-1 tvg-id="Tennis_WTA_Beijing" tvg-name="Tennis WTA Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Beijing [6:00 AM ET]
+http://193.47.62.55/hls/JJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:World Rally
 #EXTINF:-1 tvg-id="World_Rally_Championship_Italy" tvg-name="World Rally Championship Italy" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="World Rally",World Rally Championship Italy [3:00 AM ET]
