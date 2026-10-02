@@ -1,15 +1,26 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 02, 2026 at 04:00 AM EST
-# Total categories: 7
-# Total events: 9
-# Working streams: 9
+#PLAYLIST: The TV App - October 02, 2026 at 05:00 AM EST
+# Total categories: 9
+# Total events: 12
+# Working streams: 12
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:ASEAN Championship
+#EXTINF:-1 tvg-id="Thailand_vs_Philippines" tvg-name="Thailand vs Philippines" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Thailand vs Philippines [6:00 AM ET]
+http://193.47.62.55/hls/TTTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vietnam_vs_Pakistan" tvg-name="Vietnam vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Vietnam vs Pakistan [6:00 AM ET]
+http://193.47.62.55/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Asian Games
 #EXTINF:-1 tvg-id="China_W_vs_South_Korea_W" tvg-name="China W vs South Korea W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",China W vs South Korea W [3:00 AM ET]
 http://193.47.62.41/hls/FEEEa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Basketball NBL
+#EXTINF:-1 tvg-id="Illawarra_Hawks_vs_Adelaide" tvg-name="Illawarra Hawks vs Adelaide" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Illawarra Hawks vs Adelaide [6:30 AM ET]
+http://193.47.62.55/hls/TTTTTa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Formula 1 GP --:--
 #EXTINF:-1 tvg-id="Formula_1_GP_Bahrain" tvg-name="Formula 1 GP Bahrain" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP --:--",Formula 1 GP Bahrain [TBD]
