@@ -1,18 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 04, 2026 at 04:00 AM EST
-# Total categories: 13
-# Total events: 24
-# Working streams: 24
+#PLAYLIST: The TV App - October 04, 2026 at 05:00 AM EST
+# Total categories: 15
+# Total events: 19
+# Working streams: 19
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Basketball NBL
-#EXTINF:-1 tvg-id="South_East_Melbourne_vs_Illawarra_Hawks" tvg-name="South East Melbourne vs Illawarra Hawks" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",South East Melbourne vs Illawarra Hawks [1:00 AM ET]
-http://193.47.62.41/hls/ZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Basketball Greece League Cup
+#EXTINF:-1 tvg-id="Panathinaikos_vs_Vikos" tvg-name="Panathinaikos vs Vikos" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg" group-title="Basketball Greece League Cup",Panathinaikos vs Vikos [7:00 AM ET]
+http://193.47.62.41/hls/VMMMAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Adelaide_vs_New_Zealand_Breakers" tvg-name="Adelaide vs New Zealand Breakers" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Adelaide vs New Zealand Breakers [3:00 AM ET]
-http://193.47.62.41/hls/ZQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Cycling
+#EXTINF:-1 tvg-id="Cycling_European_Championship" tvg-name="Cycling European Championship" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling European Championship [7:30 AM ET]
+http://193.47.62.41/hls/VMMMAAAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Dutch Eredivisie
+#EXTINF:-1 tvg-id="Twente_W_vs_Utrecht_W" tvg-name="Twente W vs Utrecht W" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Eredivisie",Twente W vs Utrecht W [7:15 AM ET]
+http://193.47.62.41/hls/VMMMAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Formula 1 GP
 #EXTINF:-1 tvg-id="Formula_1_GP_Malaysia___CH_1" tvg-name="Formula 1 GP Malaysia - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Malaysia - CH 1 [3:00 AM ET]
@@ -22,60 +27,42 @@ http://193.47.62.50/hls/fvvvv.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5cd3615-4d73-4b1b-b368-204f9d6ddad5/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Formula_1_GP_Malaysia___CH_2" tvg-name="Formula 1 GP Malaysia - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Malaysia - CH 2 [3:00 AM ET]
-https://admin2.formaturamaxi.com.br/f1.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tedesco.formaturamaxi.com.br/tsn.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Golf
+#EXTINF:-1 tvg-id="Golf_Alfred_Dunhill_Links_Championship" tvg-name="Golf Alfred Dunhill Links Championship" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="Golf",Golf Alfred Dunhill Links Championship [7:30 AM ET]
+http://193.47.62.44/hls/iiiiaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Italy Women Serie A
+#EXTINF:-1 tvg-id="Napoli_W_vs_Como_1907_W" tvg-name="Napoli W vs Como 1907 W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Women Serie A",Napoli W vs Como 1907 W [7:30 AM ET]
+http://193.47.62.41/hls/VMMMAAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Japan J League
-#EXTINF:-1 tvg-id="Hokkaido_Consadole_Sapporo_vs_Iwaki" tvg-name="Hokkaido Consadole Sapporo vs Iwaki" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Hokkaido Consadole Sapporo vs Iwaki [1:00 AM ET]
-http://193.47.62.41/hls/ZQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Vanraure_vs_Yokohama_FC" tvg-name="Vanraure vs Yokohama FC" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Vanraure vs Yokohama FC [1:00 AM ET]
-http://193.47.62.41/hls/ZQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Blaublitz_vs_Sagan_Tosu" tvg-name="Blaublitz vs Sagan Tosu" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Blaublitz vs Sagan Tosu [2:00 AM ET]
-http://193.47.62.41/hls/ZQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Vegalta_Sendai_vs_Iwata" tvg-name="Vegalta Sendai vs Iwata" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Vegalta Sendai vs Iwata [3:00 AM ET]
-http://193.47.62.41/hls/ZQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Mexico Liga MX
-#EXTINF:-1 tvg-id="Necaxa_W_vs_Cruz_Azul_W" tvg-name="Necaxa W vs Cruz Azul W" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Necaxa W vs Cruz Azul W [12:10 AM ET]
-http://193.47.62.41/hls/tllllQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NCAA American Football
-#EXTINF:-1 tvg-id="Washington_State_vs_Fresno_State" tvg-name="Washington State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Washington State vs Fresno State [10:30 PM ET]
-http://193.47.62.44/hls/jnnnaaaaaaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="San_Diego_State_vs_Texas_State_Bobcats" tvg-name="San Diego State vs Texas State Bobcats" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",San Diego State vs Texas State Bobcats [11:30 PM ET]
-http://193.47.62.44/hls/OVVVAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Arizona_State_vs_Baylor" tvg-name="Arizona State vs Baylor" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Arizona State vs Baylor [11:30 PM ET]
-http://193.47.62.44/hls/ZFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Arizona_vs_Cincinnati_Bearcats" tvg-name="Arizona vs Cincinnati Bearcats" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Arizona vs Cincinnati Bearcats [12:00 AM ET]
-http://193.47.62.44/hls/UWWWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:NHL Hockey
-#EXTINF:-1 tvg-id="Vancouver_Canucks_vs_Calgary_Flames" tvg-name="Vancouver Canucks vs Calgary Flames" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Vancouver Canucks vs Calgary Flames [11:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2f9295fb-591a-487e-9ddd-b19d42f45878/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="San_Jose_Sharks_vs_Los_Angeles_Kings" tvg-name="San Jose Sharks vs Los Angeles Kings" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",San Jose Sharks vs Los Angeles Kings [11:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e877371-93a0-44f6-a41e-3d70d6e5aa40/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tegevajaro_Miyazaki_vs_Omiya_Ardija" tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Tegevajaro Miyazaki vs Omiya Ardija [7:00 AM ET]
+http://193.47.62.41/hls/VMMMAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
-#EXTINF:-1 tvg-id="Sydney_Roosters_W_vs_Brisbane_Broncos_W" tvg-name="Sydney Roosters W vs Brisbane Broncos W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Sydney Roosters W vs Brisbane Broncos W [2:00 AM ET]
-http://193.47.62.44/hls/UWWWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Sydney_Roosters_vs_Newcastle_Knights" tvg-name="Sydney Roosters vs Newcastle Knights" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Sydney Roosters vs Newcastle Knights [5:30 AM ET]
+http://193.47.62.59/hls/FF444.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Rugby League State Championship
-#EXTINF:-1 tvg-id="Panthers_vs_Dolphins" tvg-name="Panthers vs Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1988623315603263490/JorERyCc_400x400.jpg" group-title="Rugby League State Championship",Panthers vs Dolphins [11:00 PM ET]
-http://193.47.62.44/hls/UWWWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Portugal Liga 2
+#EXTINF:-1 tvg-id="SC_Farense_vs_Chaves" tvg-name="SC Farense vs Chaves" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",SC Farense vs Chaves [7:00 AM ET]
+http://193.47.62.41/hls/VMMMAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Rugby NZ NPC
-#EXTINF:-1 tvg-id="Bay_of_Plenty_vs_North_Harbour" tvg-name="Bay of Plenty vs North Harbour" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Bay of Plenty vs North Harbour [12:35 AM ET]
-http://193.47.62.41/hls/GNNNNaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Rugby Friendly
+#EXTINF:-1 tvg-id="Spain_W_vs_South_Africa_W" tvg-name="Spain W vs South Africa W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Friendly",Spain W vs South Africa W [7:00 AM ET]
+http://193.47.62.41/hls/VMMMAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker --:--
 #EXTINF:-1 tvg-id="Snooker_Shenzhen_Open" tvg-name="Snooker Shenzhen Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open [TBD]
 http://193.47.62.44/hls/grrrAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Spanish Liga F Women
+#EXTINF:-1 tvg-id="Granada_CF_W_vs_Eibar_W" tvg-name="Granada CF W vs Eibar W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Granada CF W vs Eibar W [7:00 AM ET]
+http://193.47.62.41/hls/VMMMA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Costa_Adeje_Tenerife_W_vs_Logrono_W" tvg-name="Costa Adeje Tenerife W vs Logrono W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Costa Adeje Tenerife W vs Logrono W [7:00 AM ET]
+http://193.47.62.41/hls/VMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP --:--
 #EXTINF:-1 tvg-id="Tennis_ATP_Beijing" tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP --:--",Tennis ATP Beijing [TBD]
