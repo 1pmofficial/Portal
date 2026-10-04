@@ -1,6 +1,6 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 04, 2026 at 03:00 AM EST
-# Total categories: 12
+#PLAYLIST: The TV App - October 04, 2026 at 04:00 AM EST
+# Total categories: 13
 # Total events: 24
 # Working streams: 24
 
@@ -25,11 +25,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5cd36
 https://admin2.formaturamaxi.com.br/f1.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Japan J League
-#EXTINF:-1 tvg-id="Vanraure_vs_Yokohama_FC" tvg-name="Vanraure vs Yokohama FC" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Vanraure vs Yokohama FC [1:00 AM ET]
-http://193.47.62.41/hls/ZQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Hokkaido_Consadole_Sapporo_vs_Iwaki" tvg-name="Hokkaido Consadole Sapporo vs Iwaki" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Hokkaido Consadole Sapporo vs Iwaki [1:00 AM ET]
 http://193.47.62.41/hls/ZQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vanraure_vs_Yokohama_FC" tvg-name="Vanraure vs Yokohama FC" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Vanraure vs Yokohama FC [1:00 AM ET]
+http://193.47.62.41/hls/ZQQQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Blaublitz_vs_Sagan_Tosu" tvg-name="Blaublitz vs Sagan Tosu" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Blaublitz vs Sagan Tosu [2:00 AM ET]
 http://193.47.62.41/hls/ZQQQAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -40,13 +40,6 @@ http://193.47.62.41/hls/ZQQQAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Mexico Liga MX
 #EXTINF:-1 tvg-id="Necaxa_W_vs_Cruz_Azul_W" tvg-name="Necaxa W vs Cruz Azul W" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Necaxa W vs Cruz Azul W [12:10 AM ET]
 http://193.47.62.41/hls/tllllQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:MotoGP --:--
-#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Japan___CH_1" tvg-name="MotoGP Grand Prix of Japan - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP --:--",MotoGP Grand Prix of Japan - CH 1 [TBD]
-http://193.47.62.41/hls/duuuAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Japan___CH_2" tvg-name="MotoGP Grand Prix of Japan - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP --:--",MotoGP Grand Prix of Japan - CH 2 [TBD]
-https://admin2.formaturamaxi.com.br/mlb2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NCAA American Football
 #EXTINF:-1 tvg-id="Washington_State_vs_Fresno_State" tvg-name="Washington State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Washington State vs Fresno State [10:30 PM ET]
@@ -62,11 +55,11 @@ http://193.47.62.44/hls/ZFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.44/hls/UWWWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
-#EXTINF:-1 tvg-id="San_Jose_Sharks_vs_Los_Angeles_Kings" tvg-name="San Jose Sharks vs Los Angeles Kings" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",San Jose Sharks vs Los Angeles Kings [11:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e877371-93a0-44f6-a41e-3d70d6e5aa40/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Vancouver_Canucks_vs_Calgary_Flames" tvg-name="Vancouver Canucks vs Calgary Flames" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Vancouver Canucks vs Calgary Flames [11:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2f9295fb-591a-487e-9ddd-b19d42f45878/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Jose_Sharks_vs_Los_Angeles_Kings" tvg-name="San Jose Sharks vs Los Angeles Kings" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",San Jose Sharks vs Los Angeles Kings [11:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e877371-93a0-44f6-a41e-3d70d6e5aa40/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NRL
 #EXTINF:-1 tvg-id="Sydney_Roosters_W_vs_Brisbane_Broncos_W" tvg-name="Sydney Roosters W vs Brisbane Broncos W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Sydney Roosters W vs Brisbane Broncos W [2:00 AM ET]
@@ -80,6 +73,10 @@ http://193.47.62.44/hls/UWWWAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Bay_of_Plenty_vs_North_Harbour" tvg-name="Bay of Plenty vs North Harbour" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Bay of Plenty vs North Harbour [12:35 AM ET]
 http://193.47.62.41/hls/GNNNNaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Snooker --:--
+#EXTINF:-1 tvg-id="Snooker_Shenzhen_Open" tvg-name="Snooker Shenzhen Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker --:--",Snooker Shenzhen Open [TBD]
+http://193.47.62.44/hls/grrrAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Tennis ATP --:--
 #EXTINF:-1 tvg-id="Tennis_ATP_Beijing" tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP --:--",Tennis ATP Beijing [TBD]
 http://193.47.62.55/hls/NUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -90,3 +87,7 @@ http://193.47.62.55/hls/NUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTGRP:Tennis WTA --:--
 #EXTINF:-1 tvg-id="Tennis_WTA_Beijing" tvg-name="Tennis WTA Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA --:--",Tennis WTA Beijing [TBD]
 http://193.47.62.55/hls/JJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:World Rally
+#EXTINF:-1 tvg-id="World_Rally_Championship_Italy" tvg-name="World Rally Championship Italy" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="World Rally",World Rally Championship Italy [4:00 AM ET]
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
