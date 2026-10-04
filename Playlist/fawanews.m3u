@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 04, 2026 at 05:00 PM EST
-# Total categories: 18
-# Total events: 32
-# Working streams: 32
+#PLAYLIST: The TV App - October 04, 2026 at 06:00 PM EST
+# Total categories: 19
+# Total events: 40
+# Working streams: 40
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -72,22 +72,40 @@ http://193.47.62.41/hls/odddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_San_Diego_Padres" tvg-name="Milwaukee Brewers vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs San Diego Padres [5:00 PM ET]
 http://193.47.62.41/hls/VAVAVAAAAQq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Milwaukee_Brewers_vs_San_Diego_Padres___HD" tvg-name="Milwaukee Brewers vs San Diego Padres - HD" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Milwaukee Brewers vs San Diego Padres - HD [5:00 PM ET]
+https://tedesco.formaturamaxi.com.br/mlb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:NFL American Football
 #EXTINF:-1 tvg-id="Minnesota_Vikings_vs_Miami_Dolphins" tvg-name="Minnesota Vikings vs Miami Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Minnesota Vikings vs Miami Dolphins [5:05 PM ET]
 http://193.47.62.50/hls/NGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="San_Francisco_49ers_vs_Denver_Broncos" tvg-name="San Francisco 49ers vs Denver Broncos" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",San Francisco 49ers vs Denver Broncos [5:25 PM ET]
-http://193.47.62.50/hls/NGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Minnesota_Vikings_vs_Miami_Dolphins___HD" tvg-name="Minnesota Vikings vs Miami Dolphins - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Minnesota Vikings vs Miami Dolphins - HD [5:05 PM ET]
+https://temp.formaturamaxi.com.br/nfl10.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Seattle_Seahawks_vs_Los_Angeles_Chargers" tvg-name="Seattle Seahawks vs Los Angeles Chargers" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Seattle Seahawks vs Los Angeles Chargers [5:25 PM ET]
 http://193.47.62.44/hls/WAWAWAQQQQx.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Seattle_Seahawks_vs_Los_Angeles_Chargers___HD" tvg-name="Seattle Seahawks vs Los Angeles Chargers - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Seattle Seahawks vs Los Angeles Chargers - HD [5:25 PM ET]
+https://admin.formaturamaxi.com.br/nfl5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Francisco_49ers_vs_Denver_Broncos___HD" tvg-name="San Francisco 49ers vs Denver Broncos - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",San Francisco 49ers vs Denver Broncos - HD [5:25 PM ET]
+https://tedesco.formaturamaxi.com.br/tsn.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Francisco_49ers_vs_Denver_Broncos" tvg-name="San Francisco 49ers vs Denver Broncos" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",San Francisco 49ers vs Denver Broncos [5:25 PM ET]
+http://193.47.62.50/hls/NGGGQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Las_Vegas_Raiders_vs_Kansas_City_Chiefs" tvg-name="Las Vegas Raiders vs Kansas City Chiefs" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Las Vegas Raiders vs Kansas City Chiefs [5:25 PM ET]
+http://193.47.62.50/hls/NGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Las_Vegas_Raiders_vs_Kansas_City_Chiefs___HD" tvg-name="Las Vegas Raiders vs Kansas City Chiefs - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Las Vegas Raiders vs Kansas City Chiefs - HD [5:25 PM ET]
 http://193.47.62.50/hls/NGGGQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NFL American Football --:--
 #EXTINF:-1 tvg-id="NFL_Red_Zone" tvg-name="NFL Red Zone" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football --:--",NFL Red Zone [TBD]
 http://193.47.62.44/hls/WAWAWAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="NFL_Red_Zone___HD" tvg-name="NFL Red Zone - HD" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football --:--",NFL Red Zone - HD [TBD]
+https://temp.formaturamaxi.com.br/redzonealt.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="Detroit_Red_Wings_vs_Winnipeg_Jets" tvg-name="Detroit Red Wings vs Winnipeg Jets" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",Detroit Red Wings vs Winnipeg Jets [2:00 PM ET]
@@ -95,6 +113,13 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f34c4a
 
 #EXTINF:-1 tvg-id="New_York_Rangers_vs_Utah_Mammoth" tvg-name="New York Rangers vs Utah Mammoth" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="NHL Hockey",New York Rangers vs Utah Mammoth [7:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9930149f-b8b9-4c4c-87d1-4911d88fd996/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Nascar
+#EXTINF:-1 tvg-id="Nascar_Cup_Series_South_Point_400" tvg-name="Nascar Cup Series South Point 400" tvg-logo="https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg" group-title="Nascar",Nascar Cup Series South Point 400 [6:30 PM ET]
+http://193.47.62.41/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Nascar_Cup_Series_South_Point_400___HD" tvg-name="Nascar Cup Series South Point 400 - HD" tvg-logo="https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg" group-title="Nascar",Nascar Cup Series South Point 400 - HD [6:30 PM ET]
+https://admin2.formaturamaxi.com.br/nas.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish Segunda Liga
 #EXTINF:-1 tvg-id="Girona_vs_Mallorca" tvg-name="Girona vs Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Girona vs Mallorca [4:00 PM ET]
@@ -115,8 +140,8 @@ http://193.47.62.41/hls/RLLLLQAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.41/hls/oddddQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:WNBA Basketball
-#EXTINF:-1 tvg-id="Golden_State_Valkyries_W_vs_Las_Vegas_Aces_W___CH_1" tvg-name="Golden State Valkyries W vs Las Vegas Aces W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Golden State Valkyries W vs Las Vegas Aces W - CH 1 [5:00 PM ET]
-http://193.47.62.41/hls/VAVAVAAAAQqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Golden_State_Valkyries_W_vs_Las_Vegas_Aces_W___CH_2" tvg-name="Golden State Valkyries W vs Las Vegas Aces W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Golden State Valkyries W vs Las Vegas Aces W - CH 2 [5:00 PM ET]
 https://www.rtmpcdn.com/live/ad5939db-fb29-4669-8074-3312f65de84f.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Golden_State_Valkyries_W_vs_Las_Vegas_Aces_W___CH_1" tvg-name="Golden State Valkyries W vs Las Vegas Aces W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Golden State Valkyries W vs Las Vegas Aces W - CH 1 [5:00 PM ET]
+http://193.47.62.41/hls/VAVAVAAAAQqQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
