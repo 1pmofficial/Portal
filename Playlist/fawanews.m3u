@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 05, 2026 at 11:00 AM EST
-# Total categories: 6
-# Total events: 8
-# Working streams: 8
+#PLAYLIST: The TV App - October 05, 2026 at 12:00 PM EST
+# Total categories: 10
+# Total events: 16
+# Working streams: 16
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -11,13 +11,26 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="Indonesia_vs_Thailand" tvg-name="Indonesia vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Indonesia vs Thailand [10:00 AM ET]
 http://193.47.62.55/hls/ekkkkAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cricket
+#EXTINF:-1 tvg-id="Bangladesh_vs_England" tvg-name="Bangladesh vs England" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Bangladesh vs England [12:30 PM ET]
+http://193.47.62.50/hls/CACACAF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Euro U21 Qualification
 #EXTINF:-1 tvg-id="Montenegro_U21_vs_Armenia_U21" tvg-name="Montenegro U21 vs Armenia U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Euro U21 Qualification",Montenegro U21 vs Armenia U21 [11:30 AM ET]
 http://193.47.62.55/hls/vvvvF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Italy_U21_vs_Poland_U21" tvg-name="Italy U21 vs Poland U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Euro U21 Qualification",Italy U21 vs Poland U21 [1:15 PM ET]
+http://193.47.62.50/hls/CACACAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sweden_U21_vs_North_Macedonia_U21" tvg-name="Sweden U21 vs North Macedonia U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Euro U21 Qualification",Sweden U21 vs North Macedonia U21 [1:30 PM ET]
+http://193.47.62.50/hls/CACACAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="DR_Congo_vs_Uganda" tvg-name="DR Congo vs Uganda" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",DR Congo vs Uganda [10:00 AM ET]
-http://193.47.62.55/hls/vvvv.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Rwanda_vs_Kenya" tvg-name="Rwanda vs Kenya" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Rwanda vs Kenya [1:00 PM ET]
+http://193.47.62.50/hls/CACACAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Serbia_U21_vs_Russia_U21" tvg-name="Serbia U21 vs Russia U21" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Serbia U21 vs Russia U21 [1:00 PM ET]
+http://193.47.62.50/hls/grrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
@@ -26,13 +39,28 @@ http://193.47.62.194/hls/vavavava.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="Horse_Racing___CH_2" tvg-name="Horse Racing - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 2 [9:00 AM ET]
 http://193.47.62.194/hls/vavavavaq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Tennis ATP
-#EXTINF:-1 tvg-id="Tennis_ATP_Tokyo" tvg-name="Tennis ATP Tokyo" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Tokyo [4:00 AM ET]
-http://193.47.62.55/hls/NUUUQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Norway OBOS-ligaen
+#EXTINF:-1 tvg-id="Moss_vs_Kongsvinger" tvg-name="Moss vs Kongsvinger" tvg-logo="https://pbs.twimg.com/profile_images/1940299410140737536/mibBA6vc_400x400.jpg" group-title="Norway OBOS-ligaen",Moss vs Kongsvinger [2:00 PM ET]
+http://193.47.62.50/hls/CACACAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Tennis_ATP_Beijing" tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Beijing [6:15 AM ET]
-http://193.47.62.55/hls/NUUUQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Spanish Segunda Liga
+#EXTINF:-1 tvg-id="Cordoba_vs_Tenerife" tvg-name="Cordoba vs Tenerife" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Cordoba vs Tenerife [3:30 PM ET]
+http://193.47.62.50/hls/CACACAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Beijing" tvg-name="Tennis WTA Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Beijing [12:00 AM ET]
 http://193.47.62.55/hls/JJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Turkey Basketball Super Lig
+#EXTINF:-1 tvg-id="Besiktas_vs_Trabzonspor" tvg-name="Besiktas vs Trabzonspor" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="Turkey Basketball Super Lig",Besiktas vs Trabzonspor [1:00 PM ET]
+http://193.47.62.50/hls/CACACAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:UEFA Nations League
+#EXTINF:-1 tvg-id="Cyprus_vs_Latvia___GRE" tvg-name="Cyprus vs Latvia - GRE" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Cyprus vs Latvia - GRE [1:00 PM ET]
+http://193.47.62.44/hls/CACACAAAAQQQQX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cyprus_vs_Latvia___CH_2" tvg-name="Cyprus vs Latvia - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Cyprus vs Latvia - CH 2 [1:00 PM ET]
+https://www.rtmpcdn.com/live/569599d8-2ec4-4ef5-b23e-5fd94b4998eb.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Cyprus_vs_Latvia___ENG" tvg-name="Cyprus vs Latvia - ENG" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Cyprus vs Latvia - ENG [1:00 PM ET]
+http://193.47.62.59/hls/CACACAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
