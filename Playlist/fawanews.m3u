@@ -1,25 +1,19 @@
 #EXTM3U
-#PLAYLIST: The TV App - October 05, 2026 at 09:00 AM EST
+#PLAYLIST: The TV App - October 05, 2026 at 10:00 AM EST
 # Total categories: 5
-# Total events: 9
-# Working streams: 9
+# Total events: 7
+# Working streams: 7
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:ASEAN Championship
-#EXTINF:-1 tvg-id="Malaysia_vs_Vietnam" tvg-name="Malaysia vs Vietnam" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Malaysia vs Vietnam [6:00 AM ET]
-http://193.47.62.55/hls/ekkkkA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Indonesia_vs_Thailand" tvg-name="Indonesia vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Indonesia vs Thailand [10:00 AM ET]
-http://193.47.62.55/hls/ekkkkAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.55/hls/ekkkkAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Friendly Match
-#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_1" tvg-name="Japan vs New Zealand - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs New Zealand - CH 1 [7:30 AM ET]
-http://193.47.62.55/hls/ekkkkAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_2" tvg-name="Japan vs New Zealand - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs New Zealand - CH 2 [7:30 AM ET]
-https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="DR_Congo_vs_Uganda" tvg-name="DR Congo vs Uganda" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",DR Congo vs Uganda [10:00 AM ET]
+http://193.47.62.55/hls/vvvv.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Horse Racing
 #EXTINF:-1 tvg-id="Horse_Racing___CH_1" tvg-name="Horse Racing - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing - CH 1 [9:00 AM ET]
