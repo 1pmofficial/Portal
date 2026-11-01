@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 01, 2026 at 03:00 AM EST
-# Total categories: 9
-# Total events: 11
-# Working streams: 11
+#PLAYLIST: The TV App - November 01, 2026 at 04:00 AM EST
+# Total categories: 10
+# Total events: 12
+# Working streams: 12
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -30,20 +30,24 @@ http://193.47.62.59/hls/TTTTQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Machida_vs_Gamba_Osaka" tvg-name="Machida vs Gamba Osaka" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Machida vs Gamba Osaka [3:00 AM ET]
 http://193.47.62.41/hls/U888AAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Malaysia Super League
+#EXTINF:-1 tvg-id="Penang_vs_Melaka_FC" tvg-name="Penang vs Melaka FC" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Penang vs Melaka FC [4:45 AM ET]
+http://193.47.62.50/hls/DCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:MotoGP
 #EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Malaysia" tvg-name="MotoGP Grand Prix of Malaysia" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Malaysia [12:00 AM ET]
 http://193.47.62.59/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby World Cup
-#EXTINF:-1 tvg-id="Lebanon_vs_France" tvg-name="Lebanon vs France" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAXCTZ5KrYRidlAky1KKXlO2QIGAqGGHEdd7vMcoF8pF_-8gavA1sYv_Ddhir1qgLRgtHO4t8mV92THNeSsptIgYboDU4tuUR4JNol-56v1qaIK6Mqjj2iocuygGMAeYz6zu7PQ-M9amFZZDFyPXXfO7Cht7yJ23El4NwU71LXZTOZa-43_5ybKUr2mzg/s1600/ZVwKqVO3.jpg" group-title="Rugby World Cup",Lebanon vs France [2:40 AM ET]
+#EXTINF:-1 tvg-id="Tonga_vs_Samoa" tvg-name="Tonga vs Samoa" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAXCTZ5KrYRidlAky1KKXlO2QIGAqGGHEdd7vMcoF8pF_-8gavA1sYv_Ddhir1qgLRgtHO4t8mV92THNeSsptIgYboDU4tuUR4JNol-56v1qaIK6Mqjj2iocuygGMAeYz6zu7PQ-M9amFZZDFyPXXfO7Cht7yJ23El4NwU71LXZTOZa-43_5ybKUr2mzg/s1600/ZVwKqVO3.jpg" group-title="Rugby World Cup",Tonga vs Samoa [5:05 AM ET]
 http://193.47.62.41/hls/J777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Seoul_vs_Incheon" tvg-name="Seoul vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Incheon [3:30 AM ET]
-http://193.47.62.41/hls/J777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Daejeon_vs_Gwangju_FC" tvg-name="Daejeon vs Gwangju FC" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Daejeon vs Gwangju FC [3:30 AM ET]
 http://193.47.62.41/hls/J777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Seoul_vs_Incheon" tvg-name="Seoul vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Incheon [3:30 AM ET]
+http://193.47.62.41/hls/J777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Tokyo" tvg-name="Tennis WTA Tokyo" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Tokyo [TBD]
