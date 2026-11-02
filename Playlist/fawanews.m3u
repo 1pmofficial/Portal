@@ -1,18 +1,21 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 02, 2026 at 10:00 AM EST
-# Total categories: 11
-# Total events: 20
-# Working streams: 18
+#PLAYLIST: The TV App - November 02, 2026 at 11:00 AM EST
+# Total categories: 15
+# Total events: 26
+# Working streams: 23
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:AFC Champions League
-#EXTINF:-1 tvg-id="Pakhtakor_vs_Al_Nassr___CH_1" tvg-name="Pakhtakor vs Al Nassr - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Pakhtakor vs Al Nassr - CH 1 [9:45 AM ET]
-http://193.47.62.44/hls/YFFFAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Tractor_vs_Neftchi_Fargona" tvg-name="Tractor vs Neftchi Fargona" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Tractor vs Neftchi Fargona [12:00 PM ET]
+http://193.47.62.44/hls/TTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Pakhtakor_vs_Al_Nassr___CH_2" tvg-name="Pakhtakor vs Al Nassr - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Pakhtakor vs Al Nassr - CH 2 [9:45 AM ET]
-https://www.rtmpcdn.com/live/72b2cd78-9561-4b05-81b3-bc204138376f.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Al_Sadd_vs_Al_Ahli_SC" tvg-name="Al Sadd vs Al Ahli SC" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Al Sadd vs Al Ahli SC [12:00 PM ET]
+http://193.47.62.44/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Wasl_vs_Al_Quwa_Al_Jawiya" tvg-name="Al Wasl vs Al Quwa Al Jawiya" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Al Wasl vs Al Quwa Al Jawiya [12:00 PM ET]
+http://193.47.62.44/hls/TTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Azerbaijan Premier League
 #EXTINF:-1 tvg-id="Sumqayit_vs_Safa_Baku" tvg-name="Sumqayit vs Safa Baku" tvg-logo="https://pbs.twimg.com/profile_images/1873968841010696192/yx1G4Day_400x400.jpg" group-title="Azerbaijan Premier League",Sumqayit vs Safa Baku [11:00 AM ET]
@@ -26,9 +29,32 @@ http://193.47.62.44/hls/YYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Wadi_Degla_vs_Zamalek" tvg-name="Wadi Degla vs Zamalek" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt League Cup",Wadi Degla vs Zamalek [11:00 AM ET]
 http://193.47.62.44/hls/YYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Finland Veikkausliiga
+#EXTINF:-1 tvg-id="VPS_vs_HJK" tvg-name="VPS vs HJK" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",VPS vs HJK [12:00 PM ET]
+http://193.47.62.44/hls/1JJJAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Inter_Turku_vs_Gnistan" tvg-name="Inter Turku vs Gnistan" tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="Finland Veikkausliiga",Inter Turku vs Gnistan [12:00 PM ET]
+http://193.47.62.44/hls/1JJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Greece Super League
+#EXTINF:-1 tvg-id="Atromitos_vs_Volos" tvg-name="Atromitos vs Volos" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Super League",Atromitos vs Volos [12:00 PM ET]
+http://193.47.62.44/hls/1JJJAAQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Peru Liga 1 Apertura
+#EXTINF:-1 tvg-id="Sport_Huancayo_vs_FBC_Melgar" tvg-name="Sport Huancayo vs FBC Melgar" tvg-logo="https://pbs.twimg.com/profile_images/1584914854032408576/W5FL6NM0_400x400.jpg" group-title="Peru Liga 1 Apertura",Sport Huancayo vs FBC Melgar [12:00 PM ET]
+http://193.47.62.44/hls/1JJJAAQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Romania Superliga
+#EXTINF:-1 tvg-id="FC_Voluntari_vs_Farul_Constanta" tvg-name="FC Voluntari vs Farul Constanta" tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="Romania Superliga",FC Voluntari vs Farul Constanta [11:30 AM ET]
+http://193.47.62.44/hls/1JJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Russia Premier League
 #EXTINF:-1 tvg-id="Krylya_Sovetov_vs_Zenit" tvg-name="Krylya Sovetov vs Zenit" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",Krylya Sovetov vs Zenit [11:00 AM ET]
 http://193.47.62.44/hls/YYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Slovenia Prva Liga
+#EXTINF:-1 tvg-id="Bravo_vs_Koper" tvg-name="Bravo vs Koper" tvg-logo="https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg" group-title="Slovenia Prva Liga",Bravo vs Koper [12:00 PM ET]
+http://193.47.62.44/hls/1JJJAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_International_Championship___Table_1" tvg-name="Snooker International Championship - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship - Table 1 [TBD]
@@ -44,15 +70,8 @@ http://193.47.62.44/hls/B111QQ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.44/hls/B111QQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Spanish Segunda Liga
-#EXTINF:-1 tvg-id="Tenerife_vs_Andorra" tvg-name="Tenerife vs Andorra" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Tenerife vs Andorra [9:00 AM ET]
-http://193.47.62.44/hls/YFFFAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Real_Oviedo_vs_Las_Palmas" tvg-name="Real Oviedo vs Las Palmas" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Real Oviedo vs Las Palmas [11:15 AM ET]
 http://193.47.62.44/hls/YFFFAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tanzania Ligi Kuu Bara
-#EXTINF:-1 tvg-id="Mashujaa_vs_Pamba" tvg-name="Mashujaa vs Pamba" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Mashujaa vs Pamba [9:15 AM ET]
-http://193.47.62.59/hls/YNNN.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_Masters_Paris___CH_1" tvg-name="Tennis Masters Paris - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis Masters Paris - CH 1 [6:00 AM ET]
@@ -68,6 +87,6 @@ http://193.47.62.44/hls/T777.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Tennis_WTA_Hong_Kong_Chennai" tvg-name="Tennis WTA Hong Kong/Chennai" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Hong Kong/Chennai [TBD]
 http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Thailand Thai league 1
-#EXTINF:-1 tvg-id="Chonburi_vs_Pathum_United" tvg-name="Chonburi vs Pathum United" tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_400x400.jpg" group-title="Thailand Thai league 1",Chonburi vs Pathum United [8:00 AM ET]
-http://193.47.62.44/hls/YFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Ukraine Premier League
+#EXTINF:-1 tvg-id="Karpaty_Lviv_vs_Kudrivka" tvg-name="Karpaty Lviv vs Kudrivka" tvg-logo="https://pbs.twimg.com/profile_images/840207581444464640/O24jzJBh_400x400.jpg" group-title="Ukraine Premier League",Karpaty Lviv vs Kudrivka [12:00 PM ET]
+http://193.47.62.44/hls/TTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
