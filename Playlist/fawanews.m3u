@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 01, 2026 at 08:00 PM EST
-# Total categories: 11
-# Total events: 22
-# Working streams: 20
+#PLAYLIST: The TV App - November 01, 2026 at 09:00 PM EST
+# Total categories: 8
+# Total events: 17
+# Working streams: 15
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -23,16 +23,12 @@ http://193.47.62.41/hls/ROOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Santa_Fe_vs_Once_Caldas" tvg-name="Santa Fe vs Once Caldas" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Copa",Santa Fe vs Once Caldas [9:15 PM ET]
 http://193.47.62.41/hls/kikikikiaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Colombia Primera A
-#EXTINF:-1 tvg-id="Ind_Medellin_vs_Alianza" tvg-name="Ind Medellin vs Alianza" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera A",Ind Medellin vs Alianza [7:10 PM ET]
-http://193.47.62.41/hls/kikikikiaa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:MLS League
-#EXTINF:-1 tvg-id="New_England_Revolution_vs_Inter_Miami___CH_1" tvg-name="New England Revolution vs Inter Miami - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New England Revolution vs Inter Miami - CH 1 [8:00 PM ET]
-http://193.47.62.41/hls/ROOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="New_England_Revolution_vs_Inter_Miami___CH_2" tvg-name="New England Revolution vs Inter Miami - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New England Revolution vs Inter Miami - CH 2 [8:00 PM ET]
 https://www.rtmpcdn.com/live/97097ee6-d144-4ea2-b904-4f79069e3d57.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_England_Revolution_vs_Inter_Miami___CH_1" tvg-name="New England Revolution vs Inter Miami - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New England Revolution vs Inter Miami - CH 1 [8:00 PM ET]
+http://193.47.62.41/hls/ROOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Los_Angeles_FC_vs_Minnesota_United" tvg-name="Los Angeles FC vs Minnesota United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Los Angeles FC vs Minnesota United [9:30 PM ET]
 http://193.47.62.41/hls/ROOOAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -41,24 +37,21 @@ http://193.47.62.41/hls/ROOOAA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 http://193.47.62.41/hls/ROOOAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Mexico Liga MX
-#EXTINF:-1 tvg-id="Santos_Laguna_vs_Necaxa" tvg-name="Santos Laguna vs Necaxa" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Santos Laguna vs Necaxa [7:00 PM ET]
-http://193.47.62.41/hls/kikikikia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Cruz_Azul_vs_Club_Leon" tvg-name="Cruz Azul vs Club Leon" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Cruz Azul vs Club Leon [9:10 PM ET]
 http://193.47.62.41/hls/kikikikia.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NBA Basketball
-#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Los_Angeles_Clippers" tvg-name="Golden State Warriors vs Los Angeles Clippers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Los Angeles Clippers [9:30 PM ET]
+#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Los_Angeles_Clippers___CH_1" tvg-name="Golden State Warriors vs Los Angeles Clippers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Los Angeles Clippers - CH 1 [9:30 PM ET]
 http://193.47.62.44/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Toronto_Raptors" tvg-name="Los Angeles Lakers vs Toronto Raptors" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Toronto Raptors [10:00 PM ET]
+#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Los_Angeles_Clippers___CH_2" tvg-name="Golden State Warriors vs Los Angeles Clippers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Los Angeles Clippers - CH 2 [9:30 PM ET]
+https://www.rtmpcdn.com/live/ef7d7109-89b0-4955-b2ea-3596cad76264.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Toronto_Raptors___CH_1" tvg-name="Los Angeles Lakers vs Toronto Raptors - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Toronto Raptors - CH 1 [10:00 PM ET]
 http://193.47.62.59/hls/WAWAWAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Indiana_Pacers_vs_Brooklyn_Nets___CH_2" tvg-name="Indiana Pacers vs Brooklyn Nets - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Indiana Pacers vs Brooklyn Nets - CH 2 [6:00 PM ET]
-https://www.rtmpcdn.com/live/2b7c255a-b0d6-4093-836e-e4d3e8ca888a.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Indiana_Pacers_vs_Brooklyn_Nets___CH_1" tvg-name="Indiana Pacers vs Brooklyn Nets - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Indiana Pacers vs Brooklyn Nets - CH 1 [6:00 PM ET]
-http://193.47.62.50/hls/RNNNA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Toronto_Raptors___CH_2" tvg-name="Los Angeles Lakers vs Toronto Raptors - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Toronto Raptors - CH 2 [10:00 PM ET]
+https://www.rtmpcdn.com/live/f9b2d275-65d8-4323-8a5d-ab1dfd4a8e13.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="New_York_Rangers_vs_Edmonton_Oilers" tvg-name="New York Rangers vs Edmonton Oilers" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",New York Rangers vs Edmonton Oilers [7:00 PM ET]
@@ -66,14 +59,3 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c449ba
 
 #EXTINF:-1 tvg-id="Anaheim_Ducks_vs_Ottawa_Senators" tvg-name="Anaheim Ducks vs Ottawa Senators" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Anaheim Ducks vs Ottawa Senators [9:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d2fe599d-59fc-48f8-bf03-e99b0efad61f/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Philadelphia_Flyers_vs_Utah_Mammoth" tvg-name="Philadelphia Flyers vs Utah Mammoth" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Philadelphia Flyers vs Utah Mammoth [5:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/913449a7-1177-4c02-8a53-c56cd086a753/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:USA NWSL Women
-#EXTINF:-1 tvg-id="Gotham_W_vs_Utah_Royals_W" tvg-name="Gotham W vs Utah Royals W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Gotham W vs Utah Royals W [6:00 PM ET]
-http://193.47.62.41/hls/ADADAD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Uruguay Liga AUF
-#EXTINF:-1 tvg-id="Liverpool_M_vs_Juventud" tvg-name="Liverpool M vs Juventud" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg" group-title="Uruguay Liga AUF",Liverpool M vs Juventud [7:00 PM ET]
-http://193.47.62.41/hls/kikikiki.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
