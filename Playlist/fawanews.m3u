@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 03, 2026 at 10:00 AM EST
-# Total categories: 11
-# Total events: 23
-# Working streams: 23
+#PLAYLIST: The TV App - November 03, 2026 at 11:00 AM EST
+# Total categories: 13
+# Total events: 30
+# Working streams: 27
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -29,12 +29,19 @@ http://193.47.62.41/hls/ELLLAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="AEL_Limassol_vs_Iraklis_Yerolakkou" tvg-name="AEL Limassol vs Iraklis Yerolakkou" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvclk5HiEuOfY6cNsHS8oFjGfv6AyXEOKQWrn5fHTIDc7UwyzTkMD-VlKjRWHiKqGLFWrSUabEr2mQFKHR3PJ5gIRgzf9YW8T8xxXSYGJOVm7SfevexSOfX8h98HOX5S8ATrgZZstWu9zJcueVT8J9jFYyTxQQBza7Y8_EzriJKcd4hat_sT7Ub_9hQY/s1600/OIP.jpg" group-title="Cyprus League",AEL Limassol vs Iraklis Yerolakkou [12:00 PM ET]
 http://193.47.62.41/hls/LOOOAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Egypt Premier League
-#EXTINF:-1 tvg-id="Al_Qanah_vs_Modern_Sport" tvg-name="Al Qanah vs Modern Sport" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Premier League",Al Qanah vs Modern Sport [11:00 AM ET]
-http://193.47.62.41/hls/DAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Karmiotissa_vs_Ermis" tvg-name="Karmiotissa vs Ermis" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvclk5HiEuOfY6cNsHS8oFjGfv6AyXEOKQWrn5fHTIDc7UwyzTkMD-VlKjRWHiKqGLFWrSUabEr2mQFKHR3PJ5gIRgzf9YW8T8xxXSYGJOVm7SfevexSOfX8h98HOX5S8ATrgZZstWu9zJcueVT8J9jFYyTxQQBza7Y8_EzriJKcd4hat_sT7Ub_9hQY/s1600/OIP.jpg" group-title="Cyprus League",Karmiotissa vs Ermis [1:00 PM ET]
+http://193.47.62.41/hls/LOOOAAAQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Denmark Cup
+#EXTINF:-1 tvg-id="Lyngby_vs_Randers_FC" tvg-name="Lyngby vs Randers FC" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg" group-title="Denmark Cup",Lyngby vs Randers FC [1:00 PM ET]
+http://193.47.62.41/hls/LOOOAAAQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Egypt Premier League
 #EXTINF:-1 tvg-id="Abu_Qir_Semad_vs_Ceramica_Cleopatra" tvg-name="Abu Qir Semad vs Ceramica Cleopatra" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Premier League",Abu Qir Semad vs Ceramica Cleopatra [11:00 AM ET]
 http://193.47.62.41/hls/DAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Qanah_vs_Modern_Sport" tvg-name="Al Qanah vs Modern Sport" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Premier League",Al Qanah vs Modern Sport [11:00 AM ET]
+http://193.47.62.41/hls/DAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Gulf Club Champions League
 #EXTINF:-1 tvg-id="Al_Zawraa_vs_Al_Riffa" tvg-name="Al Zawraa vs Al Riffa" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Gulf Club Champions League",Al Zawraa vs Al Riffa [10:30 AM ET]
@@ -42,6 +49,13 @@ http://193.47.62.41/hls/LOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 
 #EXTINF:-1 tvg-id="Al_Shabab_vs_Shab_Hadramaut" tvg-name="Al Shabab vs Shab Hadramaut" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Gulf Club Champions League",Al Shabab vs Shab Hadramaut [10:45 AM ET]
 http://193.47.62.41/hls/LOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Poland Division 1
+#EXTINF:-1 tvg-id="Pogon_Siedlce_vs_Ruch_Chorzow" tvg-name="Pogon Siedlce vs Ruch Chorzow" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Pogon Siedlce vs Ruch Chorzow [1:00 PM ET]
+http://193.47.62.41/hls/LOOOAAAQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Chrobry_Glogow_vs_Arka_Gdynia" tvg-name="Chrobry Glogow vs Arka Gdynia" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="Poland Division 1",Chrobry Glogow vs Arka Gdynia [1:00 PM ET]
+http://193.47.62.41/hls/LOOOAAAQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_International_Championship___Table_1" tvg-name="Snooker International Championship - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship - Table 1 [TBD]
