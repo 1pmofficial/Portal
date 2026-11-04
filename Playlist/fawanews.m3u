@@ -1,32 +1,36 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 04, 2026 at 05:00 AM EST
+#PLAYLIST: The TV App - November 04, 2026 at 06:00 AM EST
 # Total categories: 7
 # Total events: 13
-# Working streams: 12
+# Working streams: 13
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
 #EXTGRP:AFC Champions League
-#EXTINF:-1 tvg-id="Melbourne_Victory_vs_Persib_Bandung___CH_1" tvg-name="Melbourne Victory vs Persib Bandung - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Melbourne Victory vs Persib Bandung - CH 1 [3:45 AM ET]
-http://193.47.62.55/hls/FRFRFR.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Pohang_vs_Gamba_Osaka___CH_2" tvg-name="Pohang vs Gamba Osaka - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Pohang vs Gamba Osaka - CH 2 [6:00 AM ET]
+https://www.rtmpcdn.com/live/d8f6046d-be6f-4d41-9b31-1c18826ffde1.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Melbourne_Victory_vs_Persib_Bandung___CH_2" tvg-name="Melbourne Victory vs Persib Bandung - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Melbourne Victory vs Persib Bandung - CH 2 [3:45 AM ET]
-https://www.rtmpcdn.com/live/968782b3-3d8f-42bf-9fbe-aa53c767db0d.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Pohang_vs_Gamba_Osaka" tvg-name="Pohang vs Gamba Osaka" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Pohang vs Gamba Osaka [6:00 AM ET]
+#EXTINF:-1 tvg-id="Pohang_vs_Gamba_Osaka___CH_1" tvg-name="Pohang vs Gamba Osaka - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Pohang vs Gamba Osaka - CH 1 [6:00 AM ET]
 http://193.47.62.55/hls/rrrrAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:AFC Champions League II
+#EXTINF:-1 tvg-id="Seoul_vs_Viettel___CH_1" tvg-name="Seoul vs Viettel - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Seoul vs Viettel - CH 1 [6:00 AM ET]
+http://193.47.62.55/hls/rrrrAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Seoul_vs_Viettel___CH_2" tvg-name="Seoul vs Viettel - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Seoul vs Viettel - CH 2 [6:00 AM ET]
+https://www.rtmpcdn.com/live/73cfe26f-4a4e-4fb3-8621-4e0d89941298.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="India_vs_New_Zealand" tvg-name="India vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",India vs New Zealand [TBD]
 http://193.47.62.50/hls/FRFRFRA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_International_Championship___Table_1" tvg-name="Snooker International Championship - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship - Table 1 [TBD]
-http://193.47.62.44/hls/B111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Snooker_International_Championship___Table_2" tvg-name="Snooker International Championship - Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship - Table 2 [TBD]
 http://193.47.62.44/hls/B111Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Snooker_International_Championship___Table_1" tvg-name="Snooker International Championship - Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship - Table 1 [TBD]
+http://193.47.62.44/hls/B111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_Masters_Paris___CH_1" tvg-name="Tennis Masters Paris - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis Masters Paris - CH 1 [6:00 AM ET]
@@ -42,10 +46,9 @@ http://193.47.62.44/hls/T777.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Tennis_WTA_Hong_Kong_Chennai" tvg-name="Tennis WTA Hong Kong/Chennai" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Hong Kong/Chennai [TBD]
 http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Turkey Cup
-#EXTINF:-1 tvg-id="Fethiyespor_vs_Eyupspor" tvg-name="Fethiyespor vs Eyupspor" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQItNbc-EaAjqHqGUZrBrWMmCWx0czho_Z4KAWmQNDV3TYwywdB_J6TdKvsdtwJOg4BfKywNxo-81hepAX26QDzNAKhPUA6DUARffsop5YMsTsNo7mSrHuxFyPYEoV_8YZSxr84DtaR-I4L8cies8-PXsuSNi8YWq7k5Nbn-95iWtqYHgrozNM541IrjY/s1600/Bywq3Bso_400x400.jpg" group-title="Turkey Cup",Fethiyespor vs Eyupspor [6:00 AM ET]
-http://193.47.62.55/hls/rrrr.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:UEFA Youth League
+#EXTINF:-1 tvg-id="Kairat_Almaty_U19_vs_MTK_Budapest_U19" tvg-name="Kairat Almaty U19 vs MTK Budapest U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg" group-title="UEFA Youth League",Kairat Almaty U19 vs MTK Budapest U19 [5:00 AM ET]
+http://193.47.62.59/hls/qaqaqa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="AEK_U19_vs_Real_Madrid_U19" tvg-name="AEK U19 vs Real Madrid U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg" group-title="UEFA Youth League",AEK U19 vs Real Madrid U19 [6:00 AM ET]
 http://193.47.62.55/hls/rrrrA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
