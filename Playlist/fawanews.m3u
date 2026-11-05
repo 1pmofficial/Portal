@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 05, 2026 at 09:00 AM EST
-# Total categories: 12
-# Total events: 26
-# Working streams: 24
+#PLAYLIST: The TV App - November 05, 2026 at 10:00 AM EST
+# Total categories: 13
+# Total events: 27
+# Working streams: 25
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -53,6 +53,10 @@ http://193.47.62.55/hls/RHHHAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Abu_Dhabi_Championship" tvg-name="Golf Abu Dhabi Championship" tvg-logo="https://pbs.twimg.com/profile_images/2117236464538783744/QDkekqoR_400x400.jpg" group-title="Golf",Golf Abu Dhabi Championship [3:00 AM ET]
 http://193.47.62.59/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Hockey European Cup of Nations
+#EXTINF:-1 tvg-id="Great_Britain_vs_Italy" tvg-name="Great Britain vs Italy" tvg-logo="https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg" group-title="Hockey European Cup of Nations",Great Britain vs Italy [11:00 AM ET]
+http://193.47.62.55/hls/EOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:India ISL League
 #EXTINF:-1 tvg-id="Churchill_Brothers_vs_North_East_Utd" tvg-name="Churchill Brothers vs North East Utd" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg" group-title="India ISL League",Churchill Brothers vs North East Utd [7:30 AM ET]
