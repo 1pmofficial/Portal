@@ -1,19 +1,25 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 05, 2026 at 04:00 AM EST
-# Total categories: 6
-# Total events: 6
-# Working streams: 6
+#PLAYLIST: The TV App - November 05, 2026 at 05:00 AM EST
+# Total categories: 8
+# Total events: 10
+# Working streams: 10
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTGRP:AFC Champions League II
+#EXTINF:-1 tvg-id="Lion_City_vs_Adelaide_United" tvg-name="Lion City vs Adelaide United" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Lion City vs Adelaide United [6:00 AM ET]
+http://193.47.62.41/hls/TTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Machida_vs_Shanghai_Shenhua" tvg-name="Machida vs Shanghai Shenhua" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Machida vs Shanghai Shenhua [6:00 AM ET]
+http://193.47.62.41/hls/TTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kitchee_vs_Phnom_Penh_Crown" tvg-name="Kitchee vs Phnom Penh Crown" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Kitchee vs Phnom Penh Crown [6:00 AM ET]
+http://193.47.62.41/hls/TTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Basketball NBL
 #EXTINF:-1 tvg-id="Cairns_Taipans_vs_Illawarra_Hawks" tvg-name="Cairns Taipans vs Illawarra Hawks" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Cairns Taipans vs Illawarra Hawks [4:30 AM ET]
 http://193.47.62.59/hls/MMMM.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Basketball WNBL
-#EXTINF:-1 tvg-id="Geelong_Venom_W_vs_Townsville_W" tvg-name="Geelong Venom W vs Townsville W" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball WNBL",Geelong Venom W vs Townsville W [4:00 AM ET]
-http://193.47.62.59/hls/MMMMA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Abu_Dhabi_Championship" tvg-name="Golf Abu Dhabi Championship" tvg-logo="https://pbs.twimg.com/profile_images/2117236464538783744/QDkekqoR_400x400.jpg" group-title="Golf",Golf Abu Dhabi Championship [3:00 AM ET]
@@ -23,9 +29,17 @@ http://193.47.62.59/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Golf_LPGA_Toto_Japan_Classic" tvg-name="Golf LPGA Toto Japan Classic" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf LPGA Toto Japan Classic [11:00 PM ET]
 http://193.47.62.59/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:SAAF Championship
+#EXTINF:-1 tvg-id="Pakistan_vs_India" tvg-name="Pakistan vs India" tvg-logo="https://pbs.twimg.com/profile_images/1574257762019995648/DpgnCAs5_400x400.jpg" group-title="SAAF Championship",Pakistan vs India [5:30 AM ET]
+http://193.47.62.41/hls/TTTTAAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_International_Championship" tvg-name="Snooker International Championship" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker International Championship [TBD]
 http://193.47.62.44/hls/B111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis ATP
+#EXTINF:-1 tvg-id="Tennis_Masters_Paris" tvg-name="Tennis Masters Paris" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis Masters Paris [6:00 AM ET]
+http://193.47.62.44/hls/T777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Hong_Kong_Chennai" tvg-name="Tennis WTA Hong Kong/Chennai" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Hong Kong/Chennai [TBD]
