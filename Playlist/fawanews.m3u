@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 06, 2026 at 10:00 AM EST
-# Total categories: 15
-# Total events: 18
-# Working streams: 16
+#PLAYLIST: The TV App - November 06, 2026 at 11:00 AM EST
+# Total categories: 18
+# Total events: 23
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -14,6 +14,9 @@ http://193.47.62.41/hls/EAEAEAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTGRP:Azerbaijan Premier League
 #EXTINF:-1 tvg-id="Qarabag_vs_Turan_Tovuz" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://pbs.twimg.com/profile_images/1873968841010696192/yx1G4Day_400x400.jpg" group-title="Azerbaijan Premier League",Qarabag vs Turan Tovuz [10:00 AM ET]
 http://193.47.62.59/hls/ZGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Neftci_Baku_vs_Kapaz" tvg-name="Neftci Baku vs Kapaz" tvg-logo="https://pbs.twimg.com/profile_images/1873968841010696192/yx1G4Day_400x400.jpg" group-title="Azerbaijan Premier League",Neftci Baku vs Kapaz [12:00 PM ET]
+http://193.47.62.41/hls/EEEE.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Belarus Vysshaya Liga
 #EXTINF:-1 tvg-id="FC_Gomel_vs_Arsenal_Dzerzhinsk" tvg-name="FC Gomel vs Arsenal Dzerzhinsk" tvg-logo="https://pbs.twimg.com/profile_images/1084825687570173954/vLW4g8bG_400x400.jpg" group-title="Belarus Vysshaya Liga",FC Gomel vs Arsenal Dzerzhinsk [11:00 AM ET]
@@ -28,11 +31,11 @@ http://193.47.62.41/hls/EAEAEAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.41/hls/EAEAEAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Formula 1 GP
-#EXTINF:-1 tvg-id="Formula_1_GP_Brazil___CH_2" tvg-name="Formula 1 GP Brazil - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Brazil - CH 2 [11:30 AM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Formula_1_GP_Brazil___CH_1" tvg-name="Formula 1 GP Brazil - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Brazil - CH 1 [11:30 AM ET]
 http://193.47.62.44/hls/EAEAEAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Formula_1_GP_Brazil___CH_2" tvg-name="Formula 1 GP Brazil - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Brazil - CH 2 [11:30 AM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Abu_Dhabi_Championship" tvg-name="Golf Abu Dhabi Championship" tvg-logo="https://pbs.twimg.com/profile_images/2105239605431918592/5INeq7F6_400x400.jpg" group-title="Golf",Golf Abu Dhabi Championship [3:00 AM ET]
@@ -54,9 +57,20 @@ http://193.47.62.44/hls/ziii.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Al_Arabi_vs_Al_Ahli_Doha" tvg-name="Al Arabi vs Al Ahli Doha" tvg-logo="https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg" group-title="Qatar QSL",Al Arabi vs Al Ahli Doha [10:15 AM ET]
 http://193.47.62.59/hls/ZGGGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Al_Wakrah_vs_Al_Shahaniya" tvg-name="Al Wakrah vs Al Shahaniya" tvg-logo="https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg" group-title="Qatar QSL",Al Wakrah vs Al Shahaniya [12:30 PM ET]
+http://193.47.62.41/hls/EEEEA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Romania Superliga
 #EXTINF:-1 tvg-id="UTA_Arad_vs_Petrolul" tvg-name="UTA Arad vs Petrolul" tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="Romania Superliga",UTA Arad vs Petrolul [11:00 AM ET]
 http://193.47.62.41/hls/EAEAEAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Russia Premier League
+#EXTINF:-1 tvg-id="Lokomotiv_Moscow_vs_Rubin_Kazan" tvg-name="Lokomotiv Moscow vs Rubin Kazan" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",Lokomotiv Moscow vs Rubin Kazan [12:30 PM ET]
+http://193.47.62.41/hls/EEEEAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Slovenia Prva Liga
+#EXTINF:-1 tvg-id="Nafta_vs_O_Ljubljana" tvg-name="Nafta vs O Ljubljana" tvg-logo="https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg" group-title="Slovenia Prva Liga",Nafta vs O Ljubljana [12:30 PM ET]
+http://193.47.62.41/hls/EEEEAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_Masters_Paris" tvg-name="Tennis Masters Paris" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis Masters Paris [9:00 AM ET]
@@ -69,3 +83,7 @@ http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTGRP:Uzbekistan Super League
 #EXTINF:-1 tvg-id="Sogdiana_vs_Dinamo_Samarkand" tvg-name="Sogdiana vs Dinamo Samarkand" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg" group-title="Uzbekistan Super League",Sogdiana vs Dinamo Samarkand [9:30 AM ET]
 http://193.47.62.59/hls/K777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:World Rugby Nations Cup
+#EXTINF:-1 tvg-id="Romania_vs_Tonga" tvg-name="Romania vs Tonga" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg" group-title="World Rugby Nations Cup",Romania vs Tonga [12:30 PM ET]
+http://193.47.62.41/hls/EEEEAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
