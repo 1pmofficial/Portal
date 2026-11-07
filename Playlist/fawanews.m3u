@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 06, 2026 at 08:00 PM EST
-# Total categories: 14
-# Total events: 43
-# Working streams: 41
+#PLAYLIST: The TV App - November 06, 2026 at 09:00 PM EST
+# Total categories: 15
+# Total events: 48
+# Working streams: 46
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -47,11 +47,11 @@ http://193.47.62.59/hls/GZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.59/hls/GZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Mexico Liga MX
-#EXTINF:-1 tvg-id="Necaxa_vs_Club_Tijuana" tvg-name="Necaxa vs Club Tijuana" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Necaxa vs Club Tijuana [9:00 PM ET]
-http://193.47.62.41/hls/JJJJAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Atl_San_Luis_vs_Juarez" tvg-name="Atl San Luis vs Juarez" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Atl San Luis vs Juarez [9:00 PM ET]
 http://193.47.62.41/hls/JJJJAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Necaxa_vs_Club_Tijuana" tvg-name="Necaxa vs Club Tijuana" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Necaxa vs Club Tijuana [9:00 PM ET]
+http://193.47.62.41/hls/JJJJAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Atlante_vs_Santos_Laguna" tvg-name="Atlante vs Santos Laguna" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Atlante vs Santos Laguna [11:00 PM ET]
 http://193.47.62.41/hls/JJJJAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -63,28 +63,40 @@ http://193.47.62.59/hls/EYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Atlanta_Hawks_vs_Washington_Wizards___CH_1" tvg-name="Atlanta Hawks vs Washington Wizards - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Atlanta Hawks vs Washington Wizards - CH 1 [8:00 PM ET]
 http://193.47.62.44/hls/EYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Cleveland_Cavaliers_vs_Philadelphia_76ers___CH_2" tvg-name="Cleveland Cavaliers vs Philadelphia 76ers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Cleveland Cavaliers vs Philadelphia 76ers - CH 2 [8:30 PM ET]
-https://www.rtmpcdn.com/live/9655839c-1c68-4c39-af39-0a41480d0014.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Cleveland_Cavaliers_vs_Philadelphia_76ers___CH_1" tvg-name="Cleveland Cavaliers vs Philadelphia 76ers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Cleveland Cavaliers vs Philadelphia 76ers - CH 1 [8:30 PM ET]
 http://193.47.62.50/hls/FTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Toronto_Raptors" tvg-name="Milwaukee Bucks vs Toronto Raptors" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Toronto Raptors [9:00 PM ET]
+#EXTINF:-1 tvg-id="Cleveland_Cavaliers_vs_Philadelphia_76ers___CH_2" tvg-name="Cleveland Cavaliers vs Philadelphia 76ers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Cleveland Cavaliers vs Philadelphia 76ers - CH 2 [8:30 PM ET]
+https://www.rtmpcdn.com/live/9655839c-1c68-4c39-af39-0a41480d0014.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Toronto_Raptors___CH_1" tvg-name="Milwaukee Bucks vs Toronto Raptors - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Toronto Raptors - CH 1 [9:00 PM ET]
 http://193.47.62.59/hls/EYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="New_Orleans_Pelicans_vs_Minnesota_Timberwolves" tvg-name="New Orleans Pelicans vs Minnesota Timberwolves" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",New Orleans Pelicans vs Minnesota Timberwolves [9:00 PM ET]
+#EXTINF:-1 tvg-id="New_Orleans_Pelicans_vs_Minnesota_Timberwolves___CH_2" tvg-name="New Orleans Pelicans vs Minnesota Timberwolves - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",New Orleans Pelicans vs Minnesota Timberwolves - CH 2 [9:00 PM ET]
+https://www.rtmpcdn.com/live/c5e35871-5ff2-4470-aff7-63b69a5f4896.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_Orleans_Pelicans_vs_Minnesota_Timberwolves___CH_1" tvg-name="New Orleans Pelicans vs Minnesota Timberwolves - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",New Orleans Pelicans vs Minnesota Timberwolves - CH 1 [9:00 PM ET]
 http://193.47.62.50/hls/FTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Memphis_Grizzlies_vs_Oklahoma_City_Thunder" tvg-name="Memphis Grizzlies vs Oklahoma City Thunder" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Memphis Grizzlies vs Oklahoma City Thunder [9:00 PM ET]
+#EXTINF:-1 tvg-id="Milwaukee_Bucks_vs_Toronto_Raptors___CH_2" tvg-name="Milwaukee Bucks vs Toronto Raptors - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Milwaukee Bucks vs Toronto Raptors - CH 2 [9:00 PM ET]
+https://www.rtmpcdn.com/live/70eb8768-b7ca-443e-8102-b91cef836f65.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Memphis_Grizzlies_vs_Oklahoma_City_Thunder___CH_2" tvg-name="Memphis Grizzlies vs Oklahoma City Thunder - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Memphis Grizzlies vs Oklahoma City Thunder - CH 2 [9:00 PM ET]
+https://www.rtmpcdn.com/live/bbe056ff-5acd-4f48-9b6f-e314dc56a2f7.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Memphis_Grizzlies_vs_Oklahoma_City_Thunder___CH_1" tvg-name="Memphis Grizzlies vs Oklahoma City Thunder - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Memphis Grizzlies vs Oklahoma City Thunder - CH 1 [9:00 PM ET]
 http://193.47.62.44/hls/EYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Utah_Jazz" tvg-name="Dallas Mavericks vs Utah Jazz" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Utah Jazz [9:00 PM ET]
+#EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Utah_Jazz___CH_1" tvg-name="Dallas Mavericks vs Utah Jazz - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Utah Jazz - CH 1 [9:00 PM ET]
 http://193.47.62.55/hls/FTTTAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Sacramento_Kings_vs_San_Antonio_Spurs" tvg-name="Sacramento Kings vs San Antonio Spurs" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Sacramento Kings vs San Antonio Spurs [10:00 PM ET]
+#EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Utah_Jazz___CH_2" tvg-name="Dallas Mavericks vs Utah Jazz - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Utah Jazz - CH 2 [9:00 PM ET]
+https://www.rtmpcdn.com/live/81a418aa-72ac-4a09-90e9-fc2b7fe4ce3d.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sacramento_Kings_vs_San_Antonio_Spurs" tvg-name="Sacramento Kings vs San Antonio Spurs" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Sacramento Kings vs San Antonio Spurs [11:00 PM ET]
 http://193.47.62.44/hls/EYYYAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Portland_Trail_Blazers" tvg-name="Los Angeles Lakers vs Portland Trail Blazers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Portland Trail Blazers [10:00 PM ET]
+#EXTINF:-1 tvg-id="Los_Angeles_Lakers_vs_Portland_Trail_Blazers" tvg-name="Los Angeles Lakers vs Portland Trail Blazers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Los Angeles Lakers vs Portland Trail Blazers [11:00 PM ET]
 http://193.47.62.55/hls/FTTTAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NCAA American Football
@@ -107,20 +119,20 @@ http://193.47.62.41/hls/JJJJAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-a
 #EXTINF:-1 tvg-id="Oregon_vs_East_Washington" tvg-name="Oregon vs East Washington" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Oregon vs East Washington [7:00 PM ET]
 http://193.47.62.55/hls/FTTTAAAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Saint_Louis_vs_Missouri" tvg-name="Saint Louis vs Missouri" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Saint Louis vs Missouri [8:00 PM ET]
+http://193.47.62.41/hls/KKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Kentucky_vs_James_Madison" tvg-name="Kentucky vs James Madison" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Kentucky vs James Madison [8:00 PM ET]
 http://193.47.62.55/hls/yyyy.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Boston_College_vs_UMass" tvg-name="Boston College vs UMass" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Boston College vs UMass [5:00 PM ET]
+#EXTINF:-1 tvg-id="Wright_State_vs_Florida_Atlantic" tvg-name="Wright State vs Florida Atlantic" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Wright State vs Florida Atlantic [8:30 PM ET]
 http://193.47.62.41/hls/KKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Virginia_vs_Northeastern" tvg-name="Virginia vs Northeastern" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Virginia vs Northeastern [6:00 PM ET]
-http://193.47.62.41/hls/KKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Florida_International_vs_West_Florida_Argonauts" tvg-name="Florida International vs West Florida Argonauts" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Florida International vs West Florida Argonauts [6:00 PM ET]
-http://193.47.62.41/hls/KKKKAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Baylor_vs_Arkansas_Pine_Bluff" tvg-name="Baylor vs Arkansas-Pine Bluff" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Baylor vs Arkansas-Pine Bluff [6:00 PM ET]
+#EXTINF:-1 tvg-id="Michigan_vs_UConn_Huskies" tvg-name="Michigan vs UConn Huskies" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Michigan vs UConn Huskies [9:00 PM ET]
 http://193.47.62.41/hls/KKKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Iowa_vs_Eastern_Illinois" tvg-name="Iowa vs Eastern Illinois" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Iowa vs Eastern Illinois [9:30 PM ET]
+http://193.47.62.41/hls/KKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
 #EXTINF:-1 tvg-id="Buffalo_Sabres_vs_Columbus_Blue_Jackets" tvg-name="Buffalo Sabres vs Columbus Blue Jackets" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Buffalo Sabres vs Columbus Blue Jackets [8:00 PM ET]
@@ -131,6 +143,10 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/70a49a
 
 #EXTINF:-1 tvg-id="Calgary_Flames_vs_Anaheim_Ducks" tvg-name="Calgary Flames vs Anaheim Ducks" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Calgary Flames vs Anaheim Ducks [9:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cb87b9c9-d87c-40fb-92c7-ca5538d9b0c8/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Supercars
+#EXTINF:-1 tvg-id="Supercars_Championship_Gold_Coast_500" tvg-name="Supercars Championship Gold Coast 500" tvg-logo="https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg" group-title="Supercars",Supercars Championship Gold Coast 500 [9:30 PM ET]
+http://193.47.62.50/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_Masters_Paris" tvg-name="Tennis Masters Paris" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis Masters Paris [3:00 PM ET]
