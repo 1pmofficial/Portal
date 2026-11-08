@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 08, 2026 at 02:00 AM EST
-# Total categories: 12
-# Total events: 25
-# Working streams: 25
+#PLAYLIST: The TV App - November 08, 2026 at 03:00 AM EST
+# Total categories: 13
+# Total events: 31
+# Working streams: 31
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -21,12 +21,30 @@ http://193.47.62.55/hls/FVVVA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Perth_vs_Cairns_Taipans" tvg-name="Perth vs Cairns Taipans" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Perth vs Cairns Taipans [2:00 AM ET]
 http://193.47.62.55/hls/Q333Q.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Boxing
-#EXTINF:-1 tvg-id="Boxing___Perez_vs_Rivera___CH_1" tvg-name="Boxing : Perez vs Rivera - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing",Boxing : Perez vs Rivera - CH 1 [TBD]
-http://193.47.62.59/hls/dddd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:China Super League
+#EXTINF:-1 tvg-id="Zhejiang_Professional_vs_Henan_Songshan_Longmen" tvg-name="Zhejiang Professional vs Henan Songshan Longmen" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Zhejiang Professional vs Henan Songshan Longmen [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Boxing___Perez_vs_Rivera___CH_2" tvg-name="Boxing : Perez vs Rivera - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing",Boxing : Perez vs Rivera - CH 2 [TBD]
-https://admin2.formaturamaxi.com.br/ppv3.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Yunnan_Yukun_vs_Wuhan_Three_Towns" tvg-name="Yunnan Yukun vs Wuhan Three Towns" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Yunnan Yukun vs Wuhan Three Towns [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Shanghai_Shenhua_vs_Qingdao_West_Coast" tvg-name="Shanghai Shenhua vs Qingdao West Coast" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Shanghai Shenhua vs Qingdao West Coast [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Shandong_Taishan_vs_Chengdu_Rongcheng" tvg-name="Shandong Taishan vs Chengdu Rongcheng" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Shandong Taishan vs Chengdu Rongcheng [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Shanghai_Port_vs_Liaoning_Tieren" tvg-name="Shanghai Port vs Liaoning Tieren" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Shanghai Port vs Liaoning Tieren [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Qingdao_Hainiu_vs_Shenzhen_Xinpengcheng" tvg-name="Qingdao Hainiu vs Shenzhen Xinpengcheng" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Qingdao Hainiu vs Shenzhen Xinpengcheng [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dalian_Yingbo_vs_Tianjin_Jinmen_Tiger" tvg-name="Dalian Yingbo vs Tianjin Jinmen Tiger" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Dalian Yingbo vs Tianjin Jinmen Tiger [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Beijing_Guoan_vs_Chongqing_Tonglianglong" tvg-name="Beijing Guoan vs Chongqing Tonglianglong" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="China Super League",Beijing Guoan vs Chongqing Tonglianglong [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Golf
 #EXTINF:-1 tvg-id="Golf_Abu_Dhabi_Championship" tvg-name="Golf Abu Dhabi Championship" tvg-logo="https://pbs.twimg.com/profile_images/2105239605431918592/5INeq7F6_400x400.jpg" group-title="Golf",Golf Abu Dhabi Championship [3:00 AM ET]
@@ -50,22 +68,15 @@ http://193.47.62.55/hls/Q333.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="UNAM_Pumas_vs_Club_America" tvg-name="UNAM Pumas vs Club America" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",UNAM Pumas vs Club America [11:10 PM ET]
 http://193.47.62.41/hls/TJJJAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:NBA Basketball
-#EXTINF:-1 tvg-id="Portland_Trail_Blazers_vs_San_Antonio_Spurs___CH_2" tvg-name="Portland Trail Blazers vs San Antonio Spurs - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Portland Trail Blazers vs San Antonio Spurs - CH 2 [11:00 PM ET]
-https://www.rtmpcdn.com/live/7ab3b16a-4457-41ec-bb31-9d120029ef33.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Portland_Trail_Blazers_vs_San_Antonio_Spurs___CH_1" tvg-name="Portland Trail Blazers vs San Antonio Spurs - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Portland Trail Blazers vs San Antonio Spurs - CH 1 [11:00 PM ET]
-http://193.47.62.44/hls/I888AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTGRP:NCAA American Football
-#EXTINF:-1 tvg-id="Texas_Tech_vs_West_Virginia" tvg-name="Texas Tech vs West Virginia" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs West Virginia [10:30 PM ET]
-http://193.47.62.41/hls/TJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="UTEP_vs_Hawaii" tvg-name="UTEP vs Hawaii" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UTEP vs Hawaii [10:30 PM ET]
 http://193.47.62.41/hls/TJJJAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Utah_State_vs_Fresno_State" tvg-name="Utah State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Utah State vs Fresno State [10:30 PM ET]
 http://193.47.62.41/hls/TJJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Texas_Tech_vs_West_Virginia" tvg-name="Texas Tech vs West Virginia" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs West Virginia [10:30 PM ET]
+http://193.47.62.41/hls/TJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="UNLV_Rebels_vs_Wyoming" tvg-name="UNLV Rebels vs Wyoming" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UNLV Rebels vs Wyoming [11:30 PM ET]
 http://193.47.62.50/hls/T111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -74,22 +85,30 @@ http://193.47.62.50/hls/T111.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.41/hls/TJJJAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:NHL Hockey
-#EXTINF:-1 tvg-id="Colorado_Avalanche_vs_Detroit_Red_Wings" tvg-name="Colorado Avalanche vs Detroit Red Wings" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Colorado Avalanche vs Detroit Red Wings [10:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8f2608b5-dad5-47aa-b5d3-82e01187da41/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Los_Angeles_Kings_vs_Pittsburgh_Penguins" tvg-name="Los Angeles Kings vs Pittsburgh Penguins" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Los Angeles Kings vs Pittsburgh Penguins [10:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/890250c7-e87a-4b06-9a49-6f09f1eccdd1/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colorado_Avalanche_vs_Detroit_Red_Wings" tvg-name="Colorado Avalanche vs Detroit Red Wings" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Colorado Avalanche vs Detroit Red Wings [10:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8f2608b5-dad5-47aa-b5d3-82e01187da41/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Edmonton_Oilers_vs_Vancouver_Canucks" tvg-name="Edmonton Oilers vs Vancouver Canucks" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Edmonton Oilers vs Vancouver Canucks [11:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/91527b1e-243b-4635-94e2-c88580a67fed/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:South Korea K League
-#EXTINF:-1 tvg-id="Seoul_vs_Ulsan_HD" tvg-name="Seoul vs Ulsan HD" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Ulsan HD [1:00 AM ET]
-http://193.47.62.55/hls/FVVVAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Rugby World Cup
+#EXTINF:-1 tvg-id="Australia_W_vs_Fiji_W" tvg-name="Australia W vs Fiji W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg" group-title="Rugby World Cup",Australia W vs Fiji W [2:30 AM ET]
+http://193.47.62.59/hls/WAWAWAWA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Daejeon_vs_Incheon" tvg-name="Daejeon vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Daejeon vs Incheon [1:00 AM ET]
-http://193.47.62.55/hls/FVVVAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:South Korea K League
+#EXTINF:-1 tvg-id="Gangwon_vs_Jeonbuk" tvg-name="Gangwon vs Jeonbuk" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Gangwon vs Jeonbuk [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Daejeon_vs_Incheon" tvg-name="Daejeon vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Daejeon vs Incheon [3:30 AM ET]
+http://193.47.62.41/hls/JUJUJU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Supercars
 #EXTINF:-1 tvg-id="Supercars_Championship_Gold_Coast_500" tvg-name="Supercars Championship Gold Coast 500" tvg-logo="https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg" group-title="Supercars",Supercars Championship Gold Coast 500 [9:00 PM ET]
 http://193.47.62.50/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis WTA
+#EXTINF:-1 tvg-id="Tennis_WTA_Hong_Kong_Chennai" tvg-name="Tennis WTA Hong Kong/Chennai" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Hong Kong/Chennai [TBD]
+http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
