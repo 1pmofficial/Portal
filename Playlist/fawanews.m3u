@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 07, 2026 at 10:00 PM EST
+#PLAYLIST: The TV App - November 07, 2026 at 11:00 PM EST
 # Total categories: 11
 # Total events: 45
-# Working streams: 44
+# Working streams: 45
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -27,11 +27,11 @@ http://193.47.62.55/hls/T555AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 http://193.47.62.59/hls/UUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Mexico Liga MX
-#EXTINF:-1 tvg-id="Toluca_vs_Monterrey" tvg-name="Toluca vs Monterrey" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Toluca vs Monterrey [9:00 PM ET]
-http://193.47.62.41/hls/T222AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tigres_UANL_vs_Cruz_Azul" tvg-name="Tigres UANL vs Cruz Azul" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Tigres UANL vs Cruz Azul [9:00 PM ET]
 http://193.47.62.41/hls/T222AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Toluca_vs_Monterrey" tvg-name="Toluca vs Monterrey" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Toluca vs Monterrey [9:00 PM ET]
+http://193.47.62.41/hls/T222AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="UNAM_Pumas_vs_Club_America" tvg-name="UNAM Pumas vs Club America" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",UNAM Pumas vs Club America [11:10 PM ET]
 http://193.47.62.41/hls/TJJJAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -61,11 +61,14 @@ http://193.47.62.44/hls/I888AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Golden_State_Warriors_vs_Orlando_Magic___CH_2" tvg-name="Golden State Warriors vs Orlando Magic - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs Orlando Magic - CH 2 [9:30 PM ET]
 https://www.rtmpcdn.com/live/b2d96fd8-cc56-4d5b-a735-6b1c65584af5.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Phoenix_Suns_vs_Houston_Rockets___CH_1" tvg-name="Phoenix Suns vs Houston Rockets - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Phoenix Suns vs Houston Rockets - CH 1 [10:00 PM ET]
+http://193.47.62.44/hls/I888AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Phoenix_Suns_vs_Houston_Rockets___CH_2" tvg-name="Phoenix Suns vs Houston Rockets - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Phoenix Suns vs Houston Rockets - CH 2 [10:00 PM ET]
 https://www.rtmpcdn.com/live/1b487f61-d3e6-4740-8d0c-6c45f9e36a5e.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Phoenix_Suns_vs_Houston_Rockets___CH_1" tvg-name="Phoenix Suns vs Houston Rockets - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Phoenix Suns vs Houston Rockets - CH 1 [10:00 PM ET]
-http://193.47.62.44/hls/I888AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Portland_Trail_Blazers_vs_San_Antonio_Spurs___CH_2" tvg-name="Portland Trail Blazers vs San Antonio Spurs - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Portland Trail Blazers vs San Antonio Spurs - CH 2 [11:00 PM ET]
+https://www.rtmpcdn.com/live/7ab3b16a-4457-41ec-bb31-9d120029ef33.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Portland_Trail_Blazers_vs_San_Antonio_Spurs___CH_1" tvg-name="Portland Trail Blazers vs San Antonio Spurs - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Portland Trail Blazers vs San Antonio Spurs - CH 1 [11:00 PM ET]
 http://193.47.62.44/hls/I888AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -104,11 +107,11 @@ http://193.47.62.41/hls/T222AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="UTEP_vs_Hawaii" tvg-name="UTEP vs Hawaii" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UTEP vs Hawaii [10:30 PM ET]
 http://193.47.62.41/hls/TJJJAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Texas_Tech_vs_West_Virginia" tvg-name="Texas Tech vs West Virginia" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs West Virginia [10:30 PM ET]
-http://193.47.62.41/hls/TJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Utah_State_vs_Fresno_State" tvg-name="Utah State vs Fresno State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Utah State vs Fresno State [10:30 PM ET]
 http://193.47.62.41/hls/TJJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Texas_Tech_vs_West_Virginia" tvg-name="Texas Tech vs West Virginia" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs West Virginia [10:30 PM ET]
+http://193.47.62.41/hls/TJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="UNLV_Rebels_vs_Wyoming" tvg-name="UNLV Rebels vs Wyoming" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",UNLV Rebels vs Wyoming [11:30 PM ET]
 http://193.47.62.50/hls/T111.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
