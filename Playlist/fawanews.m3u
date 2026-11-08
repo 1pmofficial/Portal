@@ -1,6 +1,6 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 08, 2026 at 05:00 AM EST
-# Total categories: 24
+#PLAYLIST: The TV App - November 08, 2026 at 06:00 AM EST
+# Total categories: 25
 # Total events: 41
 # Working streams: 41
 
@@ -41,7 +41,7 @@ http://193.47.62.41/hls/JUJUJUAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 http://193.47.62.41/hls/JUJUJUAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Denmark SuperLiga
-#EXTINF:-1 tvg-id="FC_Copenhagen_vs_Brondby" tvg-name="FC Copenhagen vs Brondby" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg" group-title="Denmark SuperLiga",FC Copenhagen vs Brondby [7:00 AM ET]
+#EXTINF:-1 tvg-id="FC_Copenhagen_vs_Brondby" tvg-name="FC Copenhagen vs Brondby" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_400x400.jpg" group-title="Denmark SuperLiga",FC Copenhagen vs Brondby [7:00 AM ET]
 http://193.47.62.44/hls/BKKKA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Dutch Eerste Divisie
@@ -69,11 +69,11 @@ http://193.47.62.55/hls/Q333.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.44/hls/BKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Latvia Virsliga
-#EXTINF:-1 tvg-id="Super_Nova_vs_BFC_Daugavpils" tvg-name="Super Nova vs BFC Daugavpils" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Super Nova vs BFC Daugavpils [7:00 AM ET]
-http://193.47.62.41/hls/DIIIAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tukums_2000_vs_Auda" tvg-name="Tukums 2000 vs Auda" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Tukums 2000 vs Auda [7:00 AM ET]
 http://193.47.62.41/hls/DIIIAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Super_Nova_vs_BFC_Daugavpils" tvg-name="Super Nova vs BFC Daugavpils" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Super Nova vs BFC Daugavpils [7:00 AM ET]
+http://193.47.62.41/hls/DIIIAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Jelgava_vs_Ogre_United" tvg-name="Jelgava vs Ogre United" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Jelgava vs Ogre United [7:00 AM ET]
 http://193.47.62.41/hls/DIIIAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -81,16 +81,20 @@ http://193.47.62.41/hls/DIIIAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Grobina_vs_FK_Liepaja" tvg-name="Grobina vs FK Liepaja" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Grobina vs FK Liepaja [7:00 AM ET]
 http://193.47.62.41/hls/DIIIAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:MotoGP
+#EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Qatar" tvg-name="MotoGP Grand Prix of Qatar" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Qatar [5:30 AM ET]
+http://193.47.62.44/hls/ziii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Poland Division 1
 #EXTINF:-1 tvg-id="Polonia_Bytom_vs_Lechia_Gdansk" tvg-name="Polonia Bytom vs Lechia Gdansk" tvg-logo="https://pbs.twimg.com/profile_images/720539064781262848/q0CEFj5f_400x400.jpg" group-title="Poland Division 1",Polonia Bytom vs Lechia Gdansk [7:15 AM ET]
 http://193.47.62.44/hls/BKKKAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Portugal Liga 2
-#EXTINF:-1 tvg-id="FC_Porto_B_vs_Portimonense" tvg-name="FC Porto B vs Portimonense" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",FC Porto B vs Portimonense [7:00 AM ET]
-http://193.47.62.41/hls/DIIIAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Feirense_vs_Lusitania_FC" tvg-name="Feirense vs Lusitania FC" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",Feirense vs Lusitania FC [7:00 AM ET]
 http://193.47.62.41/hls/DIIIAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FC_Porto_B_vs_Portimonense" tvg-name="FC Porto B vs Portimonense" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",FC Porto B vs Portimonense [7:00 AM ET]
+http://193.47.62.41/hls/DIIIAAAQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Rugby World Cup
 #EXTINF:-1 tvg-id="Australia_vs_Samoa" tvg-name="Australia vs Samoa" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg" group-title="Rugby World Cup",Australia vs Samoa [5:05 AM ET]
@@ -138,9 +142,6 @@ http://193.47.62.41/hls/DIIIA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 http://193.47.62.41/hls/DIIIAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Ukraine Premier League
-#EXTINF:-1 tvg-id="Shakhtar_Donetsk_vs_Dynamo_Kyiv" tvg-name="Shakhtar Donetsk vs Dynamo Kyiv" tvg-logo="https://pbs.twimg.com/profile_images/840207581444464640/O24jzJBh_400x400.jpg" group-title="Ukraine Premier League",Shakhtar Donetsk vs Dynamo Kyiv [7:00 AM ET]
-http://193.47.62.41/hls/GTGTGT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="FK_Zorya_Luhansk_vs_LNZ_Cherkasy" tvg-name="FK Zorya Luhansk vs LNZ Cherkasy" tvg-logo="https://pbs.twimg.com/profile_images/840207581444464640/O24jzJBh_400x400.jpg" group-title="Ukraine Premier League",FK Zorya Luhansk vs LNZ Cherkasy [7:00 AM ET]
 http://193.47.62.41/hls/RIIIAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
