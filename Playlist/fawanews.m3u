@@ -1,11 +1,15 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 09, 2026 at 10:00 AM EST
-# Total categories: 5
-# Total events: 9
-# Working streams: 7
+#PLAYLIST: The TV App - November 09, 2026 at 11:00 AM EST
+# Total categories: 12
+# Total events: 17
+# Working streams: 15
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTGRP:Bulgaria Vtora League
+#EXTINF:-1 tvg-id="Etar_vs_Montana" tvg-name="Etar vs Montana" tvg-logo="https://pbs.twimg.com/profile_images/1804462637155016704/wTbeoAGR_400x400.jpg" group-title="Bulgaria Vtora League",Etar vs Montana [11:00 AM ET]
+http://193.47.62.59/hls/EIIIIA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Cricket
 #EXTINF:-1 tvg-id="Pakistan_vs_Sri_Lanka" tvg-name="Pakistan vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Pakistan vs Sri Lanka [1:00 AM ET]
@@ -14,6 +18,10 @@ http://193.47.62.41/hls/D222.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Afghanistan_vs_Zimbabwe" tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [2:00 AM ET]
 http://193.47.62.44/hls/D222A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Cyprus Basketball
+#EXTINF:-1 tvg-id="Paralimni_vs_Apollon" tvg-name="Paralimni vs Apollon" tvg-logo="https://pbs.twimg.com/profile_images/1978338933776826368/DTET5XRH_400x400.jpg" group-title="Cyprus Basketball",Paralimni vs Apollon [1:00 PM ET]
+http://193.47.62.44/hls/SYYYYAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Egypt Cup
 #EXTINF:-1 tvg-id="Wadi_Degla_vs_Kahrabaa_Ismailia" tvg-name="Wadi Degla vs Kahrabaa Ismailia" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Cup",Wadi Degla vs Kahrabaa Ismailia [8:30 AM ET]
 http://193.47.62.59/hls/WJJJJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -21,9 +29,28 @@ http://193.47.62.59/hls/WJJJJJA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="ZED_vs_Samanod" tvg-name="ZED vs Samanod" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Cup",ZED vs Samanod [11:00 AM ET]
 http://193.47.62.59/hls/EIIII.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTGRP:Finland Hockey Liiga
+#EXTINF:-1 tvg-id="TPS_Turku_vs_KalPa" tvg-name="TPS Turku vs KalPa" tvg-logo="https://pbs.twimg.com/profile_images/2061388433872850948/BTUOHflx_400x400.jpg" group-title="Finland Hockey Liiga",TPS Turku vs KalPa [12:30 PM ET]
+http://193.47.62.44/hls/SYYYYAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Georgia League
+#EXTINF:-1 tvg-id="Iberia_1999_vs_Gagra" tvg-name="Iberia 1999 vs Gagra" tvg-logo="https://pbs.twimg.com/profile_images/1825848604407275520/wi-U3cyM_400x400.jpg" group-title="Georgia League",Iberia 1999 vs Gagra [12:00 PM ET]
+http://193.47.62.44/hls/SYYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:German Women Bundesliga
+#EXTINF:-1 tvg-id="Koln_W_vs_RB_Leipzig_W" tvg-name="Koln W vs RB Leipzig W" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="German Women Bundesliga",Koln W vs RB Leipzig W [1:00 PM ET]
+http://193.47.62.44/hls/SYYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTGRP:Romania Liga 2
 #EXTINF:-1 tvg-id="CS_Dinamo_Bucuresti_vs_Ramnicu_Valcea" tvg-name="CS Dinamo Bucuresti vs Ramnicu Valcea" tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="Romania Liga 2",CS Dinamo Bucuresti vs Ramnicu Valcea [11:00 AM ET]
 http://193.47.62.59/hls/WJJJJJAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Serbia Prva Liga
+#EXTINF:-1 tvg-id="Napredak_vs_Bor_1919" tvg-name="Napredak vs Bor 1919" tvg-logo="https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg" group-title="Serbia Prva Liga",Napredak vs Bor 1919 [11:00 AM ET]
+http://193.47.62.44/hls/FYYYQQQQAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Javor_vs_TSC" tvg-name="Javor vs TSC" tvg-logo="https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg" group-title="Serbia Prva Liga",Javor vs TSC [1:00 PM ET]
+http://193.47.62.44/hls/SYYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Snooker
 #EXTINF:-1 tvg-id="Snooker_Champion_of_Champions" tvg-name="Snooker Champion of Champions" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champion of Champions [8:00 AM ET]
@@ -32,3 +59,7 @@ http://193.47.62.59/hls/WJJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTGRP:Tennis ATP
 #EXTINF:-1 tvg-id="Tennis_ATP_Stockholm" tvg-name="Tennis ATP Stockholm" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Stockholm [8:00 AM ET]
 http://193.47.62.55/hls/RGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Turkey Basketball Super Lig
+#EXTINF:-1 tvg-id="Karsiyaka_vs_Besiktas" tvg-name="Karsiyaka vs Besiktas" tvg-logo="https://pbs.twimg.com/profile_images/1833036526969659392/g6woGHtM_400x400.jpg" group-title="Turkey Basketball Super Lig",Karsiyaka vs Besiktas [12:00 PM ET]
+http://193.47.62.44/hls/SYYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
