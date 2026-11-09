@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 09, 2026 at 05:00 PM EST
-# Total categories: 14
-# Total events: 18
-# Working streams: 18
+#PLAYLIST: The TV App - November 09, 2026 at 06:00 PM EST
+# Total categories: 15
+# Total events: 19
+# Working streams: 19
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -32,6 +32,10 @@ http://193.47.62.55/hls/Z777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTGRP:Italy Basketball Lega A
 #EXTINF:-1 tvg-id="Virtus_Bologna_vs_Verona" tvg-name="Virtus Bologna vs Verona" tvg-logo="https://pbs.twimg.com/profile_images/2102344322167328769/mp6HKWDN_400x400.jpg" group-title="Italy Basketball Lega A",Virtus Bologna vs Verona [3:00 PM ET]
 http://193.47.62.55/hls/Z777.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Jamaica Premier League
+#EXTINF:-1 tvg-id="Chapelton_vs_Racing_United" tvg-name="Chapelton vs Racing United" tvg-logo="https://pbs.twimg.com/profile_images/2097397695161778177/n0XPOh-p_400x400.jpg" group-title="Jamaica Premier League",Chapelton vs Racing United [6:05 PM ET]
+http://193.47.62.55/hls/Z777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Norway Eliteserien
 #EXTINF:-1 tvg-id="Kristiansund_vs_Valerenga" tvg-name="Kristiansund vs Valerenga" tvg-logo="https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg" group-title="Norway Eliteserien",Kristiansund vs Valerenga [2:00 PM ET]
@@ -71,6 +75,6 @@ http://193.47.62.55/hls/Z777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Tennis_ATP_Stockholm" tvg-name="Tennis ATP Stockholm" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Stockholm [8:00 AM ET]
 http://193.47.62.55/hls/RGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Uruguay Cup
-#EXTINF:-1 tvg-id="Lito_vs_Danubio" tvg-name="Lito vs Danubio" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg" group-title="Uruguay Cup",Lito vs Danubio [3:30 PM ET]
-http://193.47.62.55/hls/Z777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:Tennis WTA
+#EXTINF:-1 tvg-id="Tennis_WTA_Finals_Indian_Wells" tvg-name="Tennis WTA Finals Indian Wells" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Finals Indian Wells [TBD]
+http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
