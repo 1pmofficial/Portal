@@ -1,80 +1,71 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 09, 2026 at 06:00 PM EST
-# Total categories: 15
-# Total events: 19
-# Working streams: 19
+#PLAYLIST: The TV App - November 09, 2026 at 07:00 PM EST
+# Total categories: 9
+# Total events: 25
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media", Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTGRP:Colombia Primera B
-#EXTINF:-1 tvg-id="Ind_Valle_del_Cauca_vs_U_Magdalena" tvg-name="Ind Valle del Cauca vs U Magdalena" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Ind Valle del Cauca vs U Magdalena [4:30 PM ET]
+#EXTGRP:Bolivia Division Profesional
+#EXTINF:-1 tvg-id="Aurora_vs_Universitario_de_Vinto" tvg-name="Aurora vs Universitario de Vinto" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="Bolivia Division Profesional",Aurora vs Universitario de Vinto [8:30 PM ET]
+http://193.47.62.41/hls/CCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Colombia Primera A
+#EXTINF:-1 tvg-id="Junior_vs_Cucuta" tvg-name="Junior vs Cucuta" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera A",Junior vs Cucuta [8:00 PM ET]
 http://193.47.62.55/hls/T333AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Denmark Division 1
-#EXTINF:-1 tvg-id="Hvidovre_IF_vs_Aarhus_Fremad" tvg-name="Hvidovre IF vs Aarhus Fremad" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg" group-title="Denmark Division 1",Hvidovre IF vs Aarhus Fremad [2:00 PM ET]
-http://193.47.62.44/hls/R777.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Ecuador Liga Pro
-#EXTINF:-1 tvg-id="Mushuc_Runa_vs_Delfin" tvg-name="Mushuc Runa vs Delfin" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Mushuc Runa vs Delfin [2:00 PM ET]
-http://193.47.62.44/hls/R777A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tecnico_U_vs_Manta" tvg-name="Tecnico U vs Manta" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Tecnico U vs Manta [4:30 PM ET]
-http://193.47.62.55/hls/T333AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:English FA Cup
-#EXTINF:-1 tvg-id="English_FA_Cup_Draw" tvg-name="English FA Cup Draw" tvg-logo="https://pbs.twimg.com/profile_images/2116795447712813056/HDl_ovJd_400x400.jpg" group-title="English FA Cup",English FA Cup Draw [2:30 PM ET]
-http://193.47.62.55/hls/Z777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Plymouth_Parkway_vs_Berkhamsted" tvg-name="Plymouth Parkway vs Berkhamsted" tvg-logo="https://pbs.twimg.com/profile_images/2116795447712813056/HDl_ovJd_400x400.jpg" group-title="English FA Cup",Plymouth Parkway vs Berkhamsted [3:30 PM ET]
-http://193.47.62.55/hls/Z777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Italy Basketball Lega A
-#EXTINF:-1 tvg-id="Virtus_Bologna_vs_Verona" tvg-name="Virtus Bologna vs Verona" tvg-logo="https://pbs.twimg.com/profile_images/2102344322167328769/mp6HKWDN_400x400.jpg" group-title="Italy Basketball Lega A",Virtus Bologna vs Verona [3:00 PM ET]
-http://193.47.62.55/hls/Z777.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Jamaica Premier League
 #EXTINF:-1 tvg-id="Chapelton_vs_Racing_United" tvg-name="Chapelton vs Racing United" tvg-logo="https://pbs.twimg.com/profile_images/2097397695161778177/n0XPOh-p_400x400.jpg" group-title="Jamaica Premier League",Chapelton vs Racing United [6:05 PM ET]
 http://193.47.62.55/hls/Z777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTGRP:Norway Eliteserien
-#EXTINF:-1 tvg-id="Kristiansund_vs_Valerenga" tvg-name="Kristiansund vs Valerenga" tvg-logo="https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg" group-title="Norway Eliteserien",Kristiansund vs Valerenga [2:00 PM ET]
-http://193.47.62.44/hls/R777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTGRP:NBA Basketball
+#EXTINF:-1 tvg-id="Atlanta_Hawks_vs_Los_Angeles_Lakers___CH_1" tvg-name="Atlanta Hawks vs Los Angeles Lakers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Atlanta Hawks vs Los Angeles Lakers - CH 1 [8:00 PM ET]
+http://193.47.62.44/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Atlanta_Hawks_vs_Los_Angeles_Lakers___CH_2" tvg-name="Atlanta Hawks vs Los Angeles Lakers - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Atlanta Hawks vs Los Angeles Lakers - CH 2 [8:00 PM ET]
+https://www.rtmpcdn.com/live/f4f24d4c-4796-46cc-bb82-e95375544f8a.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Detroit_Pistons_vs_Washington_Wizards___CH_1" tvg-name="Detroit Pistons vs Washington Wizards - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Detroit Pistons vs Washington Wizards - CH 1 [8:00 PM ET]
+http://193.47.62.44/hls/JJJJQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Charlotte_Hornets_vs_Cleveland_Cavaliers___CH_1" tvg-name="Charlotte Hornets vs Cleveland Cavaliers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Charlotte Hornets vs Cleveland Cavaliers - CH 1 [8:00 PM ET]
+http://193.47.62.59/hls/D666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Toronto_Raptors_vs_Memphis_Grizzlies" tvg-name="Toronto Raptors vs Memphis Grizzlies" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs Memphis Grizzlies [8:30 PM ET]
+http://193.47.62.59/hls/D666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dallas_Mavericks_vs_Indiana_Pacers" tvg-name="Dallas Mavericks vs Indiana Pacers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Dallas Mavericks vs Indiana Pacers [9:00 PM ET]
+http://193.47.62.44/hls/JJJJQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Houston_Rockets_vs_Denver_Nuggets" tvg-name="Houston Rockets vs Denver Nuggets" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Houston Rockets vs Denver Nuggets [9:30 PM ET]
+http://193.47.62.59/hls/D666AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Phoenix_Suns_vs_San_Antonio_Spurs" tvg-name="Phoenix Suns vs San Antonio Spurs" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Phoenix Suns vs San Antonio Spurs [10:00 PM ET]
+http://193.47.62.44/hls/JJJJQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Golden_State_Warriors_vs_New_Orleans_Pelicans" tvg-name="Golden State Warriors vs New Orleans Pelicans" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Golden State Warriors vs New Orleans Pelicans [11:00 PM ET]
+http://193.47.62.59/hls/D666AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NCAA Basketball
+#EXTINF:-1 tvg-id="Ohio_State_vs_Marshall" tvg-name="Ohio State vs Marshall" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Ohio State vs Marshall [7:00 PM ET]
+http://193.47.62.41/hls/JJJJJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Syracuse_vs_Indiana" tvg-name="Syracuse vs Indiana" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",Syracuse vs Indiana [7:30 PM ET]
+http://193.47.62.41/hls/THTHTHT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Paraguay Copa
-#EXTINF:-1 tvg-id="San_Lorenzo_vs_Rubio_Nu" tvg-name="San Lorenzo vs Rubio Nu" tvg-logo="https://pbs.twimg.com/profile_images/1770804716924006401/nv2ytSF7_400x400.jpg" group-title="Paraguay Copa",San Lorenzo vs Rubio Nu [4:00 PM ET]
-http://193.47.62.55/hls/Z777AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Sp_Luqueno_vs_2_de_Mayo" tvg-name="Sp Luqueno vs 2 de Mayo" tvg-logo="https://pbs.twimg.com/profile_images/1770804716924006401/nv2ytSF7_400x400.jpg" group-title="Paraguay Copa",Sp Luqueno vs 2 de Mayo [6:30 PM ET]
-http://193.47.62.55/hls/T333AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Portugal Liga 2
-#EXTINF:-1 tvg-id="Torreense_vs_Leiria" tvg-name="Torreense vs Leiria" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Liga 2",Torreense vs Leiria [4:15 PM ET]
-http://193.47.62.55/hls/T333A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Romania Superliga
-#EXTINF:-1 tvg-id="FC_Botosani_vs_Otelul" tvg-name="FC Botosani vs Otelul" tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg" group-title="Romania Superliga",FC Botosani vs Otelul [2:00 PM ET]
-http://193.47.62.59/hls/WJJJJJAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Snooker
-#EXTINF:-1 tvg-id="Snooker_Champion_of_Champions" tvg-name="Snooker Champion of Champions" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champion of Champions [TBD]
-http://193.47.62.59/hls/WJJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Spanish Liga F Women
-#EXTINF:-1 tvg-id="Atl_Madrid_W_vs_Badalona_W" tvg-name="Atl Madrid W vs Badalona W" tvg-logo="https://pbs.twimg.com/profile_images/2115726006921162752/iZLalX8u_400x400.jpg" group-title="Spanish Liga F Women",Atl Madrid W vs Badalona W [2:00 PM ET]
-http://193.47.62.44/hls/R777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Deportivo_la_Coruna_W_vs_Valencia_W" tvg-name="Deportivo la Coruna W vs Valencia W" tvg-logo="https://pbs.twimg.com/profile_images/2115726006921162752/iZLalX8u_400x400.jpg" group-title="Spanish Liga F Women",Deportivo la Coruna W vs Valencia W [4:00 PM ET]
-http://193.47.62.55/hls/T333.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Spanish Segunda Liga
-#EXTINF:-1 tvg-id="Sabadell_vs_Real_Sociedad_B" tvg-name="Sabadell vs Real Sociedad B" tvg-logo="https://pbs.twimg.com/profile_images/2115751359991472128/NE-p-czZ_400x400.jpg" group-title="Spanish Segunda Liga",Sabadell vs Real Sociedad B [3:30 PM ET]
-http://193.47.62.55/hls/Z777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTGRP:Tennis ATP
-#EXTINF:-1 tvg-id="Tennis_ATP_Stockholm" tvg-name="Tennis ATP Stockholm" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Stockholm [8:00 AM ET]
-http://193.47.62.55/hls/RGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://193.47.62.41/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTGRP:Tennis WTA
 #EXTINF:-1 tvg-id="Tennis_WTA_Finals_Indian_Wells" tvg-name="Tennis WTA Finals Indian Wells" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Finals Indian Wells [TBD]
 http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Uruguay Liga AUF
+#EXTINF:-1 tvg-id="Maldonado_vs_Nacional" tvg-name="Maldonado vs Nacional" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg" group-title="Uruguay Liga AUF",Maldonado vs Nacional [8:00 PM ET]
+http://193.47.62.41/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WWE Wrestling
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW" tvg-name="WWE Monday Night RAW" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW [9:00 PM ET]
+http://193.47.62.41/hls/CCCCAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
