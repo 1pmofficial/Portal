@@ -1,32 +1,38 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 12, 2026 at 09:00 AM EST
-# Total categories: 9
-# Total events: 16
-# Working streams: 14
+#PLAYLIST: The TV App - November 12, 2026 at 09:30 AM EST
+# Total categories: 10
+# Total events: 23
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
+#EXTINF:-1 tvg-id="Ghana_vs_Somalia" tvg-name="Ghana vs Somalia" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Ghana vs Somalia [11:00 AM ET]
+http://193.47.62.44/hls/GGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="DR_Congo_vs_Sierra_Leone" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",DR Congo vs Sierra Leone [12:00 PM ET]
+http://193.47.62.59/hls/GGGGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Guinea_vs_Eritrea" tvg-name="Guinea vs Eritrea" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Guinea vs Eritrea [12:00 PM ET]
+http://193.47.62.59/hls/GGGGAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Madagascar_vs_Guinea_Bissau" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Madagascar vs Guinea Bissau [12:00 PM ET]
+http://193.47.62.59/hls/GGGGAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Equatorial_Guinea_vs_Zimbabwe" tvg-name="Equatorial Guinea vs Zimbabwe" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Equatorial Guinea vs Zimbabwe [12:00 PM ET]
+http://193.47.62.44/hls/GGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Adelaide_vs_Melbourne_United" tvg-name="Adelaide vs Melbourne United" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Adelaide vs Melbourne United [4:30 AM ET]
 http://193.47.62.44/hls/UTTT.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Perth_vs_Tasmania_JackJumpers" tvg-name="Perth vs Tasmania JackJumpers" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",Perth vs Tasmania JackJumpers [6:30 AM ET]
-http://193.47.62.44/hls/UTTTA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Pakistan_vs_Sri_Lanka" tvg-name="Pakistan vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",Pakistan vs Sri Lanka [1:00 AM ET]
 http://193.47.62.50/hls/VFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Melbourne_Renegades_W_vs_Sydney_Sixers_W" tvg-name="Melbourne Renegades W vs Sydney Sixers W" tvg-logo="https://pbs.twimg.com/profile_images/1714774345271435264/fFEmLYDW_400x400.jpg" group-title="Cricket WBBL",Melbourne Renegades W vs Sydney Sixers W [4:05 AM ET]
-http://193.47.62.55/hls/VFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="RB_Leipzig_vs_FK_Mlada_Boleslav" tvg-name="RB Leipzig vs FK Mlada Boleslav" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",RB Leipzig vs FK Mlada Boleslav [6:00 AM ET]
-http://193.47.62.44/hls/UTTTAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Scotland_U21_vs_Ukraine_U21" tvg-name="Scotland U21 vs Ukraine U21" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Scotland U21 vs Ukraine U21 [9:00 AM ET]
+http://193.47.62.50/hls/VYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Monchengladbach_vs_Standard_Liege" tvg-name="Monchengladbach vs Standard Liege" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Monchengladbach vs Standard Liege [9:00 AM ET]
 http://193.47.62.50/hls/VYYYA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Scotland_U21_vs_Ukraine_U21" tvg-name="Scotland U21 vs Ukraine U21" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Scotland U21 vs Ukraine U21 [9:00 AM ET]
-http://193.47.62.50/hls/VYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Young_Boys_vs_Stade_Ouchy" tvg-name="Young Boys vs Stade Ouchy" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Young Boys vs Stade Ouchy [9:30 AM ET]
 http://193.47.62.50/hls/VYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -34,8 +40,20 @@ http://193.47.62.50/hls/VYYYAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Wolfsburg_vs_FC_Union_Berlin" tvg-name="Wolfsburg vs FC Union Berlin" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Wolfsburg vs FC Union Berlin [9:30 AM ET]
 http://193.47.62.50/hls/VYYYAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Uzbekistan_vs_Russia" tvg-name="Uzbekistan vs Russia" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Russia [11:00 AM ET]
+http://193.47.62.41/hls/FF444A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="France_U20_vs_Denmark_U20" tvg-name="France U20 vs Denmark U20" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",France U20 vs Denmark U20 [12:00 PM ET]
+http://193.47.62.41/hls/FF444AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Italy_U20_vs_Portugal_U20" tvg-name="Italy U20 vs Portugal U20" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Italy U20 vs Portugal U20 [12:00 PM ET]
+http://193.47.62.41/hls/FF444AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Golf_DP_World_Tour_Championship" tvg-name="Golf DP World Tour Championship" tvg-logo="https://pbs.twimg.com/profile_images/2117236464538783744/QDkekqoR_400x400.jpg" group-title="Golf",Golf DP World Tour Championship [3:00 AM ET]
 http://193.47.62.44/hls/VFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Golf_LPGA_The_ANNIKA" tvg-name="Golf LPGA The ANNIKA" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf LPGA The ANNIKA [11:00 AM ET]
+http://193.47.62.41/hls/FF444.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Golf_PGA_Austin_Championship" tvg-name="Golf PGA Austin Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Austin Championship [9:00 AM ET]
 http://193.47.62.50/hls/VYYYAAAAq.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -48,3 +66,6 @@ http://193.47.62.55/hls/RGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 
 #EXTINF:-1 tvg-id="Germany_U19_vs_Sweden_U19" tvg-name="Germany U19 vs Sweden U19" tvg-logo="https://pbs.twimg.com/profile_images/1922683208191123456/7SxISzwP_400x400.jpg" group-title="UEFA Euro U19",Germany U19 vs Sweden U19 [9:00 AM ET]
 http://193.47.62.41/hls/FOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Portugal_U19_vs_Lithuania_U19" tvg-name="Portugal U19 vs Lithuania U19" tvg-logo="https://pbs.twimg.com/profile_images/1922683208191123456/7SxISzwP_400x400.jpg" group-title="UEFA Euro U19",Portugal U19 vs Lithuania U19 [11:00 AM ET]
+http://193.47.62.41/hls/FF444AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
