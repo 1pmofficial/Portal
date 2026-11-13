@@ -1,11 +1,17 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 13, 2026 at 01:30 PM EST
-# Total categories: 14
-# Total events: 44
-# Working streams: 36
+#PLAYLIST: The TV App - November 13, 2026 at 02:30 PM EST
+# Total categories: 15
+# Total events: 43
+# Working streams: 35
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTINF:-1 tvg-id="Mali_vs_Rwanda___CH_2" tvg-name="Mali vs Rwanda - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Mali vs Rwanda - CH 2 [3:00 PM ET]
+https://www.rtmpcdn.com/live/0f882ec5-b256-4467-aab8-3c912c365f65.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Egypt_vs_Malawi___CH_2" tvg-name="Egypt vs Malawi - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Egypt vs Malawi - CH 2 [3:00 PM ET]
+https://www.rtmpcdn.com/live/eff2cec1-a2de-4e47-bf6f-77d432202d16.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Anadolu_Efes_vs_Virtus_Bologna" tvg-name="Anadolu Efes vs Virtus Bologna" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="Basketball Euroleague",Anadolu Efes vs Virtus Bologna [1:30 PM ET]
 http://193.47.62.41/hls/RPPPAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -61,7 +67,7 @@ http://193.47.62.59/hls/WJJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Salamanca_vs_Celta_Vigo" tvg-name="Salamanca vs Celta Vigo" tvg-logo="https://pbs.twimg.com/profile_images/2101254000578277376/h8YfIsY3_400x400.jpg" group-title="Spanish Copa del Rey",Salamanca vs Celta Vigo [4:00 PM ET]
 http://193.47.62.41/hls/EBBBAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Leganes_vs_Burgos_CF" tvg-name="Leganes vs Burgos CF" tvg-logo="https://pbs.twimg.com/profile_images/2115751359991472128/NE-p-czZ_400x400.jpg" group-title="Spanish Segunda Liga",Leganes vs Burgos CF [3:30 PM ET]
+#EXTINF:-1 tvg-id="Leganes_vs_Burgos_CF" tvg-name="Leganes vs Burgos CF" tvg-logo="https://pbs.twimg.com/profile_images/2120097007951917056/NFB9obas_400x400.jpg" group-title="Spanish Segunda Liga",Leganes vs Burgos CF [3:30 PM ET]
 http://193.47.62.41/hls/EBBBAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Visby_Roma_vs_Mora" tvg-name="Visby Roma vs Mora" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",Visby Roma vs Mora [2:00 PM ET]
@@ -79,23 +85,14 @@ http://193.47.62.41/hls/I000AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 #EXTINF:-1 tvg-id="Nybro_vs_Kalmar" tvg-name="Nybro vs Kalmar" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",Nybro vs Kalmar [2:00 PM ET]
 http://193.47.62.41/hls/I000AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="BIK_Karlskoga_vs_AIK" tvg-name="BIK Karlskoga vs AIK" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",BIK Karlskoga vs AIK [2:00 PM ET]
-http://193.47.62.41/hls/I000.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Modo_vs_Ostersund" tvg-name="Modo vs Ostersund" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",Modo vs Ostersund [2:00 PM ET]
 http://193.47.62.41/hls/I000A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="BIK_Karlskoga_vs_AIK" tvg-name="BIK Karlskoga vs AIK" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",BIK Karlskoga vs AIK [2:00 PM ET]
+http://193.47.62.41/hls/I000.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Tennis_WTA_Finals_Indian_Wells" tvg-name="Tennis WTA Finals Indian Wells" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Finals Indian Wells [4:00 PM ET]
 http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Moldova_vs_Kazakhstan___CH_1" tvg-name="Moldova vs Kazakhstan - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Moldova vs Kazakhstan - CH 1 [1:00 PM ET]
-http://193.47.62.41/hls/GYGYGYAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Moldova_vs_Kazakhstan___CH_2" tvg-name="Moldova vs Kazakhstan - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Moldova vs Kazakhstan - CH 2 [1:00 PM ET]
-https://www.rtmpcdn.com/live/d351739b-0801-4292-a255-8e0d3d82a701.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="UEFA_Nations_League_Simulcast" tvg-name="UEFA Nations League Simulcast" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",UEFA Nations League Simulcast [3:45 PM ET]
-http://193.47.62.41/hls/E777AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Liechtenstein_vs_Azerbaijan___CH_1" tvg-name="Liechtenstein vs Azerbaijan - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Liechtenstein vs Azerbaijan - CH 1 [3:45 PM ET]
 http://193.47.62.41/hls/E777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
