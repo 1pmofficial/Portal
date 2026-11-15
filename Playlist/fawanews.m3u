@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 15, 2026 at 10:00 AM EST
-# Total categories: 22
-# Total events: 37
-# Working streams: 35
+#PLAYLIST: The TV App - November 15, 2026 at 10:30 AM EST
+# Total categories: 24
+# Total events: 43
+# Working streams: 41
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -20,6 +20,9 @@ http://193.47.62.41/hls/yooo.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 http://193.47.62.59/hls/BEEEAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Maastricht_vs_Vitesse" tvg-name="Maastricht vs Vitesse" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Maastricht vs Vitesse [9:30 AM ET]
+http://193.47.62.44/hls/G666AAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="FC_Twente_W_vs_PSV_W" tvg-name="FC Twente W vs PSV W" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg" group-title="Dutch Women Eredivisie",FC Twente W vs PSV W [11:30 AM ET]
 http://193.47.62.44/hls/G666AAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Leicester_Tigers_v_Saracens" tvg-name="Leicester Tigers v Saracens" tvg-logo="https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg" group-title="English Rugby Cup",Leicester Tigers v Saracens [9:00 AM ET]
@@ -42,6 +45,9 @@ http://193.47.62.55/hls/N555AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=
 
 #EXTINF:-1 tvg-id="FC_Nurnberg_W_vs_Koln_W" tvg-name="FC Nurnberg W vs Koln W" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg" group-title="German Women Bundesliga",FC Nurnberg W vs Koln W [11:00 AM ET]
 http://193.47.62.55/hls/N555.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Aris_vs_Olympiacos" tvg-name="Aris vs Olympiacos" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg" group-title="Greece Basketball League",Aris vs Olympiacos [11:30 AM ET]
+http://193.47.62.41/hls/K777AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Inter_W_vs_Juventus_W" tvg-name="Inter W vs Juventus W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="Italy Women Serie A",Inter W vs Juventus W [10:00 AM ET]
 http://193.47.62.59/hls/K555AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -73,11 +79,17 @@ http://193.47.62.44/hls/HMMMAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-age
 #EXTINF:-1 tvg-id="AIK_vs_Oskarshamn" tvg-name="AIK vs Oskarshamn" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",AIK vs Oskarshamn [9:00 AM ET]
 http://193.47.62.44/hls/G666AAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="IF_Brommapojkarna_W_vs_Rosengard_W" tvg-name="IF Brommapojkarna W vs Rosengard W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",IF Brommapojkarna W vs Rosengard W [9:00 AM ET]
-http://193.47.62.44/hls/G666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Mora_vs_Vasteras" tvg-name="Mora vs Vasteras" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",Mora vs Vasteras [11:30 AM ET]
+http://193.47.62.41/hls/K777AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kalmar_vs_Sodertalje" tvg-name="Kalmar vs Sodertalje" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg" group-title="Sweden HockeyAllsvenskan",Kalmar vs Sodertalje [11:30 AM ET]
+http://193.47.62.41/hls/K777A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Hammarby_W_vs_Kristianstad_W" tvg-name="Hammarby W vs Kristianstad W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Hammarby W vs Kristianstad W [9:00 AM ET]
 http://193.47.62.44/hls/G666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="IF_Brommapojkarna_W_vs_Rosengard_W" tvg-name="IF Brommapojkarna W vs Rosengard W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",IF Brommapojkarna W vs Rosengard W [9:00 AM ET]
+http://193.47.62.44/hls/G666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Hacken_W_vs_Pitea_W" tvg-name="Hacken W vs Pitea W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Hacken W vs Pitea W [9:00 AM ET]
 http://193.47.62.44/hls/HMMMAAAAAQAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -99,6 +111,12 @@ http://193.47.62.44/hls/HMMMAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Al_Wahda_vs_Khorfakkan" tvg-name="Al Wahda vs Khorfakkan" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE League Cup",Al Wahda vs Khorfakkan [8:50 AM ET]
 http://193.47.62.44/hls/HMMMAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ittihad_Kalba_vs_Shabab_Al_Ahli_Dubai" tvg-name="Ittihad Kalba vs Shabab Al Ahli Dubai" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE League Cup",Ittihad Kalba vs Shabab Al Ahli Dubai [11:30 AM ET]
+http://193.47.62.41/hls/K777AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Jazira_vs_Bani_Yas" tvg-name="Al Jazira vs Bani Yas" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg" group-title="UAE League Cup",Al Jazira vs Bani Yas [11:30 AM ET]
+http://193.47.62.41/hls/K777AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Cyprus_vs_Montenegro___CH_2" tvg-name="Cyprus vs Montenegro - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Cyprus vs Montenegro - CH 2 [10:00 AM ET]
 https://www.rtmpcdn.com/live/6afebe7c-86cf-42c9-8c72-fdff9455126d.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
