@@ -1,20 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 15, 2026 at 06:00 PM EST
-# Total categories: 13
-# Total events: 29
-# Working streams: 25
+#PLAYLIST: The TV App - November 15, 2026 at 06:30 PM EST
+# Total categories: 7
+# Total events: 22
+# Working streams: 18
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTINF:-1 tvg-id="Always_Ready_vs_Independiente" tvg-name="Always Ready vs Independiente" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="Bolivia Division Profesional",Always Ready vs Independiente [3:00 PM ET]
-http://193.47.62.41/hls/EHHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Nacional_Potosi_vs_Real_Potosi" tvg-name="Nacional Potosi vs Real Potosi" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="Bolivia Division Profesional",Nacional Potosi vs Real Potosi [5:30 PM ET]
 http://193.47.62.41/hls/E666AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Panama_vs_Curacao" tvg-name="Panama vs Curacao" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",Panama vs Curacao [7:00 PM ET]
+#EXTINF:-1 tvg-id="Edmonton_Elks_vs_Montreal_Alouettes" tvg-name="Edmonton Elks vs Montreal Alouettes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg" group-title="CFL Canadian Football",Edmonton Elks vs Montreal Alouettes [7:00 PM ET]
+http://193.47.62.41/hls/GYYY.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Panama_vs_Curacao___CH_1" tvg-name="Panama vs Curacao - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",Panama vs Curacao - CH 1 [7:00 PM ET]
 http://193.47.62.41/hls/VUUUA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Panama_vs_Curacao___CH_2" tvg-name="Panama vs Curacao - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",Panama vs Curacao - CH 2 [7:00 PM ET]
+https://www.rtmpcdn.com/live/f4988d38-d1f9-4b56-b453-1ca71ca847b2.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Tigres_vs_Real_Cundinamarca" tvg-name="Tigres vs Real Cundinamarca" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Tigres vs Real Cundinamarca [7:05 PM ET]
 http://193.47.62.41/hls/EHHHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -22,23 +25,17 @@ http://193.47.62.41/hls/EHHHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-ag
 #EXTINF:-1 tvg-id="Quindio_vs_Cartagena" tvg-name="Quindio vs Cartagena" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Quindio vs Cartagena [9:10 PM ET]
 http://193.47.62.41/hls/EHHHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Boca_Juniors_vs_Ind_Valle_del_Cauca" tvg-name="Boca Juniors vs Ind Valle del Cauca" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Boca Juniors vs Ind Valle del Cauca [3:00 PM ET]
-http://193.47.62.41/hls/EHHHHAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Toronto_Raptors_vs_New_York_Knicks___CH_2" tvg-name="Toronto Raptors vs New York Knicks - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs New York Knicks - CH 2 [7:00 PM ET]
+https://www.rtmpcdn.com/live/af13eaa7-f7c4-46dd-a2b1-f0a54be476cd.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Envigado_vs_U_Magdalena" tvg-name="Envigado vs U Magdalena" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Envigado vs U Magdalena [4:50 PM ET]
-http://193.47.62.41/hls/EHHHHAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Toronto_Raptors_vs_New_York_Knicks___CH_1" tvg-name="Toronto Raptors vs New York Knicks - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs New York Knicks - CH 1 [7:00 PM ET]
+http://193.47.62.41/hls/Z555A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Darts_Grand_Slam" tvg-name="Darts Grand Slam" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts Grand Slam [3:40 PM ET]
-http://193.47.62.59/hls/BEEEAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Golf_LPGA_The_ANNIKA" tvg-name="Golf LPGA The ANNIKA" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf LPGA The ANNIKA [3:00 PM ET]
-http://193.47.62.41/hls/FF444.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Boston_Celtics_vs_Dallas_Mavericks" tvg-name="Boston Celtics vs Dallas Mavericks" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Boston Celtics vs Dallas Mavericks [7:00 PM ET]
+#EXTINF:-1 tvg-id="Boston_Celtics_vs_Dallas_Mavericks___CH_1" tvg-name="Boston Celtics vs Dallas Mavericks - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Boston Celtics vs Dallas Mavericks - CH 1 [7:00 PM ET]
 http://193.47.62.41/hls/Z555.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Toronto_Raptors_vs_New_York_Knicks" tvg-name="Toronto Raptors vs New York Knicks" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Toronto Raptors vs New York Knicks [7:00 PM ET]
-http://193.47.62.41/hls/Z555A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Boston_Celtics_vs_Dallas_Mavericks___CH_2" tvg-name="Boston Celtics vs Dallas Mavericks - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Boston Celtics vs Dallas Mavericks - CH 2 [7:00 PM ET]
+https://www.rtmpcdn.com/live/a46b5c61-b967-4285-b8f4-cfc9725a9d27.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Phoenix_Suns_vs_Los_Angeles_Lakers___CH_1" tvg-name="Phoenix Suns vs Los Angeles Lakers - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg" group-title="NBA Basketball",Phoenix Suns vs Los Angeles Lakers - CH 1 [5:00 PM ET]
 http://193.47.62.41/hls/E666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -61,23 +58,5 @@ https://www.rtmpcdn.com/live/18cb8d47-df33-4a60-8b11-28d150adb1f4.m3u8|referer=h
 #EXTINF:-1 tvg-id="Cerro_Porteno_vs_Sol_de_America" tvg-name="Cerro Porteno vs Sol de America" tvg-logo="https://pbs.twimg.com/profile_images/1770804716924006401/nv2ytSF7_400x400.jpg" group-title="Paraguay Copa",Cerro Porteno vs Sol de America [5:00 PM ET]
 http://193.47.62.41/hls/E666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Juan_Pablo_II_vs_Deportivo_Garcilaso" tvg-name="Juan Pablo II vs Deportivo Garcilaso" tvg-logo="https://pbs.twimg.com/profile_images/1584914854032408576/W5FL6NM0_400x400.jpg" group-title="Peru Liga 1 Apertura",Juan Pablo II vs Deportivo Garcilaso [4:15 PM ET]
-http://193.47.62.41/hls/J444AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Snooker_Champion_of_Champions" tvg-name="Snooker Champion of Champions" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Champion of Champions [3:00 PM ET]
-http://193.47.62.59/hls/WJJJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_ATP_Finals___Turin" tvg-name="Tennis ATP Finals - Turin" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Finals - Turin [3:30 PM ET]
-http://193.47.62.44/hls/G666AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Tennis_WTA_Finals_Indian_Wells" tvg-name="Tennis WTA Finals Indian Wells" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Finals Indian Wells [4:00 PM ET]
-http://193.47.62.50/hls/BUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Gotham_W_vs_Kansas_City_Current_W" tvg-name="Gotham W vs Kansas City Current W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Gotham W vs Kansas City Current W [4:15 PM ET]
-http://193.47.62.41/hls/EHHHHAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Defensor_Sp_vs_Penarol" tvg-name="Defensor Sp vs Penarol" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg" group-title="Uruguay Liga AUF",Defensor Sp vs Penarol [7:00 PM ET]
 http://193.47.62.41/hls/VUUU.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Danubio_vs_Liverpool_M" tvg-name="Danubio vs Liverpool M" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg" group-title="Uruguay Liga AUF",Danubio vs Liverpool M [3:30 PM ET]
-http://193.47.62.41/hls/EHHHHAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
