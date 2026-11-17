@@ -1,11 +1,17 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 17, 2026 at 10:30 AM EST
-# Total categories: 6
-# Total events: 25
-# Working streams: 17
+#PLAYLIST: The TV App - November 17, 2026 at 11:00 AM EST
+# Total categories: 7
+# Total events: 34
+# Working streams: 20
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTINF:-1 tvg-id="Kenya_vs_South_Africa___CH_2" tvg-name="Kenya vs South Africa - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Kenya vs South Africa - CH 2 [12:00 PM ET]
+https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gambia_vs_Ivory_Coast___CH_2" tvg-name="Gambia vs Ivory Coast - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png" group-title="Africa Cup of Nations",Gambia vs Ivory Coast - CH 2 [12:00 PM ET]
+https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dubai_vs_Anadolu_Efes" tvg-name="Dubai vs Anadolu Efes" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="Basketball Euroleague",Dubai vs Anadolu Efes [12:00 PM ET]
 http://193.47.62.41/hls/JJJJGAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -22,14 +28,17 @@ http://193.47.62.41/hls/DGGGAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 #EXTINF:-1 tvg-id="United_Arab_Emirates_vs_Syria" tvg-name="United Arab Emirates vs Syria" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",United Arab Emirates vs Syria [10:10 AM ET]
 http://193.47.62.41/hls/DGGGAAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Saudi_Arabia_vs_Uzbekistan" tvg-name="Saudi Arabia vs Uzbekistan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Saudi Arabia vs Uzbekistan [11:30 AM ET]
+#EXTINF:-1 tvg-id="Saudi_Arabia_vs_Uzbekistan___CH_1" tvg-name="Saudi Arabia vs Uzbekistan - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Saudi Arabia vs Uzbekistan - CH 1 [11:30 AM ET]
 http://193.47.62.41/hls/JJJJG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Russia_vs_Venezuela" tvg-name="Russia vs Venezuela" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Russia vs Venezuela [12:00 PM ET]
-http://193.47.62.41/hls/JJJJGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Saudi_Arabia_vs_Uzbekistan___CH_2" tvg-name="Saudi Arabia vs Uzbekistan - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Saudi Arabia vs Uzbekistan - CH 2 [11:30 AM ET]
+https://www.rtmpcdn.com/live/f9223cd3-8aee-4d4a-ae67-2bc407aaf2cc.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Jordan_vs_Australia" tvg-name="Jordan vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Jordan vs Australia [12:00 PM ET]
+#EXTINF:-1 tvg-id="Jordan_vs_Australia___CH_1" tvg-name="Jordan vs Australia - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Jordan vs Australia - CH 1 [12:00 PM ET]
 http://193.47.62.41/hls/JJJJGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Russia_vs_Venezuela___CH_1" tvg-name="Russia vs Venezuela - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Russia vs Venezuela - CH 1 [12:00 PM ET]
+http://193.47.62.41/hls/JJJJGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Iraq_vs_Iran" tvg-name="Iraq vs Iran" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Iraq vs Iran [12:15 PM ET]
 http://193.47.62.41/hls/JJJJGAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -46,11 +55,11 @@ http://193.47.62.41/hls/J555AA.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Liberec_vs_Kolner" tvg-name="Liberec vs Kolner" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png" group-title="Hockey Champions League",Liberec vs Kolner [10:00 AM ET]
 http://193.47.62.41/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Plzen_vs_Davos" tvg-name="Plzen vs Davos" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png" group-title="Hockey Champions League",Plzen vs Davos [12:30 PM ET]
-http://193.47.62.41/hls/J555.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Tappara_vs_Adler_Mannheim" tvg-name="Tappara vs Adler Mannheim" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png" group-title="Hockey Champions League",Tappara vs Adler Mannheim [12:30 PM ET]
 http://193.47.62.41/hls/J555A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Plzen_vs_Davos" tvg-name="Plzen vs Davos" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png" group-title="Hockey Champions League",Plzen vs Davos [12:30 PM ET]
+http://193.47.62.41/hls/J555.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="India_vs_Pakistan" tvg-name="India vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="SAFF Championship",India vs Pakistan [10:00 AM ET]
 http://193.47.62.41/hls/DGGGAAAAX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
