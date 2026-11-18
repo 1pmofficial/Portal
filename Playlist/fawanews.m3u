@@ -1,17 +1,23 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 17, 2026 at 07:00 PM EST
+#PLAYLIST: The TV App - November 17, 2026 at 07:30 PM EST
 # Total categories: 7
-# Total events: 38
-# Working streams: 38
+# Total events: 40
+# Working streams: 40
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTINF:-1 tvg-id="French_Guiana_vs_Saint_Vincent_and_the_Grenadines" tvg-name="French Guiana vs Saint Vincent and the Grenadines" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",French Guiana vs Saint Vincent and the Grenadines [8:00 PM ET]
+#EXTINF:-1 tvg-id="USA_vs_Haiti___CH_1" tvg-name="USA vs Haiti - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",USA vs Haiti - CH 1 [8:00 PM ET]
+http://193.47.62.59/hls/BHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="USA_vs_Haiti___CH_2" tvg-name="USA vs Haiti - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",USA vs Haiti - CH 2 [8:00 PM ET]
+https://www.rtmpcdn.com/live/be6d8de8-8633-411d-9dfe-a7417632371b.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="French_Guiana_vs_Saint_Vincent_and_the_Grenadines___CH_1" tvg-name="French Guiana vs Saint Vincent and the Grenadines - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",French Guiana vs Saint Vincent and the Grenadines - CH 1 [8:00 PM ET]
 http://193.47.62.59/hls/BHHH.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="USA_vs_Haiti" tvg-name="USA vs Haiti" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",USA vs Haiti [8:00 PM ET]
-http://193.47.62.59/hls/BHHHA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="French_Guiana_vs_Saint_Vincent_and_the_Grenadines___CH_2" tvg-name="French Guiana vs Saint Vincent and the Grenadines - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",French Guiana vs Saint Vincent and the Grenadines - CH 2 [8:00 PM ET]
+https://www.rtmpcdn.com/live/6530aaac-af07-4fcb-8900-e0fd0eed8bb1.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="El_Salvador_vs_Saint_Martin" tvg-name="El Salvador vs Saint Martin" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg" group-title="CONCACAF Nations League",El Salvador vs Saint Martin [9:00 PM ET]
 http://193.47.62.59/hls/BHHHAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -40,11 +46,11 @@ http://193.47.62.41/hls/YPPPA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Chile_vs_Colombia___CH_2" tvg-name="Chile vs Colombia - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Chile vs Colombia - CH 2 [7:00 PM ET]
 https://www.rtmpcdn.com/live/f9954753-6e35-49cc-b237-ccf70e294101.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Uruguay_vs_Dominican_Republic___CH_2" tvg-name="Uruguay vs Dominican Republic - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uruguay vs Dominican Republic - CH 2 [7:30 PM ET]
-https://www.rtmpcdn.com/live/c817315e-ccfc-428e-94d3-47c1185c0113.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Uruguay_vs_Dominican_Republic___CH_1" tvg-name="Uruguay vs Dominican Republic - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uruguay vs Dominican Republic - CH 1 [7:30 PM ET]
 http://193.47.62.41/hls/YPPPAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Uruguay_vs_Dominican_Republic___CH_2" tvg-name="Uruguay vs Dominican Republic - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uruguay vs Dominican Republic - CH 2 [7:30 PM ET]
+https://www.rtmpcdn.com/live/c817315e-ccfc-428e-94d3-47c1185c0113.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Ecuador_vs_Bolivia___CH_1" tvg-name="Ecuador vs Bolivia - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Ecuador vs Bolivia - CH 1 [7:30 PM ET]
 http://193.47.62.41/hls/YPPPAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -94,11 +100,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa073d
 #EXTINF:-1 tvg-id="Philadelphia_Flyers_vs_Buffalo_Sabres" tvg-name="Philadelphia Flyers vs Buffalo Sabres" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Philadelphia Flyers vs Buffalo Sabres [8:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/804bb91d-ac07-4879-82a5-92989dc808b7/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="New_York_Islanders_vs_Columbus_Blue_Jackets" tvg-name="New York Islanders vs Columbus Blue Jackets" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",New York Islanders vs Columbus Blue Jackets [8:00 PM ET]
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee3ec337-c99b-4f30-8352-d3724f461508/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Florida_Panthers_vs_Edmonton_Oilers" tvg-name="Florida Panthers vs Edmonton Oilers" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Florida Panthers vs Edmonton Oilers [8:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a6feed21-d4a0-46b1-b764-5833bac7261a/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_York_Islanders_vs_Columbus_Blue_Jackets" tvg-name="New York Islanders vs Columbus Blue Jackets" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",New York Islanders vs Columbus Blue Jackets [8:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee3ec337-c99b-4f30-8352-d3724f461508/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Boston_Bruins_vs_Los_Angeles_Kings" tvg-name="Boston Bruins vs Los Angeles Kings" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg" group-title="NHL Hockey",Boston Bruins vs Los Angeles Kings [8:00 PM ET]
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4ec7bb76-f26b-40c8-87f1-9460ced72735/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
