@@ -1,14 +1,17 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 19, 2026 at 07:30 PM EST
+#PLAYLIST: The TV App - November 19, 2026 at 08:00 PM EST
 # Total categories: 11
-# Total events: 36
-# Working streams: 34
+# Total events: 38
+# Working streams: 36
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
 
-#EXTINF:-1 tvg-id="Sao_Paulo_vs_Fluminense" tvg-name="Sao Paulo vs Fluminense" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Fluminense [8:30 PM ET]
+#EXTINF:-1 tvg-id="Sao_Paulo_vs_Fluminense___CH_1" tvg-name="Sao Paulo vs Fluminense - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Fluminense - CH 1 [8:30 PM ET]
 http://193.47.62.41/hls/R333A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sao_Paulo_vs_Fluminense___CH_2" tvg-name="Sao Paulo vs Fluminense - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Fluminense - CH 2 [8:30 PM ET]
+https://live.kinescopecdn.net/on-air/48846ce7-9020-406b-8b4e-2770311775e1.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Vitoria_vs_Bragantino___CH_1" tvg-name="Vitoria vs Bragantino - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Vitoria vs Bragantino - CH 1 [6:30 PM ET]
 http://193.47.62.41/hls/CCCCAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -28,11 +31,11 @@ http://193.47.62.41/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 #EXTINF:-1 tvg-id="Cartagena_vs_Tigres" tvg-name="Cartagena vs Tigres" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Cartagena vs Tigres [8:45 PM ET]
 http://193.47.62.41/hls/CCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Ind_Valle_del_Cauca_vs_Envigado" tvg-name="Ind Valle del Cauca vs Envigado" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Ind Valle del Cauca vs Envigado [6:30 PM ET]
-http://193.47.62.41/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="U_Magdalena_vs_Boca_Juniors" tvg-name="U Magdalena vs Boca Juniors" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",U Magdalena vs Boca Juniors [6:30 PM ET]
 http://193.47.62.41/hls/CCCCA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Ind_Valle_del_Cauca_vs_Envigado" tvg-name="Ind Valle del Cauca vs Envigado" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg" group-title="Colombia Primera B",Ind Valle del Cauca vs Envigado [6:30 PM ET]
+http://193.47.62.41/hls/CCCC.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="New_Zealand_vs_India" tvg-name="New Zealand vs India" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",New Zealand vs India [6:00 PM ET]
 http://193.47.62.41/hls/qaqaqa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -49,8 +52,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b89
 #EXTINF:-1 tvg-id="Golf_CME_Group_Tour_Championship" tvg-name="Golf CME Group Tour Championship" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg" group-title="Golf LPGA",Golf CME Group Tour Championship [3:00 PM ET]
 http://193.47.62.44/hls/BBBBAAAAAQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Orlando_City_vs_FC_Cincinnati" tvg-name="Orlando City vs FC Cincinnati" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Orlando City vs FC Cincinnati [8:30 PM ET]
+#EXTINF:-1 tvg-id="Orlando_City_vs_FC_Cincinnati___CH_1" tvg-name="Orlando City vs FC Cincinnati - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Orlando City vs FC Cincinnati - CH 1 [8:30 PM ET]
 http://193.47.62.41/hls/R333.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Orlando_City_vs_FC_Cincinnati___CH_2" tvg-name="Orlando City vs FC Cincinnati - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Orlando City vs FC Cincinnati - CH 2 [8:30 PM ET]
+https://live.kinescopecdn.net/on-air/3a8d834b-1bf3-4e43-92bb-f0739fdd517b.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Seattle_Sounders_vs_Real_Salt_Lake" tvg-name="Seattle Sounders vs Real Salt Lake" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Seattle Sounders vs Real Salt Lake [11:00 PM ET]
 http://193.47.62.41/hls/R333AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
