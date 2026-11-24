@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 24, 2026 at 09:30 AM EST
+#PLAYLIST: The TV App - November 24, 2026 at 10:30 AM EST
 # Total categories: 10
-# Total events: 29
-# Working streams: 27
+# Total events: 34
+# Working streams: 32
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -37,8 +37,14 @@ http://193.47.62.41/hls/KIKIKI.m3u8|referer=http://www.fawanews.sc/|user-agent=M
 #EXTINF:-1 tvg-id="Cong_An_Ha_Noi_vs_Vissel_Kobe___CH_2" tvg-name="Cong An Ha Noi vs Vissel Kobe - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Cong An Ha Noi vs Vissel Kobe - CH 2 [8:15 AM ET]
 https://www.rtmpcdn.com/live/c0e670b5e25255d6e81fdfeb04c42dee9a5dd4e0fcc1d48f571beecdafd308aa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Shabab_Al_Ahli_Dubai_vs_Al_Qadsiah" tvg-name="Shabab Al Ahli Dubai vs Al Qadsiah" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Shabab Al Ahli Dubai vs Al Qadsiah [12:00 PM ET]
+http://193.47.62.41/hls/F666.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="East_Bengal_vs_Al_Hussein" tvg-name="East Bengal vs Al Hussein" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",East Bengal vs Al Hussein [9:45 AM ET]
 http://193.47.62.41/hls/S666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Al_Seeb_vs_Al_Shorta" tvg-name="Al Seeb vs Al Shorta" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Al Seeb vs Al Shorta [12:00 PM ET]
+http://193.47.62.41/hls/F666A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="South_Africa_vs_Bangladesh" tvg-name="South Africa vs Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",South Africa vs Bangladesh [4:00 AM ET]
 http://193.47.62.59/hls/RREGEGEAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -49,9 +55,6 @@ http://193.47.62.41/hls/E444A.m3u8|referer=http://www.fawanews.sc/|user-agent=Mo
 #EXTINF:-1 tvg-id="Smouha_vs_National_Bank_Egypt" tvg-name="Smouha vs National Bank Egypt" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg" group-title="Egypt Premier League",Smouha vs National Bank Egypt [11:00 AM ET]
 http://193.47.62.41/hls/E444.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Al_Duhail_vs_Neom_SC" tvg-name="Al Duhail vs Neom SC" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="Gulf Club Champions League",Al Duhail vs Neom SC [10:30 AM ET]
-http://193.47.62.41/hls/S666AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="North_East_Utd_vs_SC_Delhi" tvg-name="North East Utd vs SC Delhi" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg" group-title="India ISL League",North East Utd vs SC Delhi [10:00 AM ET]
 http://193.47.62.41/hls/S666AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -60,6 +63,12 @@ http://193.47.62.41/hls/vttt.m3u8|referer=http://www.fawanews.sc/|user-agent=Moz
 
 #EXTINF:-1 tvg-id="Akron_Togliatti_vs_CSKA_Moscow" tvg-name="Akron Togliatti vs CSKA Moscow" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Akron Togliatti vs CSKA Moscow [10:00 AM ET]
 http://193.47.62.41/hls/S666AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Zenit_vs_Krylya_Sovetov" tvg-name="Zenit vs Krylya Sovetov" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Cup",Zenit vs Krylya Sovetov [12:30 PM ET]
+http://193.47.62.41/hls/F666AAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Zilina_vs_Ruzomberok" tvg-name="Zilina vs Ruzomberok" tvg-logo="https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg" group-title="Slovakia Cup",Zilina vs Ruzomberok [12:00 PM ET]
+http://193.47.62.41/hls/F666AA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Arsenal_U19_vs_Dortmund_U19" tvg-name="Arsenal U19 vs Dortmund U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg" group-title="UEFA Youth League",Arsenal U19 vs Dortmund U19 [9:00 AM ET]
 http://193.47.62.41/hls/KIKIKIAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -87,3 +96,9 @@ http://193.47.62.41/hls/S666AAAAA.m3u8|referer=http://www.fawanews.sc/|user-agen
 
 #EXTINF:-1 tvg-id="Brazil_U17_vs_Tanzania_U17" tvg-name="Brazil U17 vs Tanzania U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="World Cup U17",Brazil U17 vs Tanzania U17 [11:00 AM ET]
 http://193.47.62.41/hls/E444AAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Honduras_U17_vs_Colombia_U17" tvg-name="Honduras U17 vs Colombia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="World Cup U17",Honduras U17 vs Colombia U17 [11:30 AM ET]
+http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Algeria_U17_vs_Montenegro_U17" tvg-name="Algeria U17 vs Montenegro U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg" group-title="World Cup U17",Algeria U17 vs Montenegro U17 [11:30 AM ET]
+http://193.47.62.41/hls/KIKIKIAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
