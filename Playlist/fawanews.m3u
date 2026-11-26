@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 26, 2026 at 06:00 PM EST
-# Total categories: 5
-# Total events: 8
-# Working streams: 5
+#PLAYLIST: The TV App - November 26, 2026 at 06:30 PM EST
+# Total categories: 7
+# Total events: 10
+# Working streams: 8
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
@@ -10,13 +10,22 @@ http://1pixmedia.better-than.tv/video.mp4
 #EXTINF:-1 tvg-id="Uruguay_vs_Canada" tvg-name="Uruguay vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg" group-title="Basketball World Cup",Uruguay vs Canada [6:15 PM ET]
 http://193.47.62.41/hls/FAFAFAJA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Sao_Paulo_vs_Remo" tvg-name="Sao Paulo vs Remo" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Remo [7:00 PM ET]
+#EXTINF:-1 tvg-id="Sao_Paulo_vs_Remo___CH_2" tvg-name="Sao Paulo vs Remo - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Remo - CH 2 [7:00 PM ET]
+https://www.rtmpcdn.com/live/ee63721c-c889-4019-aff1-311c280746ee.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sao_Paulo_vs_Remo___CH_1" tvg-name="Sao Paulo vs Remo - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Sao Paulo vs Remo - CH 1 [7:00 PM ET]
 http://193.47.62.41/hls/viiiA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="New_Zealand_vs_India" tvg-name="New Zealand vs India" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",New Zealand vs India [6:00 PM ET]
 http://193.47.62.41/hls/viii.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Golf_BMW_Australian_PGA_Championship" tvg-name="Golf BMW Australian PGA Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf BMW Australian PGA Championship [8:00 PM ET]
+http://193.47.62.41/hls/DEDEDEDEAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="Texas_Tech_vs_TCU" tvg-name="Texas Tech vs TCU" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs TCU [9:00 PM ET]
+http://193.47.62.41/hls/viiiAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="TCU_vs_Creighton" tvg-name="TCU vs Creighton" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA Basketball",TCU vs Creighton [7:00 PM ET]
 http://193.47.62.41/hls/viiiAa.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Cerro_Porteno_vs_Libertad_Asuncion" tvg-name="Cerro Porteno vs Libertad Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1770804716924006401/nv2ytSF7_400x400.jpg" group-title="Paraguay Copa",Cerro Porteno vs Libertad Asuncion [6:30 PM ET]
