@@ -1,11 +1,14 @@
 #EXTM3U
-#PLAYLIST: The TV App - November 28, 2026 at 03:30 AM EST
-# Total categories: 10
-# Total events: 18
-# Working streams: 18
+#PLAYLIST: The TV App - November 28, 2026 at 04:00 AM EST
+# Total categories: 12
+# Total events: 21
+# Working streams: 21
 
 #EXTINF:-1 tvg-id="" tvg-name="1 Pix Media" tvg-logo="https://is.gd/trrPai" group-title="1 Pix Media",Brought to you by 1 Pix Media
 http://1pixmedia.better-than.tv/video.mp4
+
+#EXTINF:-1 tvg-id="Central_Coast_Mariners_vs_Auckland_FC" tvg-name="Central Coast Mariners vs Auckland FC" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg" group-title="Australia A-League",Central Coast Mariners vs Auckland FC [4:40 AM ET]
+http://193.47.62.41/hls/ccccQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Perth_Lynx_W_vs_Adelaide_Lightning_W" tvg-name="Perth Lynx W vs Adelaide Lightning W" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball WNBL",Perth Lynx W vs Adelaide Lightning W [4:00 AM ET]
 http://193.47.62.41/hls/DSSSAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -40,17 +43,23 @@ http://193.47.62.41/hls/QQQQAAQA.m3u8|referer=http://www.fawanews.sc/|user-agent
 #EXTINF:-1 tvg-id="Kashiwa_Reysol_vs_Sanfrecce_Hiroshima" tvg-name="Kashiwa Reysol vs Sanfrecce Hiroshima" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Kashiwa Reysol vs Sanfrecce Hiroshima [3:00 AM ET]
 http://193.47.62.41/hls/QQQQAAQAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Negeri_Sembilan_vs_Terengganu" tvg-name="Negeri Sembilan vs Terengganu" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Negeri Sembilan vs Terengganu [4:45 AM ET]
+http://193.47.62.41/hls/ccccQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sabah_vs_Selangor" tvg-name="Sabah vs Selangor" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia Super League",Sabah vs Selangor [5:00 AM ET]
+http://193.47.62.41/hls/ccccQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="MotoGP_Grand_Prix_of_Valencia" tvg-name="MotoGP Grand Prix of Valencia" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg" group-title="MotoGP",MotoGP Grand Prix of Valencia [4:00 AM ET]
 http://193.47.62.41/hls/FRFRFRV.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Rugby_SVNS_Dubai" tvg-name="Rugby SVNS Dubai" tvg-logo="https://pbs.twimg.com/profile_images/2080261758418137088/tanKQZY6.jpg" group-title="Rugby SVNS",Rugby SVNS Dubai [TBD]
 http://193.47.62.41/hls/DSSSAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Anyang_vs_Jeju_SK" tvg-name="Anyang vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Anyang vs Jeju SK [1:00 AM ET]
-http://193.47.62.41/hls/QQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Seoul_vs_Daejeon" tvg-name="Seoul vs Daejeon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Seoul vs Daejeon [1:00 AM ET]
 http://193.47.62.41/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Anyang_vs_Jeju_SK" tvg-name="Anyang vs Jeju SK" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Anyang vs Jeju SK [1:00 AM ET]
+http://193.47.62.41/hls/QQQQA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Pohang_vs_Gwangju_FC" tvg-name="Pohang vs Gwangju FC" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="South Korea K League",Pohang vs Gwangju FC [3:30 AM ET]
 http://193.47.62.41/hls/DSSSA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
